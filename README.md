@@ -25,4 +25,4 @@ Explication par [@vmarchaud](https://github.com/vmarchaud/)
 ## Pourquoi es-tu parti d'Octonia ?
 
 Octonia a été pour moi un moyen de découvrir une passion, le développement, et à partir du moment où l'on ne prend plus de plaisir, cela ne sert à rien de continuer.
-Entre mensonges, trahison et manque d'esprit d'équipe, le projet est voué à l'échec.
+Entre mensonges, trahisons et manque d'esprit d'équipe, le projet était voué à l'échec.
