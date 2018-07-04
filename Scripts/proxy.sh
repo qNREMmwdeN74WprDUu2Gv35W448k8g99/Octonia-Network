@@ -100,4 +100,4 @@ case $1 in
     echo "Usage: {start|stop|restart|console} {1|2}"
   ;;
 esac
-exit 1 
+exit 1

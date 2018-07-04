@@ -9,7 +9,7 @@ Pour les clients c'est très simple, il suffit de télécharger MCP (http://www.
 Pour les spigot, vous devez récupérer les sources qui correspondent aux versions et faire pareil, puis copier/coller le dossier src dans le dossier src du projet spigot-server.
 
 Pour les plugins, vous avez juste à importer depuis un projet déjà existant sous eclipse pour le modifier, mais sinon j'ai mis aussi les .jar que vous pouvez directement télécharger et mettre dans vos dossiers plugins.
-Explication par @vmarchaud
+Explication par [@vmarchaud](https://github.com/vmarchaud/)
 
 ## Ce code, comme tout code, contient des parties réalisées par d'autres
 
