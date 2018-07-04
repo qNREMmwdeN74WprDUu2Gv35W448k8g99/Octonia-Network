@@ -1,0 +1,11 @@
+# Il ne doit pas y'avoir le / dans la commande
+PNJs:
+    # A copier coller en angmentant le '0' a chaque fois
+    '0':
+        World: world
+        X: 4.0
+        Y: 171.0
+        Z: 4.0
+        Name: &cTransporteur du Chaos
+        Bungee: no
+        Command: bc Sex

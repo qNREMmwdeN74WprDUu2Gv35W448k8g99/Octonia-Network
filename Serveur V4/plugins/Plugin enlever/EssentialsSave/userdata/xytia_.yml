@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1457216286896
+  kits:
+    bouffe: 1455144612641
+    octonien: 1455133002477
+    alchimiste: 1456599127498
+  logout: 1457216570198
+  lastteleport: 1455658759403
+  lastheal: 1457216296585
+  mute: 1457218285407
+ipAddress: 85.68.145.77
+lastlocation:
+  world: world
+  x: -8771.27554325531
+  y: 32.0
+  z: -4745.258239858753
+  yaw: 218.3925
+  pitch: 16.470787
+logoutlocation:
+  world: world
+  x: 5031.578215760424
+  y: 43.0
+  z: -4198.685556746681
+  yaw: -105.10385
+  pitch: 27.186962
+homes:
+  home:
+    world: world
+    x: -8777.080802563718
+    y: 5.0
+    z: -4746.02489837239
+    yaw: 39.172394
+    pitch: 4.199995
+money: '2.0'
+ignore:
+- byayress_
+uuid: 5643d46e-1616-366b-81c2-ca72a25f5b40
+muted: true

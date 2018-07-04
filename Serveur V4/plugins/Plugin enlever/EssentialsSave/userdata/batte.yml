@@ -1,0 +1,45 @@
+socialspy: false
+timestamps:
+  login: 1457276406391
+  lastteleport: 1457295740460
+  kits:
+    bouffe: 1457286369456
+    octonien: 1457289144555
+    decouverte: 1457293556889
+    xp: 1457296392538
+  logout: 1457296796398
+  lastheal: 1457296707470
+  mute: 0
+  jail: 0
+ipAddress: 80.201.167.130
+lastlocation:
+  world: world
+  x: -272.30000001192093
+  y: 5.0
+  z: -208.59663491392598
+  yaw: -269.9201
+  pitch: -2.7117815
+logoutlocation:
+  world: world
+  x: -8704.286867457353
+  y: 5.0
+  z: -21.556905787159717
+  yaw: -118.41135
+  pitch: -5.2501082
+homes:
+  home:
+    world: world
+    x: -8695.5
+    y: 12.0
+    z: -18.5
+    yaw: -40.71526
+    pitch: 30.59997
+money: '11523.0'
+ban:
+  reason: 'Banni : 0s'
+  timeout: 0
+muted: false
+uuid: cba25564-6b79-3399-bd92-7373f78e82da
+ignore:
+- calox_14
+jailed: false

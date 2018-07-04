@@ -1,0 +1,24 @@
+timestamps:
+  login: 1455566813339
+  kits:
+    octonien: 1455566823301
+    druide: 1455568228547
+    decouverte: 1455568676270
+    xp: 1455568264688
+  lastteleport: 1455568421401
+  logout: 1455569075475
+ipAddress: 86.235.133.72
+lastlocation:
+  world: world
+  x: 5295.611793152505
+  y: 5.0
+  z: -7589.705126109483
+  yaw: 280.08557
+  pitch: 11.100178
+logoutlocation:
+  world: world
+  x: 3.27535041516768
+  y: 177.0
+  z: 0.771112630376148
+  yaw: 159.28702
+  pitch: 41.730648

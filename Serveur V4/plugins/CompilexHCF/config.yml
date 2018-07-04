@@ -1,0 +1,33 @@
+# Enable or disable different modules of CompilexPatches.
+patches:
+  async_spigot: false
+  anti_redstone_lag: true
+  anti_piston_lag: true
+  tick_ratelimit: true
+  bulk_saving: false
+  chunk_gc: true
+  chunk_load_flush: true
+  entity_cleaner: false
+  spawn_fix: true
+  world_tick_optimizer: true
+  login_ratelimit: true
+  anti_dupe: true
+  anti_crash: false
+  no_new_chunks: false
+  tnt_limiter: false
+  no_invincible_blocks: false
+  anti_inventory_hijack: true
+language: []
+settings:
+  redstone_event_threshold: 5000
+  tick-ratelimit:
+    block-flow-per-tick: 80
+    refreshing_chunks: true
+    require_player_nearby: false
+    limitFlow: true
+    limitHopperIn: true
+    limitHopperOut: true
+    limitCreatureSpawn: true
+    limitChunkLoad: true
+    limitBlockGrow: true
+  max_pistons_per_chunk: 200

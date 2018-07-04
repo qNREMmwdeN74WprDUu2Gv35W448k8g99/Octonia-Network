@@ -1,0 +1,52 @@
+socialspy: false
+timestamps:
+  login: 1457284980483
+  logout: 1457286510418
+  kits:
+    heros: 1457217873790
+    bouffe: 1457010352644
+    octonien: 1457010344246
+    druide: 1457010366453
+    chevalier: 1456002490329
+    destruction: 1457010364349
+    xp: 1457010357742
+    decouverte: 1457010355744
+    legendaire: 1456000530564
+    golden: 1457262804820
+    alchimiste: 1457170414863
+  lastteleport: 1457285896787
+  lastheal: 1457173333581
+  jail: 0
+ipAddress: 82.239.48.204
+lastlocation:
+  world: world
+  x: -3846.8509829815116
+  y: 70.99055215999996
+  z: -747.3000000119209
+  yaw: 47.294857
+  pitch: -79.149666
+homes:
+  home:
+    world: world
+    x: -1728.0117883218247
+    y: 253.875
+    z: -5212.904640358799
+    yaw: 109.33981
+    pitch: 28.202293
+logoutlocation:
+  world: world
+  x: -3858.3920913185025
+  y: 255.94925404381416
+  z: -770.1877322162417
+  yaw: 160.61719
+  pitch: 21.167753
+money: '1751.0'
+jailed: false
+ignore:
+- funny
+- flamoose
+- mrvoxite_62300
+- matido74
+- blacktv
+uuid: 13f1f19d-6a1b-32bc-85e5-074663b134ac
+godmode: true

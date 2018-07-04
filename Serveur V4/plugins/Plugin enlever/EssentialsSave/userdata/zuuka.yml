@@ -1,0 +1,70 @@
+timestamps:
+  login: 1457277002260
+  kits:
+    heros: 1457267956874
+    minerais: 1457269183855
+    bouffe: 1456862371863
+    octonien: 1457268089470
+    druide: 1456854266294
+    chevalier: 1456855357572
+    decouverte: 1456937017842
+    construction: 1457267734874
+    legendaire: 1457267888022
+  lastteleport: 1457268052974
+  logout: 1457277054925
+  lastheal: 1457269469695
+  mute: 0
+  jail: 0
+ipAddress: 109.217.36.72
+lastlocation:
+  world: world
+  x: 2722.5
+  y: 253.875
+  z: 717.5
+  yaw: -228.97092
+  pitch: 51.449993
+logoutlocation:
+  world: world
+  x: 2786.6384139921793
+  y: 68.0
+  z: 2614.6981287297986
+  yaw: 79.977875
+  pitch: 15.057276
+money: '149.0'
+homes:
+  sky:
+    world: world
+    x: 2722.5533218369874
+    y: 253.875
+    z: 717.5357709969165
+    yaw: 88.5791
+    pitch: 87.299995
+  raid2:
+    world: world
+    x: 3497.716973707056
+    y: 48.0
+    z: 4328.111628173102
+    yaw: -240.29582
+    pitch: -7.950003
+  don:
+    world: world
+    x: 1699.509656642435
+    y: 251.0
+    z: -4909.554076106436
+    yaw: -326.2466
+    pitch: 81.90005
+  mutantminuit:
+    world: world
+    x: 6852.441283033306
+    y: 139.5
+    z: 6030.29340837756
+    yaw: 178.48682
+    pitch: -5.1649303
+uuid: 11ac522d-3114-3f00-a4c9-f2e733b6b194
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 0
+jailed: false
+ignore:
+- wastrixe

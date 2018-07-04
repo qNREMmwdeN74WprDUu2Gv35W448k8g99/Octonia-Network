@@ -1,0 +1,36 @@
+uuid: 0971b0c5-9e81-333b-8cf3-84a1ae250ce7
+timestamps:
+  login: 1457271232727
+  kits:
+    bouffe: 1457271652674
+    octonien: 1457271593627
+    decouverte: 1457271647728
+  logout: 1457271972545
+  lastteleport: 1457271722571
+  lastheal: 1457202130311
+ipAddress: 78.219.38.97
+lastlocation:
+  world: world
+  x: 1773.5
+  y: 71.0
+  z: -2260.5
+  yaw: 118.650024
+  pitch: 7.6500034
+logoutlocation:
+  world: world
+  x: -471.0047969703494
+  y: 5.0
+  z: 2529.923027770577
+  yaw: 180.61948
+  pitch: 2.9999847
+homes:
+  home:
+    world: world
+    x: 1773.3746656931219
+    y: 71.0
+    z: -2260.711734446473
+    yaw: 355.20004
+    pitch: 25.950006
+ignore:
+- joaoandre1630
+money: '6.0'

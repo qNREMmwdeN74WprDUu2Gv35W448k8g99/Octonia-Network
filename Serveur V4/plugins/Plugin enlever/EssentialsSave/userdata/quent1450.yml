@@ -1,0 +1,76 @@
+timestamps:
+  login: 1457343244041
+  kits:
+    bouffe: 1457042702506
+    heros: 1457339262722
+    octonien: 1457289568007
+    chevalier: 1457294819131
+    xp: 1457336648923
+    decouverte: 1457295809596
+    legendaire: 1457294227562
+    golden: 1457337304779
+  lastteleport: 1457343356941
+  logout: 1457341472031
+  lastheal: 1457340954493
+ipAddress: 109.89.46.15
+lastlocation:
+  world: world
+  x: -0.40516343015573675
+  y: 190.5
+  z: 1.8823334766541349
+  yaw: 246.34879
+  pitch: 16.2
+homes:
+  bp:
+    world: world
+    x: -3840.167396571026
+    y: 118.0
+    z: -762.463622829687
+    yaw: 33.62434
+    pitch: 13.499949
+  pillage:
+    world: world
+    x: 6836.699999988079
+    y: 138.0
+    z: 6046.35061839821
+    yaw: 121.54312
+    pitch: 26.549988
+  pillage2:
+    world: world
+    x: 3863.5
+    y: 5.5
+    z: -9004.5
+    yaw: 126.095184
+    pitch: 16.233814
+  bpprovi2:
+    world: world
+    x: -6611.5
+    y: 53.0
+    z: -1415.5
+    yaw: 90.221565
+    pitch: 23.400053
+  pillage4:
+    world: world
+    x: -6742.692884590939
+    y: 6.0
+    z: -2176.2511189287247
+    yaw: 50.453903
+    pitch: -37.93456
+  pillage5:
+    world: world
+    x: 6775.966106038538
+    y: 201.9406567224347
+    z: -1779.1055211335938
+    yaw: 171.02226
+    pitch: 48.749985
+money: '7347.4'
+logoutlocation:
+  world: world
+  x: -4.825921458482022
+  y: 187.0
+  z: 41.138230529254244
+  yaw: 43.99884
+  pitch: 8.250004
+ignore:
+- khadgar
+uuid: 638d607c-fee2-3ea3-86a4-54299a80284d

@@ -1,0 +1,41 @@
+timestamps:
+  login: 1457108667183
+  lastteleport: 1457108763787
+  kits:
+    bouffe: 1457107926931
+    octonien: 1457107874489
+    decouverte: 1457107886441
+  logout: 1457108779848
+  lastheal: 1457108174993
+  mute: 0
+  jail: 0
+ipAddress: 78.116.112.29
+lastlocation:
+  world: world
+  x: 4614.098024964415
+  y: 38.0
+  z: 1418.2679554622312
+  yaw: -12.148682
+  pitch: -26.25001
+homes:
+  home:
+    world: world
+    x: 88.5
+    y: 64.0
+    z: 282.5
+    yaw: 324.9571
+    pitch: 22.799995
+logoutlocation:
+  world: world
+  x: 2.121700473283604
+  y: 190.5
+  z: 1.140577610549783
+  yaw: -31.300995
+  pitch: 53.39782
+ban:
+  reason: Banni temporairement du serveur pour 7 jours.
+  timeout: 0
+uuid: 9f47a066-ba08-3266-a94f-82846d853320
+money: '10.0'
+muted: false
+jailed: false

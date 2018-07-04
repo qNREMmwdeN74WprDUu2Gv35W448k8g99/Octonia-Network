@@ -1,0 +1,33 @@
+uuid: 49c3568c-a5ef-380f-a1dc-1ec99d65fb14
+timestamps:
+  login: 1457265657728
+  kits:
+    bouffe: 1457265879481
+    octonien: 1457257280074
+  lastteleport: 1457266171456
+  logout: 1457267159057
+ipAddress: 2.5.207.250
+lastlocation:
+  world: world
+  x: 22.920023543705828
+  y: 56.0
+  z: -167.26327287955874
+  yaw: 34.68689
+  pitch: 37.454548
+logoutlocation:
+  world: world
+  x: 22.508926823039697
+  y: 189.0
+  z: 3.7244303584469938
+  yaw: -191.65125
+  pitch: 19.797848
+ignore:
+- acarty
+homes:
+  home:
+    world: world
+    x: 3480.300000011921
+    y: 11.0
+    z: -810.7489449045246
+    yaw: 37.239807
+    pitch: 38.099983

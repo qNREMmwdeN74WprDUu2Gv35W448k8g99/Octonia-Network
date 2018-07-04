@@ -1,0 +1,57 @@
+socialspy: false
+timestamps:
+  login: 1457282352031
+  logout: 1457282558296
+  kits:
+    minerais: 1457019408490
+    bouffe: 1456935846218
+    heros: 1457101806349
+    octonien: 1457087648501
+    druide: 1456935812528
+    destruction: 1456999242634
+    decouverte: 1456935826613
+    xp: 1457019398817
+    construction: 1457010612644
+    legendaire: 1457258501567
+    alchimiste: 1457258122056
+    golden: 1457258166275
+  lastteleport: 1457260769388
+  lastheal: 1457258792966
+  jail: 0
+ipAddress: 78.248.228.7
+lastlocation:
+  world: world
+  x: -23.884618254029547
+  y: 194.0
+  z: 17.680662362369933
+  yaw: -291.104
+  pitch: 13.799969
+logoutlocation:
+  world: world
+  x: 412.57845567911403
+  y: 73.0
+  z: 89.99674205417807
+  yaw: -309.521
+  pitch: 5.85016
+homes:
+  home:
+    world: world
+    x: 1.6974959734361619
+    y: 202.0
+    z: 0.41478822677691163
+    yaw: 90.49887
+    pitch: 3.1500518
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 1457215080896
+money: '56.4561'
+uuid: 94065758-9268-3eed-86f8-84c3165d7eee
+jailed: false
+ignore:
+- arcaida
+- saturnv12
+- paradox
+- colmanpvp
+- cataclysme
+- michel_god
+godmode: true

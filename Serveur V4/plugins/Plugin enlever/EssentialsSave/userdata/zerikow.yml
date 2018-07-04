@@ -1,0 +1,59 @@
+uuid: 8d160080-e119-37ac-a17b-a193e8f14ccb
+timestamps:
+  login: 1457293043243
+  kits:
+    bouffe: 1457199885977
+    heros: 1457284917232
+    octonien: 1457271400989
+    chevalier: 1457271421600
+    legendaire: 1457292471818
+  lastteleport: 1457285414718
+  logout: 1457293192094
+  lastheal: 1457292406620
+ipAddress: 92.137.127.200
+lastlocation:
+  world: world
+  x: -9400.476845170917
+  y: 62.553840416125745
+  z: -3392.699999988079
+  yaw: 92.347626
+  pitch: -20.49946
+logoutlocation:
+  world: world
+  x: -9401.92144162748
+  y: 65.0
+  z: -3373.219646506244
+  yaw: -115.0202
+  pitch: 11.863567
+homes:
+  home:
+    world: world
+    x: 3488.09619379092
+    y: 77.0
+    z: -6061.8271491479045
+    yaw: 285.87277
+    pitch: 40.548027
+  raid:
+    world: world
+    x: -9960.721846112965
+    y: 47.0
+    z: -493.5374126873589
+    yaw: -10.629362
+    pitch: 12.365963
+  raid2:
+    world: world
+    x: -9955.850804548949
+    y: 47.0
+    z: -484.30000001192093
+    yaw: -84.009735
+    pitch: 17.51839
+  sky:
+    world: world
+    x: -8925.5
+    y: 251.875
+    z: -3662.5
+    yaw: 265.84515
+    pitch: 36.847065
+money: '214.0'
+ignore:
+- foxypvp

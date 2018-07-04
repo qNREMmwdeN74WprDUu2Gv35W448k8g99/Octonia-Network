@@ -1,0 +1,25 @@
+socialspy: false
+timestamps:
+  login: 1454867491130
+  logout: 1454867499448
+  lastteleport: 1454867067221
+  mute: 0
+ipAddress: 78.129.63.164
+lastlocation:
+  world: world
+  x: 9.814812945184569
+  y: 189.0
+  z: 4.466130776435005
+  yaw: -317.09055
+  pitch: -6.750127
+logoutlocation:
+  world: world
+  x: -0.11590782139791328
+  y: 190.5
+  z: -1.6980713039943964
+  yaw: 0.0
+  pitch: 0.0
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 10 heures.
+  timeout: 1454903499886

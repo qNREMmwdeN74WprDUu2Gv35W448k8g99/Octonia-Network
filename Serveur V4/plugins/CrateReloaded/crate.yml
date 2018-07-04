@@ -1,0 +1,253 @@
+############################################
+# +---------------------------------------+#
+# |         Config Revision 15            |#
+# +---------------------------------------+#
+############################################
+
+ResupplyCrate:
+    type: SUPPLYCRATE
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%prefix%%player% has been resupplied with a ResupplyCrate!'
+    item:
+        name: '%white%Resupply %gold%Chest'
+        lore:
+            - '%gray%Mmmm, something smells good.'
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: 'DISABLED FOR NON-KEY CRATES'
+    reward:
+        minimumRewards: 3
+        maximumRewards: 15
+        rewards:
+            - 'item:(apple 3), chance:(25)'
+            - 'item:(bread 3), chance:(25)'
+            - 'item:(pork 2), chance:(25)'
+            - 'item:(carrot 2), item:(cake 1), chance:(25)'
+            - 'item:(wheat 4), item:(sugar 4), chance:(25)'
+            - 'item:(349:1 2), chance:(25)'
+            - 'item:(349:2 2), chance:(25)'
+            - 'item:(349:3 2), chance:(25)'
+            - 'item:(350 2), chance:(25)'
+            - 'item:(350:1 2), chance:(25)'
+            - 'item:(350:2 2), chance:(25)'
+            - 'item:(350:3 2), chance:(25)'
+            - 'item:(357 2), chance:(40)'
+            - 'item:(360 2), chance:(30)'
+MysteryCrate:
+    type: MYSTERYCRATE
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%prefix%%player% has opened a MysteryCrate and recieved...'
+    item:
+        item: 133
+        enchantment: '34:10'
+        name: '%white%Mystery %gold%Box!'
+        lore:
+            - '%gray%Seems like a sturdy box.'
+            - '%green%Right click to open!'
+    effect:
+        onOpenEffects: 'spell, firework'
+        dormantEffects: ''
+    reward:
+        minimumRewards: 1
+        maximumRewards: 2
+        rewards:
+            - 'cmd:(/give %player% diamond_sword 1 name:Donator_Sword 16:5 17:5 18:5 19:2 20:2 21:3), chance:(1), broadcast:(%prefix%Donator Sword!)'
+            - 'cmd:(/give %player% diamond_sword 1 16:5 20:2), chance:(1.5), broadcast:(%prefix%Diamond Sword!)'
+            - 'cmd:(/give %player% diamond_sword 1 17:3 21:2), chance:(2), broadcast:(%prefix%Diamond Sword!)'
+            - 'cmd:(/give %player% diamond_sword 1 20:2 19:2), chance:(2), broadcast:(%prefix%Diamond Sword!)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 name:Donator_Pick 32:5 33:1 34:3 35:3), chance:(1), broadcast:(%prefix%Donator Pick!)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 32:3 35:1), chance:(2), broadcast:(%prefix%Diamond Pick!)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 32:1 35:1), chance:(2), broadcast:(%prefix%Diamond Pick!)'
+            - 'cmd:(/give %player% diamond_axe 1 name:Donator_Axe 32:5 33:1 34:3 35:3), chance:(1), broadcast:(%prefix%Donator Axe!)'
+            - 'cmd:(/give %player% diamond_axe 1 32:3 35:1), chance:(2), broadcast:(%prefix%Diamond Axe!)'
+            - 'cmd:(/give %player% diamond_axe 1 32:1 35:1), chance:(2), broadcast:(%prefix%Diamond Axe!)'
+            - 'cmd:(/give %player% 277 1 name:Donator_Shovel 32:5 33:1 34:3 35:3), chance:(1), broadcast:(%prefix%Donator Shovel!)'
+            - 'cmd:(/give %player% 277 1 32:3 35:1), chance:(2), broadcast:(%prefix%Diamond Shovel!)'
+            - 'cmd:(/give %player% 277 1 32:1 35:1), chance:(2), broadcast:(%prefix%Diamond Shovel!)'
+GUIFoodCrate:
+    type: MENUCRATE
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%prefix%%player% has been resupplied with a FoodCrate!'
+    item:
+        item: 357
+        enchantment: ''
+        name: '%white%Food %gold%Box!'
+        lore:
+            - '%gray%Mmm, smells delicious!'
+            - '%gray%Freshly Baked Cookies?'
+    key:
+        enabled: false
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: 'DISABLED FOR NON-KEY CRATES'
+    reward:
+        minimumRewards: 3
+        maximumRewards: 5
+        rewards:
+            - 'item:(apple 3), chance:(25)'
+            - 'item:(bread 3), chance:(25)'
+            - 'item:(pork 2), chance:(25)'
+            - 'item:(carrot 2), item:(cake 1), chance:(25)'
+            - 'item:(wheat 4), item:(sugar 4), chance:(25)'
+            - 'item:(349:1 2), chance:(25)'
+            - 'item:(349:2 2), chance:(25)'
+            - 'item:(349:3 2), chance:(25)'
+            - 'item:(350 2), chance:(25)'
+            - 'item:(350:1 2), chance:(25)'
+            - 'item:(350:2 2), chance:(25)'
+            - 'item:(350:3 2), chance:(25)'
+            - 'item:(357 2), chance:(40)'
+            - 'item:(360 2), chance:(30)'
+GUIMysteryCrate:
+    type: MENUCRATE
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%prefix%%player% has opened a MysteryBox and recieved...'
+    item:
+        item: 57
+        enchantment: ''
+        name: '%white%Mystery %gold%Box!'
+        lore:
+            - '%gray%Seems like a sturdy box.'
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: 'DISABLED FOR NON-KEY CRATES'
+    reward:
+        minimumRewards: 1
+        maximumRewards: 2
+        rewards:
+            - 'cmd:(/give %player% diamond_sword 1 name:Donator_Sword 16:5 17:5 18:5 19:2 20:2 21:3), chance:(1), broadcast:(%prefix%Donator Sword!)'
+            - 'cmd:(/give %player% diamond_sword 1 16:5 20:2), chance:(1.5), broadcast:(%prefix%Diamond Sword!)'
+            - 'cmd:(/give %player% diamond_sword 1 17:3 21:2), chance:(2), broadcast:(%prefix%Diamond Sword!)'
+            - 'cmd:(/give %player% diamond_sword 1 20:2 19:2), chance:(2), broadcast:(%prefix%Diamond Sword!)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 name:Donator_Pick 32:5 33:1 34:3 35:3), chance:(1), broadcast:(%prefix%Donator Pick!)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 32:3 35:1), chance:(2), broadcast:(%prefix%Diamond Pick!)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 32:1 35:1), chance:(2), broadcast:(%prefix%Diamond Pick!)'
+            - 'cmd:(/give %player% diamond_axe 1 name:Donator_Axe 32:5 33:1 34:3 35:3), chance:(1), broadcast:(%prefix%Donator Axe!)'
+            - 'cmd:(/give %player% diamond_axe 1 32:3 35:1), chance:(2), broadcast:(%prefix%Diamond Axe!)'
+            - 'cmd:(/give %player% diamond_axe 1 32:1 35:1), chance:(2), broadcast:(%prefix%Diamond Axe!)'
+            - 'cmd:(/give %player% 277 1 name:Donator_Shovel 32:5 33:1 34:3 35:3), chance:(1), broadcast:(%prefix%Donator Shovel!)'
+            - 'cmd:(/give %player% 277 1 32:3 35:1), chance:(2), broadcast:(%prefix%Diamond Shovel!)'
+            - 'cmd:(/give %player% 277 1 32:1 35:1), chance:(2), broadcast:(%prefix%Diamond Shovel!)'
+
+FoodKey:
+    type: KEYCRATE
+    preview:
+        enabled: true
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%prefix%%player% has been resupplied with a ResupplyCrate!'
+    key:
+        item: 'Tripwire_Hook'
+        enchantment: '34:10'
+        name:  '%white%Resupply %gold%Key!'
+        lore:
+            - '%gray%Go to the nearest key chest to open it and recieve an reward!'
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: ''
+    reward:
+        minimumRewards: 1
+        maximumRewards: 4
+        rewards:
+            - 'item:(apple 3), chance:(25)'
+            - 'item:(bread 3), chance:(25)'
+            - 'item:(pork 2), chance:(25)'
+            - 'item:(carrot 2), item:(cake 1), chance:(25)'
+            - 'item:(wheat 4), item:(sugar 4), chance:(25)'
+            - 'item:(349:1 2), chance:(25)'
+            - 'item:(349:2 2), chance:(25)'
+            - 'item:(349:3 2), chance:(25)'
+            - 'item:(350 2), chance:(25)'
+            - 'item:(350:1 2), chance:(25)'
+            - 'item:(350:2 2), chance:(25)'
+            - 'item:(350:3 2), chance:(25)'
+            - 'item:(357 2), chance:(40)'
+            - 'item:(360 2), chance:(30)'
+DiamondKey:
+    type: KEYCRATE
+    preview:
+        enabled: true
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%prefix%%player% has opened an key crate and recieved...'
+    key:
+        item: '57'
+        enchantment: 34:10
+        name: '%white%Diamond %gold%Key!'
+        lore:
+            - '%gray%Go to the nearest key chest to open it and recieve an reward!'
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: ''
+    reward:
+        minimumRewards: 1
+        maximumRewards: 1
+        rewards:
+            - 'cmd:(/give %player% diamond_sword 1 name:Donator_Sword 16:5 17:5 18:5 19:2 20:2 21:3), chance:(1), broadcast:(%prefix%Donator Sword!), display:(diamond_sword 1 %green%SWORD_1 %chance%)'
+            - 'cmd:(/give %player% diamond_sword 1 16:5 20:2), chance:(5), broadcast:(%prefix%Diamond Sword!), display:(diamond_sword 1 SWORD_2 %chance%)'
+            - 'cmd:(/give %player% diamond_sword 1 17:3 21:2), chance:(5), broadcast:(%prefix%Diamond Sword!), display:(diamond_sword 1 SWORD_3 %chance%)'
+            - 'cmd:(/give %player% diamond_sword 1 20:2 19:2), chance:(5), broadcast:(%prefix%Diamond Sword!), display:(diamond_sword 1 SWORD_4 %chance%)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 name:Donator_Pick 32:5 33:1 34:3 35:3), chance:(20), broadcast:(%prefix%Donator Pick!), display:(diamond_pickaxe 1 PICK_1 %chance%)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 32:3 35:1), chance:(20), broadcast:(%prefix%Diamond Pick!), display:(diamond_pickaxe 1 PICK_2 %chance%)'
+            - 'cmd:(/give %player% diamond_pickaxe 1 32:1 35:1), chance:(20), broadcast:(%prefix%Diamond Pick!), display:(diamond_pickaxe 1 PICK_3 %chance%)'
+            - 'cmd:(/give %player% diamond_axe 1 name:Donator_Axe 32:5 33:1 34:3 35:3), chance:(35), broadcast:(%prefix%Donator Axe!), display:(diamond_axe 1 AXE_1 %chance%)'
+            - 'cmd:(/give %player% diamond_axe 1 32:3 35:1), chance:(35), broadcast:(%prefix%Diamond Axe!), display:(diamond_axe 1 AXE_1 %chance%)'
+            - 'cmd:(/give %player% diamond_axe 1 32:1 35:1), chance:(45), broadcast:(%prefix%Diamond Axe!), display:(diamond_axe 1 AXE_1 %chance%)'
+            - 'cmd:(/give %player% 277 1 name:Donator_Shovel 32:5 33:1 34:3 35:3), chance:(50), broadcast:(%prefix%Donator Shovel!), display:(277 1 SHOVEL_1 %chance%)'
+            - 'cmd:(/give %player% 277 1 32:3 35:1), chance:(45), broadcast:(%prefix%Diamond Shovel!), display:(277 1 SHOVEL_2 %chance%)'
+            - 'cmd:(/give %player% 277 1 32:1 35:1), chance:(35), broadcast:(%prefix%Diamond Shovel!), display:(277 1 SHOVEL_3 %chance%)'
+RouletteKey:
+    type: ROULETTEKEYCRATE
+    preview:
+        enabled: true
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: ''
+    key:
+        item: 'NETHER_STAR'
+        enchantment: '34:10'
+        name: '%white%Roulette %gold%Key!'
+        lore:
+            - 'Go to the nearest key chest to open it and recieve an reward!'
+    effect:
+        onOpenEffects: 'firework'
+        dormantEffects: ''
+    reward:
+        minimumRewards: 1
+        maximumRewards: 1
+        rewards:
+            - 'cmd:(/give %player% bedrock 16), chance:(10), display:(bedrock 16 &a16_Bedrock! &f%chance%)'
+            - 'cmd:(/give %player% 373:8267 4), chance:(15), display:(373:8267 4 &a4_Potion_of_Leap! &f%chance%)'
+            - 'cmd:(/give %player% 377 16), chance:(35), display:(377 16 &a16_Blaze_Powder! &f%chance%)'
+            - 'cmd:(/give %player% 322:1 32), chance:(3), display:(322:1 32 &a32_Golden_Apples! &f%chance%)'
+            - 'cmd:(/give %player% 421 16), chance:(30), display:(421 16 &a16_Nametags! &f%chance%)'
+            - 'cmd:(/give %player% 403 1), chance:(25), display:(403 1 &aEnchanted_Book! &f%chance%)'
+            - 'cmd:(/eco give %player% 1000), chance:(15), display:(paper 1 &a$1000 &f%chance%)'
+            - 'cmd:(/eco give %player% 5000), chance:(10), display:(paper 5 &a$5000 &f%chance%)'
+            - 'cmd:(/eco give %player% 10000), chance:(10), display:(paper 10 &a$10000 &f%chance%)'
+            - 'cmd:(/eco give %player% 15000), chance:(5), display:(paper 15 &a$15000 &f%chance%)'

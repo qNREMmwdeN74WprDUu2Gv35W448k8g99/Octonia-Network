@@ -1,0 +1,70 @@
+uuid: 1ec45829-0ae1-301e-bcd0-e99101f825df
+timestamps:
+  login: 1457267001065
+  kits:
+    heros: 1457272273613
+    bouffe: 1457265330279
+    octonien: 1457267854023
+    chevalier: 1457272284760
+    decouverte: 1457272291396
+    legendaire: 1457272269833
+    alchimiste: 1457272163823
+    golden: 1457272278297
+  lastteleport: 1457272367499
+  logout: 1457272065764
+  lastheal: 1457272366698
+ipAddress: 77.149.255.211
+lastlocation:
+  world: world
+  x: 5773.103735426639
+  y: 7.875
+  z: 7830.297173087123
+  yaw: -95.46948
+  pitch: 11.699992
+homes:
+  fhome:
+    world: world
+    x: 3792.0133331745797
+    y: 17.0
+    z: 8565.102697709219
+    yaw: -209.81671
+    pitch: 53.250042
+  mine:
+    world: world
+    x: 3487.3019024463138
+    y: 5.0
+    z: 6645.186412587421
+    yaw: 7.22512
+    pitch: 32.2501
+  ap:
+    world: world
+    x: 3414.699999988079
+    y: 5.0
+    z: 4617.699999988079
+    yaw: 44.35434
+    pitch: 30.60007
+  farm:
+    world: world
+    x: 5784.430411734709
+    y: 7.0
+    z: 7834.337029822086
+    yaw: -185.02039
+    pitch: 43.949997
+  farm2:
+    world: world
+    x: 5815.444160542296
+    y: 6.0
+    z: 2998.699999988079
+    yaw: -6.7395935
+    pitch: 19.870405
+money: '4028.0'
+logoutlocation:
+  world: world
+  x: 8.52301990553987
+  y: 189.0
+  z: 0.5834295961668301
+  yaw: -267.85138
+  pitch: 9.597832
+ignore:
+- devilsnigthmares
+- titi_thug

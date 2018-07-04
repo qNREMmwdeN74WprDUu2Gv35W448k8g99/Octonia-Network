@@ -1,0 +1,47 @@
+socialspy: false
+timestamps:
+  login: 1457340974713
+  kits:
+    minerais: 1457341642434
+    bouffe: 1457291882934
+    octonien: 1457278811989
+    chevalier: 1457342515352
+    xp: 1457341619934
+    decouverte: 1457282704900
+  lastteleport: 1457342636149
+  logout: 1457342932012
+  lastheal: 1457343250744
+  mute: 1457343527011
+ipAddress: 149.154.193.122
+lastlocation:
+  world: world
+  x: 246.06532922738782
+  y: 71.0
+  z: 367.30846278182105
+  yaw: -256.7746
+  pitch: 14.058262
+homes:
+  bp:
+    world: world
+    x: 7558.416480256738
+    y: 27.0
+    z: -1675.699999988079
+    yaw: 334.8631
+    pitch: 24.759808
+  pillage:
+    world: world
+    x: 9806.08147948452
+    y: 67.0
+    z: 867.8982227735002
+    yaw: 274.1936
+    pitch: 28.950037
+logoutlocation:
+  world: world
+  x: 7560.273395608201
+  y: 6.0
+  z: -1669.7640584785506
+  yaw: 205.55566
+  pitch: 31.499979
+money: '24034.0'
+muted: true
+uuid: 3383377f-1f53-3cdb-a376-473f4ab9b8ff

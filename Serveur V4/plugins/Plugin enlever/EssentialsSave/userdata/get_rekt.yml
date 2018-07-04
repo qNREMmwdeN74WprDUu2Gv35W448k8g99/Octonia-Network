@@ -1,0 +1,62 @@
+timestamps:
+  login: 1457304839895
+  lastteleport: 1457290303523
+  kits:
+    bouffe: 1457284144869
+    heros: 1457276897358
+    octonien: 1457282303164
+    chevalier: 1457276903505
+    decouverte: 1457271779191
+  logout: 1457304857969
+  lastheal: 1457290265785
+  mute: 0
+ipAddress: 81.250.162.227
+lastlocation:
+  world: world
+  x: 3110.556591591237
+  y: 69.0
+  z: 57.1740970191369
+  yaw: 258.79486
+  pitch: -1.0270019
+homes:
+  sky:
+    world: world
+    x: 7275.5
+    y: 253.875
+    z: 1446.5
+    yaw: -264.53217
+    pitch: 31.72877
+  farm:
+    world: world
+    x: 5046.726048065928
+    y: 31.0
+    z: -7740.398373875597
+    yaw: 94.71661
+    pitch: 20.924604
+  xp:
+    world: world
+    x: -6557.066516999589
+    y: 55.0
+    z: 2951.3493422059896
+    yaw: 63.63086
+    pitch: 7.5538597
+  raid:
+    world: world
+    x: 5093.838390090475
+    y: 7.0
+    z: -6162.260126021349
+    yaw: 316.9559
+    pitch: 17.67743
+money: '113000.0'
+logoutlocation:
+  world: world
+  x: 7275.530305400313
+  y: 253.875
+  z: 1449.5505650404941
+  yaw: -93.97928
+  pitch: 1.973846
+uuid: 1891528d-df87-3908-9092-eed3a67f41fd
+ban:
+  reason: 'Banni : Viens ts'
+  timeout: 0
+muted: false

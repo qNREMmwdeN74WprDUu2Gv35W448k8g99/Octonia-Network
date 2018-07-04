@@ -1,0 +1,39 @@
+timestamps:
+  login: 1457272404881
+  kits:
+    bouffe: 1457269890140
+    octonien: 1457177482374
+    decouverte: 1457089955428
+  logout: 1457271632562
+  lastteleport: 1457271328839
+  mute: 0
+  lastheal: 1457270070997
+ipAddress: 82.231.68.182
+lastlocation:
+  world: world
+  x: 277.5
+  y: 64.0
+  z: -273.5
+  yaw: 318.98083
+  pitch: 49.800014
+logoutlocation:
+  world: world
+  x: 2669.262638986619
+  y: 40.0
+  z: -1929.9101833156838
+  yaw: 175.80197
+  pitch: 1.9501208
+homes:
+  home:
+    world: world
+    x: 277.5
+    y: 64.0
+    z: -273.5
+    yaw: -79.869255
+    pitch: 51.60001
+muted: false
+money: '47.505'
+uuid: 488df507-a17b-315a-8790-8b91f14ddd02
+ignore:
+- bt1
+- kedren

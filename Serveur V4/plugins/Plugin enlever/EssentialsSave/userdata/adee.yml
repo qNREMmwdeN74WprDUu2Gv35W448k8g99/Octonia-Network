@@ -1,0 +1,33 @@
+uuid: 87eaf408-9158-3376-9042-7bbb1b8afcef
+timestamps:
+  login: 1456608688741
+  kits:
+    minerais: 1456610687389
+    bouffe: 1456611185442
+    octonien: 1456606108500
+    alchimiste: 1456610699531
+  lastteleport: 1456612549386
+  logout: 1456612600533
+ipAddress: 178.50.81.60
+lastlocation:
+  world: world
+  x: -702.3455652048362
+  y: 91.0
+  z: 575.221795230306
+  yaw: 346.37988
+  pitch: 43.949963
+logoutlocation:
+  world: world
+  x: -25.52493335362943
+  y: 189.0
+  z: -22.364083672318703
+  yaw: -251.75455
+  pitch: 41.69727
+homes:
+  home:
+    world: world
+    x: -706.4095632711271
+    y: 252.0
+    z: 562.7154587467126
+    yaw: 126.33044
+    pitch: 78.44995

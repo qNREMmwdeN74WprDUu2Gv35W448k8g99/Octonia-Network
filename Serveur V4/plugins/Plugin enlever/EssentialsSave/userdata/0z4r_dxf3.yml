@@ -1,0 +1,28 @@
+uuid: 746c156c-0e27-3350-978e-b0e21dbd8936
+timestamps:
+  login: 1456530541324
+  lastteleport: 1456531892817
+  kits:
+    bouffe: 1456529657888
+    octonien: 1456529612306
+  mute: 1456533316257
+  logout: 1456531898403
+ipAddress: 185.94.189.138
+lastlocation:
+  world: world
+  x: -124.76544299702161
+  y: 28.0
+  z: -16.657380253224645
+  yaw: -272.44617
+  pitch: -1.5861682
+muted: true
+logoutlocation:
+  world: world
+  x: -8406.72192615675
+  y: 9.0
+  z: -3102.237500011921
+  yaw: -163.44113
+  pitch: 51.45005
+ban:
+  reason: 'Banni : A+ Dans l''autobus'
+  timeout: 0

@@ -1,0 +1,33 @@
+uuid: 411659c4-7987-3afd-8b3c-62808599f649
+timestamps:
+  login: 1456228405909
+  kits:
+    bouffe: 1456228633579
+    octonien: 1456226199733
+  logout: 1456228881617
+  lastteleport: 1456227638466
+ipAddress: 88.174.26.227
+lastlocation:
+  world: world
+  x: 5457.818388080231
+  y: 63.0
+  z: -4273.593409719883
+  yaw: -336.1495
+  pitch: 2.5500064
+logoutlocation:
+  world: world
+  x: 0.4069577227192586
+  y: 189.0
+  z: -12.152874190958894
+  yaw: 202.1509
+  pitch: 23.907728
+ignore:
+- gamercool46
+homes:
+  home:
+    world: world
+    x: 5454.644683629257
+    y: 63.0
+    z: -4269.300000011921
+    yaw: -138.44957
+    pitch: 12.899998

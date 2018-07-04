@@ -1,0 +1,504 @@
+Niveau_2:
+  argent: 0
+  permission:
+    adresse: CustomEnderChest.level.3
+    nom: 'EnderChest Lvl3'
+  objet_special1:
+    id: 611
+    number: 8
+    nom: 'Pomme de Hast'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_3:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 819
+    number: 1
+    nom: 'Pioche en Octorite'
+  objet_special2:
+    id: 643
+    number: 16
+    nom: '16 Sables Renforces'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_4:
+  argent: 0
+  permission:
+    adresse: essentials.feed
+    nom: '/feed, /eat'
+  objet_special1:
+    id: 0
+    number: 0
+    nom: 'no'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_5:
+  argent: 0
+  permission:
+    adresse: essentials.kits.decouverte
+    nom: 'Kit Decouverte'
+  objet_special1:
+    id: 0
+    number: 0
+    nom: 'no'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_6:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 803
+    number: 32
+    nom: '32 Joints'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_7:
+  argent: 0
+  permission:
+    adresse: essentials.workbench
+    nom: '/craft'
+  objet_special1:
+    id: 815
+    number: 1
+    nom: 'Minerais Os'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_8:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 551
+    number: 1
+    nom: 'Plastron en Octorite'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_9:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 801
+    number: 2
+    nom: '2 Dynamites'
+  objet_special2:
+    id: 813
+    number: 1
+    nom: '1 Pendentif de Speed'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_10:
+  argent: 0
+  permission:
+    adresse: essentials.kits.xp
+    nom: 'Kit XP'
+  objet_special1:
+    id: 554
+    number: 1
+    nom: 'Epee en Octorite'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_11:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 804
+    number: 1
+    nom: '1 Drakex'
+  objet_special2:
+    id: 645
+    number: 1
+    nom: '1 Oeuf en Drakex'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_12:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 138
+    number: 1
+    nom: '1 Beacon'
+  objet_special2:
+    id: 499
+    number: 8
+    nom: '8 Batons en Octorite'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_13:
+  argent: 0
+  permission:
+    adresse: CustomEnderChest.level.4
+    nom: 'EnderChest Lvl4'
+  objet_special1:
+    id: 0
+    number: 0
+    nom: 'no'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_14:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 814
+    number: 1
+    nom: 'Minerais Os'
+  objet_special2:
+    id: 638
+    number: 16
+    nom: '16 RenforcedDrake'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_15:
+  argent: 0
+  permission:
+    adresse: essentials.kits.construction
+    nom: 'Kit Construction'
+  objet_special1:
+    id: 322
+    number: 2
+    nom: '2 Pommes Cheat'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_16:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 499
+    number: 32
+    nom: '32 Octorites'
+  objet_special2:
+    id: 801
+    number: 5
+    nom: '5 Dynamites'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_17:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 807
+    number: 1
+    nom: 'Epee en Drakex'
+  objet_special2:
+    id: 399
+    number: 1
+    nom: '1 NetherStar'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_18:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 816
+    number: 1
+    nom: 'Minerais Os'
+  objet_special2:
+    id: 638
+    number: 32
+    nom: '32 RenforcedDrake'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_19:
+  argent: 0
+  permission:
+    adresse: permissionExact
+    nom: 'no'
+  objet_special1:
+    id: 610
+    number: 32
+    nom: '32 Pizzas'
+  objet_special2:
+    id: 808
+    number: 1
+    nom: '1 Hache en Drakex'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_20:
+  argent: 0
+  permission:
+    adresse: essentials.kits.templier
+    nom: 'Kit Templier'
+  objet_special1:
+    id: 0
+    number: 0
+    nom: 'no'
+  objet_special2:
+    id: 0
+    number: 0
+    nom: 'no'
+  kit:
+    nom: 'no'
+  boite:
+    id: 'no'
+    name: 'no'
+Niveau_1:
+  argent: argent_entier
+Niveau_21:
+  argent: argent_entier
+Niveau_22:
+  argent: argent_entier
+Niveau_23:
+  argent: argent_entier
+Niveau_24:
+  argent: argent_entier
+Niveau_25:
+  argent: argent_entier
+Niveau_26:
+  argent: argent_entier
+Niveau_27:
+  argent: argent_entier
+Niveau_28:
+  argent: argent_entier
+Niveau_29:
+  argent: argent_entier
+Niveau_30:
+  argent: argent_entier
+Niveau_31:
+  argent: argent_entier
+Niveau_32:
+  argent: argent_entier
+Niveau_33:
+  argent: argent_entier
+Niveau_34:
+  argent: argent_entier
+Niveau_35:
+  argent: argent_entier
+Niveau_36:
+  argent: argent_entier
+Niveau_37:
+  argent: argent_entier
+Niveau_38:
+  argent: argent_entier
+Niveau_39:
+  argent: argent_entier
+Niveau_40:
+  argent: argent_entier
+Niveau_41:
+  argent: argent_entier
+Niveau_42:
+  argent: argent_entier
+Niveau_43:
+  argent: argent_entier
+Niveau_44:
+  argent: argent_entier
+Niveau_45:
+  argent: argent_entier
+Niveau_46:
+  argent: argent_entier
+Niveau_47:
+  argent: argent_entier
+Niveau_48:
+  argent: argent_entier
+Niveau_49:
+  argent: argent_entier
+Niveau_50:
+  argent: argent_entier
+Niveau_51:
+  argent: argent_entier
+Niveau_52:
+  argent: argent_entier
+Niveau_53:
+  argent: argent_entier
+Niveau_54:
+  argent: argent_entier
+Niveau_55:
+  argent: argent_entier
+Niveau_56:
+  argent: argent_entier
+Niveau_57:
+  argent: argent_entier
+Niveau_58:
+  argent: argent_entier
+Niveau_59:
+  argent: argent_entier
+Niveau_60:
+  argent: argent_entier
+Niveau_61:
+  argent: argent_entier
+Niveau_62:
+  argent: argent_entier
+Niveau_63:
+  argent: argent_entier
+Niveau_64:
+  argent: argent_entier
+Niveau_65:
+  argent: argent_entier
+Niveau_66:
+  argent: argent_entier
+Niveau_67:
+  argent: argent_entier
+Niveau_68:
+  argent: argent_entier
+Niveau_69:
+  argent: argent_entier
+Niveau_70:
+  argent: argent_entier
+Niveau_71:
+  argent: argent_entier
+Niveau_72:
+  argent: argent_entier
+Niveau_73:
+  argent: argent_entier
+Niveau_74:
+  argent: argent_entier
+Niveau_75:
+  argent: argent_entier
+Niveau_76:
+  argent: argent_entier
+Niveau_77:
+  argent: argent_entier
+Niveau_78:
+  argent: argent_entier
+Niveau_79:
+  argent: argent_entier
+Niveau_80:
+  argent: argent_entier
+Niveau_81:
+  argent: argent_entier
+Niveau_82:
+  argent: argent_entier
+Niveau_83:
+  argent: argent_entier
+Niveau_84:
+  argent: argent_entier
+Niveau_85:
+  argent: argent_entier
+Niveau_86:
+  argent: argent_entier
+Niveau_87:
+  argent: argent_entier
+Niveau_88:
+  argent: argent_entier
+Niveau_89:
+  argent: argent_entier
+Niveau_90:
+  argent: argent_entier
+Niveau_91:
+  argent: argent_entier
+Niveau_92:
+  argent: argent_entier
+Niveau_93:
+  argent: argent_entier
+Niveau_94:
+  argent: argent_entier
+Niveau_95:
+  argent: argent_entier
+Niveau_96:
+  argent: argent_entier
+Niveau_97:
+  argent: argent_entier
+Niveau_98:
+  argent: argent_entier
+Niveau_99:
+  argent: argent_entier
+Niveau_100:
+  argent: argent_entier

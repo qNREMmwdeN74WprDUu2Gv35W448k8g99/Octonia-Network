@@ -1,0 +1,34 @@
+timestamps:
+  login: 1455918652221
+  kits:
+    octonien: 1455918076983
+  lastteleport: 1455919044262
+  logout: 1455919058592
+  lastheal: 1455226334844
+ipAddress: 80.118.59.83
+lastlocation:
+  world: world
+  x: -0.1171770091306238
+  y: 190.5
+  z: 0.7039789129742813
+  yaw: -358.23306
+  pitch: 6.829597
+homes:
+  home:
+    world: world
+    x: 5460.5
+    y: 63.0
+    z: -4273.5
+    yaw: 214.20782
+    pitch: 34.350113
+logoutlocation:
+  world: world
+  x: -0.1171770091306238
+  y: 190.5
+  z: 0.7039789129742813
+  yaw: -354.03308
+  pitch: 1.2795968
+ignore:
+- bilal77
+money: '2.0'
+uuid: bee3a223-6f0f-3ffe-803e-a76f67d02398

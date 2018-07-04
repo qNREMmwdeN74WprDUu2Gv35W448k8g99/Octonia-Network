@@ -1,0 +1,41 @@
+timestamps:
+  login: 1456318408753
+  kits:
+    bouffe: 1456318665265
+    octonien: 1456318668635
+  logout: 1456319186474
+  lastteleport: 1456318736944
+  lastheal: 1456303205017
+ipAddress: 86.212.126.62
+lastlocation:
+  world: world
+  x: 66.54911135289575
+  y: 14.0
+  z: 9663.425000011921
+  yaw: -74.35446
+  pitch: 23.250034
+logoutlocation:
+  world: world
+  x: -0.2664672832725197
+  y: 190.5
+  z: 0.9318055526725386
+  yaw: -354.64914
+  pitch: -0.69226843
+uuid: e93da882-1d88-3fb8-aad9-bb15ee7a8cef
+homes:
+  home:
+    world: world
+    x: 63.077438961129225
+    y: 14.0
+    z: 9668.57178503863
+    yaw: -88.754364
+    pitch: 7.9500175
+ignore:
+- masterfight63
+- phantye
+- triinpvp
+- sarkozy_g0d
+money: '45.0'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

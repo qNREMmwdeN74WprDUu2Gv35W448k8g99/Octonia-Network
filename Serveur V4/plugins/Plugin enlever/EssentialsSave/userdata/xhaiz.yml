@@ -1,0 +1,26 @@
+timestamps:
+  login: 1454960043625
+  kits:
+    heros: 1454954649141
+    minerais: 1454953960866
+    octonien: 1454958785995
+    chevalier: 1454954669147
+    legendaire: 1454953858747
+  logout: 1454960565832
+  lastteleport: 1454960263924
+  lastheal: 1454958779780
+ipAddress: 78.225.11.41
+lastlocation:
+  world: world
+  x: -303.34392926153373
+  y: 53.0
+  z: -1183.662514480723
+  yaw: -15.832642
+  pitch: 87.14999
+logoutlocation:
+  world: world
+  x: -0.056403256653233425
+  y: 191.0
+  z: 0.06084168811078994
+  yaw: -178.64053
+  pitch: 16.199873

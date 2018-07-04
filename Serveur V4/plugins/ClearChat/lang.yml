@@ -1,0 +1,61 @@
+# ClearChat! Version: 3.0.0 By Phil14052
+prefix: '&8[&3OctoChat&8]'
+invalid-args: '&cInvalid args!'
+player-only: Sorry but that can only be run by a player!
+no-permissions: '&cYou don''t have permission for that!'
+reload-succes: '&3Reloaded the plugin in %time% seconds.'
+usage:
+  prefix: '&4&lUsage:&c '
+  mute: /clearchat mutechat (global, personal) [player - (Can only be used with personal)]
+  personalmute:
+    console: /clearchat mutechat personal (player)
+failed:
+  prefix: '&4&lFailed:&c '
+  player-not-found: '{player_name} was not found.'
+  reenable-chat: You need to enable your chat to use the chat.
+player:
+  plugin-info:
+  - '&8&l&m---------------------'
+  - ' '
+  - '&3{plugin_name} - Version {plugin_version} by Phil14052'
+  - '&8If you want help do: &3%run_command_/clearchat help%'
+  - '&8Or visit the plugin thread: &3http://goo.gl/5MA6Zl'
+  - ' '
+  - '&8&l&m---------------------'
+  mute:
+    personal:
+      'on': '&aYour chat is now muted'
+      'off': '&cYour chat is no longer muted'
+    global:
+      'on': '&aYou have now muted the chat.'
+      'off': '&cYou have now unmuted the chat.'
+  clear:
+    global:
+      default: Le chat a ete clear par &3{player_name}&8.
+      anonymous: Le chat a ete clear.
+    personal:
+      default: Your chat was cleared.
+  globalChat:
+    disabled: '&c&lThe chat is disabled.'
+  players-chat-disabled: '&c{player_name}''s&8 chat is currently disabled. So &ihe/she&8
+    did not see your message.'
+  plugin-help:
+  - '&8&l&m---------------------'
+  - ' '
+  - '&3{plugin_name} - &8Help'
+  - '&3%suggest_command_/clearchat%&8 - Main command'
+  - '&3%suggest_command_/clearchat help% &8- Shows this'
+  - '&3%suggest_command_/clearchat global%&3  [-a,-s]&8 - Main command'
+  - '&3%suggest_command_/clearchat personal%&3 [-m]&8 - Main command'
+  - '&3%suggest_command_/clearchat mutechat global%&8 - Main command'
+  - '&3%suggest_command_/clearchat mutechat personal%&3 [player]&8 - Main command'
+  - '&3%suggest_command_/clearchat reload%&8 - Reload the config and lang file.'
+  - ' '
+  - '&8&l&m---------------------'
+broadcast:
+  mute:
+    global:
+      'on': '&cThe chat is now muted'
+      'off': '&aThe chat is no longer muted'
+main-color: '&8'
+secondary-color: '&3'

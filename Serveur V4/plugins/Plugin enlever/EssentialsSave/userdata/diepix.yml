@@ -1,0 +1,84 @@
+timestamps:
+  login: 1457290433299
+  kits:
+    bouffe: 1457289580938
+    heros: 1457261807319
+    octonien: 1456934400938
+    druide: 1457258967176
+    chevalier: 1456686474191
+    destruction: 1457258959869
+    xp: 1457289505230
+    legendaire: 1457286004980
+    alchimiste: 1457258956028
+    minerais: 1457286260830
+    decouverte: 1457289587134
+    construction: 1457289549422
+    golden: 1457286274801
+  logout: 1457293691499
+  lastteleport: 1457290747005
+  lastheal: 1457293541707
+  mute: 0
+ipAddress: 78.193.148.76
+lastlocation:
+  world: world
+  x: -7450.5
+  y: 5.0
+  z: 6450.5
+  yaw: 3.6643186
+  pitch: 16.649961
+logoutlocation:
+  world: world
+  x: -7031.683624433644
+  y: 21.0
+  z: 6950.253708354242
+  yaw: 30.324097
+  pitch: -5.939603E-6
+homes:
+  home:
+    world: world
+    x: -7453.857180522973
+    y: 5.0
+    z: 6450.525615703436
+    yaw: 264.9652
+    pitch: 0.78202885
+  ap:
+    world: world
+    x: -283.5699484264461
+    y: 64.0
+    z: 236.23676257995666
+    yaw: 264.3048
+    pitch: 8.250003
+  loin:
+    world: world
+    x: -8705.454266268363
+    y: 78.0
+    z: 3153.1162580463492
+    yaw: 158.3779
+    pitch: 16.650005
+  pilliage:
+    world: world
+    x: -8867.871331075195
+    y: 84.0
+    z: 3335.6152392524014
+    yaw: 176.2279
+    pitch: 7.280614
+  ghost:
+    world: world
+    x: 6455.262141177766
+    y: 6.0
+    z: -7289.071844430005
+    yaw: -138.00357
+    pitch: 15.648244
+  pilliage2:
+    world: world
+    x: 6263.011225558426
+    y: 81.0
+    z: -7003.83264303235
+    yaw: -177.41217
+    pitch: 20.191374
+uuid: 4f8b8717-e575-34dd-9694-ddc60f3773bc
+money: '5570.24'
+ignore:
+- rayd3n
+- rayhanlefifou
+muted: false

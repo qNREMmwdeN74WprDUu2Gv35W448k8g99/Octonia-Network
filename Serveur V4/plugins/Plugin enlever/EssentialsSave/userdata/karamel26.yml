@@ -1,0 +1,83 @@
+uuid: 3ebcbf5b-ac89-37ae-9f96-560681d9a798
+timestamps:
+  login: 1457298890716
+  kits:
+    heros: 1457260456344
+    minerais: 1457298924887
+    bouffe: 1457285426121
+    octonien: 1457261347148
+    druide: 1457264410868
+    chevalier: 1457261331281
+    destruction: 1457277993970
+    xp: 1457298940354
+    decouverte: 1457294097541
+    construction: 1457277968992
+    alchimiste: 1457294040147
+    golden: 1457293993481
+  lastteleport: 1457298941649
+  logout: 1457299040229
+  lastheal: 1457298928357
+  mute: 0
+  jail: 0
+ipAddress: 90.53.139.125
+lastlocation:
+  world: world
+  x: 9718.657973283056
+  y: 32.0
+  z: 175.26792889181525
+  yaw: 50.98059
+  pitch: 14.554423
+logoutlocation:
+  world: world
+  x: 9090.10763060776
+  y: 5.0
+  z: -2300.1797951109743
+  yaw: 146.32092
+  pitch: 12.987286
+homes:
+  home:
+    world: world
+    x: -3380.7779025297054
+    y: 23.0
+    z: -1079.8095772027875
+    yaw: -243.14386
+    pitch: 9.735846
+  popo:
+    world: world
+    x: 9273.43658550059
+    y: 220.78502770378924
+    z: -308.975914409399
+    yaw: -86.67483
+    pitch: 4.499991
+  bp:
+    world: world
+    x: 9085.5
+    y: 23.0
+    z: -2303.5
+    yaw: 178.45674
+    pitch: -45.450024
+  ap:
+    world: world
+    x: -239.58703026211347
+    y: 64.0
+    z: -26.800025399210032
+    yaw: 86.228905
+    pitch: 2.1293805
+  ee:
+    world: world
+    x: -309.516017364408
+    y: 250.0
+    z: -121.52496386665821
+    yaw: -88.27485
+    pitch: 74.104935
+muted: false
+jailed: false
+money: '720.000'
+ignore:
+- gamerthug
+- skryzio
+- acrox45
+- xeloman523
+- lethuglife
+- _iceshadow_
+- fayzen75

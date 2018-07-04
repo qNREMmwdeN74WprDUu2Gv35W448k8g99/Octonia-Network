@@ -1,0 +1,31 @@
+timestamps:
+  login: 1455536036642
+  kits:
+    octonien: 1455105313825
+    chevalier: 1455105276630
+  lastteleport: 1455536491786
+  lastheal: 1455536054167
+  logout: 1455536512053
+ipAddress: 2.5.95.12
+lastlocation:
+  world: world
+  x: 1105.8449837491767
+  y: 5.0
+  z: 7571.611626303554
+  yaw: -220.02344
+  pitch: -3.0699055
+homes:
+  lol:
+    world: world
+    x: 1293.300000011921
+    y: 4.0
+    z: 7483.149180220146
+    yaw: -142.48743
+    pitch: 50.5476
+logoutlocation:
+  world: world
+  x: 1105.0792122041994
+  y: 5.0
+  z: 7570.5486252396395
+  yaw: -311.5874
+  pitch: 26.252817

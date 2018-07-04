@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1456756933211
+  kits:
+    bouffe: 1454863063923
+    heros: 1455095319682
+    octonien: 1454869118039
+    chevalier: 1455095305979
+    legendaire: 1455095331281
+    alchimiste: 1455049863853
+  logout: 1456756952231
+  lastteleport: 1456756944648
+  mute: 0
+  lastheal: 1454862798190
+ipAddress: 83.200.23.94
+lastlocation:
+  world: world
+  x: 5.9839825642230515
+  y: 28.0
+  z: 78.65125772283282
+  yaw: -135.86258
+  pitch: -5.700023
+logoutlocation:
+  world: world
+  x: -2.0906524139501594
+  y: 188.0
+  z: 33.908714232612716
+  yaw: -226.75098
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: 702.3000000119209
+    y: 4.0
+    z: 773.3062040541724
+    yaw: 266.97833
+    pitch: 48.3
+muted: false
+uuid: ac7776d8-0105-3621-b81c-e057e3ac1ef1

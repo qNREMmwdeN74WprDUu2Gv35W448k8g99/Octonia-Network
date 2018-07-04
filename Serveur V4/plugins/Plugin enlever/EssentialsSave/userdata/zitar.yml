@@ -1,0 +1,35 @@
+uuid: f2cae04e-33f5-3985-966b-c9439d3b8af8
+timestamps:
+  login: 1457270542577
+  kits:
+    bouffe: 1457271552685
+    octonien: 1456510578517
+  lastteleport: 1457271552741
+  logout: 1457271662745
+  lastheal: 1457271212032
+ipAddress: 78.234.51.7
+lastlocation:
+  world: world
+  x: 285.699999988079
+  y: 64.0
+  z: -90.89155066283482
+  yaw: 64.20303
+  pitch: 1.6828364
+homes:
+  home:
+    world: world
+    x: 1643.933330708791
+    y: 61.0
+    z: 1486.2590277623492
+    yaw: 83.027466
+    pitch: 23.496511
+logoutlocation:
+  world: world
+  x: 2826.0141045784417
+  y: 6.0
+  z: 4447.189503657363
+  yaw: 215.95667
+  pitch: 13.709285
+money: '6790.0'
+ignore:
+- maxkiller360

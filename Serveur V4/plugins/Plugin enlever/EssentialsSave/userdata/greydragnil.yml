@@ -1,0 +1,35 @@
+uuid: 2730c6e2-545f-3890-9083-04640f2ae1ea
+timestamps:
+  login: 1457257159531
+  kits:
+    bouffe: 1457037593085
+    octonien: 1457123672306
+    decouverte: 1457031836702
+  lastteleport: 1457124031606
+  logout: 1457257214101
+  lastheal: 1457124576960
+ipAddress: 193.248.218.240
+lastlocation:
+  world: world
+  x: -0.021441912687575976
+  y: 190.0
+  z: -1.3073676225537214
+  yaw: -7.3009763
+  pitch: 18.597826
+homes:
+  home:
+    world: world
+    x: 5224.9549874907825
+    y: 6.0
+    z: -3440.2739011142994
+    yaw: -135.71143
+    pitch: 16.11401
+logoutlocation:
+  world: world
+  x: 5227.699999988079
+  y: 6.0
+  z: -3452.1668594535113
+  yaw: 56.81589
+  pitch: 7.650023
+ignore:
+- jackietelephone

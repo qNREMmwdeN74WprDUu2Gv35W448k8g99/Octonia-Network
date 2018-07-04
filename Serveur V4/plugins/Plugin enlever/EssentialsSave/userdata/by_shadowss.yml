@@ -1,0 +1,60 @@
+uuid: aaa6f1e8-686e-359e-ac0f-02411d547c42
+timestamps:
+  login: 1457034158467
+  kits:
+    minerais: 1456998493941
+    heros: 1456998314926
+    bouffe: 1456862842351
+    octonien: 1456667777588
+    chevalier: 1456998287134
+    decouverte: 1456998519131
+    xp: 1456998389668
+    legendaire: 1457014289086
+  lastteleport: 1456999498784
+  logout: 1457034221488
+  lastheal: 1456604604745
+ipAddress: 86.242.147.10
+lastlocation:
+  world: world
+  x: 4760.788740376322
+  y: 6.0
+  z: 6522.093935514788
+  yaw: -111.41412
+  pitch: -19.453894
+logoutlocation:
+  world: world
+  x: 5978.135242087571
+  y: 26.75
+  z: 5740.318650995906
+  yaw: -285.30963
+  pitch: 71.881836
+homes:
+  mine:
+    world: world
+    x: 2538.699999988079
+    y: 5.0
+    z: 8637.384935269658
+    yaw: -190.682
+    pitch: -5.2500267
+  spawner:
+    world: world
+    x: 4758.47104399393
+    y: 13.0
+    z: 6519.061216172919
+    yaw: 235.23558
+    pitch: -4.3038874
+  afk:
+    world: world
+    x: 4754.300000011921
+    y: 19.100000023841858
+    z: 6500.699999988079
+    yaw: -48.677246
+    pitch: 33.000084
+  base:
+    world: world
+    x: 5973.22844501669
+    y: 19.5
+    z: 5733.045490127598
+    yaw: -340.7234
+    pitch: -2.5502565
+money: '10160.0'

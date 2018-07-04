@@ -1,0 +1,73 @@
+timestamps:
+  login: 1457276638019
+  kits:
+    bouffe: 1457146954000
+    heros: 1457280693488
+    octonien: 1457278112120
+    chevalier: 1457225124689
+    decouverte: 1457220489645
+    xp: 1457279132521
+    legendaire: 1457276844713
+  logout: 1457282578408
+  lastteleport: 1457281820624
+  lastheal: 1457282507026
+  mute: 0
+ipAddress: 90.32.102.34
+lastlocation:
+  world: world
+  x: -9312.494842788296
+  y: 103.0
+  z: -317.69999998807907
+  yaw: -271.60156
+  pitch: 17.32424
+homes:
+  bp:
+    world: world
+    x: -9311.931887610373
+    y: 114.5
+    z: -304.25102710356373
+    yaw: -359.7515
+    pitch: 3.0001292
+  pille:
+    world: world
+    x: -8324.01190205251
+    y: 6.0
+    z: -2809.476506913378
+    yaw: -80.85332
+    pitch: 19.650257
+  hors:
+    world: world
+    x: -8302.813455767833
+    y: 6.0
+    z: -2801.523593661071
+    yaw: -228.43262
+    pitch: 25.786024
+  ap:
+    world: world
+    x: 291.57093987677115
+    y: 64.0
+    z: -74.71022613752407
+    yaw: 0.15838154
+    pitch: -1.5000613
+  sky:
+    world: world
+    x: -5701.971868912348
+    y: 253.875
+    z: 1780.339919761511
+    yaw: 135.91107
+    pitch: 42.127506
+logoutlocation:
+  world: world
+  x: -9306.748894305332
+  y: 113.0
+  z: -298.00971418947233
+  yaw: -189.94788
+  pitch: 9.599903
+money: '150.545'
+ignore:
+- minininja
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+uuid: 6a478717-6223-31da-8fca-b8e9619e59e3

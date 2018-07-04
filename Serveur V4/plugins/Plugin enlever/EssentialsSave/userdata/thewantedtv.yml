@@ -1,0 +1,74 @@
+socialspy: false
+timestamps:
+  login: 1457281594565
+  kits:
+    bouffe: 1457288450725
+    minerais: 1457286257176
+    heros: 1457288419572
+    octonien: 1456934294769
+    chevalier: 1457288432756
+    decouverte: 1457284448085
+    legendaire: 1457288359199
+    alchimiste: 1457288575251
+    golden: 1457284563619
+  lastteleport: 1457288346895
+  logout: 1457288718743
+  mute: 0
+  lastheal: 1457287954969
+ipAddress: 31.35.43.111
+lastlocation:
+  world: world
+  x: 8994.75267526753
+  y: 6.0
+  z: 349.31948184517597
+  yaw: 220.67369
+  pitch: 37.48333
+homes:
+  ap:
+    world: world
+    x: 95.59520449102658
+    y: 64.0
+    z: 284.8771125986062
+    yaw: -189.51477
+    pitch: 6.2492805
+  p2:
+    world: world
+    x: 6506.5
+    y: 5.0
+    z: -606.5
+    yaw: -121.41711
+    pitch: 5.3190866
+  p:
+    world: world
+    x: 4615.2970225664
+    y: 66.0
+    z: -8762.474891577198
+    yaw: -168.40805
+    pitch: 15.042399
+  potzol:
+    world: world
+    x: 5081.4512202051865
+    y: 69.0
+    z: 2440.4425249476694
+    yaw: -15.883556
+    pitch: 32.147873
+  bp:
+    world: world
+    x: 4721.699999988079
+    y: 5.0
+    z: -8558.576113794186
+    yaw: -208.34204
+    pitch: -10.349998
+logoutlocation:
+  world: world
+  x: 4717.296101891517
+  y: 6.5
+  z: -8557.711709135881
+  yaw: -177.16693
+  pitch: -0.9399675
+muted: false
+money: '4.415'
+uuid: 2f27d526-87c5-3a8e-9ee9-200f8fa92430
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 0

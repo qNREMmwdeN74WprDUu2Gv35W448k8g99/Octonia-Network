@@ -1,0 +1,68 @@
+timestamps:
+  login: 1457276234475
+  kits:
+    bouffe: 1457289889647
+    heros: 1457280818864
+    octonien: 1457287851415
+    chevalier: 1457284520526
+    xp: 1457266793464
+    decouverte: 1457285143945
+    legendaire: 1457282699034
+  lastteleport: 1457291178208
+  logout: 1457295880622
+  lastheal: 1457292839467
+  mute: 0
+ipAddress: 92.135.88.241
+lastlocation:
+  world: world
+  x: -45.52108807357473
+  y: 23.419999986886978
+  z: -54.305479374174965
+  yaw: 29.46228
+  pitch: 16.428345
+logoutlocation:
+  world: world
+  x: 3624.787452070628
+  y: 5.0
+  z: -2410.97805506668
+  yaw: -70.7995
+  pitch: -12.587374
+homes:
+  home:
+    world: world
+    x: 283.1664419125794
+    y: 69.0
+    z: -215.7083097569266
+    yaw: 2.86602
+    pitch: -10.050068
+  sky:
+    world: world
+    x: 5695.5
+    y: 253.875
+    z: 3575.5
+    yaw: -17.68646
+    pitch: 39.14999
+  bp:
+    world: world
+    x: 1879.699999988079
+    y: 5.0
+    z: -5730.80594263788
+    yaw: 138.19832
+    pitch: -6.300114
+  avant:
+    world: world
+    x: 100.09711260029698
+    y: 64.0
+    z: 283.78887083997984
+    yaw: -91.49989
+    pitch: 20.999994
+  base:
+    world: world
+    x: 8778.816302313635
+    y: 5.0
+    z: 2386.6758274262334
+    yaw: -65.00949
+    pitch: 8.850053
+money: '6125.465'
+uuid: 99f4b8d5-cb72-3be9-a712-dadf3565466d
+muted: false

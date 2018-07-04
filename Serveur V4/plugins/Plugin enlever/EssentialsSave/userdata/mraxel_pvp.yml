@@ -1,0 +1,59 @@
+timestamps:
+  login: 1457279835672
+  kits:
+    bouffe: 1457281340698
+    minerais: 1457281961905
+    heros: 1457266521808
+    octonien: 1457281324452
+    chevalier: 1457270611516
+    decouverte: 1457282006222
+    construction: 1457267755743
+  logout: 1457282303971
+  lastteleport: 1457282128550
+  lastheal: 1456418148353
+ipAddress: 176.187.39.10
+lastlocation:
+  world: world
+  x: 1644.807962392811
+  y: 5.0
+  z: 190.76249998807907
+  yaw: -175.39185
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 13.796494153743451
+  y: 189.0
+  z: 9.578193842697116
+  yaw: -103.75118
+  pitch: 35.697834
+homes:
+  bp:
+    world: world
+    x: 1644.709450369605
+    y: 5.0
+    z: 190.01201128856488
+    yaw: -158.74243
+    pitch: 36.60011
+  lave:
+    world: world
+    x: -1380.363839519176
+    y: 60.0
+    z: -3069.3414577776393
+    yaw: -39.655273
+    pitch: 36.000126
+  ap:
+    world: world
+    x: 3384.5716577358303
+    y: 30.0
+    z: -610.8223993501937
+    yaw: -16.233032
+    pitch: 46.05004
+  farm2:
+    world: world
+    x: 4004.2442155540675
+    y: 66.0
+    z: 1073.4762937140367
+    yaw: -173.25244
+    pitch: 33.59998
+money: '4.20'
+uuid: 80b8b9a8-78a9-3fcd-aa80-1effb9b88bdd

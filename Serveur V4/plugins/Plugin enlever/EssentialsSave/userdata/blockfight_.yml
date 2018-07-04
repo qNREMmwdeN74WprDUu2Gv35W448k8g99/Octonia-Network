@@ -1,0 +1,39 @@
+uuid: afbad657-f9cc-3ae2-9160-d8499c638021
+timestamps:
+  login: 1457127139089
+  kits:
+    bouffe: 1457127210331
+    octonien: 1457128070517
+  logout: 1457129012059
+  lastteleport: 1457128995437
+  mute: 1772661307578
+  jail: 0
+ipAddress: 90.33.253.51
+lastlocation:
+  world: world
+  x: -8606.64471396519
+  y: 53.0
+  z: 2805.6382438100145
+  yaw: 264.58008
+  pitch: 24.071825
+money: '1645.0'
+homes:
+  home:
+    world: world
+    x: -8606.300000011921
+    y: 53.0
+    z: 2805.3790928030403
+    yaw: 267.78326
+    pitch: 2.585115
+muted: true
+logoutlocation:
+  world: world
+  x: -8607.699999988079
+  y: 60.0
+  z: 2805.300000011921
+  yaw: 2.8050232
+  pitch: -78.92297
+jailed: false
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 1457132613384

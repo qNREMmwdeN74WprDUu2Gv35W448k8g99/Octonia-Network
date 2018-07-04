@@ -1,0 +1,75 @@
+uuid: 7a4c6302-2390-3746-82c7-c904d7e82823
+timestamps:
+  login: 1457294025212
+  kits:
+    minerais: 1457280178206
+    heros: 1457293587884
+    bouffe: 1457296594056
+    octonien: 1457282965354
+    chevalier: 1457282885923
+    decouverte: 1457285794717
+    legendaire: 1457295881017
+  logout: 1457298822520
+  lastteleport: 1457297455965
+  lastheal: 1457298692597
+  mute: 0
+ipAddress: 88.165.48.19
+lastlocation:
+  world: world
+  x: 282.0843483859308
+  y: 67.0
+  z: 2.4069389593527504
+  yaw: -273.54105
+  pitch: 19.94992
+logoutlocation:
+  world: world
+  x: 5532.849256954966
+  y: 43.5
+  z: 1399.02377943954
+  yaw: 84.767334
+  pitch: 21.149998
+homes:
+  bp:
+    world: world
+    x: 7383.167991435192
+    y: 63.5
+    z: 3877.8196652460197
+    yaw: -7.690171
+    pitch: 1.1999967
+  ap:
+    world: world
+    x: 286.69999998807907
+    y: 64.0
+    z: -14.699999988079071
+    yaw: 40.858856
+    pitch: 2.6998274
+  devant:
+    world: world
+    x: 262.7166858525551
+    y: 64.0
+    z: 3.339722751956919
+    yaw: 181.85876
+    pitch: 8.399823
+  ap2:
+    world: world
+    x: 286.43849120586856
+    y: 64.0
+    z: -119.44658602068196
+    yaw: -264.9914
+    pitch: -4.5001936
+  home:
+    world: world
+    x: 5541.1401301872675
+    y: 43.0
+    z: 1399.0204070677094
+    yaw: -5.4539795
+    pitch: -5.699997
+  sinystros:
+    world: world
+    x: 5543.5
+    y: 150.0
+    z: 1384.5
+    yaw: 87.94966
+    pitch: 28.35008
+money: '12879.499999'
+muted: false

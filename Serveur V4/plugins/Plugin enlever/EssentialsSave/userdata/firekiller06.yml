@@ -1,0 +1,73 @@
+timestamps:
+  login: 1457219744504
+  kits:
+    heros: 1457214534456
+    bouffe: 1457032588087
+    minerais: 1457219869867
+    octonien: 1457200325348
+    chevalier: 1457034022452
+    xp: 1457207808959
+    decouverte: 1456640168466
+    legendaire: 1457208973118
+    construction: 1457032979099
+    golden: 1457219863790
+  lastteleport: 1457219881894
+  logout: 1457219917822
+  lastheal: 1457215055846
+  mute: 0
+ipAddress: 88.167.96.5
+lastlocation:
+  world: world
+  x: -124.30000001192093
+  y: 64.0
+  z: 282.5403785421513
+  yaw: 177.41803
+  pitch: 41.462402
+logoutlocation:
+  world: world
+  x: -5.415260734951577
+  y: 188.0
+  z: 23.877297173698544
+  yaw: -119.20218
+  pitch: 26.930622
+homes:
+  mine:
+    world: world
+    x: 4548.671611288155
+    y: 5.0
+    z: 70.57971838185627
+    yaw: 266.9522
+    pitch: 6.383437
+  bp2:
+    world: world
+    x: -58.780671984984146
+    y: 64.0
+    z: -1164.460486511732
+    yaw: -345.22763
+    pitch: 82.646416
+  sable:
+    world: world
+    x: 261.30000001192093
+    y: 66.0
+    z: 2897.8658467428863
+    yaw: 21.503996
+    pitch: 31.0176
+  sky:
+    world: world
+    x: 775.6868055428495
+    y: 253.875
+    z: -9674.416499823583
+    yaw: -77.45277
+    pitch: -8.304004
+  farm:
+    world: world
+    x: 2909.362541611182
+    y: 5.0
+    z: 1202.7836975634143
+    yaw: -163.2707
+    pitch: 18.115171
+ignore:
+- khadgar
+muted: false
+money: '22500.005'
+uuid: 086824d3-59b1-37b1-b9fb-9daac8ffe2ba

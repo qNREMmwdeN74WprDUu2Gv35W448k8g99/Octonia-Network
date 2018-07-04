@@ -1,0 +1,51 @@
+socialspy: false
+timestamps:
+  login: 1455288608790
+  kits:
+    bouffe: 1455288715859
+    octonien: 1455220492970
+    druide: 1455018509806
+    chevalier: 1455289858660
+    decouverte: 1455018449281
+    construction: 1455214722401
+    golden: 1455018470554
+    alchimiste: 1455289843675
+  logout: 1455290559599
+  lastteleport: 1455289881060
+  lastheal: 1455017405474
+ipAddress: 109.25.13.92
+lastlocation:
+  world: world
+  x: -1.2758723697559549
+  y: 190.5
+  z: 1.318467877849797
+  yaw: -265.0405
+  pitch: 22.949984
+homes:
+  base:
+    world: world
+    x: 3637.18734416167
+    y: 56.0
+    z: 8631.071109020733
+    yaw: -227.61096
+    pitch: 20.850014
+  home:
+    world: world
+    x: 3545.409300665752
+    y: 255.0
+    z: 9317.636366340976
+    yaw: -128.25122
+    pitch: 43.199802
+logoutlocation:
+  world: world
+  x: -0.24047449566566825
+  y: 189.0
+  z: -4.956609271039816
+  yaw: -180.73987
+  pitch: 6.450005
+ignore:
+- bilal77
+money: '1950'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

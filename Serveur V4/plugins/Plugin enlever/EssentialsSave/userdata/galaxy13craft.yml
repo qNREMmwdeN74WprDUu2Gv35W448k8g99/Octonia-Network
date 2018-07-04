@@ -1,0 +1,43 @@
+uuid: bbe60feb-e72f-320b-8918-22a1f10e9a81
+timestamps:
+  login: 1457179689917
+  kits:
+    bouffe: 1456937507286
+    octonien: 1456937455002
+    decouverte: 1456937520063
+  logout: 1457179878835
+  lastteleport: 1457179809857
+  lastheal: 1456942151663
+  mute: 1457183474352
+ipAddress: 90.12.120.92
+lastlocation:
+  world: world
+  x: -3588.1885577820894
+  y: 239.0
+  z: 2438.5238852363727
+  yaw: 159.40155
+  pitch: 17.40004
+homes:
+  home:
+    world: world
+    x: 6512.142956166954
+    y: 5.0
+    z: -607.2765572603904
+    yaw: -187.26794
+    pitch: -10.799995
+logoutlocation:
+  world: world
+  x: 6506.729868965337
+  y: 5.0
+  z: -604.7532768909608
+  yaw: 321.68182
+  pitch: 9.900007
+ignore:
+- azzoccxo_o
+- ilonah
+- hugo147
+money: '1877.680'
+muted: true
+ban:
+  reason: Banni temporairement du serveur pour 3 jours.
+  timeout: 1457439079254

@@ -1,0 +1,34 @@
+uuid: 5ca70f50-386e-34b1-b274-3f517fb240d3
+timestamps:
+  login: 1456229254971
+  kits:
+    bouffe: 1456222805600
+    octonien: 1456222111099
+  lastteleport: 1456229418486
+  logout: 1456229446952
+ipAddress: 216.172.142.59
+lastlocation:
+  world: world
+  x: 527.2388916184148
+  y: 72.0
+  z: -486.91416869360546
+  yaw: 328.94986
+  pitch: 10.5001135
+logoutlocation:
+  world: world
+  x: 24.624173658490157
+  y: 202.0
+  z: -26.85062995097687
+  yaw: -93.79909
+  pitch: 42.057713
+homes:
+  home:
+    world: world
+    x: 526.1040568781982
+    y: 71.0
+    z: -486.16675002244904
+    yaw: 37.94983
+    pitch: 37.80012
+ban:
+  reason: 'Banni : Bon cheat :)'
+  timeout: 0

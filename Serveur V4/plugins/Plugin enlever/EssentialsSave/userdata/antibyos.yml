@@ -1,0 +1,22 @@
+uuid: cabfb721-78a8-374a-ac1b-82116d3b7889
+timestamps:
+  login: 1456860072806
+  kits:
+    octonien: 1456860400116
+  lastteleport: 1456860422260
+  logout: 1456860427361
+ipAddress: 86.67.70.54
+lastlocation:
+  world: world
+  x: -2.056809867083062
+  y: 187.0
+  z: 70.76726930889704
+  yaw: 350.67444
+  pitch: 74.4926
+logoutlocation:
+  world: world
+  x: 0.03607709119533256
+  y: 189.0
+  z: 13.976096886972925
+  yaw: -356.50098
+  pitch: 3.2978225

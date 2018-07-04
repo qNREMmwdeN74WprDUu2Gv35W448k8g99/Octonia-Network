@@ -1,0 +1,8 @@
+#Paint mode - 'LOOK' will paint where you are looking, 'LOCATION' will paint at your current location
+mode: LOOK
+#Interval of the scheduler - Increasing it will display the particles in a slower interval but will also cause slower drawing.
+interval: 1
+#Change draw-distance by scrolling
+changeDistance: true
+#Interval of draw-distance
+distanceInterval: 0.25

@@ -1,0 +1,40 @@
+uuid: 12ee142c-67e8-3372-b5fb-72d1719182cf
+timestamps:
+  login: 1457293524623
+  lastteleport: 1457294717530
+  logout: 1457294908314
+  kits:
+    bouffe: 1457293654990
+    octonien: 1457259491450
+    decouverte: 1457289246201
+  jail: 0
+  mute: 0
+  lastheal: 1457294700821
+ipAddress: 78.152.149.222
+lastlocation:
+  world: world
+  x: -8785.286161007636
+  y: 67.0
+  z: -4485.703834197582
+  yaw: -122.9075
+  pitch: 0.75765765
+logoutlocation:
+  world: world
+  x: -8748.194270103231
+  y: 5.0
+  z: -4641.699999988079
+  yaw: -141.03467
+  pitch: 23.214075
+homes:
+  home:
+    world: world
+    x: 5326.5
+    y: 253.875
+    z: -3417.5
+    yaw: -137.13231
+    pitch: 58.393166
+jailed: false
+ignore:
+- nael633
+muted: true
+money: '212.0'

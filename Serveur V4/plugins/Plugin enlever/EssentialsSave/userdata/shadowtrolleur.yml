@@ -1,0 +1,84 @@
+socialspy: false
+timestamps:
+  login: 1457287752897
+  kits:
+    bouffe: 1455816147389
+    heros: 1457283995445
+    octonien: 1457080091053
+    chevalier: 1457172344849
+    decouverte: 1457282761607
+    legendaire: 1457280868969
+    alchimiste: 1457263500018
+    golden: 1457200121122
+  lastteleport: 1457289031574
+  logout: 1457289035548
+  lastheal: 1457288541073
+  jail: 0
+  mute: 0
+ipAddress: 90.58.14.165
+lastlocation:
+  world: world
+  x: -8459.845266551578
+  y: 76.0
+  z: -5277.6188075876735
+  yaw: -280.78784
+  pitch: 42.286533
+logoutlocation:
+  world: world
+  x: -5973.5
+  y: 254.0
+  z: -3305.5
+  yaw: 182.09013
+  pitch: 12.375509
+homes:
+  bp:
+    world: world
+    x: -4054.300000011921
+    y: 6.0
+    z: -5014.300000011921
+    yaw: -222.879
+    pitch: 16.811928
+  pillage3:
+    world: world
+    x: 2862.450549227357
+    y: 254.0
+    z: -49.825627041066056
+    yaw: 180.04999
+    pitch: 47.010544
+  pillage:
+    world: world
+    x: 8276.300000011921
+    y: 69.0
+    z: -5142.573635526858
+    yaw: 275.50775
+    pitch: 22.603271
+  newbp:
+    world: world
+    x: -5981.335082799037
+    y: 6.0
+    z: -3325.104600590534
+    yaw: 223.38953
+    pitch: 33.790276
+  haut:
+    world: world
+    x: -5988.5
+    y: 254.0
+    z: -3324.5
+    yaw: 358.27103
+    pitch: 12.9383135
+money: '44.00'
+ignore:
+- skiizhd
+- destoov4
+- playzerflo
+- mrkayle
+- darkface03
+- flapyrage
+- imperialeboss
+- mr_otter
+- jes
+- creepyeagle
+- ohhkearz
+uuid: 620a01b9-df58-3587-b601-36a32d900541
+jailed: false
+muted: false

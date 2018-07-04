@@ -1,0 +1,41 @@
+timestamps:
+  login: 1457301427205
+  logout: 1457305057927
+  kits:
+    bouffe: 1457267252700
+    octonien: 1457267262545
+    druide: 1457288167511
+    decouverte: 1457267233004
+    xp: 1457288170096
+  lastteleport: 1457304991868
+  mute: 0
+  lastheal: 1457304850577
+ipAddress: 41.141.25.215
+lastlocation:
+  world: world
+  x: 0.13946957603070648
+  y: 190.5
+  z: 1.0285632596441743
+  yaw: -57.217163
+  pitch: 22.192339
+logoutlocation:
+  world: world
+  x: -6744.7363704261315
+  y: 54.0
+  z: -2175.694444284196
+  yaw: 353.2536
+  pitch: 26.410316
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 3026.1061267271357
+    y: 250.875
+    z: -864.4344293630684
+    yaw: 8.059113
+    pitch: 57.664017
+money: '4219.515'
+muted: false
+uuid: 01b614c6-b990-392c-b854-6c68f0402922
+ignore:
+- stzko

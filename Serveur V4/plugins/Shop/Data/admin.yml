@@ -1,0 +1,1130 @@
+shops:
+  admin:
+    '1':
+      location: world,-15,154,3
+      price: 40.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRASS
+    '2':
+      location: world,-17,154,3
+      price: 30.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+    '3':
+      location: world,-19,154,3
+      price: 30.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+    '4':
+      location: world,-21,154,3
+      price: 100.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+    '5':
+      location: world,-23,154,3
+      price: 100.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 2
+    '6':
+      location: world,-25,154,3
+      price: 100.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+    '7':
+      location: world,-27,154,3
+      price: 100.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 1
+    '8':
+      location: world,-29,154,3
+      price: 100.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 3
+    '9':
+      location: world,-31,154,3
+      price: 30.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+    '10':
+      location: world,-33,154,3
+      price: 850.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+    '11':
+      location: world,-35,154,3
+      price: 30.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHERRACK
+    '12':
+      location: world,-37,154,3
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+    '13':
+      location: world,-39,154,3
+      price: 30.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SOUL_SAND
+    '14':
+      location: world,-41,154,3
+      price: 50.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_BRICK
+    '15':
+      location: world,-43,154,3
+      price: 100.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_STONE
+    '16':
+      location: world,-45,154,3
+      price: 30.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+    '17':
+      location: world,-47,154,3
+      price: 30.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SNOW_BLOCK
+    '18':
+      location: world,-47,154,-3
+      price: 2.0
+      amount: 16
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SNOW_BLOCK
+    '19':
+      location: world,-45,154,-3
+      price: 4.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+    '20':
+      location: world,-43,154,-3
+      price: 5.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_STONE
+    '21':
+      location: world,-41,154,-3
+      price: 4.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_BRICK
+    '22':
+      location: world,-39,154,-3
+      price: 5.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SOUL_SAND
+    '23':
+      location: world,-37,154,-3
+      price: 4.0
+      amount: 16
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+    '24':
+      location: world,-35,154,-3
+      price: 3.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHERRACK
+    '25':
+      location: world,-33,154,-3
+      price: 50.0
+      amount: 16
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+    '26':
+      location: world,-31,154,-3
+      price: 3.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+    '27':
+      location: world,-17,154,-3
+      price: 3.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIRT
+    '28':
+      location: world,-15,154,-3
+      price: 5.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRASS
+    '29':
+      location: world,-29,154,-3
+      price: 10.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 3
+    '30':
+      location: world,-27,154,-3
+      price: 10.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 1
+    '31':
+      location: world,-25,154,-3
+      price: 10.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+    '32':
+      location: world,-23,154,-3
+      price: 10.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 2
+    '33':
+      location: world,-21,154,-3
+      price: 10.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+    '34':
+      location: world,-19,154,-3
+      price: 5.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+    '35':
+      location: world,-13,154,3
+      price: 300.0
+      amount: 5
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOKSHELF
+    '36':
+      location: world,-13,154,-3
+      price: 25.0
+      amount: 3
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOKSHELF
+    '37':
+      location: world,13,154,-3
+      price: 30.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+    '38':
+      location: world,15,154,-3
+      price: 2500.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+    '39':
+      location: world,17,154,-3
+      price: 10000.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+    '40':
+      location: world,19,154,-3
+      price: 50.0
+      amount: 5
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_FISH
+        damage: 1
+    '41':
+      location: world,23,154,-3
+      price: 50.0
+      amount: 5
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+    '42':
+      location: world,25,154,-3
+      price: 50.0
+      amount: 5
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+    '43':
+      location: world,27,154,-3
+      price: 50.0
+      amount: 10
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKIE
+    '44':
+      location: world,29,154,-3
+      price: 50.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: CAKE
+    '45':
+      location: world,31,154,-3
+      price: 50.0
+      amount: 10
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+    '46':
+      location: world,33,154,-3
+      price: 40.0
+      amount: 10
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON
+    '47':
+      location: world,35,154,-3
+      price: 40.0
+      amount: 10
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BAKED_POTATO
+    '48':
+      location: world,37,154,-3
+      price: 45.0
+      amount: 10
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+    '49':
+      location: world,39,154,-3
+      price: 50.0
+      amount: 10
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_CHICKEN
+    '50':
+      location: world,41,154,-3
+      price: 75.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PIZZA
+        damage: 1
+    '51':
+      location: world,43,154,-3
+      price: 75.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: CANDY
+        damage: 1
+    '52':
+      location: world,45,154,-3
+      price: 150.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: JOINT_WEED
+        damage: 1
+    '53':
+      location: world,47,154,-3
+      price: 1000.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLEHAST
+        damage: 1
+    '54':
+      location: world,47,154,3
+      price: 45.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+    '55':
+      location: world,45,154,3
+      price: 50.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_PEARL
+    '56':
+      location: world,43,154,3
+      price: 45.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EGG
+    '57':
+      location: world,41,154,3
+      price: 40.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: FEATHER
+    '58':
+      location: world,39,154,3
+      price: 40.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+    '59':
+      location: world,37,154,3
+      price: 40.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+    '60':
+      location: world,35,154,3
+      price: 35.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+    '61':
+      location: world,33,154,3
+      price: 200.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SLIME_BALL
+    '62':
+      location: world,31,154,3
+      price: 20.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SPIDER_EYE
+    '63':
+      location: world,29,154,3
+      price: 30.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+    '64':
+      location: world,27,154,3
+      price: 35.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA_CREAM
+    '65':
+      location: world,25,154,3
+      price: 15.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER
+    '66':
+      location: world,23,154,3
+      price: 1.5
+      amount: 10
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+    '67':
+      location: world,21,154,3
+      price: 25.0
+      amount: 1
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+    '68':
+      location: world,19,154,3
+      price: 100.0
+      amount: 1
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+    '69':
+      location: world,17,154,3
+      price: 5.0
+      amount: 10
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+    '70':
+      location: world,15,154,3
+      price: 3.0
+      amount: 10
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON
+    '71':
+      location: world,13,154,3
+      price: 8.0
+      amount: 1
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLEHAST
+        damage: 1
+    '72':
+      location: world,3,154,13
+      price: 10.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+    '73':
+      location: world,3,154,15
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+    '74':
+      location: world,3,154,17
+      price: 30.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+    '75':
+      location: world,3,154,19
+      price: 150.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+    '76':
+      location: world,3,154,21
+      price: 1250.0
+      amount: 12
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+    '77':
+      location: world,3,154,23
+      price: 350.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+    '78':
+      location: world,3,154,25
+      price: 1700.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBALT
+    '79':
+      location: world,3,154,27
+      price: 2000.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EXTANE
+    '80':
+      location: world,3,154,29
+      price: 3500.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: ANDESITE
+    '81':
+      location: world,3,154,31
+      price: 4100.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDORITE
+    '82':
+      location: world,3,154,33
+      price: 3000.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: OCTORITE_FRAGMENT
+    '83':
+      location: world,3,154,35
+      price: 30.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ
+    '84':
+      location: world,-3,154,13
+      price: 5.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+    '85':
+      location: world,-3,154,15
+      price: 1.0
+      amount: 16
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+    '86':
+      location: world,-3,154,17
+      price: 4.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+    '87':
+      location: world,-3,154,19
+      price: 50.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+    '88':
+      location: world,-3,154,21
+      price: 20.0
+      amount: 8
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+    '89':
+      location: world,-3,154,23
+      price: 10.0
+      amount: 16
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+    '90':
+      location: world,-3,154,25
+      price: 5.0
+      amount: 8
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBALT
+    '91':
+      location: world,-3,154,27
+      price: 8.0
+      amount: 8
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EXTANE
+    '92':
+      location: world,-3,154,29
+      price: 12.0
+      amount: 8
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: ANDESITE
+    '93':
+      location: world,-3,154,31
+      price: 15.0
+      amount: 8
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDORITE
+    '94':
+      location: world,3,154,37
+      price: 50.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: STRING
+    '95':
+      location: world,3,154,39
+      price: 200.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SADDLE
+    '96':
+      location: world,3,154,41
+      price: 50.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LEASH
+    '97':
+      location: world,3,154,43
+      price: 100.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREWING_STAND_ITEM
+    '98':
+      location: world,3,154,45
+      price: 100.0
+      amount: 3
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: NETHER_STALK
+    '99':
+      location: world,3,154,47
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS_BOTTLE
+    '100':
+      location: world,-3,154,47
+      price: 100.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR_CANE
+    '101':
+      location: world,-3,154,45
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+    '102':
+      location: world,-3,154,43
+      price: 200.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: CACTUS
+    '103':
+      location: world,-3,154,41
+      price: 200.0
+      amount: 64
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+    '104':
+      location: world,-3,154,39
+      price: 7.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR_CANE
+    '105':
+      location: world,-3,154,37
+      price: 1.0
+      amount: 16
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+    '106':
+      location: world,-3,154,35
+      price: 15.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: CACTUS
+    '107':
+      location: world,-3,154,33
+      price: 25.0
+      amount: 64
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN
+    '108':
+      location: world,3,154,-13
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SEEDS
+    '109':
+      location: world,3,154,-15
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: MELON_SEEDS
+    '110':
+      location: world,3,154,-17
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN_SEEDS
+    '111':
+      location: world,3,154,-19
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+    '112':
+      location: world,3,154,-21
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 2
+    '113':
+      location: world,3,154,-23
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 1
+    '114':
+      location: world,3,154,-25
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 3
+    '115':
+      location: world,3,154,-27
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 4
+    '116':
+      location: world,3,154,-29
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        damage: 5
+    '117':
+      location: world,3,154,-31
+      price: 50.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_MUSHROOM
+    '118':
+      location: world,3,154,-33
+      price: 50.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BROWN_MUSHROOM
+    '119':
+      location: world,3,154,-35
+      price: 50.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+    '120':
+      location: world,3,154,-37
+      price: 125.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+    '121':
+      location: world,3,154,-39
+      price: 50.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+    '122':
+      location: world,3,154,-41
+      price: 100.0
+      amount: 1
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SHEARS
+    '123':
+      location: world,3,154,-43
+      price: 50.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 3
+    '124':
+      location: world,3,154,-45
+      price: 50.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 1
+    '125':
+      location: world,3,154,-47
+      price: 50.0
+      amount: 8
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 2
+    '126':
+      location: world,-3,154,-47
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 1
+    '127':
+      location: world,-3,154,-45
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 2
+    '128':
+      location: world,-3,154,-43
+      price: 20.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+    '129':
+      location: world,-3,154,-41
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 5
+    '130':
+      location: world,-3,154,-39
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 6
+    '131':
+      location: world,-3,154,-37
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 7
+    '132':
+      location: world,-3,154,-35
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 8
+    '133':
+      location: world,-3,154,-33
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 9
+    '134':
+      location: world,-3,154,-31
+      price: 100.0
+      amount: 16
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+    '135':
+      location: world,21,154,-3
+      price: 50.0
+      amount: 5
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_FISH
+    '136':
+      location: world,-3,154,-29
+      price: 200.0
+      amount: 32
+      type: admin sell
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: WEED_ITEM
+    '137':
+      location: world,-3,154,-27
+      price: 10.0
+      amount: 32
+      type: admin buy
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        type: WEEDPOWER

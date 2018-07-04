@@ -1,0 +1,61 @@
+timestamps:
+  login: 1456080224218
+  lastteleport: 1456082652459
+  kits:
+    bouffe: 1456082412694
+    heros: 1456080791664
+    octonien: 1456058554777
+    chevalier: 1456080479515
+    decouverte: 1456080740146
+    legendaire: 1456080437918
+    alchimiste: 1456059762407
+  logout: 1456082676437
+  lastheal: 1456081317511
+ipAddress: 93.5.105.41
+lastlocation:
+  world: world
+  x: -20.84015631381771
+  y: 189.0
+  z: 18.939166869984227
+  yaw: -141.20604
+  pitch: 28.349625
+homes:
+  farmcana:
+    world: world
+    x: 1980.5874245804093
+    y: 5.0
+    z: -5824.401989227316
+    yaw: 139.87769
+    pitch: 13.199997
+  bp:
+    world: world
+    x: 3204.699999988079
+    y: 47.0
+    z: 4424.300000011921
+    yaw: 91.802986
+    pitch: 27.000048
+  base:
+    world: world
+    x: 3201.5595971836538
+    y: 53.0
+    z: 4423.986756301552
+    yaw: 60.303375
+    pitch: 40.050064
+  pillage:
+    world: world
+    x: 5000.3935134901685
+    y: 5.0
+    z: 3462.584782136388
+    yaw: 182.85603
+    pitch: 22.050024
+logoutlocation:
+  world: world
+  x: 3202.603860180752
+  y: 54.0
+  z: 4422.309907809964
+  yaw: 87.752914
+  pitch: 46.35001
+ignore:
+- skinozz_
+uuid: 09a19f3a-e11a-3675-a792-cbcefdc0abcd
+money: '2053.0'

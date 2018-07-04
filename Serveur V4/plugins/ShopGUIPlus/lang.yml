@@ -1,0 +1,121 @@
+PREFIX: '&6OctoShop > &f'
+MSG:
+  INGAMEONLY: Cette commande doit etre utilisee en jeu.
+  NOACCESS: Tu n'as pas acces a cette commande.
+  NOTLOADED: Le data n'est pas charge.
+  NOTLOADEDTARGET: Le jouer data n'est pas charge.
+  RELOADED: Configuration reload!
+  INVALIDSHOP: Shop avec l'id &c%shop%&f pas trouve.
+  NOACCESSTOSHOP: Tu n'as pas acces au shop &c%shop%&f.
+  NODIRECTACCESSTOSHOP: Tu ne peux pas acceder au shop &c%shop%&f.
+  MAINMENUDISABLED: Tu ne peux pas utiliser cette commande, fais /shop <id> du shop.
+  GAMEMODEBANNED: Tu ne peux pas acceder au shop en gamemode %gamemode%.
+  GAMEMODEBANNEDTARGET: '%player% ne peux pas acceder au shop en gamemode %gamemode%.'
+  ITEM:
+    FULLINVENTORY: Tu n'as pas assez de place dans l'inventaire !
+    CANNOTAFFORD: Tu as besoin de &c%price%$&f pour acheter &c%amount% x %item%&f.
+    CANNOTBUY: Tu ne peux pas acheter cet item.
+    CANNOTSELL: Tu ne peux pas vendre cet item.
+    BOUGHT: Tu as achete &c%amount% x %item%&f pour &c%price%$&f.
+    BOUGHTFREE: Tu as recu &c%amount% x %item%&f.
+    NOTENOUGH: Tu n'as pas &c%amount% x %item%&f a vendre.
+    SOLD: Tu as &a%amount% x %item%&f pour &a%price%$&f.
+    SOLDFREE: Vous avez donne &a%amount% x %item%&f.
+    SOLDALL: Tu as vendu tout les %item%&f (&a%amount% x %item%&f) pour &a%price%$&f.
+    SOLDALLFREE: Tu as vendu tout les %item%&f (&a%amount% x %item%&f).
+    NOACCESS: Tu n'as pas acces a cet item.
+  ENCHANT:
+    CANNOTAPPLY: Enchantment &c%enchantment%&f cannot be applied to the item you're holding.
+    ALREADYAPPLIED: This item already has &c%enchantment%&f applied.
+    LEVELDIFF: You need an item with at least &c%enchantment% %level%&f applied.
+    CANNOTAFFORD: You need &c%price%$&f to buy &c%enchantment%&f.
+    MAX: This item already has the maximum amount of enchantments (%amount%).
+    TOOMANY: You can't enchant more than %amount% items at once.
+    BOUGHT: You bought &c%enchantment%&f enchantment for &c%price%$&f.
+  PERMISSION:
+    PERMISSIONSDISABLED: Permissions are disabled, please contact server's owner.
+    ALREADYHAVE: Tu as deja la permission du &6%permission%&f !
+    CANNOTAFFORD: Tu as besoin de &c%price%$&f pour acheter &c%permission%&f !
+    BOUGHT: Tu achete &c%permission%&f pour &c%price%$&f !
+  COMMAND:
+    BOUGHT: You bought the command for &c%price%$&f.
+    CANNOTAFFORD: You need &c%price%$&f to buy this command.
+  ERROR: Error occured, please contact the server owner.
+  USAGE:
+    SUBCOMMAND: 'Invalid command usage. Correct usage: %usage%'
+  CMD:
+    SHOP:
+      ADDMODIFIER:
+        ITEM:
+          USAGE: /shop addmodifier item <player> <shop> <item> <value> [buy|sell]
+          ADDED: You set &c%player%&f's %type% price modifier for the %item% item in %shop% shop to &c%modifier%&f.
+          ADDEDBY: Your %type% price modifier for the %item% item in %shop% shop was set to &c%modifier%&f by &c%player%&f.
+        SHOP:
+          USAGE: /shop addmodifier shop <player> <shop> <value> [buy|sell]
+          ADDED: You set &c%player%&f's %type% price modifier for all items in %shop% shop to &c%modifier%&f.
+          ADDEDBY: Your %type% price modifier for all items in %shop% shop was set to &c%modifier%&f by &c%player%&f.
+        GLOBAL:
+          USAGE: /shop addmodifier global <player> <value> [buy|sell]
+          ADDED: You set &c%player%&f's %type% price modifier to &c%modifier%&f.
+          ADDEDBY: Your %type% price modifier was set to &c%modifier%&f by &c%player%&f.
+      CHECKMODIFIERS:
+        VIEW:
+          VIEW: |-
+            &c%player%&f's modifiers:
+            Global modifiers:
+            %global%
+            Shop modifiers:
+            %shop%
+            Item modifiers:
+            %item%
+          ENTRY:
+            ITEM: 'Item: &c%item%&f, shop: &c%shop%&f, buy: &c%buy%&f, sell: &c%sell%&f'
+            SHOP: 'Shop: &c%shop%&f, buy: &c%buy%&f, sell: &c%sell%&f'
+            GLOBAL: 'Buy: &c%buy%&f, sell: &c%sell%&f'
+      RESETMODIFIER:
+        ITEM:
+          USAGE: /shop resetmodifier item <player> <shop> <item> [buy|sell]
+          RESET: You reset &c%player%&f's %type% price modifier for the %item% item in %shop% shop.
+          RESETBY: Your %type% price modifier for the %item% item in %shop% shop was reset by &c%player%&f.
+        SHOP:
+          USAGE: /shop resetmodifier shop <player> <shop> [buy|sell]
+          RESET: You reset &c%player%&f's %type% price modifier for all items in %shop% shop.
+          RESETBY: Your %type% price modifier for all items in %shop% shop was set to by &c%player%&f.
+        GLOBAL:
+          USAGE: /shop resetmodifier global <player> [buy|sell]
+          RESET: You reset &c%player%&f's %type% price modifier.
+          RESETBY: Your %type% price modifier was set to &c%modifier%&f by &c%player%&f.
+  MODIFIER:
+    INVALIDAMOUNT: Invalid modifier value specified. Valid values are for instance 0.50 which is 50%, 2.0 which is 200% etc.
+    INVALIDTYPE: Invalid modifier type specified. Valid values are buy, sell and both.
+    BUY: buy
+    SELL: sell
+    BOTH: buy & sell
+  INVALIDPLAYER: Invalid player name specified.
+  INVALIDITEM: Item with ID &c%item%&f not found in &c%shop%&f.
+  WORLDBANNED: You can't access the shop in this world.
+  WORLDBANNEDTARGET: '%player% can''t access the shop in that world.'
+  SELLHAND:
+    NOITEM: You have to hold an item in your hand in order to sell it.
+    INVALIDQUANTITY: Invalid quantity specified. Must be between 1 and %max%.
+    CANNOTSELL: You can't sell this item.
+    MULTIPLEQUANTITYONLY: You can't sell that quantity. Only multiples of %quantity% are allowed for this item.
+  SELLALL:
+    NOITEMS: You don't have any items you can sell.
+    SOLD: You sold %quantity% items for a total of %price%$.
+DIALOG:
+  AMOUNTSELECTION:
+    BUY:
+      NAME: '&2Acheter %item%'
+    SELL:
+      NAME: '&cVendre %item%'
+    BULKBUY:
+      NAME: '&cBuying stacks of %item%'
+    BULKSELL:
+      NAME: '&cSelling stacks of %item%'
+LANG:
+  CONSOLE: Console
+SHOP:
+  PERMISSION:
+    ALREADYOWNED: '&4(Already owned)'
+    NOTOWNED: '&a(Not owned)'

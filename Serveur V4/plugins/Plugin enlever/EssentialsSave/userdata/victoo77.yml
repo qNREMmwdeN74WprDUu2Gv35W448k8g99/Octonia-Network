@@ -1,0 +1,65 @@
+timestamps:
+  login: 1457094491624
+  kits:
+    heros: 1457086510579
+    bouffe: 1457088755779
+    octonien: 1457041539131
+    druide: 1457089769197
+    chevalier: 1457035513642
+    destruction: 1457041609680
+    xp: 1457037518589
+    decouverte: 1457090059041
+    legendaire: 1457045078928
+    golden: 1457086188085
+  lastteleport: 1457094505801
+  logout: 1457094540410
+  lastheal: 1457091821752
+ipAddress: 84.99.61.37
+lastlocation:
+  world: world
+  x: 758.4450172681262
+  y: 65.0
+  z: -9694.376800659475
+  yaw: -54.400715
+  pitch: -75.80451
+logoutlocation:
+  world: world
+  x: 772.78934131111
+  y: 253.875
+  z: -9679.911756811325
+  yaw: 109.03915
+  pitch: 75.56455
+homes:
+  derr:
+    world: world
+    x: -119.6992659517273
+    y: 64.0
+    z: 265.1285633650254
+    yaw: 1.3122559
+    pitch: 2.7000346
+  apzat2:
+    world: world
+    x: -136.4493525872866
+    y: 66.0
+    z: 294.424864674296
+    yaw: -210.62372
+    pitch: 7.651603
+  sky:
+    world: world
+    x: 774.5
+    y: 253.875
+    z: -9675.5
+    yaw: -242.66833
+    pitch: 49.32316
+  farm:
+    world: world
+    x: 1077.4757498998308
+    y: 150.0
+    z: -9756.731490180164
+    yaw: -259.67084
+    pitch: 8.142554
+money: '24.6000'
+uuid: e5aef5ba-a193-351a-860c-f613b8cb32f8
+ban:
+  reason: 'Banni : Menace DDOS Staff + AutoClick + SkypeResolver'
+  timeout: 0

@@ -1,0 +1,36 @@
+uuid: 67dbd171-7814-36bc-8036-e66aac9b9a86
+timestamps:
+  login: 1456434564286
+  kits:
+    bouffe: 1456426511524
+    octonien: 1456419731891
+  lastteleport: 1456434657850
+  logout: 1456434781292
+  lastheal: 1456430558318
+ipAddress: 45.73.109.184
+lastlocation:
+  world: world
+  x: -2922.467882663361
+  y: 253.0
+  z: -5.70040377206593
+  yaw: 108.05147
+  pitch: 64.12644
+logoutlocation:
+  world: world
+  x: 283.09845846301494
+  y: 87.18840408681609
+  z: -255.62872629242156
+  yaw: -177.97168
+  pitch: 9.749586
+money: '10869.0'
+homes:
+  home:
+    world: world
+    x: -2922.4110568657456
+    y: 253.0
+    z: -6.745959105637793
+    yaw: 359.45065
+    pitch: 81.97635
+ban:
+  reason: 'Banni : TPKILL+FF+FLY+REGEN'
+  timeout: 0

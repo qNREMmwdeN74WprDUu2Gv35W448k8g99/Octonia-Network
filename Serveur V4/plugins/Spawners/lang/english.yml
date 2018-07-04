@@ -1,0 +1,49 @@
+# 
+# Set the spawner name and lore
+# placeholders: {player}, {mob}
+AccessTo: 'You have access to '
+SignCreated: '&eSuccessfully created a sign'
+SpawnerBroke: '&cThe spawner broke wile trying to mine it'
+SpawnerChanged: '&eYou changed the spawner to &6{spawner}'
+SpawnerChangedWithMoney: '&eYou changed the spawner to &6{spawner}&e for &6${money}'
+SpawnerChangedWithExp: '&eYou changed the spawner to &6{spawner}&e for &6{exp} exp'
+SpawnerGive: '&eYou received a &6{spawner}&e spawner'
+SpawnerGiveWithMoney: '&eYou bought a &6{spawner}&e spawner for &6${money}'
+SpawnerGiveWithExp: '&eYou bought a &6{spawner}&e spawner for &6{exp} exp'
+ReceivedSpawner: '&eYou received a &6{spawner}&e spawner from &6{player}'
+ProtectedArea: '&cYou can not change a spawner in a protected area'
+NoPlayerFound: '&cCould not find the player "{player}"'
+NoPermission: '&cYou do not have permission to use this command'
+NoInvSpace: '&cYou do not have any room in your inventory'
+OnCooldown: '&cYou need to wait &e{time}&c before using this command'
+NotValid: '&cThat is not a valid spawner, use &n{command}&c to see all spawners'
+NoValidBlock: '&cThat is not a spawner which you are looking at'
+NotEnoughMoney: '&cYou need ${money} to use that!'
+NotEnoughExp: '&cYou need {exp} exp to use that! (missing: {missingExp})'
+Commands:
+  spawner:
+    change:
+      Description: Change the spawner you look at
+    give:
+      Description: Gives you a spawner
+    entity:
+      Description: List all entities
+    list:
+      Description: List all the spawners
+item:
+  give:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner created by {player}'
+  buy:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner bought by {player}'
+  mine:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner mined by {player}'
+  tnt:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner was harvested with TNT'

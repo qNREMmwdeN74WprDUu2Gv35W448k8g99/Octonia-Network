@@ -1,0 +1,32 @@
+uuid: 04bb4524-a766-38d9-b11d-46a90d262a90
+timestamps:
+  login: 1456255730951
+  kits:
+    bouffe: 1455964641574
+    octonien: 1455964563591
+  logout: 1456255778504
+  lastteleport: 1455999594636
+ipAddress: 41.101.54.105
+lastlocation:
+  world: world
+  x: 2344.076143909277
+  y: 54.0
+  z: -2233.699999988079
+  yaw: -185.16461
+  pitch: -15.802945
+logoutlocation:
+  world: world
+  x: 1.832594054826882
+  y: 63.0
+  z: -3445.978687055983
+  yaw: -26.344913
+  pitch: 14.251241
+homes:
+  home:
+    world: world
+    x: 2403.2483041263067
+    y: 64.0
+    z: -2334.9026570671313
+    yaw: -9.702057
+    pitch: 13.581988
+money: '10.0'

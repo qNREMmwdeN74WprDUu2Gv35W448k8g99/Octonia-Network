@@ -1,0 +1,36 @@
+uuid: 1d23ef28-e208-3599-a0dd-7d56e26bd267
+timestamps:
+  login: 1456757109250
+  kits:
+    bouffe: 1456758999053
+    octonien: 1456757130078
+  lastteleport: 1456758727432
+  logout: 1456759041138
+  mute: 0
+ipAddress: 192.222.221.243
+lastlocation:
+  world: world
+  x: -1932.9847881484511
+  y: 5.0
+  z: -2176.3226316834334
+  yaw: 16.945248
+  pitch: 52.351322
+homes:
+  home:
+    world: world
+    x: 7659.699999988079
+    y: 5.0
+    z: -1248.7486587711694
+    yaw: -43.304382
+    pitch: 45.599808
+money: '2619.5'
+muted: false
+logoutlocation:
+  world: world
+  x: 1709.5495688799674
+  y: 14.0
+  z: 2197.2374725418017
+  yaw: -77.906624
+  pitch: 27.77363
+ignore:
+- arthurodelanoche

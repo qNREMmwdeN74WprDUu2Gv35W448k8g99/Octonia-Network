@@ -1,0 +1,86 @@
+timestamps:
+  login: 1457332952295
+  kits:
+    heros: 1457333268897
+    minerais: 1457333194698
+    bouffe: 1457280490351
+    octonien: 1457200209771
+    chevalier: 1457183207044
+    xp: 1457333235902
+    decouverte: 1457281638317
+    legendaire: 1457333248798
+    alchimiste: 1457333206098
+    golden: 1457333227599
+  logout: 1457333491653
+  lastteleport: 1457332976995
+  lastheal: 1457287997032
+  mute: 0
+ipAddress: 78.209.69.1
+lastlocation:
+  world: world
+  x: 2282.6517321987367
+  y: 64.0
+  z: 3383.762499988079
+  yaw: -3.958146
+  pitch: 10.049931
+logoutlocation:
+  world: world
+  x: -6743.568404741238
+  y: 30.0
+  z: -2178.3079558699046
+  yaw: 60.247356
+  pitch: 13.19994
+homes:
+  ap:
+    world: world
+    x: 154.69999998807907
+    y: 75.0
+    z: 283.5173315697193
+    yaw: -76.91919
+    pitch: 54.963684
+  cana:
+    world: world
+    x: 2282.4163203906205
+    y: 74.0
+    z: 3388.503913405009
+    yaw: -101.7547
+    pitch: 41.84997
+  sable:
+    world: world
+    x: -6740.3907952082
+    y: 77.0
+    z: -2190.455007669323
+    yaw: 71.854004
+    pitch: 87.60004
+  grase:
+    world: world
+    x: -4870.281099952302
+    y: 76.0
+    z: 565.9298746465095
+    yaw: -347.69977
+    pitch: 15.449987
+  money:
+    world: world
+    x: 362.3977922401905
+    y: 107.5
+    z: -4467.4856558962665
+    yaw: -216.02179
+    pitch: 27.335592
+  xp:
+    world: world
+    x: 363.69999998807907
+    y: 94.0
+    z: -4465.032143075187
+    yaw: 38.978127
+    pitch: 22.985653
+money: '44020.32'
+uuid: 67de537a-05d7-3c56-9b8a-f1590ff8b356
+ignore:
+- konicreez
+- gamerz_yt
+- bystrafe_
+- magikpvp
+- thekiller2709
+- byayress_
+- blacktv
+muted: false

@@ -1,0 +1,75 @@
+uuid: bd6862e2-ab61-3a2b-bc20-64594a0657e6
+timestamps:
+  login: 1456998097204
+  lastteleport: 1456998178001
+  kits:
+    heros: 1456922887202
+    bouffe: 1456794483095
+    octonien: 1456923730350
+    chevalier: 1456923318605
+    decouverte: 1456784750795
+    legendaire: 1456923598635
+  logout: 1456998515856
+  jail: 0
+  lastheal: 1456998326386
+  mute: 0
+ipAddress: 95.176.103.203
+lastlocation:
+  world: world
+  x: 11.524164662302715
+  y: 188.0
+  z: 61.725199200776075
+  yaw: -245.95105
+  pitch: 20.247828
+logoutlocation:
+  world: world
+  x: -3891.300000011921
+  y: 47.5
+  z: -3363.7571388530973
+  yaw: -283.81616
+  pitch: 51.899986
+homes:
+  home:
+    world: world
+    x: -3897.5
+    y: 46.5
+    z: -3366.5
+    yaw: -120.16931
+    pitch: -4.94999
+  base2:
+    world: world
+    x: -259.034935844979
+    y: 103.0
+    z: -2398.8456035047143
+    yaw: -149.49956
+    pitch: 36.14075
+  visite:
+    world: world
+    x: -1391.9913724212204
+    y: 64.0
+    z: -2438.3728183979492
+    yaw: -92.81471
+    pitch: 15.541272
+  ap:
+    world: world
+    x: 42.53455735828191
+    y: 64.0
+    z: 270.60859848764113
+    yaw: 272.56067
+    pitch: -10.771461
+  limite:
+    world: world
+    x: -1049.8475145982889
+    y: 66.0
+    z: -1048.5654026191055
+    yaw: -40.943935
+    pitch: 18.77358
+jailed: false
+money: '7.0'
+ignore:
+- narou
+- selopielefunny
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+muted: false

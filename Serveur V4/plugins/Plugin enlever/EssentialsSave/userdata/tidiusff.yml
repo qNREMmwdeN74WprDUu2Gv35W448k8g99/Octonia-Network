@@ -1,0 +1,47 @@
+uuid: 0180ef2b-30ed-30d8-b4b7-fd8ea347f4eb
+timestamps:
+  login: 1456264055189
+  kits:
+    bouffe: 1456236122430
+    octonien: 1456262998960
+    chevalier: 1456262845732
+    decouverte: 1456262635293
+  lastteleport: 1456264563585
+  logout: 1456264818091
+  lastheal: 1456236691353
+  mute: 0
+ipAddress: 78.216.26.10
+lastlocation:
+  world: world
+  x: 4608.211246398603
+  y: 61.0
+  z: -4631.549354065365
+  yaw: -26.801514
+  pitch: 21.149773
+logoutlocation:
+  world: world
+  x: 4607.260484576693
+  y: 43.0
+  z: -4626.495176792628
+  yaw: -89.20224
+  pitch: -12.174792
+homes:
+  spawner:
+    world: world
+    x: 5204.651556979325
+    y: 14.0
+    z: 1999.6324748204377
+    yaw: 10.265491
+    pitch: 15.599822
+  bedrock:
+    world: world
+    x: 4608.372160794134
+    y: 61.0
+    z: -4631.534601643843
+    yaw: -271.90292
+    pitch: 66.899796
+money: '32989.0'
+muted: false
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

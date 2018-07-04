@@ -1,0 +1,68 @@
+timestamps:
+  login: 1456238609408
+  kits:
+    bouffe: 1456225722378
+    heros: 1456225707053
+    octonien: 1456225686478
+    chevalier: 1456225719077
+    decouverte: 1456225725927
+    legendaire: 1456225681575
+  logout: 1456238950423
+  lastteleport: 1456238725981
+  lastheal: 1456238317717
+ipAddress: 78.201.120.150
+lastlocation:
+  world: world
+  x: 4624.526195454713
+  y: 5.0
+  z: -8739.593873227477
+  yaw: 103.787766
+  pitch: 8.54997
+logoutlocation:
+  world: world
+  x: -1.3849939365046224
+  y: 190.5
+  z: -0.02092992455992923
+  yaw: -258.19925
+  pitch: 44.60773
+homes:
+  home:
+    world: world
+    x: 4581.080712091404
+    y: 20.0
+    z: -7690.377115418023
+    yaw: 322.69797
+    pitch: 14.699989
+  base:
+    world: world
+    x: 5083.747984928357
+    y: 63.0
+    z: -8035.9573356080855
+    yaw: 6.2362795
+    pitch: 30.450424
+  pillage:
+    world: world
+    x: 4411.5
+    y: 5.5
+    z: -8852.5
+    yaw: 136.08318
+    pitch: 42.300056
+  casser:
+    world: world
+    x: 4621.39584884786
+    y: 254.0
+    z: -8755.241060186094
+    yaw: 2.6712646
+    pitch: 22.199976
+  bp:
+    world: world
+    x: 4632.520779771329
+    y: 5.0
+    z: -8738.983674911717
+    yaw: 203.38777
+    pitch: -3.1500309
+money: '287.75'
+uuid: 43d31003-afc7-35ed-ad93-a59a26e0b905
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

@@ -1,0 +1,46 @@
+timestamps:
+  login: 1457301246647
+  kits:
+    bouffe: 1457281835224
+    octonien: 1457293448470
+    chevalier: 1457279810233
+    decouverte: 1457286781440
+  logout: 1457301389818
+  lastteleport: 1457301338387
+  lastheal: 1457301333506
+  mute: 0
+ipAddress: 85.69.97.69
+lastlocation:
+  world: world
+  x: 8919.699999988079
+  y: 24.0
+  z: -4137.236608345142
+  yaw: -78.34772
+  pitch: 7.7682915
+logoutlocation:
+  world: world
+  x: 9152.412863370062
+  y: 11.0
+  z: -3408.330900557485
+  yaw: 42.496433
+  pitch: 29.095242
+money: '19599.005'
+homes:
+  home:
+    world: world
+    x: 7400.473262465884
+    y: 87.0
+    z: -5435.752041125187
+    yaw: 2.897644
+    pitch: 29.519014
+  pillage:
+    world: world
+    x: 8921.699999988079
+    y: 28.0
+    z: -4137.5755293512175
+    yaw: 71.447876
+    pitch: 30.73571
+muted: false
+ignore:
+- xxfreezer
+uuid: 80c8d754-2152-3e49-83fb-67f246209a0a

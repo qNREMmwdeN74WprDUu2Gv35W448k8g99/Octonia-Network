@@ -1,0 +1,24 @@
+uuid: 21c2ce55-3289-3ea3-8375-9a9803132895
+timestamps:
+  login: 1456798793689
+  logout: 1456798807589
+  mute: 1456802223204
+ipAddress: 95.176.103.203
+lastlocation:
+  world: world
+  x: 3.5
+  y: 191.0
+  z: 3.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: Banni temporairement du serveur pour 2 jours.
+  timeout: 1456971610019
+logoutlocation:
+  world: world
+  x: -9.996518091187351
+  y: 189.0
+  z: 12.270015175223161
+  yaw: -16.536058
+  pitch: -3.0956903
+muted: true

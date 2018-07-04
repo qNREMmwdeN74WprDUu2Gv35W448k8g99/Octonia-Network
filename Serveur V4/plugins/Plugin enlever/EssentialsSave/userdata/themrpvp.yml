@@ -1,0 +1,39 @@
+timestamps:
+  login: 1456349091488
+  kits:
+    bouffe: 1455468304028
+    octonien: 1456348485170
+    decouverte: 1456100277678
+  lastteleport: 1456348405886
+  logout: 1456349395696
+  lastheal: 1456349228070
+ipAddress: 24.202.156.83
+lastlocation:
+  world: world
+  x: -464.3915965418793
+  y: 43.0
+  z: -9494.703702827454
+  yaw: -152.72992
+  pitch: 7.672242
+homes:
+  home:
+    world: world
+    x: 569.8073983654066
+    y: 71.0
+    z: -7364.043962574164
+    yaw: 40.64999
+    pitch: 5.5499988
+money: '12.695'
+logoutlocation:
+  world: world
+  x: 578.1649084137025
+  y: 76.0
+  z: -7403.170216954837
+  yaw: -118.12885
+  pitch: 33.299995
+uuid: 1e060a7f-444e-3193-89fe-f4ce2933fa2a
+ignore:
+- zombie7795
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

@@ -1,0 +1,34 @@
+timestamps:
+  login: 1456397326729
+  kits:
+    bouffe: 1456396246202
+    octonien: 1456396266825
+  logout: 1456397983456
+  lastteleport: 1456396254179
+ipAddress: 78.203.237.130
+lastlocation:
+  world: world
+  x: -7839.15473628129
+  y: 69.0
+  z: 615.0161291500563
+  yaw: 178.90002
+  pitch: 12.900033
+logoutlocation:
+  world: world
+  x: -12.63671191007288
+  y: 189.0
+  z: 21.85129227619117
+  yaw: 186.7143
+  pitch: -19.314703
+homes:
+  home:
+    world: world
+    x: -6479.695092073474
+    y: 78.0
+    z: 613.9002452710492
+    yaw: 84.33767
+    pitch: 9.299965
+uuid: 7993fe64-df78-365b-bd26-fdcc8dbe9359
+ban:
+  reason: 'Banni : Double compte par worg31'
+  timeout: 0

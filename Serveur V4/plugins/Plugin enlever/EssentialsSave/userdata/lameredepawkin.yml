@@ -1,0 +1,21 @@
+timestamps:
+  login: 1455494054214
+  logout: 1455494060718
+ipAddress: 81.53.254.99
+lastlocation:
+  world: world
+  x: 7.5
+  y: 189.0
+  z: -0.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 1.5695552085366602
+  y: 189.0
+  z: -24.998052279433296
+  yaw: -161.26326
+  pitch: 1.2305721

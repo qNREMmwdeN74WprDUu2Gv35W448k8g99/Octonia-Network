@@ -1,0 +1,38 @@
+uuid: 91c2fb74-934b-3212-8b52-be4133628c0f
+timestamps:
+  login: 1457023904192
+  kits:
+    bouffe: 1456952090763
+    octonien: 1457024265973
+    decouverte: 1456958670313
+  logout: 1457025027087
+  lastteleport: 1457024417876
+  lastheal: 1456964448110
+  mute: 0
+ipAddress: 74.58.121.125
+lastlocation:
+  world: world
+  x: 7172.639243593546
+  y: 6.875
+  z: -3125.0022260747296
+  yaw: -83.57825
+  pitch: 29.590189
+logoutlocation:
+  world: world
+  x: 772.523856835942
+  y: 69.0
+  z: -73.19258895226102
+  yaw: 268.1062
+  pitch: 11.326528
+homes:
+  home:
+    world: world
+    x: 6074.5
+    y: 252.875
+    z: -1642.5
+    yaw: -68.28995
+    pitch: 15.712086
+money: '7173.6'
+muted: false
+ignore:
+- xxryloxexx

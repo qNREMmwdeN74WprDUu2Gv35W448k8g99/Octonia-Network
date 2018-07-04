@@ -1,0 +1,54 @@
+socialspy: false
+timestamps:
+  login: 1457308512132
+  logout: 1457316706558
+  lastteleport: 1457315420606
+  kits:
+    bouffe: 1457301218166
+    octonien: 1457298041129
+    chevalier: 1457307962140
+    decouverte: 1457315456509
+    golden: 1457307941938
+  lastheal: 1457183944708
+  mute: 0
+  jail: 0
+ipAddress: 85.27.100.226
+lastlocation:
+  world: world
+  x: 9559.5
+  y: 253.875
+  z: 348.5
+  yaw: 194.47466
+  pitch: 11.549998
+logoutlocation:
+  world: world
+  x: -71.72641671820143
+  y: 64.0
+  z: -284.87791682002353
+  yaw: 24.499146
+  pitch: -34.350037
+homes:
+  skybase:
+    world: world
+    x: 9559.265876906618
+    y: 253.875
+    z: 348.9195905814618
+    yaw: 73.87465
+    pitch: 57.6
+muted: false
+money: '580.34551015008000200000000001000'
+ignore:
+- splash9999
+- dev1l_d1aozz
+- kikoulol66
+- meenja84
+- fire_light
+- paruche
+- themonsterhunted
+- thetou56
+- xalaco
+- pepsy92
+- arcaida
+- sachabb
+uuid: 3d21b7fa-f840-3b5d-9004-73501ef67020
+jailed: false

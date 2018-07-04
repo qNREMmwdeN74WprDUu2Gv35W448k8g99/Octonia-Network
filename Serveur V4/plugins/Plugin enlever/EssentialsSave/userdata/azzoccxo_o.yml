@@ -1,0 +1,41 @@
+timestamps:
+  login: 1456148625902
+  kits:
+    bouffe: 1455902728823
+    octonien: 1455890910969
+    decouverte: 1456148797858
+  lastteleport: 1456149423858
+  logout: 1456149701261
+  lastheal: 1456149491729
+  mute: 0
+ipAddress: 90.6.131.240
+lastlocation:
+  world: world
+  x: 8025.97418729194
+  y: 28.0
+  z: 1329.6911333980206
+  yaw: -86.012085
+  pitch: -4.5026836
+logoutlocation:
+  world: world
+  x: 5672.699999988079
+  y: 6.0
+  z: -742.6999999880791
+  yaw: 61.504498
+  pitch: 24.74988
+homes:
+  home:
+    world: world
+    x: 8025.5316207740925
+    y: 28.0
+    z: 1330.5066078027457
+    yaw: -178.71109
+    pitch: 30.749483
+money: '35.0'
+ignore:
+- poissonrouge
+uuid: 9eb76522-1bf2-3981-861f-bc78c24c4d27
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 0

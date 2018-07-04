@@ -1,0 +1,13 @@
+lore:
+- '&4&lKillStats'
+- '&c%kills% kills'
+enabled-items:
+- sword
+- bow
+- axe
+name:
+  change-name: false
+  display-name: '&6Strange %item%'
+enable-mobs: false
+send-kill-message: false
+prefix: '&8[&6&lStatTrak&8]'

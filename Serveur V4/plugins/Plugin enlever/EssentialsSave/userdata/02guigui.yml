@@ -1,0 +1,83 @@
+timestamps:
+  login: 1457276244094
+  logout: 1457296098346
+  lastheal: 1455548388550
+  kits:
+    heros: 1455547827473
+    bouffe: 1456863243906
+    octonien: 1454938891803
+    druide: 1455371437037
+    firework: 1456864100305
+    chevalier: 1454963573942
+    destruction: 1456865747721
+    xp: 1455371426505
+    pvpbox: 1456080035985
+    legendaire: 1456951845850
+    alchimiste: 1455923715553
+    tower3: 1455630527683
+    tower2: 1455630531341
+    decouverte: 1455648060161
+    tower1: 1457288425669
+    construction: 1456940260683
+    golden: 1455923732039
+  lastteleport: 1457293717654
+  jail: 0
+ipAddress: 92.155.157.9
+lastlocation:
+  world: world
+  x: 44.272207025887596
+  y: 91.0
+  z: -114.30000001192093
+  yaw: -165.62775
+  pitch: 20.192072
+logoutlocation:
+  world: world
+  x: 1368.6189937566003
+  y: 70.49064318920136
+  z: 1703.8506871157615
+  yaw: -223.36035
+  pitch: 28.688877
+socialspy: false
+homes:
+  bp:
+    world: world
+    x: 3360.699999988079
+    y: 5.5
+    z: -7221.699999988079
+    yaw: -322.52145
+    pitch: 8.162819
+money: '739'
+godmode: false
+jailed: false
+afk: false
+uuid: e75ecf0d-729a-3973-b992-1e9d544a1967
+teleportenabled: true
+powertools:
+  '158':
+  - tnt
+  '268':
+  - tnt
+  '470':
+  - thor
+  '262':
+  - tnt
+  '98':
+  - spawnmob bat 100
+  '295':
+  - spawnmob endercrystal 10
+  '208':
+  - tnt
+  '280':
+  - tnt
+  '2':
+  - fireball
+  '1':
+  - fireball
+  '5':
+  - fireball
+  '46':
+  - fireball
+powertoolsenabled: false
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

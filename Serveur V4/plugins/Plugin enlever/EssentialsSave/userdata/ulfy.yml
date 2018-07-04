@@ -1,0 +1,51 @@
+socialspy: false
+timestamps:
+  login: 1457262467921
+  kits:
+    bouffe: 1457127432808
+    octonien: 1457112740056
+    chevalier: 1457110983083
+    xp: 1457032975564
+    decouverte: 1457127449562
+  logout: 1457263171231
+  lastteleport: 1457263037331
+  mute: 0
+  lastheal: 1457128055392
+  jail: 0
+ipAddress: 85.68.158.149
+lastlocation:
+  world: world
+  x: 69.44586767028314
+  y: 5.0
+  z: 274.69999998807907
+  yaw: 217.20984
+  pitch: 3.191651
+logoutlocation:
+  world: world
+  x: 6837.300000011921
+  y: 7.0
+  z: 6026.26348417528
+  yaw: -103.06164
+  pitch: 5.965761
+homes:
+  home:
+    world: world
+    x: 256.5150786906132
+    y: 64.0
+    z: -12.881344448081007
+    yaw: 5.4367533
+    pitch: 2.215158
+  bp:
+    world: world
+    x: 6854.4595303169135
+    y: 25.0
+    z: 6043.758380846364
+    yaw: 350.96426
+    pitch: 12.0030365
+muted: false
+money: '4107.485'
+ignore:
+- voltex
+- jerome25
+uuid: 7099f951-e029-3856-ad9f-3a6f0a64387e
+jailed: false

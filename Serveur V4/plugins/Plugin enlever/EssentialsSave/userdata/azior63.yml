@@ -1,0 +1,35 @@
+timestamps:
+  login: 1455542322977
+  logout: 1455542325757
+  kits:
+    bouffe: 1455349294645
+    octonien: 1455441295131
+    decouverte: 1455442001485
+  lastteleport: 1455445893805
+  lastheal: 1455270643409
+ipAddress: 2.11.17.233
+lastlocation:
+  world: world
+  x: 734.771559852671
+  y: 5.0
+  z: -1156.300000011921
+  yaw: -117.00005
+  pitch: 15.749917
+logoutlocation:
+  world: world
+  x: -1989.8011237820836
+  y: 70.0
+  z: -2200.068688584261
+  yaw: -229.26425
+  pitch: 46.00918
+homes:
+  home:
+    world: world
+    x: 2588.5062298758958
+    y: 248.875
+    z: -2386.5762206430904
+    yaw: -263.7967
+    pitch: 3.2999902
+money: '132.75'
+ignore:
+- elixior

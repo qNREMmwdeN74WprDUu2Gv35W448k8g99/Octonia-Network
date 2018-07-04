@@ -1,0 +1,56 @@
+Main:
+  ShopItemNotExisting: '&cThat shop item is not existing...'
+  InventoryFull: '&cYour inventory does not have enough free space left!'
+  OffensiveClickSpamWarning: '&4Warning: Please do not click that fast.'
+  OffensiveClickSpamKick: '&4Kicked for clickspam.'
+  NoPermission: '&cYou are not allowed to do this!'
+  AlreadyBought: '&cYou already purchased that!'
+  ShopNotExisting: '&cThat Shop is not existing...'
+  OpenShop: ''
+  OpenShopOtherPlayer: '&6Opening Shop &c%shop% &6for %player%&6.'
+  CloseShopOtherPlayer: '&6Closed inventory of %player%&6.'
+  CloseShop: ''
+  PlayerNotFound: '&cPlayer %name% not found!'
+  ClickSpamWarning: '&cPlease wait for an other %time_left% seconds until you can
+    use this again.'
+  NeedItemInHand: '&cYou need an item in your main hand in order to be able to execute
+    this command.'
+  PrintedItemInfo: '&6All item information has successfully been saved here: &7''/plugins/BossShopPro/ItemDataStorage.yml''&6.'
+Display:
+  ItemAllBuy: a filled inventory of %item%
+  ItemAllEach: '%value% each'
+  Exp: '%levels% Exp Levels'
+  Money: '%money% Money'
+  Points: '%points% Points'
+  Item: '%items%'
+  ItemAll: all %item%
+  ItemAllNothingToSell: '%value% each'
+  Nothing: nothing
+  BungeeCordServer: Server teleport to %server%
+  BungeeCordCommand: 'BungeeCord commands: %commands%'
+  Close: Close shop
+  Command: 'Console commands: %commands%'
+  Custom: Unknown
+  Enchantment: 'Enchantment: %type% level %level%'
+  Permission: 'Permissions: %permissions%'
+  PlayerCommand: 'Commands: %commands%'
+  PlayerCommandOp: 'Commands: %commands%'
+  Shop: Open shop %shop%
+  Page: Open shop page %page%
+Economy:
+  NoAccount: '&cYou don''t have an economy account!'
+NotEnough:
+  Money: '&cYou don''t have enough Money!'
+  Item: '&cYou don''t have enough Items!'
+  Points: '&cYou don''t have enough Points!'
+  Exp: '&cYou don''t have enough EXP!'
+Enchantment:
+  Invalid: '&cYou can''t enchant the item in your main hand with this enchantment!'
+  EmptyHand: '&cYou need to have an item in your hand!'
+Time:
+  Seconds: '%time% seconds'
+  Minutes: '%time% minutes'
+  Hours: '%time% hours'
+  Days: '%time% days'
+  Weeks: '%time% weeks'
+Locale: en_US

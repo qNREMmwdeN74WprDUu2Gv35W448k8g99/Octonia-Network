@@ -1,0 +1,52 @@
+timestamps:
+  login: 1457277314985
+  logout: 1457283820551
+  kits:
+    bouffe: 1457281489330
+    octonien: 1457282330870
+    chevalier: 1457278468392
+    decouverte: 1457279109324
+    xp: 1457279871242
+  lastteleport: 1457283576919
+  lastheal: 1457283447588
+  mute: 0
+ipAddress: 86.216.127.155
+lastlocation:
+  world: world
+  x: -256.8555640766314
+  y: 64.0
+  z: -120.86547810263761
+  yaw: 23.478638
+  pitch: 1.0929211
+logoutlocation:
+  world: world
+  x: -275.1668204865213
+  y: 247.0
+  z: -118.85107217087123
+  yaw: -86.156845
+  pitch: 59.207916
+socialspy: false
+homes:
+  bp:
+    world: world
+    x: 8321.115779524
+    y: 50.5
+    z: -5138.414523305278
+    yaw: -10.246016
+    pitch: -2.165329
+  ap:
+    world: world
+    x: -258.36280240854734
+    y: 64.0
+    z: -120.18508384194149
+    yaw: 88.42225
+    pitch: 27.522383
+ignore:
+- byfireplayer
+- axo_craft
+- _lifteur22_
+- idream_pivipi
+- xxfreezer
+money: '94.0'
+uuid: daf6dc7b-918e-39be-8ef3-644b4454e4b7
+muted: false

@@ -1,0 +1,22 @@
+uuid: da122e98-153b-3986-8bd9-fe348d8529a5
+timestamps:
+  login: 1456904371142
+  logout: 1456904968104
+  lastteleport: 1456904393743
+  kits:
+    bouffe: 1456904485146
+ipAddress: 86.71.180.32
+lastlocation:
+  world: world
+  x: 2.857639702594864
+  y: 28.5
+  z: 150.37531552261183
+  yaw: -291.25043
+  pitch: -7.500009
+logoutlocation:
+  world: world
+  x: 0.14329582773162455
+  y: 189.0
+  z: 6.949802565617346
+  yaw: -277.0013
+  pitch: 17.697817

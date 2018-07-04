@@ -1,0 +1,37 @@
+socialspy: false
+timestamps:
+  login: 1456214466830
+  kits:
+    bouffe: 1456078221704
+    octonien: 1456078209555
+    decouverte: 1456214491944
+  logout: 1456214543086
+  lastteleport: 1456214513585
+  mute: 0
+  lastheal: 1455555917258
+ipAddress: 83.114.142.150
+lastlocation:
+  world: world
+  x: 2520.6835515813436
+  y: 8.0
+  z: 1921.9513744379394
+  yaw: -1.0540304
+  pitch: 67.86374
+homes:
+  home:
+    world: world
+    x: -3259.538466262715
+    y: 6.0
+    z: -4123.609302165672
+    yaw: -287.6261
+    pitch: 41.87226
+logoutlocation:
+  world: world
+  x: 8010.736505196884
+  y: 250.0
+  z: -4035.765336335309
+  yaw: -302.98624
+  pitch: 31.200663
+muted: false
+money: '15.0'
+uuid: 9d0cc1db-c2a6-3d0f-ac72-416f07417eeb

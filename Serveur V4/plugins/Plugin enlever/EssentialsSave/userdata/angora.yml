@@ -1,0 +1,38 @@
+timestamps:
+  login: 1457266383189
+  kits:
+    bouffe: 1457266551372
+    octonien: 1457182884443
+  lastteleport: 1457268121250
+  logout: 1457268272582
+  lastheal: 1457023464577
+ipAddress: 82.246.206.173
+lastlocation:
+  world: world
+  x: 8.476225719124173
+  y: 189.0
+  z: 2.780707960081401
+  yaw: -302.201
+  pitch: 50.24782
+homes:
+  home:
+    world: world
+    x: 2842.699999988079
+    y: 24.0
+    z: 4443.699999988079
+    yaw: 94.99385
+    pitch: 38.377167
+logoutlocation:
+  world: world
+  x: 7176.300000011921
+  y: 29.0
+  z: -2723.699999988079
+  yaw: -197.67963
+  pitch: 36.299927
+ignore:
+- az3rtyange
+- showndown28
+- icecream_warfury
+- dev1l_d1aozz
+money: '354.0'
+uuid: 5389fd73-95d9-394a-85de-bafd07a604ce

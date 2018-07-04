@@ -1,0 +1,78 @@
+prefix: "&7[&cOctoCalendar&7]"
+armorStand: "Advent Calendar"
+errors:
+    consoleError: "&cYou must be a Player!"
+    noPermissions: "&cYou don't have permissions to perform this command!"
+    wrongUsageOfCommand: "&cWrong usage of command!"
+    blockedWorld: "&cIn this world is not able to open Advent Calendar!"
+    calendarIsDisabled: "&cAdvent Calendar cannot be opened in this season!"
+    noStats: "&cStats not found! Please try to re-log! We are sorry for these inconveniences."
+success:
+    reload: "&7All files successfully reloaded!"
+    receive: "&7Tu as recu le cadeau de la fenetre &6&l{window}&7!"
+    rewards:
+        POINTS: "&7You received &6{count} {word}&7!"
+        MONEY: "&7You received &6{count}$&7!"
+        words:
+            POINTS:
+                1: "Point"
+                2: "Points"
+                3: "Points"
+GUI:
+    main:
+        nameOfInventory: "&7[&cOctoCalendar &7GRATUIT]"
+        messagesToEmpty:
+            0: "&7Tu peux ouvrir des fenetres !"
+            1: "&cTu ne peux pas ouvrir des fenetres!"
+            2: "&cLes fenetres doivent etre ouvertes !"
+            3: "&6&l\u25CF &7Nouvelle fenetre dans: &6{remainingTime}"
+        items:
+            empty:
+                headName: "&3&lInformations"
+                lore:
+                - "&6&l\u270E &7Fenetres ouvertes: &6{count}"
+                - ""
+                - "&6&l\u25CF {message}"
+            window:
+                0:
+                    headName: "&3&lFenetre: &4&l{window}"
+                    lore:
+                    - "&6&l\u270E &cCette fenetre ne peut"
+                    - "&cplus etre ouverte !"
+                1:
+                    headName: "&3&lFenetre: &2&l{window}"
+                    lore:
+                    - "&6&l\u270E &aCette fenetre peut"
+                    - "&aetre ouverte maintenant !"
+                    - ""
+                    - "&6&l\u25CF &7Clique pour ouvrir la"
+                    - "&7fenetre et choisir ton cadeau !"
+                2:
+                    headName: "&3&lFenetre: &6&l{window}"
+                    lore:
+                    - "&6&l\u270E &cCette fenetre peut etre"
+                    - "&couverte le &e{date}"
+    rewards:
+        nameOfInventory: "&c&lOctoCalendar - Cadeaux"
+        items:
+            empty:
+                headName: " "
+            presents:
+                0:
+                    headName: "&61er Cadeau"
+                    lore:
+                    - "&6&l\u270E &7Clique pour choisir"
+                    - "&7le premier cadeau !"
+                    - ""
+                1:
+                    headName: "&62eme Choix"
+                    lore:
+                    - "&6&l\u270E &7Clique pour choisir"
+                    - "&7le deuxieme cadeau !"
+                    - ""
+                2:
+                    headName: "&63eme Choix"
+                    lore:
+                    - "&6&l\u270E &7Clique pour choisir"
+                    - "&7le troisieme cadeau !"
+                    - ""

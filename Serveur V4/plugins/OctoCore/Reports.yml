@@ -1,0 +1,27 @@
+# 
+#    ____       _         _____              
+#   / __ \     | |       / ____|              
+#  | |  | | ___| |_ ___ | |     ___  _ __ ___
+#  | |  | |/ __| __/ _ \| |    / _ \| '__/ _ \
+#  | |__| | (__| || (_) | |___| (_) | | |  __/
+#   \____/ \___|\__\___/ \_____\___/|_|  \___|
+# 
+# 
+# *
+# *
+# * Par: CharpenteDocile
+# * Description: Liste des messages pour les morts.
+# * Pour OctoCore version: Bêta
+# *********************************************/		
+
+Reports:
+  b5cc9ea09bcff9167a0059bc63b8887c:
+    Target: Razor
+    Denouncer: Razor
+    Message: adqsdqsd
+    Motif: -1
+  1b91a2d9a86e981bcf6103927b2328fa:
+    Target: Razor
+    Denouncer: Razor
+    Message: a
+    Motif: 2

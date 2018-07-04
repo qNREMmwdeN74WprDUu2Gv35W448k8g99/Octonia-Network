@@ -1,0 +1,16 @@
+# DataBase
+host: 164.132.203.88
+port: 3306
+database: octonia
+user: OctoniaLocal
+password: x0Q2a6d56q89ZAqs
+
+Scoreboard:
+  Enabled: false
+  DisplayName: '&c&lStats'
+  KillsName: '&f- &e&lKills'
+  DeathsName: '&f- &c&lDeaths'
+  KillStreakName: '&f- &b&lKillStreak'
+  BlocksPlaced: '&f- &9&lBlocks Placed'
+  BlocksBroken: '&f- &a&lBlocks Broken'
+  Stats-Line: '&8> &f'

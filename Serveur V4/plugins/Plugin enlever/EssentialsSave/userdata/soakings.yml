@@ -1,0 +1,25 @@
+uuid: a8e91d04-62d5-38ce-8aaf-e1624e5347c2
+timestamps:
+  login: 1455818089094
+  kits:
+    octonien: 1455815418557
+  lastteleport: 1455818351406
+  logout: 1455818375653
+ipAddress: 104.221.94.142
+lastlocation:
+  world: world
+  x: -60.75447668369219
+  y: 59.0
+  z: -967.7183793627747
+  yaw: -241.64919
+  pitch: 29.850016
+logoutlocation:
+  world: world
+  x: -6.813020158803386
+  y: 22.5
+  z: 8.291035473121706
+  yaw: -177.03339
+  pitch: 10.579652
+ban:
+  reason: 'Banni : perm'
+  timeout: 0

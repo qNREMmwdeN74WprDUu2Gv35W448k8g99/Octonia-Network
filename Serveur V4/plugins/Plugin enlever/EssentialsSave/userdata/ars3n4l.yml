@@ -1,0 +1,35 @@
+uuid: 29870e1b-62f8-302c-9c1f-7c53557abd5e
+timestamps:
+  login: 1455894577889
+  kits:
+    bouffe: 1455894607870
+    octonien: 1455894611334
+  lastteleport: 1455842805476
+  logout: 1455896535731
+  mute: 0
+ipAddress: 86.67.105.94
+lastlocation:
+  world: world
+  x: -3.2975176433565503
+  y: 191.0
+  z: 4.297909207877694
+  yaw: -82.71182
+  pitch: 63.88282
+logoutlocation:
+  world: world
+  x: -273.1640896173059
+  y: 6.0
+  z: -20.722857040334908
+  yaw: -271.73706
+  pitch: 34.845547
+ignore:
+- toto008
+homes:
+  home:
+    world: world
+    x: 1826.4072204182742
+    y: 69.0
+    z: 1404.6562965150306
+    yaw: -171.68227
+    pitch: 5.310074
+muted: false

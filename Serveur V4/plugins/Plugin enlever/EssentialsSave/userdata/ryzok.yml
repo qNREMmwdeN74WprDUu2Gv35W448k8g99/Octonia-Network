@@ -1,0 +1,85 @@
+timestamps:
+  login: 1457289480788
+  logout: 1457291517432
+  kits:
+    heros: 1456859760933
+    bouffe: 1456868614357
+    octonien: 1456870495629
+    druide: 1457283673753
+    chevalier: 1456868628740
+    decouverte: 1457283809973
+    xp: 1457283667388
+    legendaire: 1457283771582
+    golden: 1457283670061
+  lastteleport: 1457290761564
+  lastheal: 1457291438822
+  mute: 0
+ipAddress: 86.75.59.182
+lastlocation:
+  world: world
+  x: 1880.300000011921
+  y: 56.5
+  z: -5725.199999988079
+  yaw: 184.55615
+  pitch: 17.649092
+logoutlocation:
+  world: world
+  x: -543.1912071121184
+  y: 76.0
+  z: -5717.144062093749
+  yaw: 27.633217
+  pitch: 29.337227
+socialspy: false
+homes:
+  ap:
+    world: world
+    x: 39.84843308927881
+    y: 64.0
+    z: -259.877439808679
+    yaw: -182.39037
+    pitch: 2.400034
+  pillage:
+    world: world
+    x: 1864.5
+    y: 9.0
+    z: -5737.5
+    yaw: 17.295279
+    pitch: 11.449651
+  farm:
+    world: world
+    x: 896.3000000119209
+    y: 6.0
+    z: -9860.171872705547
+    yaw: -91.65173
+    pitch: 15.630576
+  t:
+    world: world
+    x: -4760.5
+    y: 68.0
+    z: -8176.5
+    yaw: -76.68866
+    pitch: 47.27738
+  bp:
+    world: world
+    x: -4780.5
+    y: 32.0
+    z: -8151.5
+    yaw: 269.55164
+    pitch: 11.700043
+  def:
+    world: world
+    x: 2226.5
+    y: 40.0
+    z: -9035.5
+    yaw: 326.8329
+    pitch: 20.606703
+money: '125030.69'
+muted: false
+ignore:
+- fross27
+- gamerthug
+- xalaco
+uuid: 0caaaf57-5990-3113-a3d2-d1f6efd0eaa2
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 0

@@ -1,0 +1,22 @@
+uuid: adabeb01-e402-3f15-af12-e0792c662b17
+timestamps:
+  login: 1455918189246
+  kits:
+    bouffe: 1455918472045
+    octonien: 1455918229404
+  logout: 1455918519508
+ipAddress: 86.253.126.126
+lastlocation:
+  world: world
+  x: 4.5
+  y: 189.0
+  z: -0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 522.4664219423006
+  y: 67.0
+  z: 55.29756908083065
+  yaw: -84.55023
+  pitch: 23.89696

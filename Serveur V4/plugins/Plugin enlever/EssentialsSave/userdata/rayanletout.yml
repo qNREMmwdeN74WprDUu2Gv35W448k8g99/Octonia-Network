@@ -1,0 +1,70 @@
+socialspy: false
+timestamps:
+  login: 1456062884864
+  kits:
+    bouffe: 1455657006708
+    heros: 1456063201606
+    octonien: 1455460108332
+    druide: 1456059955016
+    chevalier: 1456063307378
+    legendaire: 1456060027332
+    alchimiste: 1456059974590
+  logout: 1456063793737
+  lastteleport: 1456063664004
+  lastheal: 1456062925112
+ipAddress: 78.229.60.111
+lastlocation:
+  world: world
+  x: -8056.699999988079
+  y: 5.630483459294975
+  z: 5908.237500011921
+  yaw: -98.12159
+  pitch: 58.050007
+homes:
+  ap:
+    world: world
+    x: 232.280927152537
+    y: 61.0
+    z: -31.946787700614934
+    yaw: -97.69458
+    pitch: 15.963545
+  bp:
+    world: world
+    x: -8051.300000011921
+    y: 6.0
+    z: 5903.83257544276
+    yaw: -268.1792
+    pitch: 38.850037
+  ap4:
+    world: world
+    x: 281.30000001192093
+    y: 55.0
+    z: 200.41252268878048
+    yaw: -114.98942
+    pitch: 32.930058
+  ap3:
+    world: world
+    x: -270.3150938725695
+    y: 64.0
+    z: 220.64826675221084
+    yaw: 144.24182
+    pitch: 32.855366
+  ap5:
+    world: world
+    x: -285.5
+    y: 64.0
+    z: -264.5
+    yaw: -32.81241
+    pitch: 53.708015
+logoutlocation:
+  world: world
+  x: -24.031194294246845
+  y: 189.0
+  z: 7.924803176694075
+  yaw: -144.04874
+  pitch: 21.95776
+money: '212.5'
+uuid: 5f3a4b3a-56d8-379f-9cbd-a1f3cea72fa3
+ban:
+  reason: 'Banni : Insulte'
+  timeout: 0

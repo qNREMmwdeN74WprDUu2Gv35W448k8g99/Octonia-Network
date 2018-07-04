@@ -1,0 +1,70 @@
+timestamps:
+  login: 1457174037673
+  lastteleport: 1457174049934
+  kits:
+    bouffe: 1456517264656
+    heros: 1456436394310
+    octonien: 1456248653249
+    druide: 1456710706318
+    chevalier: 1456244198062
+    destruction: 1456847095869
+    xp: 1456517230796
+    legendaire: 1456517275884
+    alchimiste: 1456517233943
+    minerais: 1456517136252
+    decouverte: 1456430185298
+    construction: 1456430029636
+    golden: 1456755250484
+  logout: 1457174464430
+  lastheal: 1457174389618
+  mute: 0
+ipAddress: 92.152.76.85
+lastlocation:
+  world: world
+  x: 5220.214083625707
+  y: 69.0
+  z: 1068.306502886109
+  yaw: 156.37099
+  pitch: 37.353634
+logoutlocation:
+  world: world
+  x: 293.69999998807907
+  y: 5.5
+  z: -1448.996115294907
+  yaw: 327.17627
+  pitch: 46.068172
+homes:
+  bp:
+    world: world
+    x: 289.9450117257504
+    y: 4.0
+    z: -1444.418603694369
+    yaw: 227.91864
+    pitch: 2.4565344
+  farm:
+    world: world
+    x: 4012.427785975891
+    y: 65.0
+    z: 3343.4671120583525
+    yaw: -156.28839
+    pitch: 23.549992
+  sky:
+    world: world
+    x: 429.6158847965863
+    y: 253.875
+    z: -1449.2127814800879
+    yaw: 186.70007
+    pitch: 72.15021
+  a:
+    world: world
+    x: 1890.4996172172746
+    y: 33.0
+    z: -3543.1326034200515
+    yaw: 300.1985
+    pitch: 5.250001
+money: '1535.0'
+uuid: 447c52f0-539a-3a04-9620-d8b5e31ffa94
+ignore:
+- julien29
+- aymatt
+muted: false

@@ -1,0 +1,21 @@
+uuid: cebca312-c283-37eb-9b30-336e04b2dc08
+timestamps:
+  login: 1457179855318
+  kits:
+    octonien: 1457179910850
+  logout: 1457179991532
+ipAddress: 77.201.216.101
+lastlocation:
+  world: world
+  x: -2.5
+  y: 190.0
+  z: -0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -131.7180700867402
+  y: 30.0
+  z: 162.81383803425635
+  yaw: 19.678282
+  pitch: 25.19728

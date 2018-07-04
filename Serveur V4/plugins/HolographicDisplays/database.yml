@@ -1,0 +1,197 @@
+koth:
+  location: world,-231.41316250407007,30.0,227.56962717483083
+  lines:
+  - '&c//KOTH\\'
+rd1:
+  location: world,95.77800084757956,47.90092438277849,-127.79915612101139
+  lines:
+  - '&c//OctoRandom1\\'
+rd2:
+  location: world,-87.81904554292424,49.880907112319555,144.34340537203784
+  lines:
+  - '&c//OctoRandom2\\'
+rulesoctosoul:
+  location: world,-204.41020179062673,36.0,-214.72491785934386
+  lines:
+  - '&cRègles de l''OctoSoul'
+  - '&6C''est un jeu qui se joue en Faction'
+  - '&6Vous devez casser les 5 Blocks de Netherrack'
+  - '&6Pour se faire, utilisez une épée supérieure ou égale au diamant'
+  - '&6Une seule règle : &cNe pas se faire interrompre par une autre Faction'
+  - '&6Lorsque vous cassez un block, si un joueur d''une autre faction en casse'
+  - '&6un, toute l''invocation se remet en place.'
+  - '&cLa Premiere Faction qui reussie a casser l''invocation en entier, gagne !'
+  - '&bVous gagnez des points, chaque Faction du top 3'
+  - '&bgagnent chaque fin de mois un Super LOT !'
+sk:
+  location: world,4.5268171295856625,176.0,-4.585322812703177
+  lines:
+  - '&eBienvenue sur &6Octonia !'
+  - '&eNous sommes actuellement &c{online:ALL} &8/ &c610'
+  - '&eIl est actuellement &c{time}'
+  - '&6Octonia &epossède sont propre site ! &8(&c/site&8)'
+  - '&eNous possèdons aussi un TeamSpeak ! &8(&c/ts&8)'
+  - '&eSnapChat d''Octonia: &6An0m4lly'
+forge:
+  location: world,6.502248869741644,166.27634428677848,-43.953969004819264
+  lines:
+  - '&eBienvenue &c{player} &eà la forge d''&6Octonia'
+  - '&eReset des enclumes tous les jours à &c19h'
+wznorth:
+  location: world,0.43026073408274845,165.0,-59.26603967167149
+  lines:
+  - '&cSortie Nord'
+wzeast:
+  location: world,62.28498579969872,165.0,0.4247115763396151
+  lines:
+  - '&cSortie Est'
+wzsouth:
+  location: world,0.4467749069488975,165.0,61.58057052508601
+  lines:
+  - '&cSortie Sud'
+wzwest:
+  location: world,-60.1299107163222,165.0,0.6248416634420539
+  lines:
+  - '&cSortie Ouest'
+fraude:
+  location: world,-3.841607881601446,175.0,-3.5595987133229174
+  lines:
+  - '&7En raison d''un grande nombre de &cpaysafecard &7volé'
+  - '&7L''administration d''&cOctonia &7vous prie d''inserez les &cpaysafecards'
+  - '&cUniquement &7sur le &csite'
+  - '&uhttp://octonia.fr/shop'
+octobox:
+  location: world,0.4707840858676456,166.0,-31.578287713419876
+  lines:
+  - '&6Octo&4Box'
+  - '&eUne OctoBox par jour !'
+octosoft2:
+  location: world,27.43499819819194,167.0,15.500296011521286
+  lines:
+  - '&6PremiumOpening'
+minage:
+  location: world,-3.4869915673048792,174.0,4.668087928141313
+  lines:
+  - '&c&b\\ &e&lMonde Minage &c&b//'
+  - '&4Merci de se deconnecter et passer par le HUB !'
+bateau:
+  location: world,98.43533379176819,24.640846686778467,100.5473870831153
+  lines:
+  - '&o&c\\ &e&l EVENT Bateau &o&c//'
+  - '&e&lOuvre tous les cadeaux que tu trouves !'
+regles:
+  location: world,-13.923595875946855,164.3052587976751,-23.51205020109346
+  lines:
+  - '&c&o\\ &6&lRègles et Nouveautées &c&o//'
+reglesap:
+  location: world,-21.938547955102305,165.0155550727022,-13.508431924138108
+  lines:
+  - '&c&o[\\]&6&lRègles AP&c&o[//]'
+enchante:
+  location: world,-44.04488519453599,164.7872413942978,8.596368936689831
+  lines:
+  - '&6Bienvenue {player} aux &c Tables d''enchantements'
+drakex:
+  location: world,28.529206062700126,167.0,13.370972838406301
+  lines:
+  - '&6 DrakexOpening'
+herobrine:
+  location: world,12.64593014947852,167.075,18.56843338348052
+  lines:
+  - '&4Herobrine&6Opening'
+antique:
+  location: world,25.555920414100502,167.0,19.500842724058764
+  lines:
+  - '&6Antique Opening'
+bifrost:
+  location: world,29.511969186648273,167.0,11.509735944601651
+  lines:
+  - '&bBifrost&6 Opening'
+freeopening:
+  location: world,15.69383691354685,167.075,16.618089400934068
+  lines:
+  - '&6Free &eOpening'
+menestralopening:
+  location: world,26.637562024286986,167.075,17.563031164656426
+  lines:
+  - '&6Menestral Opening'
+infokey:
+  location: world,0.5380706810460907,174.2,8.468663013388142
+  lines:
+  - '&6Les Keys &cDrakex/Premium Opening &6ont était ajouté sur la &cBoutique&6.'
+  - '&6Le prix des Keys &cBifrost/Antique Opening &6ont aussi était modifié.'
+  - '&6La &cMenestral Opening &6fera sont apparition d''ici peu !'
+  - '&6La Key &cPremium Opening &6est achetable via le /shop dans l''onglet divers
+    !'
+recyclage1:
+  location: world,19.476573152529035,167.075,25.480470259462994
+  lines:
+  - '&6Recyclage &5Andésite'
+recyclage2:
+  location: world,17.450095583153416,167.075,26.440961022480565
+  lines:
+  - '&6Recyclage &2Extane'
+recyclage3:
+  location: world,15.712755151948343,167.075,27.67650374818713
+  lines:
+  - '&6Recyclage &4Redorite'
+jail:
+  location: world,-1.7117696420204227,29.2,-14.409070639786957
+  lines:
+  - '&4&lBienvenue dans la jail &6&lD''Octonia !'
+jail2:
+  location: world,14.11907983775551,29.2,-14.408619022480467
+  lines:
+  - '&4&lSalle du &6&lGardien ! :D'
+jaill1:
+  location: world,-13.980663635421793,28.2,-20.28911345360327
+  lines:
+  - '&4Cellule Numéro 1'
+jaill2:
+  location: world,-13.564283375564417,28.0,-8.492524027220494
+  lines:
+  - '&4Cellule Numéro 2'
+jaill3:
+  location: world,-6.60672629967395,28.2,-19.992814670534607
+  lines:
+  - '&4Cellule Numéro 3'
+jaill4:
+  location: world,-6.619351716754781,28.2,-8.999219474424955
+  lines:
+  - '&4Cellule Numéro 4'
+jaill5:
+  location: world,0.4091309685549922,28.2,-20.49929812727156
+  lines:
+  - '&4Cellule Numéro 5'
+jaill6:
+  location: world,-0.28320265802026195,28.2,-9.48530397845436
+  lines:
+  - '&4Cellule Numéro 6'
+jaill7:
+  location: world,7.405719519640142,28.2,-19.540571169340776
+  lines:
+  - '&4Cellule Numéro 7'
+jaill8:
+  location: world,6.914371522386713,28.2,-9.391657788695172
+  lines:
+  - '&4Cellule Numéro 8'
+eventsumo:
+  location: world_the_end,741.4176151277345,86.0,-435.7660216746856
+  lines:
+  - '&2&lEvent &4&lSumo'
+prison:
+  location: world,12.4430850617888,29.747130626973895,35.30000001192092
+  lines:
+  - '&4Bienvenue dans la prison &6D''Octonia'
+prisonoctonia:
+  location: world,13.543777387176736,133.0513339100694,18.983331782569323
+  lines:
+  - '&4Bienvenue dans la prison &6D''Octonia !'
+warpjump:
+  location: world_the_end,638.3000000119209,67.20000004768372,-364.3414934609027
+  lines:
+  - '&4Bravo &5tu as gagné !!!'
+top5:
+  location: world_the_end,725.4262755486892,85.2,-447.0364727437968
+  lines:
+  - '&3&lClassement'

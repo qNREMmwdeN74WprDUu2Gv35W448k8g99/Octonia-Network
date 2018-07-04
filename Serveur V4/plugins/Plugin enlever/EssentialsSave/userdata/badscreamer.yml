@@ -1,0 +1,34 @@
+socialspy: false
+timestamps:
+  login: 1455653754281
+  kits:
+    bouffe: 1455326206695
+    octonien: 1455361234559
+  logout: 1455654372199
+  lastteleport: 1455654249863
+ipAddress: 196.217.75.119
+lastlocation:
+  world: world
+  x: -5238.3835820883505
+  y: 42.0
+  z: 7908.5130840359525
+  yaw: 8.994904
+  pitch: 14.10001
+logoutlocation:
+  world: world
+  x: -1.2858804872339806
+  y: 189.5
+  z: -2.7859704585804446
+  yaw: -342.48328
+  pitch: 12.8295965
+homes:
+  home:
+    world: world
+    x: -5239.381175085449
+    y: 45.0
+    z: 7906.446766080349
+    yaw: 44.394753
+    pitch: 47.25
+money: '6919.605'
+ignore:
+- khadgar

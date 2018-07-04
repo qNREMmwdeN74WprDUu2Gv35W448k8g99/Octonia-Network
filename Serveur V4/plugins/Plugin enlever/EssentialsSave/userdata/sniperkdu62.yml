@@ -1,0 +1,35 @@
+timestamps:
+  login: 1454868768023
+  logout: 1454873109400
+  kits:
+    bouffe: 1454785604391
+    octonien: 1454870396520
+  lastteleport: 1454873047917
+  lastheal: 1454859293347
+ipAddress: 88.125.200.35
+lastlocation:
+  world: world
+  x: -2.386614032817306
+  y: 190.0
+  z: 1.8176325581735258
+  yaw: -57.590546
+  pitch: 86.85
+logoutlocation:
+  world: world
+  x: 4160.488270145882
+  y: 61.0
+  z: 1509.245416249369
+  yaw: -87.007965
+  pitch: -2.6998713
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 2688.699999988079
+    y: 65.0
+    z: 5205.180434194779
+    yaw: -326.82028
+    pitch: 25.519537
+ban:
+  reason: 'Banni : menace de ddos envers le serveur'
+  timeout: 0

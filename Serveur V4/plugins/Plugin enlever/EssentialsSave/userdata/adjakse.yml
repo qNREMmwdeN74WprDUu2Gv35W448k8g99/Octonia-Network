@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1457282714132
+  kits:
+    bouffe: 1457283544393
+    octonien: 1457179810219
+    decouverte: 1457184056194
+  lastteleport: 1457283857230
+  logout: 1457283943918
+  mute: 0
+  lastheal: 1457283780962
+ipAddress: 41.249.159.35
+lastlocation:
+  world: world
+  x: 5049.79028831197
+  y: 45.0
+  z: -7727.940067314483
+  yaw: -185.03227
+  pitch: 16.950855
+logoutlocation:
+  world: world
+  x: -122.56526446837277
+  y: 15.0
+  z: -6626.028871429198
+  yaw: -355.83786
+  pitch: 37.950306
+money: '14758.0'
+homes:
+  home:
+    world: world
+    x: -123.5
+    y: 15.0
+    z: -6627.5
+    yaw: -258.30887
+    pitch: 12.136174
+muted: false
+uuid: 8b5a9fe3-b6f2-3a2c-a6f5-4396823d69f8
+ignore:
+- gameurdumsk

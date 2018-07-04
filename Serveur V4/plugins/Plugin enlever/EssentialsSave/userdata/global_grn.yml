@@ -1,0 +1,56 @@
+timestamps:
+  login: 1456916663722
+  logout: 1456916694980
+  kits:
+    heros: 1456880197651
+    minerais: 1456879935753
+    bouffe: 1456916161176
+    octonien: 1456865822623
+    chevalier: 1456880245352
+    decouverte: 1456881899230
+    xp: 1456880338968
+    legendaire: 1456868850002
+    alchimiste: 1456869056908
+    golden: 1456853017010
+  lastteleport: 1456916212426
+  mute: 0
+  lastheal: 1456887397707
+  jail: 0
+ipAddress: 90.105.248.182
+lastlocation:
+  world: world
+  x: -683.6798897341672
+  y: 6.0
+  z: -614.3049212104271
+  yaw: -268.99646
+  pitch: 20.55004
+logoutlocation:
+  world: world
+  x: -143.44961191866366
+  y: 65.1707870772188
+  z: 239.81424982218658
+  yaw: -96.02712
+  pitch: 26.197412
+socialspy: false
+muted: false
+homes:
+  home:
+    world: world
+    x: -710.9379229693658
+    y: 4.0
+    z: -663.229540755027
+    yaw: -67.24427
+    pitch: 6.900012
+  ap:
+    world: world
+    x: -262.5306123434708
+    y: 64.0
+    z: 262.1033653452011
+    yaw: -317.2732
+    pitch: 4.747471
+money: '184.7'
+jailed: false
+uuid: 43eb3152-abeb-3d0e-a0c9-1ea62542fd32
+ban:
+  reason: 'Banni : Aucun Respect'
+  timeout: 0

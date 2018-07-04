@@ -1,0 +1,78 @@
+timestamps:
+  login: 1457311460949
+  kits:
+    heros: 1457315118109
+    bouffe: 1457312977426
+    octonien: 1457301986644
+    chevalier: 1457300892303
+    destruction: 1457313827470
+    decouverte: 1457312657686
+    legendaire: 1457313915670
+    alchimiste: 1457313927471
+  lastteleport: 1457314824409
+  logout: 1457315129008
+  lastheal: 1457315052710
+  mute: 0
+ipAddress: 96.22.186.136
+lastlocation:
+  world: world
+  x: -279.86171685877054
+  y: 6.249187078744681
+  z: 72.06539927632289
+  yaw: -345.3711
+  pitch: 4.650005
+homes:
+  mine:
+    world: world
+    x: 3768.970476250094
+    y: 13.0
+    z: -4936.290779514536
+    yaw: -110.044426
+    pitch: 28.200005
+  apple:
+    world: world
+    x: 1357.699999988079
+    y: 73.0
+    z: -2758.8150629839242
+    yaw: 95.94118
+    pitch: -1.0499866
+  octosoul:
+    world: world
+    x: 4.598856351075845
+    y: 35.0
+    z: -0.4742775016668475
+    yaw: -276.09644
+    pitch: 4.3499994
+  pillage2:
+    world: world
+    x: -9879.802840231137
+    y: 76.875
+    z: 1492.4407242072305
+    yaw: -122.88426
+    pitch: 18.599995
+  fhome:
+    world: world
+    x: -9744.424261440454
+    y: 64.0
+    z: -334.83101724571935
+    yaw: -16.209887
+    pitch: 19.146097
+  farm:
+    world: world
+    x: 1928.300000011921
+    y: 74.5
+    z: -2813.1352501212236
+    yaw: -25.49864
+    pitch: -1.2431611
+logoutlocation:
+  world: world
+  x: 1944.9246947120012
+  y: 64.0
+  z: -2806.837016405726
+  yaw: 53.325317
+  pitch: 4.278927
+money: '1819.4'
+muted: false
+uuid: 1c3c51c2-06d3-3a5f-ac89-b256bb81a4fe
+ignore:
+- harrythecrafty

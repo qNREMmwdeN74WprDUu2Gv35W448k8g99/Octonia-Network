@@ -1,0 +1,41 @@
+#     ___________________________________________________________ 
+#    |                                                           |
+#    |                 AzuBox v1.0 by Gravenilvec                |     
+#    |                                                           |
+#    | Commands:                                                 |
+#    |    /octobox : Octobox Help                                  |  
+#    |    /octobox give : Give a Box                              |
+#    |    /octobox refill : Refill all Box                        |      
+#    |                                                           |
+#    | Permissions:                                              |
+#    |   octobox.give                                             |
+#    |   octobox.refill                                           |
+#    |                                                           |
+#    | Contents:                                                 |
+#    |   i-1: ID:DATA,AMOUNT name:NAME                           |
+#    |   i-1: 35:14,3 name:&cAmazing Red Wool !                  |
+#    |   i-1: 276,1 name:&cEnchanted Item / PROTECTION:10        |
+#    |                                                           | 
+Prefix: '&7[&aOctoBox&7] '
+BoxName: '&a&lCoffret Cadeau'
+BoxLore: '&aVous devez placer le coffret cadeau !'
+Messages:
+  NO_PERMISSION: '&cVous n avez pas le droit de faire ceci !'
+  GIVE: '&aVous avez recu une boite !'
+  REFILL: '&aLes coffrets cadeaux sont desormais disponible'
+  ALREADY_OPEN: '&cVous avez deja ouvert une boite aujourdhui'
+Sounds:
+  OPEN_SOUND: NOTE_PLING
+  REFILL_SOUND: CHEST_OPEN
+  ALREADY_SOUND: VILLAGER_NO
+Contents:
+  i1: 813,1 name:&aOctoBox
+  i2: 812,1 name:&aOctoBox
+  i3: 810,1 name:&aOctoBox
+  i4: 322,1 name:&aOctoBox
+  i5: 475,1 name:&aOctoBox
+  i6: 480,1 name:&aOctoBox
+  i7: 487,1 name:&aOctoBox
+  i8: 485,1 name:&aOctoBox
+  i9: 364,1 name:&aOctoBox
+  i10: 634,1 name:&aOctoBox

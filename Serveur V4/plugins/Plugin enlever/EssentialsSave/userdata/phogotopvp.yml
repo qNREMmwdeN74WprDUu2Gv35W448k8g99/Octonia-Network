@@ -1,0 +1,80 @@
+timestamps:
+  login: 1457285934598
+  kits:
+    bouffe: 1457267109743
+    heros: 1457261264553
+    octonien: 1456605614867
+    druide: 1457103024923
+    chevalier: 1457103015968
+    decouverte: 1457267251682
+    legendaire: 1457259739274
+    golden: 1457194639046
+    alchimiste: 1457119238272
+  lastteleport: 1457268015547
+  logout: 1457288693732
+  lastheal: 1457288673712
+ipAddress: 92.130.101.240
+lastlocation:
+  world: world
+  x: -767.5768640649644
+  y: 41.0
+  z: -3797.508621657637
+  yaw: -13.098262
+  pitch: -4.8000474
+homes:
+  bp:
+    world: world
+    x: -776.3803707355773
+    y: 16.0
+    z: -3799.1149008551874
+    yaw: -308.58875
+    pitch: 11.55001
+  newbp:
+    world: world
+    x: 9718.67238491439
+    y: 5.0
+    z: 2326.3724787582155
+    yaw: 103.35
+    pitch: -86.7
+  g:
+    world: world
+    x: 273.30000001192093
+    y: 67.0
+    z: -7979.486197061049
+    yaw: -279.29752
+    pitch: 78.88136
+  popo:
+    world: world
+    x: 9267.775781152872
+    y: 226.0
+    z: -298.2490744004603
+    yaw: -89.144775
+    pitch: 33.449966
+  pill:
+    world: world
+    x: 7645.669630519167
+    y: 64.0
+    z: 2139.121044652708
+    yaw: -314.81018
+    pitch: 17.550016
+  n:
+    world: world
+    x: -3005.5
+    y: 5.0
+    z: -6595.5
+    yaw: 106.49995
+    pitch: 21.749992
+logoutlocation:
+  world: world
+  x: 280.2595545980148
+  y: 70.10408037809304
+  z: -7971.300000011921
+  yaw: -182.29297
+  pitch: 22.800047
+ignore:
+- lechatgeek
+- lexdine
+- relaster
+- theevildark
+uuid: e0860c5c-2af8-38c4-a83a-514dc5db03bc
+money: '450.0'

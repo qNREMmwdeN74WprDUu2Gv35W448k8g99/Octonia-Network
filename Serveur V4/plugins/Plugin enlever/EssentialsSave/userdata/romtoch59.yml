@@ -1,0 +1,26 @@
+timestamps:
+  login: 1455888950085
+  logout: 1455893901859
+  lastteleport: 1455892255964
+  jail: 0
+ipAddress: 109.219.250.147
+lastlocation:
+  world: world
+  x: -30.76655713280895
+  y: 435.9124083734933
+  z: -4.0479805633334704
+  yaw: -98.06958
+  pitch: 89.55001
+logoutlocation:
+  world: world
+  x: 11.124941513374841
+  y: 205.0
+  z: -24.134438307155655
+  yaw: -18.039307
+  pitch: 25.50001
+godmode: true
+jailed: false
+uuid: 1a7ac9e7-93d6-3c8a-902a-d7ffd2d238b5
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

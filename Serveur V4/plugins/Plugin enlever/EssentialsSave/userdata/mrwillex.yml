@@ -1,0 +1,34 @@
+uuid: 29c7c123-246e-3c4f-ab2c-46500524074f
+timestamps:
+  login: 1457185431198
+  kits:
+    bouffe: 1457072051073
+    octonien: 1457072048072
+  logout: 1457185481898
+  lastteleport: 1457072084170
+  lastheal: 1457044969182
+ipAddress: 86.253.156.192
+lastlocation:
+  world: world
+  x: 9720.625268070022
+  y: 5.5
+  z: -971.845681252714
+  yaw: 29.719397
+  pitch: 10.360724
+homes:
+  home:
+    world: world
+    x: 3655.613930226154
+    y: 5.0
+    z: 4993.884695105995
+    yaw: -65.08008
+    pitch: 37.431065
+ignore:
+- calox_14
+logoutlocation:
+  world: world
+  x: 7.057300124499287
+  y: 189.0
+  z: 0.5168962110548604
+  yaw: 104.3535
+  pitch: -25.742882

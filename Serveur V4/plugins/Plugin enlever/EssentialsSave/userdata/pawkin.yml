@@ -1,0 +1,38 @@
+socialspy: false
+timestamps:
+  login: 1456319763868
+  logout: 1456319909645
+  lastteleport: 1456287973330
+  kits:
+    bouffe: 1455313758243
+    octonien: 1454795638962
+    chevalier: 1454795044458
+    firework: 1455216961965
+    pvpbox: 1455114970765
+    legendaire: 1455393896182
+    golden: 1455699116352
+  jail: 0
+ipAddress: 80.12.58.80
+lastlocation:
+  world: world
+  x: -5.372250863972826
+  y: 188.0
+  z: -30.5104296476412
+  yaw: -154.80025
+  pitch: 8.016135
+logoutlocation:
+  world: world
+  x: 11.5
+  y: 189.0
+  z: 15.5
+  yaw: -226.02032
+  pitch: 1.764717
+afk: false
+money: '40'
+godmode: false
+uuid: c4c890ca-3177-36d1-ab30-06410fda98f5
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+jailed: true
+jail: Prison2

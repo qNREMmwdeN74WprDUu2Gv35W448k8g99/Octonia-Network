@@ -1,0 +1,75 @@
+timestamps:
+  login: 1457276241233
+  kits:
+    heros: 1457276697700
+    bouffe: 1457276695098
+    octonien: 1457257515934
+    chevalier: 1457256196497
+    decouverte: 1457256382170
+    legendaire: 1457272176493
+  logout: 1457277044872
+  lastteleport: 1457276897473
+  lastheal: 1457276485887
+ipAddress: 86.194.147.166
+lastlocation:
+  world: world
+  x: 2557.399899821518
+  y: 250.875
+  z: -1771.4969540118766
+  yaw: -32.66476
+  pitch: 8.265988
+logoutlocation:
+  world: world
+  x: -20.881314976396588
+  y: 22.9
+  z: -17.705615653500274
+  yaw: 37.75717
+  pitch: 6.9291105
+homes:
+  home:
+    world: world
+    x: 2557.3805803790037
+    y: 251.0
+    z: -1771.5628588496345
+    yaw: 180.78453
+    pitch: 51.01599
+  canne:
+    world: world
+    x: 369.69999998807907
+    y: 129.0
+    z: -4430.699999988079
+    yaw: 4.0535307
+    pitch: 31.200247
+  xp:
+    world: world
+    x: 362.67601228288805
+    y: 94.0
+    z: -4469.038681720914
+    yaw: -0.22473145
+    pitch: 12.907589
+  base:
+    world: world
+    x: 362.5013803144598
+    y: 11.5
+    z: -4460.0194859837175
+    yaw: 44.619442
+    pitch: 4.1995897
+  ap:
+    world: world
+    x: -243.7644124371697
+    y: 64.0
+    z: -4.233782705959194
+    yaw: -333.10034
+    pitch: 2.0979235
+  octorite:
+    world: world
+    x: 2492.7330998659804
+    y: 48.0
+    z: -2915.3331391173774
+    yaw: 17.807373
+    pitch: 6.0984635
+money: '3108.905'
+uuid: 35fc07b2-14d0-3a72-9918-cb60385e7fc3
+ban:
+  reason: Banni temporairement du serveur pour 2 jours.
+  timeout: 1457449845451

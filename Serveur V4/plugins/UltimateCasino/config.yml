@@ -1,0 +1,17 @@
+#Shows up before all the chat messages.
+plugin-prefix: '&8[&4Casino&8] '
+#Maximum money, defaults to 10 trillion as that is Essentials' default but not cap as their config says.
+max-money: 10000000000000
+casino-stats:
+  - '%pluginprefix%&cStats'
+  - '&6Coinflip Wins/Losses&8: &e%cfwins%&6/&e%cflosses%'
+  - '&6RPS Wins/Losses&8: &e%rpswins%&6/&e%rpslosses%'
+  - '&6Jackpot Wins/Losses&8: &e%jpwins%&6/&e%jplosses%'
+messages:
+  too-little-arguments: '&cError: Too little arguments.'
+  too-many-arguments: '&cError: Too many arguments.'
+  reloaded-files: '&6Sucessfully reloaded files.'
+  insufficient-permissions: '&cError: Insufficient permissions.'
+  invalid-subcommand: '&cError: Invalid subcommand.'
+  player-has-not-played-before: '&cError: The player %name% has never played before!'
+  invalid-arguments: '&cError: Invalid arguments.'

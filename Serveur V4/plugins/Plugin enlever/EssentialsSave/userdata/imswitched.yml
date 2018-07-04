@@ -1,0 +1,85 @@
+socialspy: false
+timestamps:
+  login: 1456950182470
+  kits:
+    heros: 1456433790211
+    bouffe: 1456172314530
+    octonien: 1456315314748
+    chevalier: 1456315316845
+    xp: 1456950382735
+    decouverte: 1456950468282
+    construction: 1456433796199
+    legendaire: 1456950269614
+  lastteleport: 1456950446872
+  logout: 1456950835125
+  lastheal: 1456432889620
+  mute: 0
+ipAddress: 78.211.122.149
+lastlocation:
+  world: world
+  x: 2325.465941042378
+  y: 7.0
+  z: -8697.300000011921
+  yaw: 211.86115
+  pitch: -2.8498945
+homes:
+  fhome:
+    world: world
+    x: -134.89048262395002
+    y: 64.0
+    z: -297.30000001192093
+    yaw: 94.17514
+    pitch: 11.544547
+  d:
+    world: world
+    x: 9803.26887020241
+    y: 236.0
+    z: 1584.8357425192778
+    yaw: 225.4042
+    pitch: 7.800023
+  p:
+    world: world
+    x: -10.082987763313344
+    y: 64.0
+    z: -282.008561740333
+    yaw: 183.29283
+    pitch: 22.950222
+  mine:
+    world: world
+    x: 7391.553974102593
+    y: 6.0
+    z: 1730.7169840130343
+    yaw: -176.58942
+    pitch: 10.568866
+  sky:
+    world: world
+    x: 2497.867588215721
+    y: 243.0
+    z: -4383.4169815722935
+    yaw: -83.42536
+    pitch: 22.144669
+  xp2:
+    world: world
+    x: 6.137499988079071
+    y: 6.0
+    z: -274.0710337224885
+    yaw: -180.81317
+    pitch: 88.64999
+logoutlocation:
+  world: world
+  x: 30.3261032140408
+  y: 194.0
+  z: -31.496502333386317
+  yaw: -84.250244
+  pitch: 12.299979
+money: '7.914978'
+muted: false
+ignore:
+- schtroumph
+- sidedraks
+- b9untya
+- lexdine
+- azenpvp
+- azeo_pvp
+- imyzed
+uuid: ca970e33-7a19-3924-b534-c5f3aac01017

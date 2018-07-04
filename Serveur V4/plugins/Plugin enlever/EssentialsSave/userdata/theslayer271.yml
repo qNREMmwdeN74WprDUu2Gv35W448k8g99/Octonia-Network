@@ -1,0 +1,22 @@
+uuid: d4fe4a81-189f-3f7b-8b0b-8c110a89080d
+timestamps:
+  login: 1455976438342
+  kits:
+    legendaire: 1455976498964
+    alchimiste: 1455976678692
+  logout: 1455976889566
+ipAddress: 81.67.154.65
+lastlocation:
+  world: world
+  x: -90.01945950672231
+  y: 28.0
+  z: 28.15470767542861
+  yaw: -319.57446
+  pitch: 10.121444
+logoutlocation:
+  world: world
+  x: -90.01945950672231
+  y: 28.0
+  z: 28.15470767542861
+  yaw: -319.57446
+  pitch: 10.121444

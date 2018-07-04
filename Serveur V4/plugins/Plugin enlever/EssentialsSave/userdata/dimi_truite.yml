@@ -1,0 +1,69 @@
+timestamps:
+  login: 1456331686303
+  kits:
+    bouffe: 1456234332347
+    minerais: 1456243378369
+    heros: 1456242777749
+    octonien: 1456332587971
+    chevalier: 1456244785512
+    legendaire: 1456332167468
+    alchimiste: 1456331890932
+  lastteleport: 1456333931895
+  logout: 1456334454104
+  lastheal: 1456332578399
+ipAddress: 78.121.101.197
+lastlocation:
+  world: world
+  x: -8278.665316684186
+  y: 165.0
+  z: 5496.942053091364
+  yaw: -5.6091003
+  pitch: 28.050098
+logoutlocation:
+  world: world
+  x: -7675.6985068576805
+  y: 7.0
+  z: 5971.639207211907
+  yaw: -180.65308
+  pitch: 12.899956
+homes:
+  pille:
+    world: world
+    x: -7061.3341790509585
+    y: 38.0
+    z: 6734.699999988079
+    yaw: -221.29836
+    pitch: 33.899986
+  bp:
+    world: world
+    x: -7670.556108099721
+    y: 5.0
+    z: 5968.1243328124465
+    yaw: -145.44485
+    pitch: 60.75
+  mine:
+    world: world
+    x: -7806.300000011921
+    y: 6.0
+    z: 6109.246175350519
+    yaw: 305.18713
+    pitch: -10.506892
+  farm:
+    world: world
+    x: -7881.246459841837
+    y: 5.0
+    z: 6136.359648883765
+    yaw: 84.3866
+    pitch: 32.093178
+  base:
+    world: world
+    x: -8281.29155755048
+    y: 164.0
+    z: 5495.44318412989
+    yaw: 134.64127
+    pitch: 19.79994
+uuid: 63b273b5-cced-31a9-a960-6c302f83b2f1
+money: '3808.190'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

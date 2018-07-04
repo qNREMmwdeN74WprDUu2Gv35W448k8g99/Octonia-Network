@@ -1,0 +1,34 @@
+uuid: 8f1e71c9-e61c-3777-b4b9-378aaed52c14
+timestamps:
+  login: 1456318634168
+  kits:
+    bouffe: 1456251409948
+    octonien: 1456260834808
+  lastteleport: 1456263724914
+  logout: 1456319043302
+  lastheal: 1456228589047
+ipAddress: 92.147.78.120
+lastlocation:
+  world: world
+  x: -1626.7944041048472
+  y: 58.0
+  z: 9757.58564769361
+  yaw: 238.98645
+  pitch: -14.355571
+homes:
+  home:
+    world: world
+    x: 64.15853910940085
+    y: 14.0
+    z: 9668.865505063512
+    yaw: 225.63184
+    pitch: 90.0
+logoutlocation:
+  world: world
+  x: 55.30000001192093
+  y: 19.0
+  z: 9665.300000011921
+  yaw: 189.88756
+  pitch: 62.080505
+ignore:
+- ghostofviper

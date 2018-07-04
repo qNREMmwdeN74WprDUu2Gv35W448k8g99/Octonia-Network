@@ -1,0 +1,22 @@
+socialspy: false
+timestamps:
+  login: 1454780729638
+  logout: 1454780749984
+ipAddress: 82.65.91.25
+lastlocation:
+  world: world
+  x: -0.05640325665323345
+  y: 191.0
+  z: 0.06084168811078994
+  yaw: -178.79053
+  pitch: 16.049873
+ban:
+  reason: 'Banni : go forum :p'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 0.9213105987120398
+  y: 190.5
+  z: -1.8060331225486683
+  yaw: -130.20555
+  pitch: 74.61807

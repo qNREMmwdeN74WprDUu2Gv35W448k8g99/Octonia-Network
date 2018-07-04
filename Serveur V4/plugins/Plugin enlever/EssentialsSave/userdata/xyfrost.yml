@@ -1,0 +1,28 @@
+uuid: cd75fc3d-a7fd-3139-b7c3-17f23ce8f50d
+timestamps:
+  login: 1456686301403
+  kits:
+    bouffe: 1456686440215
+    minerais: 1456685898937
+    octonien: 1456686328874
+    xp: 1456686493772
+    construction: 1456686592314
+    golden: 1456686359245
+  lastteleport: 1456686768885
+  logout: 1456686973723
+ipAddress: 90.78.189.25
+lastlocation:
+  world: world
+  x: 1.0675706104319307
+  y: 33.0
+  z: -141.7410852286919
+  yaw: 21.04895
+  pitch: -8.399996
+homes: {}
+logoutlocation:
+  world: world
+  x: -128.1061470665806
+  y: 81.0
+  z: 506.74333204170136
+  yaw: -356.52618
+  pitch: 30.749998

@@ -1,0 +1,33 @@
+uuid: fc660cad-6a21-3691-a6e3-0fd44670ce5a
+timestamps:
+  login: 1457266484874
+  kits:
+    bouffe: 1456924853826
+    octonien: 1456941996119
+    decouverte: 1456942840341
+  lastteleport: 1457266549168
+  logout: 1457266581445
+  lastheal: 1456947177099
+ipAddress: 90.34.189.189
+lastlocation:
+  world: world
+  x: -2.4893079700271716
+  y: 190.875
+  z: 2.114151837051235
+  yaw: -11.800537
+  pitch: 20.247847
+homes:
+  home:
+    world: world
+    x: 132.09997922098756
+    y: 5.0
+    z: -5286.553503087914
+    yaw: 263.52863
+    pitch: 20.99989
+logoutlocation:
+  world: world
+  x: 497.42539812764375
+  y: 6.5
+  z: -4305.449390293675
+  yaw: 89.21121
+  pitch: -5.3896317

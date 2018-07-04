@@ -1,0 +1,72 @@
+socialspy: false
+timestamps:
+  login: 1456269979350
+  kits:
+    heros: 1456180265864
+    bouffe: 1456160419673
+    octonien: 1456160417203
+    druide: 1456180386006
+    chevalier: 1456180127620
+    xp: 1456180274047
+    decouverte: 1456180271665
+  lastteleport: 1456270153728
+  logout: 1456270434281
+  mute: 0
+  lastheal: 1456181319850
+ipAddress: 91.178.175.127
+lastlocation:
+  world: world
+  x: -71.23750001192093
+  y: 3.0
+  z: -310.99684264031237
+  yaw: 254.23961
+  pitch: -4.6603246
+homes:
+  bp:
+    world: world
+    x: 5199.3714019844965
+    y: 31.0
+    z: 1998.5680989965153
+    yaw: -0.2682725
+    pitch: 35.850033
+  sable:
+    world: world
+    x: 2835.5298642470148
+    y: 70.0
+    z: 1414.4295287159355
+    yaw: -256.04987
+    pitch: 12.449988
+  h:
+    world: world
+    x: -1675.5
+    y: 34.0
+    z: 3742.5
+    yaw: 265.63647
+    pitch: 24.300137
+  ap:
+    world: world
+    x: 282.78648851995763
+    y: 65.0
+    z: -3.753036408052009
+    yaw: -188.28772
+    pitch: 27.000013
+logoutlocation:
+  world: world
+  x: -61.69999998807907
+  y: 64.0
+  z: -278.44008445504653
+  yaw: 343.10413
+  pitch: 12.464764
+muted: false
+ignore:
+- aljosh
+- olight_
+- valdefeu
+- angel666_hn
+- blacktv
+- tino56200
+money: '326.500'
+uuid: add4d93c-8986-3bbe-9878-0ebf6d9ea0d2
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

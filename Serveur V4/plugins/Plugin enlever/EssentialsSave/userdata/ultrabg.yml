@@ -1,0 +1,27 @@
+uuid: df260bbb-57a4-35f4-9a58-d21d5556db9a
+timestamps:
+  login: 1457287914910
+  kits:
+    bouffe: 1457110430745
+    octonien: 1457118667851
+    decouverte: 1457118871189
+  lastteleport: 1457288428576
+  logout: 1457288633372
+  lastheal: 1457122120012
+ipAddress: 86.199.91.240
+lastlocation:
+  world: world
+  x: 1.295390439680358
+  y: 188.0
+  z: 25.214882336896242
+  yaw: -266.89648
+  pitch: 2.4715943
+homes: {}
+logoutlocation:
+  world: world
+  x: -78.52516532425977
+  y: 29.0
+  z: 70.86298412993159
+  yaw: -159.00316
+  pitch: 1.6486928
+money: '6.0'

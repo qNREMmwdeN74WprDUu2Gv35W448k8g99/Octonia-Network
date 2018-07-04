@@ -1,0 +1,39 @@
+uuid: bd9900d2-d09f-3ea1-a8c3-c76c95e526b7
+timestamps:
+  login: 1457132227492
+  kits:
+    bouffe: 1457124988480
+    octonien: 1457124984981
+    decouverte: 1456849640774
+  lastteleport: 1457124927534
+  logout: 1457133854272
+  lastheal: 1457133814687
+ipAddress: 5.49.140.214
+lastlocation:
+  world: world
+  x: 70.19805915158979
+  y: 5.0
+  z: -8694.683660014067
+  yaw: 85.76639
+  pitch: 20.999939
+logoutlocation:
+  world: world
+  x: -524.5357819275202
+  y: 5.0
+  z: -9830.509061483466
+  yaw: 1.9451476
+  pitch: 15.750039
+homes:
+  home:
+    world: world
+    x: -36.24393942852939
+    y: 100.0
+    z: -8743.859629315448
+    yaw: -90.628235
+    pitch: 44.09999
+money: '15571.00'
+ignore:
+- roro525
+- lucas100
+- fleid
+- diablix_59

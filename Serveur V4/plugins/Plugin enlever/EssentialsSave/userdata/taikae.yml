@@ -1,0 +1,84 @@
+timestamps:
+  login: 1457295446616
+  logout: 1457296471092
+  kits:
+    bouffe: 1457296290185
+    heros: 1457145731338
+    octonien: 1457282187553
+    druide: 1457296359227
+    chevalier: 1457139149967
+    destruction: 1457282142586
+    xp: 1457296298519
+    legendaire: 1457198957381
+    alchimiste: 1457289524405
+    minerais: 1457296355159
+    decouverte: 1457296294313
+    construction: 1457281255673
+    golden: 1457296301164
+  lastteleport: 1457296286471
+  lastheal: 1457148360198
+  jail: 0
+  mute: 0
+ipAddress: 91.69.213.138
+lastlocation:
+  world: world
+  x: -4773.725357150571
+  y: 101.0
+  z: -8151.420151680864
+  yaw: -77.4316
+  pitch: 72.75005
+logoutlocation:
+  world: world
+  x: -4776.339868708371
+  y: 49.0
+  z: -8154.637857382773
+  yaw: -274.8205
+  pitch: 47.99999
+socialspy: false
+money: '38078.55'
+homes:
+  apnord1:
+    world: world
+    x: 40.15784891675222
+    y: 64.0
+    z: -265.6877994971054
+    yaw: -1.0962487
+    pitch: 22.949993
+  bpfarm:
+    world: world
+    x: -4751.695043917011
+    y: 63.0
+    z: -8176.004708426114
+    yaw: -304.08093
+    pitch: 34.35001
+  pose:
+    world: world
+    x: -4783.993819628363
+    y: 101.0
+    z: -8144.80184532872
+    yaw: 63.118393
+    pitch: 65.850044
+  bp:
+    world: world
+    x: -4779.5
+    y: 49.0
+    z: -8155.5
+    yaw: -273.3203
+    pitch: 20.748718
+  farmgoule:
+    world: world
+    x: 7630.300000011921
+    y: 4.0
+    z: -1768.4450750961862
+    yaw: 86.10992
+    pitch: -8.603755
+  p:
+    world: world
+    x: -5708.5
+    y: 48.0
+    z: -8192.5
+    yaw: -117.35953
+    pitch: 1.9500006
+jailed: false
+uuid: 1c99b114-245a-36a9-9ed0-411ab20aa7b6
+muted: false

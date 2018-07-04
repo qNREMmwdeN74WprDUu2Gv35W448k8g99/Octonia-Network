@@ -1,0 +1,3 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: EMERALD

@@ -1,0 +1,49 @@
+timestamps:
+  login: 1457270014540
+  kits:
+    minerais: 1457270085648
+    bouffe: 1457270139524
+    octonien: 1455386655136
+    chevalier: 1457270103652
+    decouverte: 1457270101863
+    construction: 1457270072197
+  lastteleport: 1457270764272
+  logout: 1457270880041
+  lastheal: 1457270821317
+  mute: 0
+ipAddress: 78.120.97.106
+lastlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  sky:
+    world: world
+    x: -3179.0151322667048
+    y: 245.875
+    z: -3537.237500011921
+    yaw: 180.13591
+    pitch: 3.4501112
+  mine:
+    world: world
+    x: -3181.6651061492316
+    y: 5.0
+    z: -3504.846471642408
+    yaw: -2.8663635
+    pitch: 18.90005
+logoutlocation:
+  world: world
+  x: -3350.605268970311
+  y: 70.0
+  z: -3578.7506568835793
+  yaw: 62.836243
+  pitch: 16.800161
+money: '23178.5'
+ignore:
+- ulul25
+- karmann311
+muted: false
+uuid: 45fa261a-8c08-3ded-bca1-175755b26093

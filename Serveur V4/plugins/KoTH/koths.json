@@ -1,0 +1,55 @@
+[
+  {
+    "name": "End",
+    "loot": {
+      "secondLootDirection": "NONE",
+      "position": {
+        "world": "world",
+        "x": -254,
+        "y": 64,
+        "z": 186
+      }
+    },
+    "areas": [
+      {
+        "loc2": {
+          "world": "world",
+          "x": -253,
+          "y": 67,
+          "z": 190
+        },
+        "loc1": {
+          "world": "world",
+          "x": -260,
+          "y": 64,
+          "z": 183
+        },
+        "name": "End"
+      }
+    ]
+  },
+  {
+    "lastWinner": {
+      "uniqueId": "58277",
+      "capperType": "factionuuid"
+    },
+    "name": "Ruine",
+    "areas": [
+      {
+        "loc2": {
+          "world": "world",
+          "x": -229,
+          "y": 31,
+          "z": 230
+        },
+        "loc1": {
+          "world": "world",
+          "x": -235,
+          "y": 27,
+          "z": 224
+        },
+        "name": "Ruine"
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+timestamps:
+  login: 1457031529382
+  kits:
+    bouffe: 1456566481108
+    heros: 1456563715250
+    octonien: 1456565206345
+    druide: 1456564031717
+    chevalier: 1456563718846
+    destruction: 1456564167479
+    xp: 1456564127082
+    legendaire: 1456563712446
+    alchimiste: 1456563925158
+    minerais: 1456564028766
+    decouverte: 1456564080467
+    construction: 1456563950377
+    golden: 1456564133680
+  logout: 1457031568628
+  lastteleport: 1457031548109
+  lastheal: 1456922910881
+  mute: 0
+  jail: 0
+ipAddress: 213.189.181.133
+lastlocation:
+  world: world
+  x: -1196.1798597630054
+  y: 69.0
+  z: -2609.9948782421093
+  yaw: 327.2346
+  pitch: -60.862724
+homes:
+  pillage:
+    world: world
+    x: 3499.699999988079
+    y: 45.0
+    z: 4330.107914638238
+    yaw: 121.858154
+    pitch: 29.249962
+  ap:
+    world: world
+    x: 215.71155472956954
+    y: 64.0
+    z: 282.1356692121891
+    yaw: -177.23457
+    pitch: 29.841257
+  sky:
+    world: world
+    x: -1200.5431256218276
+    y: 249.875
+    z: -2454.655676378733
+    yaw: 89.48999
+    pitch: 33.30002
+  minage:
+    world: world
+    x: 849.8208969617307
+    y: 10.0
+    z: -917.1275061544954
+    yaw: -89.84983
+    pitch: 28.5002
+  ally:
+    world: world
+    x: -13.574999988079071
+    y: 68.1875
+    z: 286.69999998807907
+    yaw: 200.10571
+    pitch: 38.4
+  farm:
+    world: world
+    x: 1348.699999988079
+    y: 39.0
+    z: -586.7003707044199
+    yaw: -58.367554
+    pitch: -35.10001
+logoutlocation:
+  world: world
+  x: -1199.2469137622413
+  y: 249.875
+  z: -2453.6763179666464
+  yaw: 77.48928
+  pitch: 48.404404
+money: '105.005'
+uuid: 25ac26f1-52b9-3dac-8895-cc96eca3f3a1
+muted: false
+jailed: false
+ban:
+  reason: Banni temporairement du serveur pour 2 secondes.
+  timeout: 0

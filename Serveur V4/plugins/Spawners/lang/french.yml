@@ -1,0 +1,48 @@
+# Created by Teemios
+AccessTo: Tu as accès à
+SignCreated: '&eLe panneau a été créé avec succes'
+SpawnerBroke: '&cLe spawner a été détruit quand tu as essayé de le miner'
+SpawnerChanged: '&eTu as changé le spawner en &6{spawner}'
+SpawnerChangedWithMoney: '&eTu as changé le spawner en &6{spawner}&e pour &6${money}'
+SpawnerChangedWithExp: '&eTu as changé le spawner en &6{spawner}&e pour &6{exp} exp'
+SpawnerGive: '&eTu as reçu un(e) &6{spawner}&e spawner'
+SpawnerGiveWithMoney: '&eTu as acheté un(e) &6{spawner}&e spawner pour &6${money}'
+SpawnerGiveWithExp: '&eTu as acheté un(e) &6{spawner}&e spawner pour &6{exp} exp'
+ProtectedArea: '&cTu ne peux pas changer un spawner dans une zone protégée'
+NoPermission: '&cTu n''as pas la permission d''utiliser cette commande'
+NoInvSpace: '&cTu n''as pas de place dans ton inventaire'
+OnCooldown: '&cTu dois attendre &e{time}&c avant de pouvoir utiliser la commande'
+NotValid: '&cCe n''est pas un spawner valide, utilise &n{command}&c pour voir tous
+  les spawners'
+NoValidBlock: '&cCe que tu regardes n''est pas un spawner'
+NotEnoughMoney: '&cTu as besoin de ${money} pour utiliser cela!'
+NotEnoughExp: '&cTu as besoin de {exp} exp pour utiliser cela! (Il te manque: {missingExp})'
+Commands:
+  spawner:
+    change:
+      Description: Change le spawner que tu regardes
+    give:
+      Description: Obtiens un spawner
+    entity:
+      Description: Liste toutes les entitées
+    list:
+      Description: Liste tous les spawners
+ReceivedSpawner: '&eTu a reçu un(e) &6{spawner}&e spawner de la part de &6{player}'
+NoPlayerFound: '&cImpossible de trouver le joueur "{player}"'
+item:
+  give:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner créé par {player}'
+  buy:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner acheté par {player}'
+  mine:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner miné par {player}'
+  tnt:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner récolté avec une TNT'

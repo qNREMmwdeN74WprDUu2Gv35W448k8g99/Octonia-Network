@@ -1,0 +1,313 @@
+## --------------------------------------- ##
+## FactionsOne 1.8.X [BETA PLACEHOLDERS] Placeholders
+## https://www.spigotmc.org/resources/factionsone.9249/
+## About: This configuration allows you to
+##        configure what certain placeholders return.
+## --------------------------------------- ##
+
+# DO NOT EDIT THE CONFIG VERSION
+config: 1
+
+# Enable/Disable the placeholder group
+# Placeholder groups will not be loaded into the memory
+# when not used.
+enabled: true
+
+# Define what the boolean placeholder {factionsone_faction_nomonsters_raw} returns
+factionsone_faction_nomonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_nomonsters_raw} returns
+factionsone_locationfaction_nomonsters_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_peacefulexplosions_raw} returns
+factionsone_faction_peacefulexplosions_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_isopen_raw} returns
+factionsone_faction_isopen_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_ispeaceful_raw} returns
+factionsone_locationfaction_ispeaceful_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_title} returns
+factionsone_player_title:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_hashome_raw} returns
+factionsone_locationfaction_hashome_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_tag} returns
+factionsone_player_tag:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_isopen_raw} returns
+factionsone_locationfaction_isopen_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_hashome_raw} returns
+factionsone_faction_hashome_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_issafezone_raw} returns
+factionsone_faction_issafezone_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_iswarzone_raw} returns
+factionsone_faction_iswarzone_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_peacefulexplosions_raw} returns
+factionsone_locationfaction_peacefulexplosions_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_haspermanentpower_raw} returns
+factionsone_faction_haspermanentpower_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_ispeaceful_raw} returns
+factionsone_faction_ispeaceful_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_noexplosions_raw} returns
+factionsone_locationfaction_noexplosions_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_isnone_raw} returns
+factionsone_faction_isnone_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_chattag} returns
+factionsone_player_chattag:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_iswarzone_raw} returns
+factionsone_locationfaction_iswarzone_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_nameandtitle} returns
+factionsone_player_nameandtitle:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_faction_playerfreetype_raw} returns
+factionsone_faction_playerfreetype_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_haslandinflation_raw} returns
+factionsone_locationfaction_haslandinflation_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_hasplayersonline_raw} returns
+factionsone_faction_hasplayersonline_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_haslandinflation_raw} returns
+factionsone_faction_haslandinflation_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_issafezone_raw} returns
+factionsone_locationfaction_issafezone_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_playerfreetype_raw} returns
+factionsone_locationfaction_playerfreetype_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_home_chunk_isloaded_raw} returns
+factionsone_faction_home_chunk_isloaded_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_isnone_raw} returns
+factionsone_locationfaction_isnone_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_isnormal_raw} returns
+factionsone_locationfaction_isnormal_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_accountid} returns
+factionsone_player_accountid:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_haspermanentpower_raw} returns
+factionsone_locationfaction_haspermanentpower_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_isnormal_raw} returns
+factionsone_faction_isnormal_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_name} returns
+factionsone_player_name:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_hasplayersonline_raw} returns
+factionsone_locationfaction_hasplayersonline_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_faction_noexplosions_raw} returns
+factionsone_faction_noexplosions_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_nopvp_raw} returns
+factionsone_locationfaction_nopvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {factionsone_locationfaction_home_chunk_isloaded_raw} returns
+factionsone_locationfaction_home_chunk_isloaded_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {factionsone_player_nameandtag} returns
+factionsone_player_nameandtag:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {factionsone_faction_nopvp_raw} returns
+factionsone_faction_nopvp_raw:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+

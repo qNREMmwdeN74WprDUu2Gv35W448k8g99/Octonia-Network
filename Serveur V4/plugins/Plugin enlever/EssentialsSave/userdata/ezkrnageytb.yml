@@ -1,0 +1,78 @@
+socialspy: false
+timestamps:
+  login: 1457201687612
+  kits:
+    bouffe: 1457201920072
+    heros: 1457202106826
+    octonien: 1457203046130
+    chevalier: 1457202545073
+    legendaire: 1457201743278
+  logout: 1457203472695
+  lastteleport: 1457203402744
+  mute: 0
+  lastheal: 1456572276996
+ipAddress: 91.180.11.194
+lastlocation:
+  world: world
+  x: 2890.767542572273
+  y: 21.24918707874468
+  z: -5906.055276749482
+  yaw: 120.95535
+  pitch: 6.076222
+logoutlocation:
+  world: world
+  x: 20.16335876676644
+  y: 187.0
+  z: 32.643590796853914
+  yaw: -217.30103
+  pitch: 6.750014
+homes:
+  sable:
+    world: world
+    x: 1953.31023272336
+    y: 74.0
+    z: 1957.9193969735777
+    yaw: -71.77191
+    pitch: 6.14071
+  spider:
+    world: world
+    x: -3556.085505437494
+    y: 4.5
+    z: -3171.537342763122
+    yaw: 195.55371
+    pitch: 39.43777
+  sky:
+    world: world
+    x: 2761.3866790712923
+    y: 229.875
+    z: -6019.516335876555
+    yaw: -285.6006
+    pitch: 43.04999
+  bp:
+    world: world
+    x: 2567.320151185714
+    y: 63.0
+    z: -6457.499710255999
+    yaw: -248.22923
+    pitch: 27.57506
+  bank:
+    world: world
+    x: 2877.738725599397
+    y: 22.0
+    z: -5900.740562453996
+    yaw: 49.47513
+    pitch: 14.93566
+  pillage:
+    world: world
+    x: 1572.3640091647476
+    y: 19.5
+    z: 56.73491718814722
+    yaw: 102.97462
+    pitch: 5.746634
+muted: false
+ignore:
+- benco_
+- lezond34
+- byayress_
+money: '13748.0'
+uuid: 156182a2-42be-3163-a290-f6c582fce330

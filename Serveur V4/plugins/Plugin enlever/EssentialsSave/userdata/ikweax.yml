@@ -1,0 +1,69 @@
+socialspy: false
+timestamps:
+  login: 1456924395129
+  kits:
+    heros: 1456926391440
+    bouffe: 1455992712197
+    octonien: 1456924902836
+    chevalier: 1456925608964
+    destruction: 1456926191260
+    decouverte: 1456925794887
+    legendaire: 1455840983159
+  lastteleport: 1456926207857
+  logout: 1456926704387
+  lastheal: 1456924832685
+ipAddress: 90.23.16.41
+lastlocation:
+  world: world
+  x: 3271.340264194352
+  y: 248.0
+  z: -3350.300000011921
+  yaw: 111.61177
+  pitch: 25.468466
+homes:
+  home:
+    world: world
+    x: 2796.3927992737054
+    y: 73.0
+    z: -3482.0750801200393
+    yaw: -154.04373
+    pitch: 10.372099
+  base:
+    world: world
+    x: 532.3000000119209
+    y: 6.0
+    z: -5300.300000011921
+    yaw: -138.1637
+    pitch: 39.26575
+  bp:
+    world: world
+    x: -2001.1029000904969
+    y: 6.0
+    z: -6884.762499988079
+    yaw: 197.46405
+    pitch: 28.006468
+  raid:
+    world: world
+    x: 3273.165708362301
+    y: 255.0
+    z: -3349.8872725930046
+    yaw: -329.91656
+    pitch: -2.8863678
+  raid2:
+    world: world
+    x: 3269.9842783459653
+    y: 250.0
+    z: -3324.4560833857117
+    yaw: -73.18317
+    pitch: 29.83526
+logoutlocation:
+  world: world
+  x: 3270.0315193120796
+  y: 245.0
+  z: -3326.9196946184184
+  yaw: -201.77136
+  pitch: 16.647076
+money: '12791.5'
+ignore:
+- samthebest
+uuid: 02ddebcd-be11-36a5-a1f6-d2dd17495330

@@ -1,0 +1,52 @@
+timestamps:
+  login: 1457276932768
+  kits:
+    bouffe: 1457280065550
+    octonien: 1457282555370
+    druide: 1457282674976
+    chevalier: 1457279981613
+    destruction: 1457281446192
+    decouverte: 1457277788915
+    construction: 1457285866580
+    golden: 1457284068173
+    alchimiste: 1457283233272
+  lastteleport: 1457288657710
+  logout: 1457289156508
+  lastheal: 1457288654840
+  mute: 0
+ipAddress: 92.144.232.240
+lastlocation:
+  world: world
+  x: 9769.52975669251
+  y: 5.0
+  z: 862.9485454007856
+  yaw: -99.40222
+  pitch: 14.550026
+logoutlocation:
+  world: world
+  x: 5906.530701630609
+  y: 5.0
+  z: 4187.639603668025
+  yaw: 252.92772
+  pitch: 28.799976
+homes:
+  bp:
+    world: world
+    x: -1450.3172474557143
+    y: 65.0
+    z: -9648.548765443193
+    yaw: 4.769036
+    pitch: 29.549974
+  p:
+    world: world
+    x: 9774.101749918273
+    y: 5.0
+    z: 861.2379971444597
+    yaw: -136.70174
+    pitch: 60.900074
+money: '297.190'
+ignore:
+- khadgar
+- titi_thug
+uuid: 7e1c6a71-28c6-387b-a011-322bd1d08260
+muted: false

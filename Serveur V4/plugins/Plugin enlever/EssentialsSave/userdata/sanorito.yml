@@ -1,0 +1,81 @@
+timestamps:
+  login: 1457284442369
+  kits:
+    heros: 1457292401660
+    bouffe: 1457292448711
+    octonien: 1457285310333
+    druide: 1457292510354
+    chevalier: 1457292391386
+    decouverte: 1457286487499
+    xp: 1457292453623
+    legendaire: 1457288983104
+    golden: 1456532585726
+    alchimiste: 1457292462535
+  lastteleport: 1457294355101
+  logout: 1457294369029
+  lastheal: 1457290455784
+  mute: 0
+ipAddress: 79.86.148.120
+lastlocation:
+  world: world
+  x: -538.5701596770444
+  y: 14.875
+  z: -8711.805805885377
+  yaw: -201.68735
+  pitch: -14.43242
+money: '1145.3'
+logoutlocation:
+  world: world
+  x: -540.6583521199407
+  y: 38.0
+  z: -8713.394319729334
+  yaw: 144.97926
+  pitch: 32.345978
+homes:
+  apo:
+    world: world
+    x: 40.448560227803554
+    y: 61.0
+    z: -293.2137155231408
+    yaw: -166.23346
+    pitch: 13.856273
+  base:
+    world: world
+    x: -538.1345555714727
+    y: 15.0
+    z: -8714.640220153635
+    yaw: -226.31714
+    pitch: 33.332024
+  farm:
+    world: world
+    x: -5712.147465770384
+    y: 48.0
+    z: -8194.526457695973
+    yaw: 128.10928
+    pitch: -12.420853
+  lave:
+    world: world
+    x: -3751.936343264849
+    y: 108.0
+    z: -6650.962196548574
+    yaw: 64.82617
+    pitch: 55.732105
+  bp:
+    world: world
+    x: -4778.152450254896
+    y: 72.0
+    z: -8152.531808864467
+    yaw: -96.01718
+    pitch: 8.426911
+  red:
+    world: world
+    x: -7171.44445529898
+    y: 79.0
+    z: -5854.94267512787
+    yaw: 64.58899
+    pitch: 32.452366
+uuid: 510027f6-e281-3d03-a576-c559bb2643e3
+ban:
+  reason: 'Banni : perm'
+  timeout: 0
+muted: false

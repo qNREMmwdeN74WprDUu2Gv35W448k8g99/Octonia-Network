@@ -1,0 +1,29 @@
+uuid: 8715a87f-1b8f-33b1-b6a6-c1ea07618962
+timestamps:
+  login: 1456150534211
+  kits:
+    bouffe: 1456145767968
+    octonien: 1456145623713
+  logout: 1456151444717
+  lastteleport: 1456148183010
+  jail: 1456208325373
+ipAddress: 78.119.142.8
+lastlocation:
+  world: world
+  x: -6.093574332261894
+  y: 189.0
+  z: 0.639801622128682
+  yaw: -273.94916
+  pitch: 22.257734
+logoutlocation:
+  world: world
+  x: 16.137499988079064
+  y: 190.0
+  z: 7.991341812007619
+  yaw: -235.6262
+  pitch: 18.600006
+jailed: true
+jail: prison1
+ban:
+  reason: 'Banni : Menace DDOS Joueurs + Serveur , Insulte Staff + Troll'
+  timeout: 0

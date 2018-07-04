@@ -1,0 +1,47 @@
+socialspy: false
+timestamps:
+  login: 1457266775328
+  kits:
+    bouffe: 1456960063628
+    octonien: 1457129896932
+    chevalier: 1457129982753
+    decouverte: 1456939527971
+  lastteleport: 1457202334280
+  logout: 1457266884120
+  lastheal: 1457203037336
+  mute: 0
+ipAddress: 90.23.253.150
+lastlocation:
+  world: world
+  x: 2264.6101543171603
+  y: 29.0
+  z: -3663.280491351113
+  yaw: -245.55774
+  pitch: -0.9956849
+homes:
+  p:
+    world: world
+    x: 3509.3705603502153
+    y: 11.0
+    z: -2506.5601324469594
+    yaw: 130.71454
+    pitch: 43.73713
+  home:
+    world: world
+    x: 3515.7248535785266
+    y: 23.0
+    z: -2511.6710714095334
+    yaw: 13.102844
+    pitch: 20.52216
+logoutlocation:
+  world: world
+  x: 3507.8929431420875
+  y: 10.0
+  z: -2515.699999988079
+  yaw: -327.02942
+  pitch: 21.833763
+money: '116.970'
+uuid: a0cee014-a871-30ba-80a0-16b2cd004ae2
+ignore:
+- martial77
+muted: false

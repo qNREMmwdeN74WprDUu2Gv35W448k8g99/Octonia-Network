@@ -1,0 +1,32 @@
+uuid: d7037272-5e6d-3307-bc40-33d3dfebade4
+timestamps:
+  login: 1457265744892
+  logout: 1457265917105
+  kits:
+    octonien: 1457209047913
+ipAddress: 86.68.130.12
+lastlocation:
+  world: world
+  x: -1.5
+  y: 190.0
+  z: -2.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  home:
+    world: world
+    x: -1876.862756694292
+    y: 72.0
+    z: -2437.706455889158
+    yaw: -88.11371
+    pitch: 89.6199
+ban:
+  reason: 'Banni : CHEAT'
+  timeout: 0

@@ -1,0 +1,16 @@
+Location1:
+  x: 72.0
+  y: 45.0
+  z: -70.0
+  world: world
+Location2:
+  x: -69.0
+  y: 10.0
+  z: 80.0
+  world: world
+Recompense_premier: &id001
+- tower1
+- tower2
+- tower3
+Recompense_deuxieme: *id001
+Recompense_troisieme: *id001

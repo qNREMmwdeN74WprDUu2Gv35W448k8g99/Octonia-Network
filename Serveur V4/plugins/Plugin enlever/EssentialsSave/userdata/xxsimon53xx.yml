@@ -1,0 +1,36 @@
+uuid: a4acd544-d840-32d7-9169-2e0ee7960b3f
+timestamps:
+  login: 1457150768043
+  kits:
+    bouffe: 1456989225528
+    octonien: 1456989155328
+    decouverte: 1456989189029
+  lastteleport: 1456989440170
+  logout: 1457150808147
+  lastheal: 1456989963789
+ipAddress: 216.218.39.10
+lastlocation:
+  world: world
+  x: 27.22687444925308
+  y: 22.5
+  z: 12.82675363573523
+  yaw: 267.84213
+  pitch: 12.76715
+logoutlocation:
+  world: world
+  x: 6799.493770518396
+  y: 37.0
+  z: -6227.057582958407
+  yaw: -33.17022
+  pitch: -7.3499956
+homes:
+  home:
+    world: world
+    x: 6511.613589511766
+    y: 21.0
+    z: -611.2946939434113
+    yaw: 26.048662
+    pitch: 2.8541353
+money: '2.20'
+ignore:
+- mutus31

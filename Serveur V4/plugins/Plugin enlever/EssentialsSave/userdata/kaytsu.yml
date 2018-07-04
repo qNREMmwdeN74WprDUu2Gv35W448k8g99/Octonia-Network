@@ -1,0 +1,40 @@
+timestamps:
+  login: 1456635442532
+  logout: 1456636124036
+  kits:
+    bouffe: 1455362947864
+    octonien: 1456635469437
+    chevalier: 1456214164054
+    decouverte: 1456635481238
+  lastteleport: 1456635970982
+  lastheal: 1456635838586
+  mute: 0
+ipAddress: 80.8.76.98
+lastlocation:
+  world: world
+  x: -24.468771629874276
+  y: 197.0
+  z: 22.507601887400448
+  yaw: -91.00098
+  pitch: 62.247684
+logoutlocation:
+  world: world
+  x: 176.74933037340844
+  y: 65.0
+  z: 300.7499552334115
+  yaw: 133.3438
+  pitch: 21.094456
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 6276.300000011921
+    y: 27.0
+    z: 2231.979580672938
+    yaw: 44.825775
+    pitch: 4.799595
+money: '9770.125'
+ignore:
+- playzerflo
+muted: false
+uuid: 8e9506c6-dec1-3fb2-bce5-2f199872356d

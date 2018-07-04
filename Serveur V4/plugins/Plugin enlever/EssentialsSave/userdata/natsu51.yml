@@ -1,0 +1,39 @@
+timestamps:
+  login: 1457283928315
+  kits:
+    bouffe: 1457284205687
+    octonien: 1457277416505
+    xp: 1457277232139
+    decouverte: 1457277230629
+  lastteleport: 1457286267287
+  logout: 1457286379507
+  lastheal: 1457286342332
+  mute: 0
+ipAddress: 78.224.94.227
+lastlocation:
+  world: world
+  x: 200.3445533696005
+  y: 6.0
+  z: 288.4741282405925
+  yaw: -357.4759
+  pitch: -9.632147
+homes:
+  home:
+    world: world
+    x: 7561.367304979396
+    y: 18.0
+    z: -1669.3036174745687
+    yaw: 309.43143
+    pitch: 15.1498575
+logoutlocation:
+  world: world
+  x: 199.47878796782436
+  y: 64.0
+  z: 285.0798928180787
+  yaw: -116.52467
+  pitch: -25.241726
+money: '911.013'
+uuid: 62a0a5d5-fcfb-35ed-992b-ca9e2b1735ac
+muted: false
+ignore:
+- coco62co

@@ -1,0 +1,16 @@
+# Fichier de configuration de MeteorPlugin
+# Toutes les durées sont en minutes.
+# Attention, le fichier schematic doit être dans le répertoire du plugin.
+# La liste du nom des items est disponible ici : http://jd.bukkit.org/rb/apidocs/org/bukkit/Material.html
+# Il est important d'indiquer le nom du monde afin de prendre en compte la worldborder.
+dureePrespawn: 7
+dureeTag: 12
+rayonClaimInterdit: 3
+nomFichierSchematic: alkazia.schematic
+nomFichierSchematicNuit: alkazia.schematic
+IdItemEntrainantTag: 203
+monde: world
+delaiActivationRedemarrage: 30
+noSpawnItems:
+- 17
+- 18

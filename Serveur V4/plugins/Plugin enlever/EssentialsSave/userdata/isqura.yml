@@ -1,0 +1,68 @@
+timestamps:
+  login: 1455393571832
+  kits:
+    bouffe: 1455393789860
+    heros: 1455393702513
+    octonien: 1455393793267
+    chevalier: 1455393643861
+    xp: 1455393726525
+    legendaire: 1455393671038
+    alchimiste: 1455393765212
+  logout: 1455398984972
+  lastteleport: 1455398944675
+  lastheal: 1455398941830
+ipAddress: 78.239.90.132
+lastlocation:
+  world: world
+  x: 6875.723821688713
+  y: 5.0
+  z: 3710.616835422876
+  yaw: -180.18349
+  pitch: 31.828363
+logoutlocation:
+  world: world
+  x: 8402.699999988079
+  y: 5.0
+  z: 5173.605142550178
+  yaw: 262.28076
+  pitch: 64.14596
+homes:
+  ap:
+    world: world
+    x: -286.69999998807907
+    y: 64.0
+    z: -193.32495484125306
+    yaw: -143.10547
+    pitch: 15.586605
+  sk:
+    world: world
+    x: 1053.8488799512859
+    y: 51.0
+    z: -4881.461408185584
+    yaw: -339.88184
+    pitch: 37.821537
+  pil2:
+    world: world
+    x: 1014.6977391224173
+    y: 10.0
+    z: -4815.300000011921
+    yaw: -197.70404
+    pitch: 21.371384
+  bp:
+    world: world
+    x: 6866.300000011921
+    y: 5.0
+    z: 3723.699999988079
+    yaw: -174.71436
+    pitch: 33.65141
+  minage:
+    world: world
+    x: 1882.5826038779605
+    y: 45.0
+    z: -5740.812723590997
+    yaw: 3.0958252
+    pitch: 12.535511
+money: '5983.0'
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

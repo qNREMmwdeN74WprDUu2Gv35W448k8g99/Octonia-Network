@@ -1,0 +1,33 @@
+timestamps:
+  login: 1456607357881
+  kits:
+    bouffe: 1456329435826
+    octonien: 1455404343670
+  logout: 1456607480993
+  lastteleport: 1456607383285
+  lastheal: 1456329360379
+ipAddress: 62.235.47.34
+lastlocation:
+  world: world
+  x: 287.47645380514655
+  y: 67.0
+  z: 37.210120243200784
+  yaw: 48.101276
+  pitch: 18.14992
+homes:
+  home:
+    world: world
+    x: 532.3000000119209
+    y: 6.0
+    z: -5300.300000011921
+    yaw: 218.63849
+    pitch: 3.300024
+logoutlocation:
+  world: world
+  x: 532.3000000119209
+  y: 6.0
+  z: -5302.512499988079
+  yaw: 166.28821
+  pitch: 10.799991
+uuid: 676d1255-6541-35bb-8592-f05e94572720
+money: '90.0'

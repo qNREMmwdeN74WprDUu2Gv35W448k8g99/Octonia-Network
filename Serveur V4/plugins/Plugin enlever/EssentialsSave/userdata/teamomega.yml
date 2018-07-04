@@ -1,0 +1,66 @@
+timestamps:
+  login: 1457292423950
+  lastteleport: 1457293083728
+  kits:
+    bouffe: 1457292618018
+    heros: 1457292549510
+    octonien: 1457292707593
+    chevalier: 1457292800488
+    decouverte: 1457292523611
+  logout: 1457293131881
+  lastheal: 1457267992100
+  mute: 0
+ipAddress: 88.186.153.232
+lastlocation:
+  world: world
+  x: -17.30000001192093
+  y: 64.0
+  z: 286.57499998807907
+  yaw: 168.95563
+  pitch: -14.774884
+homes:
+  bp:
+    world: world
+    x: 5178.5
+    y: 5.0
+    z: 5986.5
+    yaw: 187.32162
+    pitch: 21.712498
+  ap:
+    world: world
+    x: -23.7615038261997
+    y: 64.0
+    z: 245.93154835823051
+    yaw: 7.2646484
+    pitch: 5.6759653
+  pillage:
+    world: world
+    x: 6745.300000011921
+    y: 61.0
+    z: 6027.100276410844
+    yaw: -174.40541
+    pitch: 41.592052
+  sky:
+    world: world
+    x: -3949.76639714383
+    y: 249.875
+    z: 7928.910445366464
+    yaw: -73.85095
+    pitch: 47.344967
+logoutlocation:
+  world: world
+  x: -24.602573450130695
+  y: 64.0
+  z: 285.1531298923011
+  yaw: 244.65741
+  pitch: 8.003231
+money: '32.3200000000000000000000019'
+ignore:
+- furouis3bg
+- iziclient_
+- lilian68140
+uuid: d86d34ea-03dd-396e-b5a2-f66414f455c6
+muted: false
+ban:
+  reason: 'Banni : Si tu souhaite un déban , Tu rembourse tout . A+ Dans l''auto bus'
+  timeout: 0

@@ -1,0 +1,21 @@
+socialspy: false
+timestamps:
+  login: 1454793385839
+  kits:
+    octonien: 1454793498275
+  logout: 1454793545504
+ipAddress: 176.179.105.155
+lastlocation:
+  world: world
+  x: -0.05640325665323345
+  y: 191.0
+  z: 0.06084168811078994
+  yaw: -178.79053
+  pitch: 16.049873
+logoutlocation:
+  world: world
+  x: -0.2132740404518793
+  y: 189.0
+  z: -16.9011377317498
+  yaw: -177.98483
+  pitch: 9.949838

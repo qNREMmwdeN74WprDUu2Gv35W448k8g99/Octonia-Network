@@ -1,0 +1,21 @@
+uuid: bacc3c60-2b91-394f-aeec-29dd553417b8
+timestamps:
+  login: 1456781980666
+  kits:
+    octonien: 1456002828160
+  logout: 1456782366469
+ipAddress: 86.214.18.12
+lastlocation:
+  world: world
+  x: -7.5
+  y: 189.0
+  z: 9.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 18.338428221992224
+  y: 189.0
+  z: -1.1935632494645263
+  yaw: 98.81699
+  pitch: 15.829575

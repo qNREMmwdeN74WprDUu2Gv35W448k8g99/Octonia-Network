@@ -1,0 +1,56 @@
+uuid: eafae3c0-b6cd-3b0d-8021-04fd42a6a122
+timestamps:
+  login: 1457341682730
+  kits:
+    heros: 1457333993108
+    bouffe: 1457334076507
+    octonien: 1457334045607
+    chevalier: 1457333995207
+    decouverte: 1457334083009
+    legendaire: 1457333991107
+  logout: 1457342919515
+  lastheal: 1457305716872
+  lastteleport: 1457342232149
+  mute: 0
+ipAddress: 95.174.171.9
+lastlocation:
+  world: world
+  x: 3848.589363902465
+  y: 249.875
+  z: 3599.5458373309507
+  yaw: 355.43713
+  pitch: 32.249973
+logoutlocation:
+  world: world
+  x: 5536.467145127638
+  y: 43.0
+  z: 1392.8005334461573
+  yaw: 165.99449
+  pitch: 12.949864
+homes:
+  base:
+    world: world
+    x: 3848.5
+    y: 249.875
+    z: 3589.5
+    yaw: 12.086395
+    pitch: 23.77901
+  fhome:
+    world: world
+    x: 5527.269329668242
+    y: 64.0
+    z: 1383.3795949893913
+    yaw: 58.8938
+    pitch: 34.799976
+  mine:
+    world: world
+    x: 1665.0419658422647
+    y: 5.0
+    z: 5430.291226100449
+    yaw: 161.65227
+    pitch: 10.199876
+money: '51389.50'
+muted: false
+ignore:
+- mrmaxlen87
+- iswap

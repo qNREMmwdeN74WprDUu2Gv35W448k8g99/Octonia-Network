@@ -1,0 +1,27 @@
+uuid: 54248799-c7b3-3360-bcc1-2bc1b3e2ea55
+timestamps:
+  login: 1456842544740
+  logout: 1456844878126
+  kits:
+    bouffe: 1456828342543
+    octonien: 1456830172470
+  lastteleport: 1456844383065
+ipAddress: 81.251.90.106
+lastlocation:
+  world: world
+  x: -3425.545419841863
+  y: 5.0
+  z: 9311.09293267664
+  yaw: 137.3099
+  pitch: 50.549828
+logoutlocation:
+  world: world
+  x: -3432.1431406593606
+  y: 13.015555072702202
+  z: 9291.781517464098
+  yaw: 10.833089
+  pitch: -24.75003
+money: '1030.0'
+ban:
+  reason: 'Banni : Double compte'
+  timeout: 0

@@ -1,0 +1,81 @@
+socialspy: false
+timestamps:
+  login: 1457281979977
+  lastteleport: 1457289051144
+  kits:
+    bouffe: 1457277771915
+    heros: 1457197893844
+    octonien: 1457278437093
+    chevalier: 1457276948063
+    decouverte: 1457284421567
+    legendaire: 1457277713799
+    alchimiste: 1457277720082
+    golden: 1457260885867
+  logout: 1457289524276
+  lastheal: 1457289527194
+  mute: 0
+ipAddress: 79.93.126.56
+lastlocation:
+  world: world
+  x: 90.64505649899858
+  y: 69.0
+  z: 294.93682275269305
+  yaw: 106.363045
+  pitch: 37.778194
+logoutlocation:
+  world: world
+  x: 9770.837234916537
+  y: 5.0
+  z: 849.4963930894353
+  yaw: 343.58203
+  pitch: 18.185871
+homes:
+  farm:
+    world: world
+    x: 1875.5
+    y: 5.0
+    z: -5730.5
+    yaw: -77.40606
+    pitch: -31.945131
+  mine:
+    world: world
+    x: 5909.748076670774
+    y: 6.0
+    z: 3878.699999988079
+    yaw: 17.18518
+    pitch: 29.372305
+  bp:
+    world: world
+    x: 9770.763436791985
+    y: 5.0
+    z: 851.8173228306433
+    yaw: 297.91534
+    pitch: 5.5337234
+  sable:
+    world: world
+    x: 5682.99169111189
+    y: 74.0
+    z: -8148.300000011921
+    yaw: -64.249214
+    pitch: 32.121918
+  dem:
+    world: world
+    x: 7887.5
+    y: 7.875
+    z: -6096.5
+    yaw: 216.45663
+    pitch: 21.883448
+  pill:
+    world: world
+    x: -1463.3097465394587
+    y: 75.0
+    z: -9612.002389683903
+    yaw: 140.01068
+    pitch: 11.509565
+money: '596.80'
+uuid: d0140249-c606-32de-85b0-cd61c17260d3
+muted: false
+ignore:
+- destructeur23
+- gofacex
+- tervim

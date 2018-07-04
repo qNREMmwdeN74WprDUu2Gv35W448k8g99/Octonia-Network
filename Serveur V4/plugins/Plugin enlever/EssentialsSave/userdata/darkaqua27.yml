@@ -1,0 +1,45 @@
+timestamps:
+  login: 1457282700159
+  kits:
+    bouffe: 1457276454656
+    octonien: 1457276449066
+    decouverte: 1457191131340
+  lastteleport: 1457283094159
+  logout: 1457283152795
+  lastheal: 1457199531677
+  mute: 0
+  jail: 0
+ipAddress: 92.152.156.71
+lastlocation:
+  world: world
+  x: -6.865286559978627
+  y: 188.5
+  z: 15.363286550781247
+  yaw: -66.25079
+  pitch: 11.550007
+logoutlocation:
+  world: world
+  x: -0.8098748929218857
+  y: 188.0
+  z: 28.25162417536375
+  yaw: -139.70555
+  pitch: 19.499992
+homes:
+  home:
+    world: world
+    x: 1.739101288459142
+    y: 206.0
+    z: 2.3014313401654363
+    yaw: 97.89443
+    pitch: 17.334288
+money: '66.31'
+uuid: 04308ba1-c9d6-3fb7-bf35-eeafd0e7883a
+muted: false
+jailed: false
+ignore:
+- kindjoey
+- galaxi_man100
+- xxantoine999
+- spectron
+- spouky
+- teamomega

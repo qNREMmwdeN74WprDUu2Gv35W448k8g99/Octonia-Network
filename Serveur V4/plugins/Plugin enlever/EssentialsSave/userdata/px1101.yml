@@ -1,0 +1,35 @@
+timestamps:
+  login: 1455883396603
+  kits:
+    bouffe: 1455872552241
+    octonien: 1455829480179
+  lastteleport: 1455883760628
+  logout: 1455883906681
+  lastheal: 1455835572098
+ipAddress: 92.157.164.88
+lastlocation:
+  world: world
+  x: 2984.300000011921
+  y: 6.0
+  z: 3915.6958098637897
+  yaw: -298.18668
+  pitch: 35.400047
+logoutlocation:
+  world: world
+  x: 6.28731899377882
+  y: 189.0
+  z: -12.30810724257926
+  yaw: -326.13293
+  pitch: 22.279594
+homes:
+  home:
+    world: world
+    x: 4010.7809013122155
+    y: 43.0
+    z: 2194.6975090984156
+    yaw: 256.6278
+    pitch: 49.649963
+money: '1470.5'
+ignore:
+- schehrliam
+uuid: da47b384-a779-3cfa-8cb6-37cdf012d847

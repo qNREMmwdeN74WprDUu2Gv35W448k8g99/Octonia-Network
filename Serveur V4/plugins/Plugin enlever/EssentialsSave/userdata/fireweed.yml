@@ -1,0 +1,25 @@
+uuid: 1eb0cb9d-2e06-311e-bae7-78de076163af
+timestamps:
+  login: 1456582885719
+  lastteleport: 1456582896645
+  mute: 0
+  logout: 1456582956277
+ipAddress: 105.158.173.95
+lastlocation:
+  world: world
+  x: -0.940256475977085
+  y: 189.0
+  z: 9.765281360763115
+  yaw: -171.10095
+  pitch: 76.64783
+muted: true
+ban:
+  reason: 'Banni : Bonne Journée'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -3.0740278811957094
+  y: 188.0
+  z: 35.794758805699956
+  yaw: -8.801025
+  pitch: 11.097826

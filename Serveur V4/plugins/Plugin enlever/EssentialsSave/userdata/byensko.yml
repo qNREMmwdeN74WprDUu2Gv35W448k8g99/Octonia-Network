@@ -1,0 +1,60 @@
+timestamps:
+  login: 1455035590872
+  lastheal: 1455038579933
+  kits:
+    bouffe: 1454950985167
+    minerais: 1455035715273
+    heros: 1455035741918
+    octonien: 1455036292014
+    druide: 1455035716433
+    chevalier: 1455035743279
+    destruction: 1455035731351
+    xp: 1455035766184
+    decouverte: 1455035744797
+    construction: 1455035729763
+    legendaire: 1455035691041
+    alchimiste: 1455035768333
+  lastteleport: 1455038613035
+  logout: 1455038623913
+ipAddress: 82.231.195.213
+lastlocation:
+  world: world
+  x: 7.719647020069432
+  y: 189.0
+  z: 1.1317034688161227
+  yaw: -16.94046
+  pitch: 20.849987
+homes:
+  home:
+    world: world
+    x: 20.94891332099807
+    y: 64.0
+    z: -283.2438299276483
+    yaw: 32.28775
+    pitch: 3.1499975
+  greezly:
+    world: world
+    x: 6515.729248155736
+    y: 5.0
+    z: -611.1070148316841
+    yaw: 237.08887
+    pitch: 29.902252
+  spawner:
+    world: world
+    x: 6515.477217630152
+    y: 10.0
+    z: -608.5929812049185
+    yaw: 59.939697
+    pitch: 20.602251
+logoutlocation:
+  world: world
+  x: 6514.133689146837
+  y: 5.0
+  z: -610.0742072020945
+  yaw: 237.08887
+  pitch: 29.902252
+socialspy: false
+money: '120'
+ban:
+  reason: 'Banni : boot sur admin'
+  timeout: 0

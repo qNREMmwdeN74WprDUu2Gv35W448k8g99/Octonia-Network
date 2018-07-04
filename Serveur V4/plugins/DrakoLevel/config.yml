@@ -1,0 +1,17 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # #
+# 													#
+# 				Config AlkaLevel !	 				#
+# 													#
+# # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+bdd:
+  ip: '164.132.203.88'
+  port: '3306'
+  bdd: octonia
+  user: 'OctoniaLocal'
+  passwd: x0Q2a6d56q89ZAqs
+  tables:
+    name: alkalevel
+    pseudo: AlkaLevel_pseudo
+    xp: AlkaLevel_xp
+    niveau: AlkaLevel_niveau

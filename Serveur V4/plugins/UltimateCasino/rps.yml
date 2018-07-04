@@ -1,0 +1,28 @@
+tax: 5.0
+minimum-bet: 1.0
+choose-gesture-title: '&8&lRPS vs %opponent%'
+rps-games-available-title: '&8&lRPS Games'
+messages:
+  invalid-amount: '&cError: Invalid amount.'
+  bet-not-greater-than-zero: '&cError: Bet provided is not greater than 0.'
+  insufficient-funds: '&cError: You have insufficient funds to place this bet.'
+  cant-make-new-game: '&cError: Please wait until your current game has been completed
+    before making a new one.'
+  bet-not-greater-than-minimum: '&cError: Bet provided is not greater than the minimum
+    bet (%minimum%).'
+  bet-not-lower-than-maximum-money: '&cError: Bet provided is not lower than the maximum
+    money you can have (%max-money%).'
+  not-rps: '&cError: The argument provided was not rock, paper or scissors.'
+  tied-game: '&6You tied against &e%name% &6in an RPS game and kept your money.'
+  winning-message: '&6You won against &e%name% &6in an RPS game and got &e%winning%&6!'
+  winning-message-tax: '&6You won against &e%name% &6in an RPS game worth &e%winning%&6
+    and got &e%tax%!'
+  losing-message: '&6You lost against &e%name% &6in an RPS game and lost &e%bets%&6.'
+  cant-play-against-self: '&cError: You cannot play against yourself.'
+  cant-play-funds: '&cError: You have insufficient funds to go against this person.'
+  created-game: '&6You have created a game of RPS with a bet of &e%bets%&6!'
+  game-already-played: '&cError: This game has already been played.'
+  removed-game: '&6You have successfully removed &e%name% RPS &6game!'
+  removed-all-games: '&6You have successfully removed &eall RPS &6games!'
+  no-game-to-remove: '&cError: There was no RPS game created by that user!'
+  no-games-to-remove: '&cError: There are no RPS games to remove!'

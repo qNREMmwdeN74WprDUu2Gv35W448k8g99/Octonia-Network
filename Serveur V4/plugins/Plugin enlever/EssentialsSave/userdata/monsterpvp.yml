@@ -1,0 +1,43 @@
+socialspy: false
+timestamps:
+  login: 1456498830106
+  kits:
+    bouffe: 1456406314479
+    octonien: 1456398513262
+    chevalier: 1456066509796
+    decouverte: 1456410235509
+  lastteleport: 1456498838304
+  logout: 1456498900118
+  mute: 0
+  lastheal: 1456413702167
+  jail: 0
+ipAddress: 91.178.99.171
+lastlocation:
+  world: world
+  x: 7595.998781138386
+  y: 5.0
+  z: -1767.3426091209676
+  yaw: -19.98789
+  pitch: 40.499954
+logoutlocation:
+  world: world
+  x: 6991.343896908297
+  y: 252.875
+  z: -244.23481664967946
+  yaw: -241.79907
+  pitch: 76.79995
+muted: false
+homes:
+  home:
+    world: world
+    x: 6986.544442081977
+    y: 252.875
+    z: -243.51304627843476
+    yaw: -270.14844
+    pitch: 53.549877
+money: '10594.5'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+uuid: bff78405-531e-3142-a470-336b8a02297e
+jailed: false

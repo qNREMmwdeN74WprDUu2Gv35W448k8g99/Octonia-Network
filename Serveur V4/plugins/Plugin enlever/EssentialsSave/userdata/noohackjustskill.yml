@@ -1,0 +1,24 @@
+uuid: c1e2aeba-89b5-3b4d-b2db-27e7583e80eb
+timestamps:
+  login: 1456286253631
+  logout: 1456289338630
+  lastteleport: 1456289039683
+ipAddress: 88.150.132.51
+lastlocation:
+  world: world
+  x: -5237.122163438132
+  y: 15.414871882935666
+  z: 7908.081212217313
+  yaw: 302.14023
+  pitch: 28.350029
+afk: false
+logoutlocation:
+  world: world
+  x: 4.962178710120212
+  y: 192.0
+  z: -2.9059699601551756
+  yaw: -89.74936
+  pitch: 9.299973
+ban:
+  reason: Banni temporairement du serveur pour 16 minutes 40 secondes.
+  timeout: 1456353169354

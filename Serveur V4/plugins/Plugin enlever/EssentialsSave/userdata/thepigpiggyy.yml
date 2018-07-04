@@ -1,0 +1,62 @@
+timestamps:
+  login: 1455557834266
+  kits:
+    bouffe: 1455493741017
+    heros: 1455488245647
+    minerais: 1455559402846
+    octonien: 1455488296578
+    druide: 1455489410596
+    chevalier: 1455487976743
+    destruction: 1455488980527
+    xp: 1455559378326
+    decouverte: 1455489365548
+    legendaire: 1455558169822
+    construction: 1455559564521
+    alchimiste: 1455489389833
+  logout: 1455559938014
+  lastteleport: 1455559587622
+ipAddress: 82.235.219.84
+lastlocation:
+  world: world
+  x: 1586.3208598366728
+  y: 2.875
+  z: 2114.699999988079
+  yaw: -252.88264
+  pitch: 25.802288
+homes:
+  base:
+    world: world
+    x: 1586.699999988079
+    y: 2.0
+    z: 2114.237500011921
+    yaw: -267.88123
+    pitch: 28.200022
+  ench:
+    world: world
+    x: 36.35258162115702
+    y: 189.0
+    z: 8.775647458579883
+    yaw: 257.60864
+    pitch: 17.085308
+  haut:
+    world: world
+    x: 1586.4389543912355
+    y: 84.0
+    z: 2118.1934333974637
+    yaw: -194.53134
+    pitch: 16.35
+  dehors:
+    world: world
+    x: 1748.3999270802078
+    y: 67.0
+    z: 955.7544293455858
+    yaw: -183.38039
+    pitch: 31.050007
+logoutlocation:
+  world: world
+  x: 35.279540382098354
+  y: 189.0
+  z: 8.780944594668881
+  yaw: -146.26295
+  pitch: 25.080631
+money: '352.0'

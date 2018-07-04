@@ -1,0 +1,36 @@
+socialspy: false
+timestamps:
+  login: 1455235744024
+  logout: 1455237394701
+  kits:
+    bouffe: 1455236056458
+    octonien: 1455235940653
+  lastteleport: 1455237239794
+  mute: 0
+ipAddress: 78.129.95.233
+lastlocation:
+  world: world
+  x: 0.9885040451761928
+  y: 189.0
+  z: -19.299187941980513
+  yaw: -183.5896
+  pitch: 8.099997
+logoutlocation:
+  world: world
+  x: -0.07650790082225645
+  y: 190.5
+  z: 0.5082654282270697
+  yaw: -180.44048
+  pitch: 81.74999
+muted: false
+homes:
+  home:
+    world: world
+    x: 170.23750001192093
+    y: 45.0
+    z: 588.3000000119209
+    yaw: 302.64673
+    pitch: 20.550018
+ignore:
+- wiirkohd
+- wizback

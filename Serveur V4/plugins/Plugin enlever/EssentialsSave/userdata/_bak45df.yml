@@ -1,0 +1,38 @@
+uuid: 54afe673-13b8-3977-9661-a959643a164b
+timestamps:
+  login: 1456529164903
+  logout: 1456529176545
+  lastteleport: 1456529002980
+  kits:
+    bouffe: 1456527880242
+    octonien: 1456527028548
+  jail: 0
+ipAddress: 185.94.189.138
+lastlocation:
+  world: world
+  x: -8402.495422568196
+  y: 5.0
+  z: -3086.0382325497126
+  yaw: -34.88571
+  pitch: 27.596807
+logoutlocation:
+  world: world
+  x: -276.7126065072397
+  y: 5.4958000040054324
+  z: -9.4807000202902
+  yaw: -192.14673
+  pitch: 17.700031
+homes:
+  home:
+    world: world
+    x: -8402.352129524748
+    y: 5.0
+    z: -3076.577195408965
+    yaw: -200.21619
+    pitch: 18.935287
+jailed: false
+ignore:
+- masterfight63
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

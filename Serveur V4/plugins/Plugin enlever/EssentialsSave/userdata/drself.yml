@@ -1,0 +1,41 @@
+uuid: fdb20e96-799d-362e-a5cb-0328e0f0af68
+timestamps:
+  login: 1457287102775
+  kits:
+    bouffe: 1457176046648
+    octonien: 1457261852135
+    destruction: 1457267590876
+    construction: 1457267573531
+    legendaire: 1457261726745
+    golden: 1457261951022
+    alchimiste: 1457262071701
+  lastteleport: 1457287314308
+  logout: 1457287630729
+  lastheal: 1457287495771
+ipAddress: 79.141.163.13
+lastlocation:
+  world: world
+  x: 2323.300000011921
+  y: 6.5
+  z: -8701.699999988079
+  yaw: -11.999072
+  pitch: 2.0725875
+logoutlocation:
+  world: world
+  x: -3821.300000011921
+  y: 70.0
+  z: -778.0249870444101
+  yaw: 268.8922
+  pitch: 54.272823
+homes:
+  home:
+    world: world
+    x: -5972.825645114898
+    y: 6.0
+    z: -3324.5687897670196
+    yaw: 345.0846
+    pitch: 7.081074
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+money: '6524.0'

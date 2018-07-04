@@ -1,0 +1,49 @@
+AccessTo: 'Je hebt toegang tot '
+SignCreated: '&eJe hebt met succes een Spawner bord gemaakt'
+SpawnerBroke: '&cDe spawner is vernietigd'
+SpawnerChanged: '&eJe hebt de spawner veranderd naar een &6{spawner} &6spawner'
+SpawnerChangedWithMoney: '&eJe hebt de spawner veranderd naar een &6{spawner} &espawner
+  voor &6${money}'
+SpawnerChangedWithExp: '&eJe hebt de spawner veranderd naar een &6{spawner} &espawner
+  voor &6{exp} exp'
+SpawnerGive: '&eJe hebt een &6{spawner}&e spawner gekregen'
+SpawnerGiveWithMoney: '&eJe hebt een &6{spawner}&e spawner gekocht voor &6${money}'
+SpawnerGiveWithExp: '&eJe hebt een &6{spawner}&e spawner gekocht voor &6{exp} exp'
+ProtectedArea: '&cJe kunt geen spawner veranderen in een beveiligd gebied'
+ReceivedSpawner: '&eJe hebt een &6{spawner}&e spawner gekregen van &6{player}'
+NoPlayerFound: '&cKon de speler "{player}" niet vinden'
+NoPermission: '&cJe hebt geen toegang om dit te doen'
+NoInvSpace: '&cJe hebt geen plaats in je inventaris'
+OnCooldown: '&cJe moet nog &e{time}&c voordat je dat kunt doen'
+NotValid: '&cDat is geen correcte naam voor een spawner, gebruik &n{command}&c om
+  alle spawners te zien'
+NoValidBlock: '&cJe kijkt niet naar een spawner'
+NotEnoughMoney: '&cJe hebt ${money} nodig om dat te doen!'
+NotEnoughExp: '&cJe hebt {exp} exp nodig om dat te doen!'
+Commands:
+  spawner:
+    change:
+      Description: Verander de spawner waar je naar kijkt
+    give:
+      Description: Geef jezelf een spawner
+    entity:
+      Description: Zie alle mogelijke monsters
+    list:
+      Description: Een lijst van spawners tonen
+item:
+  give:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner gemaakt door {player}'
+  buy:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner gekocht door {player}'
+  mine:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner gemijnd door {player}'
+  tnt:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner gemaakt door TNT'

@@ -1,0 +1,49 @@
+uuid: a2e1232e-f19d-3714-8c11-6796ee5242b3
+timestamps:
+  login: 1457286520729
+  kits:
+    bouffe: 1457225570403
+    octonien: 1457226372358
+  lastteleport: 1457286678110
+  logout: 1457286787298
+  mute: 0
+  lastheal: 1457286673837
+ipAddress: 82.237.82.239
+lastlocation:
+  world: world
+  x: 8450.544261471488
+  y: 16.0
+  z: 3338.7541265894542
+  yaw: 244.93564
+  pitch: -74.83087
+homes:
+  home:
+    world: world
+    x: 8458.714730606976
+    y: 74.875
+    z: 3333.422770566307
+    yaw: -96.53534
+    pitch: 7.1255465
+money: '5304.25'
+logoutlocation:
+  world: world
+  x: 11.89123085342869
+  y: 187.0
+  z: -34.710458383176416
+  yaw: 37.98205
+  pitch: 49.09912
+ignore:
+- skryzio
+- hermman
+- ifuz
+- vyxos
+- skillcreeps_pvp
+- aspirine
+- nathan38
+- titeufe
+- itrycks22
+- isosweat
+- toxyt3
+- zekrom
+- imdunk
+muted: false

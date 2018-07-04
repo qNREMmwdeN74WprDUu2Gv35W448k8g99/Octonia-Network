@@ -1,0 +1,36 @@
+timestamps:
+  login: 1457256809440
+  kits:
+    bouffe: 1457024017110
+    octonien: 1457120991148
+    decouverte: 1457121423220
+  logout: 1457257349311
+  lastteleport: 1457257307411
+  lastheal: 1457212682441
+ipAddress: 88.173.36.141
+lastlocation:
+  world: world
+  x: 8093.135762930834
+  y: 67.0
+  z: -357.8868832817735
+  yaw: 265.55005
+  pitch: 25.8
+logoutlocation:
+  world: world
+  x: 8088.0341218020185
+  y: 231.875
+  z: -359.01757124470333
+  yaw: 67.24997
+  pitch: 29.700016
+homes:
+  home:
+    world: world
+    x: 8088.076464212957
+    y: 231.875
+    z: -362.2368277026771
+    yaw: 39.349976
+    pitch: 31.500017
+money: '176.50'
+ignore:
+- minefernoxp
+uuid: 3c193a38-c0c9-341d-9eb2-49d041674c4f

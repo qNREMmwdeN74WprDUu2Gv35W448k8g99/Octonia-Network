@@ -1,0 +1,76 @@
+timestamps:
+  login: 1455207304172
+  logout: 1455207331274
+  kits:
+    bouffe: 1455061212229
+    heros: 1455113177527
+    octonien: 1455119718483
+    chevalier: 1455113182950
+    decouverte: 1455113154485
+    legendaire: 1455113096279
+    alchimiste: 1455112952740
+  lastteleport: 1455121312757
+  lastheal: 1455121460698
+ipAddress: 89.83.151.203
+lastlocation:
+  world: world
+  x: -8.028433009425429
+  y: 189.0
+  z: 0.43297073230220484
+  yaw: -88.66275
+  pitch: 14.31437
+logoutlocation:
+  world: world
+  x: -8775.704800850033
+  y: 46.0
+  z: -4740.193523409593
+  yaw: -114.22797
+  pitch: 5.6152353
+socialspy: false
+homes:
+  xp:
+    world: world
+    x: -8771.300000011921
+    y: 82.0
+    z: -4751.699999988079
+    yaw: 46.091003
+    pitch: 0.022695398
+  minage:
+    world: world
+    x: -8266.555788631655
+    y: 5.0
+    z: 4708.144647863328
+    yaw: 178.99622
+    pitch: 11.767237
+  bp:
+    world: world
+    x: -8776.300888390182
+    y: 46.0
+    z: -4745.043471876927
+    yaw: 92.98979
+    pitch: 26.043175
+  stand:
+    world: world
+    x: -8740.723204802833
+    y: 71.0
+    z: -4761.7700139365
+    yaw: 91.149414
+    pitch: 7.4805255
+  pillage:
+    world: world
+    x: -8301.083221139852
+    y: 5.0
+    z: -5054.962091358889
+    yaw: -225.947
+    pitch: 18.214674
+  pillage2:
+    world: world
+    x: -8300.371251268194
+    y: 12.0
+    z: -5060.017239033677
+    yaw: 95.93729
+    pitch: -0.23992175
+money: '11.0'
+ban:
+  reason: Banni temporairement du serveur pour 23 heures 59 minutes 59 secondes.
+  timeout: 0

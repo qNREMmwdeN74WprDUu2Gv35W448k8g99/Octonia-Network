@@ -1,0 +1,48 @@
+timestamps:
+  login: 1457282710116
+  kits:
+    bouffe: 1457269237807
+    octonien: 1457259857391
+    decouverte: 1457282891170
+  lastteleport: 1457282970345
+  logout: 1457283016602
+  lastheal: 1457270532509
+  mute: 0
+  jail: 0
+ipAddress: 90.59.28.222
+lastlocation:
+  world: world
+  x: -5283.489137823273
+  y: 38.0
+  z: -2890.699999988079
+  yaw: 86.873055
+  pitch: 47.700012
+homes:
+  home:
+    world: world
+    x: -5286.961268780786
+    y: 35.0
+    z: -2892.777078180839
+    yaw: -202.77681
+    pitch: 62.700035
+money: '0.00'
+logoutlocation:
+  world: world
+  x: -3968.373121219181
+  y: 5.0
+  z: -2436.5635915197568
+  yaw: 216.90034
+  pitch: -19.800018
+muted: false
+jailed: false
+uuid: 35ee4418-f2a3-31bc-b212-5951fc6f9a8a
+ban:
+  reason: 'Banni : Fait un topic forum , pour etre unban , tu spam plus :'')'
+  timeout: 0
+ignore:
+- exaltou
+- pedropvp
+- timohaupert
+- x_diablac_x
+- asunoir
+- xxfire

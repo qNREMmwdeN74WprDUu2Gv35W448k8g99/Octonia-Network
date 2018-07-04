@@ -1,0 +1,68 @@
+socialspy: false
+timestamps:
+  login: 1455195231663
+  logout: 1455209736354
+  lastteleport: 1455209674775
+  kits:
+    heros: 1455196621768
+    bouffe: 1455117485552
+    octonien: 1455198743355
+    chevalier: 1455196609285
+    decouverte: 1455208039475
+    legendaire: 1455196631983
+  lastheal: 1455209552531
+ipAddress: 86.192.113.178
+lastlocation:
+  world: world
+  x: -202.35442671255342
+  y: 6.0
+  z: -275.6614306897147
+  yaw: -284.35693
+  pitch: 21.300127
+logoutlocation:
+  world: world
+  x: -10.54946650521387
+  y: 6.0
+  z: -273.90819607675076
+  yaw: -107.8124
+  pitch: 29.38703
+homes:
+  warning:
+    world: world
+    x: -8744.209524242173
+    y: 76.0
+    z: -4770.300000011921
+    yaw: -335.13205
+    pitch: 23.768013
+  dedans:
+    world: world
+    x: -8782.48623745897
+    y: 39.0
+    z: -4741.662733587699
+    yaw: 212.09404
+    pitch: 7.199976
+  spawners:
+    world: world
+    x: -8768.300000011921
+    y: 9.0
+    z: -4750.699999988079
+    yaw: -307.5056
+    pitch: 32.85001
+  newbp:
+    world: world
+    x: -7739.699999988079
+    y: 2.0
+    z: 1055.300000011921
+    yaw: 275.1941
+    pitch: -4.199989
+  dehors:
+    world: world
+    x: -8744.196917164152
+    y: 78.0
+    z: -4768.008098611974
+    yaw: -285.00586
+    pitch: 7.5000963
+money: '140062.65'
+ban:
+  reason: 'Banni : Give'
+  timeout: 0

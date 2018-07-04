@@ -1,0 +1,36 @@
+timestamps:
+  login: 1455651228651
+  kits:
+    bouffe: 1455633074632
+    octonien: 1455651234537
+    xp: 1455651265700
+    decouverte: 1455651252905
+  lastteleport: 1455658136918
+  logout: 1455636407937
+  lastheal: 1455658012728
+ipAddress: 93.0.173.199
+lastlocation:
+  world: world
+  x: 3190.5
+  y: 252.875
+  z: 8945.5
+  yaw: -135.63644
+  pitch: 31.500013
+homes:
+  home:
+    world: world
+    x: 3190.0683725574354
+    y: 252.875
+    z: 8945.319518464532
+    yaw: -94.386444
+    pitch: 34.65001
+logoutlocation:
+  world: world
+  x: 2802.3248543167
+  y: 5.0
+  z: 9415.596829406284
+  yaw: 96.57867
+  pitch: 8.549833
+money: '13578.70'
+ignore:
+- darkelite

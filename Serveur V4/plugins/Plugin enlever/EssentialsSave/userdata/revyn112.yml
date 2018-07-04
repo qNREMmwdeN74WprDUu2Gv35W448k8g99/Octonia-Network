@@ -1,0 +1,77 @@
+timestamps:
+  login: 1457277017527
+  kits:
+    bouffe: 1457184813220
+    heros: 1457202447442
+    octonien: 1457184765527
+    chevalier: 1457184753704
+    destruction: 1457184869136
+    decouverte: 1457184841955
+    xp: 1457184853717
+    legendaire: 1457184803653
+  lastteleport: 1457277686144
+  lastheal: 1457205098386
+  logout: 1457277851053
+ipAddress: 85.170.155.45
+lastlocation:
+  world: world
+  x: 1128.67312789829
+  y: 76.0
+  z: -9768.938167976201
+  yaw: -97.745094
+  pitch: 25.350067
+homes:
+  bp1:
+    world: world
+    x: -1437.945785368478
+    y: 45.0
+    z: -9591.762044483545
+    yaw: 351.779
+    pitch: 19.500034
+  sable:
+    world: world
+    x: -1482.8556956476532
+    y: 70.0
+    z: -7304.280869828415
+    yaw: 161.70013
+    pitch: 20.100037
+  haut:
+    world: world
+    x: -1432.4687542878228
+    y: 74.0
+    z: -9574.687535236386
+    yaw: 96.402374
+    pitch: 45.450005
+  vache:
+    world: world
+    x: 780.5779742710477
+    y: 64.0
+    z: -9963.327283401359
+    yaw: -155.58115
+    pitch: 26.403057
+  cobble:
+    world: world
+    x: 1674.237500011921
+    y: 47.0
+    z: -9813.567027539419
+    yaw: 105.74927
+    pitch: 31.650015
+  hells:
+    world: world
+    x: 1066.0635552579456
+    y: 150.0
+    z: -9761.269735828144
+    yaw: -87.69461
+    pitch: 24.11609
+logoutlocation:
+  world: world
+  x: 1063.8993864827487
+  y: 159.0
+  z: -9770.377852675527
+  yaw: 78.856285
+  pitch: 43.860874
+money: '6480.10'
+uuid: c7e92c6f-1c59-3aaa-ba70-e68a3653ea83
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

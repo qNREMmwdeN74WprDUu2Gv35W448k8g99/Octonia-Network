@@ -1,0 +1,23 @@
+uuid: bab73ade-6ac7-33df-9a46-4ddcf3db487b
+timestamps:
+  login: 1457185435235
+  logout: 1457185557225
+  lastteleport: 1457103297357
+  mute: 0
+  lastheal: 1457118327482
+ipAddress: 82.227.92.171
+lastlocation:
+  world: world
+  x: 501.7839423455166
+  y: 61.0
+  z: -65.30000001192093
+  yaw: -114.06726
+  pitch: -1.8105472
+logoutlocation:
+  world: world
+  x: -2721.6277821244826
+  y: 5.0
+  z: 1002.5146313257571
+  yaw: 33.175957
+  pitch: 22.62221
+muted: false

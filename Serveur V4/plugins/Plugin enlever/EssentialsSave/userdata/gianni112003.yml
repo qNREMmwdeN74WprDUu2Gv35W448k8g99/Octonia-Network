@@ -1,0 +1,51 @@
+uuid: 20997540-f9a2-3c8b-a01b-d6f4ddf9f535
+timestamps:
+  login: 1456753856385
+  kits:
+    minerais: 1456753941890
+    heros: 1456650013926
+    bouffe: 1456754228736
+    octonien: 1456650147699
+    druide: 1456753958560
+    chevalier: 1456650004770
+    construction: 1456650125974
+    legendaire: 1456649993542
+    golden: 1456753928239
+    alchimiste: 1456753988325
+  lastteleport: 1456754317865
+  logout: 1456754465614
+  lastheal: 1456565831691
+  mute: 0
+ipAddress: 176.182.109.196
+lastlocation:
+  world: world
+  x: -3001.358120717049
+  y: 5.0
+  z: 9519.310061609634
+  yaw: -201.29431
+  pitch: 33.150948
+homes:
+  ap:
+    world: world
+    x: -290.5205748723559
+    y: 72.0
+    z: -111.1998222427064
+    yaw: -106.29425
+    pitch: 64.01358
+  mine:
+    world: world
+    x: -2564.699999988079
+    y: 5.0
+    z: 9340.323150700424
+    yaw: -273.13272
+    pitch: 55.34996
+logoutlocation:
+  world: world
+  x: -57.808801968490144
+  y: 22.0
+  z: 33.981799067290865
+  yaw: -15.46936
+  pitch: 19.049986
+muted: false
+ignore:
+- xeloman523

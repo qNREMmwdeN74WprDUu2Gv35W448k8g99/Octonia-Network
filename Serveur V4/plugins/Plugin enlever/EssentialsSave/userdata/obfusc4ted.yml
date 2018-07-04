@@ -1,0 +1,22 @@
+timestamps:
+  login: 1455740373021
+  kits:
+    heros: 1455731233129
+    legendaire: 1455732402399
+  lastteleport: 1455741067122
+  logout: 1455741167955
+ipAddress: 86.204.112.243
+lastlocation:
+  world: world
+  x: -183.67674224881662
+  y: 29.0
+  z: -34.19206354211727
+  yaw: 97.55979
+  pitch: 3.5996168
+logoutlocation:
+  world: world
+  x: -1398.6269934099853
+  y: 10.0
+  z: -232.01602024877377
+  yaw: 87.31341
+  pitch: 15.713921

@@ -1,0 +1,41 @@
+uuid: a21a309a-4cc9-39b5-9041-d555afccf46c
+timestamps:
+  login: 1456222919592
+  kits:
+    bouffe: 1456140450551
+    octonien: 1456133949226
+  lastteleport: 1456223677734
+  logout: 1456223696001
+  lastheal: 1456140700312
+  mute: 0
+ipAddress: 90.28.130.249
+lastlocation:
+  world: world
+  x: -2202.853521003388
+  y: 5.0
+  z: -3273.4109410829637
+  yaw: 81.76083
+  pitch: 27.94561
+homes:
+  home:
+    world: world
+    x: 252.54615781437374
+    y: 217.875
+    z: 1093.0822032539813
+    yaw: 252.01651
+    pitch: 34.703995
+logoutlocation:
+  world: world
+  x: 251.93903462032517
+  y: 217.875
+  z: 1092.0789111549857
+  yaw: 183.81795
+  pitch: 75.86878
+ignore:
+- maxquent77
+- justforseann_
+- playzerflo
+- julien29
+- tico9
+money: '3230.0'
+muted: false

@@ -1,0 +1,33 @@
+timestamps:
+  login: 1457115663805
+  kits:
+    bouffe: 1455746427476
+    octonien: 1455746454988
+  logout: 1457115709847
+  lastteleport: 1455809710698
+ipAddress: 78.230.144.23
+lastlocation:
+  world: world
+  x: -0.1171770091306238
+  y: 190.5
+  z: 0.7039789129742813
+  yaw: -3.033081
+  pitch: 7.129597
+logoutlocation:
+  world: world
+  x: -0.011076401146778658
+  y: 190.5
+  z: 1.8389837375696123
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  home:
+    world: world
+    x: -90.73418512165891
+    y: 64.0
+    z: 284.00347172174753
+    yaw: -179.40709
+    pitch: 11.250017
+uuid: 74ea0e8a-37f7-322c-b361-41f00e8206c3
+ignore:
+- roya51

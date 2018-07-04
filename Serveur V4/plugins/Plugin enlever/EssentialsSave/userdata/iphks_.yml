@@ -1,0 +1,24 @@
+uuid: 0ed00abd-a933-3c95-8deb-0d91e1540538
+timestamps:
+  login: 1456177990868
+  kits:
+    octonien: 1456177630015
+  logout: 1456178430329
+ipAddress: 78.232.181.88
+lastlocation:
+  world: world
+  x: -4.5
+  y: 189.0
+  z: -1.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -296.19947554469576
+  y: 64.0
+  z: 82.59313808442371
+  yaw: 357.08948
+  pitch: 14.849894
+ban:
+  reason: 'Banni : Go ts je t''aider a enlever le Cheat'
+  timeout: 0

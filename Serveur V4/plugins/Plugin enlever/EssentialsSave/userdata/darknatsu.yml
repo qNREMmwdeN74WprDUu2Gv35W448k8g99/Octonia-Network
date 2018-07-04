@@ -1,0 +1,74 @@
+uuid: 652a65f1-903a-381d-8fdd-8b7cff60dada
+timestamps:
+  login: 1456908463767
+  lastteleport: 1456908747225
+  kits:
+    heros: 1456414426845
+    bouffe: 1456414547339
+    octonien: 1456908707895
+    chevalier: 1456414412440
+    legendaire: 1456414431543
+  logout: 1456908850841
+  lastheal: 1456406545053
+ipAddress: 86.206.129.115
+lastlocation:
+  world: world
+  x: 219.69999998807907
+  y: 5.0
+  z: 286.69999998807907
+  yaw: 125.75849
+  pitch: 22.759638
+logoutlocation:
+  world: world
+  x: -3900.699999988079
+  y: 41.0
+  z: -3363.300000011921
+  yaw: 227.55151
+  pitch: 9.300054
+homes:
+  home:
+    world: world
+    x: -1705.0657914565322
+    y: 12.0
+    z: -856.5433550629858
+    yaw: 273.52393
+    pitch: 11.550033
+  bp:
+    world: world
+    x: -8161.297233483219
+    y: 71.0
+    z: -5712.246080504128
+    yaw: 271.5144
+    pitch: 59.999886
+  spawner:
+    world: world
+    x: -1573.5166337463775
+    y: 40.0
+    z: -1193.9646296349104
+    yaw: 176.3086
+    pitch: 16.728178
+  spawner2:
+    world: world
+    x: -1703.635440434806
+    y: 20.0
+    z: -858.4197808574172
+    yaw: -320.19373
+    pitch: 18.603584
+  tt:
+    world: world
+    x: 212.29516422021763
+    y: 61.0
+    z: 281.3000000119209
+    yaw: -1.2504883
+    pitch: 72.0
+  bp2:
+    world: world
+    x: -3892.6455833738264
+    y: 27.0
+    z: -3368.699999988079
+    yaw: 52.651733
+    pitch: 5.549996
+ban:
+  reason: Banni temporairement du serveur pour 2 heures.
+  timeout: 0
+money: '2518.0'

@@ -1,0 +1,74 @@
+timestamps:
+  login: 1457276615182
+  kits:
+    heros: 1457276969395
+    bouffe: 1457277003244
+    octonien: 1457257219746
+    chevalier: 1457276979686
+    decouverte: 1457276990540
+    legendaire: 1457276952763
+  lastteleport: 1457282164515
+  logout: 1457282213457
+  lastheal: 1457282048505
+ipAddress: 94.204.178.53
+lastlocation:
+  world: world
+  x: 8995.56738556741
+  y: 6.0
+  z: 346.3066422905584
+  yaw: 235.8241
+  pitch: -4.0499907
+homes:
+  pille:
+    world: world
+    x: -6740.300000011921
+    y: 42.0
+    z: -2174.300000011921
+    yaw: 135.65941
+    pitch: 40.650005
+  bp:
+    world: world
+    x: -3766.699999988079
+    y: 54.0
+    z: -6643.294182452687
+    yaw: 274.85095
+    pitch: 65.24997
+  nb2:
+    world: world
+    x: -2949.892333242184
+    y: 14.0
+    z: -5502.511394426097
+    yaw: -213.35455
+    pitch: 20.850027
+  nb:
+    world: world
+    x: 9004.890056367993
+    y: 69.0
+    z: 474.7009499153742
+    yaw: 209.95276
+    pitch: 12.899935
+  pille2:
+    world: world
+    x: 2842.699999988079
+    y: 16.0
+    z: 4449.699999988079
+    yaw: -238.48466
+    pitch: 37.14442
+  ap:
+    world: world
+    x: 9654.455653407937
+    y: 5.0
+    z: 442.5587037861696
+    yaw: -89.99737
+    pitch: 26.780403
+logoutlocation:
+  world: world
+  x: -3761.1216828271663
+  y: 54.0
+  z: -6642.579040970943
+  yaw: -97.749084
+  pitch: -53.549973
+money: '101.44'
+ignore:
+- marseillekalash
+uuid: e1ff966d-6926-3809-bc98-6b035901fa1a

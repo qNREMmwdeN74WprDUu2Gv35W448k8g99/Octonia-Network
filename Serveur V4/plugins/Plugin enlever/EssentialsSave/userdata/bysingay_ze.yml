@@ -1,0 +1,69 @@
+timestamps:
+  login: 1457211385523
+  kits:
+    minerais: 1456522845490
+    bouffe: 1456921756533
+    heros: 1456522796579
+    octonien: 1456522778252
+    druide: 1456567044528
+    chevalier: 1456504282204
+    destruction: 1456522916508
+    decouverte: 1456922000180
+    xp: 1456565178840
+    legendaire: 1456921137083
+    alchimiste: 1456921764842
+    golden: 1456651013456
+  lastteleport: 1456921824227
+  logout: 1457211513573
+  lastheal: 1456651088707
+  mute: 0
+ipAddress: 213.189.181.133
+lastlocation:
+  world: world
+  x: 279.48750001192093
+  y: 6.0
+  z: 263.91715246420125
+  yaw: 272.9239
+  pitch: 16.961094
+homes:
+  apdehors:
+    world: world
+    x: 216.07135768089123
+    y: 64.0
+    z: 265.60708074328625
+    yaw: 0.47476196
+    pitch: 20.163599
+  ap:
+    world: world
+    x: 219.44824317538323
+    y: 64.0
+    z: 282.3373498127399
+    yaw: 165.14648
+    pitch: 32.96201
+  bp:
+    world: world
+    x: 1652.7780391795202
+    y: 14.0
+    z: 1671.6586055841765
+    yaw: 63.897705
+    pitch: 19.868721
+  farm:
+    world: world
+    x: 1347.8515132724262
+    y: 39.0
+    z: -585.9703368956884
+    yaw: -79.15644
+    pitch: 23.332912
+logoutlocation:
+  world: world
+  x: -1161.9193198500222
+  y: 6.0
+  z: -2371.300000011921
+  yaw: 211.10564
+  pitch: 18.650003
+money: '80.0'
+uuid: 14f98947-e4a3-3b00-bf1f-0f74b9bd714a
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 3 secondes.
+  timeout: 0

@@ -1,0 +1,86 @@
+socialspy: false
+timestamps:
+  login: 1456750454975
+  kits:
+    bouffe: 1456695528003
+    minerais: 1456750618957
+    heros: 1456750577521
+    octonien: 1456750584608
+    druide: 1456750601504
+    chevalier: 1456750573623
+    decouverte: 1456750614956
+    xp: 1456750624757
+    construction: 1456750677054
+    legendaire: 1456750606870
+    golden: 1456750627656
+    alchimiste: 1456750594604
+  logout: 1456751266608
+  lastteleport: 1456696017489
+  mute: 0
+  lastheal: 1456696044237
+ipAddress: 92.146.10.190
+lastlocation:
+  world: world
+  x: 2.408864825240996
+  y: 23.65876744196053
+  z: 31.71612900495529
+  yaw: -351.25085
+  pitch: 21.599989
+homes:
+  bp:
+    world: world
+    x: -5208.640504574597
+    y: 10.0
+    z: 7895.523808481386
+    yaw: 267.30115
+    pitch: 6.5049586
+  bas:
+    world: world
+    x: -1129.4833919480814
+    y: 15.0
+    z: -4548.038845601324
+    yaw: 282.82776
+    pitch: 69.3
+  ap2:
+    world: world
+    x: 281.63409666796554
+    y: 64.0
+    z: -262.0152525762561
+    yaw: -274.39313
+    pitch: 17.204052
+  mr:
+    world: world
+    x: 3374.7898745849425
+    y: 59.0
+    z: -8384.699999988079
+    yaw: -357.4542
+    pitch: 13.049999
+  ko:
+    world: world
+    x: -160.5
+    y: 35.0
+    z: -20.5
+    yaw: 181.55927
+    pitch: 29.849575
+  p4:
+    world: world
+    x: -1703.516702724591
+    y: 5.0
+    z: 9783.565354098177
+    yaw: -2.989685
+    pitch: 39.300076
+logoutlocation:
+  world: world
+  x: 60.74796541461423
+  y: 188.24918707874468
+  z: -9.946508588238347
+  yaw: 270.64893
+  pitch: 4.7978263
+muted: false
+money: '999.6'
+ignore:
+- diablelion
+uuid: be0955c5-54f1-3feb-bf8d-6ab7cc21fc4c
+ban:
+  reason: 'Banni : Menace'
+  timeout: 0

@@ -1,0 +1,24 @@
+uuid: e3201db2-b356-371c-8105-dfc4770a4a9c
+timestamps:
+  login: 1457031598476
+  kits:
+    octonien: 1457031680992
+  jail: 1457035443001
+  logout: 1457031882975
+ipAddress: 198.144.106.198
+lastlocation:
+  world: world
+  x: -15.040213838927151
+  y: 191.76636799395752
+  z: 34.91920118599586
+  yaw: -126.40112
+  pitch: 28.047787
+jailed: true
+jail: prison1
+logoutlocation:
+  world: world
+  x: 15.014894486279772
+  y: 190.0
+  z: 7.671805894991889
+  yaw: -269.37653
+  pitch: 21.0

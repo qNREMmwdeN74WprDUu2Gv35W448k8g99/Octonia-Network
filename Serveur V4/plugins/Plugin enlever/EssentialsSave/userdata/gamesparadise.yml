@@ -1,0 +1,68 @@
+timestamps:
+  login: 1457166998215
+  kits:
+    bouffe: 1455359459791
+    heros: 1457167025457
+    octonien: 1457167028961
+    chevalier: 1457167031310
+    decouverte: 1457167011458
+    legendaire: 1457167014257
+  logout: 1457169228060
+  lastteleport: 1457168829359
+  lastheal: 1457169172862
+ipAddress: 109.214.150.125
+lastlocation:
+  world: world
+  x: 1641.261308997853
+  y: 7.0
+  z: 279.30341124754483
+  yaw: -348.13293
+  pitch: 8.308329
+logoutlocation:
+  world: world
+  x: 2327.4537983113323
+  y: 5.0
+  z: -8705.972764264638
+  yaw: -353.90088
+  pitch: 17.236012
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 9810.37536064319
+    y: 65.0
+    z: 1588.0839988322396
+    yaw: -87.5293
+    pitch: 2.775506
+  sky:
+    world: world
+    x: -3366.2682646259364
+    y: 249.875
+    z: -4883.695565045302
+    yaw: 218.50256
+    pitch: 16.119421
+  ap:
+    world: world
+    x: -5.904842140589584
+    y: 64.0
+    z: -282.7163078065848
+    yaw: -122.05267
+    pitch: 21.851088
+  spawner:
+    world: world
+    x: 9803.169540080562
+    y: 236.0
+    z: 1588.4356898768913
+    yaw: -115.74158
+    pitch: 3.6855066
+  raid:
+    world: world
+    x: -5570.802166837886
+    y: 10.5
+    z: -7550.50887757439
+    yaw: -177.98901
+    pitch: 17.199356
+money: '10.0'
+ignore:
+- schtroumph
+uuid: 61eab9bb-dd11-3ba3-a852-4249a49c37a3

@@ -1,0 +1,79 @@
+uuid: b9e8974d-bdf9-33ef-bc5b-7cfaa444bec0
+timestamps:
+  login: 1457187875527
+  lastteleport: 1457189644078
+  kits:
+    bouffe: 1457188299797
+    heros: 1457169840991
+    octonien: 1457122163274
+    chevalier: 1457170371530
+    decouverte: 1457169210039
+    construction: 1457169838616
+    legendaire: 1457169253305
+    golden: 1457169176612
+  logout: 1457189781861
+  lastheal: 1457170015738
+  mute: 0
+ipAddress: 31.35.222.19
+lastlocation:
+  world: world
+  x: 6845.352161256048
+  y: 85.0
+  z: 6042.540179748996
+  yaw: -297.4939
+  pitch: 2.6517887
+logoutlocation:
+  world: world
+  x: 6837.300000011921
+  y: 7.0
+  z: 6026.26348417528
+  yaw: -94.25027
+  pitch: 8.250191
+homes:
+  xd:
+    world: world
+    x: 8964.406333721237
+    y: 76.0
+    z: 1651.831767890169
+    yaw: 174.93408
+    pitch: 44.7
+  virtuoz:
+    world: world
+    x: -4759.10910542245
+    y: 5.0
+    z: -8171.303436185352
+    yaw: 270.91052
+    pitch: -8.400012
+  d:
+    world: world
+    x: 6721.320768722635
+    y: 26.0
+    z: 6073.486970166612
+    yaw: -84.75235
+    pitch: 19.339972
+  sable:
+    world: world
+    x: 6753.2831103444905
+    y: 35.0
+    z: 6071.349236317228
+    yaw: -118.483826
+    pitch: 84.0
+  p:
+    world: world
+    x: -9883.949105090744
+    y: 5.0
+    z: -1006.6231833572131
+    yaw: -136.87996
+    pitch: 28.447536
+  apsud:
+    world: world
+    x: 74.5
+    y: 5.0
+    z: 274.5
+    yaw: 105.94786
+    pitch: -1.2553688
+money: '26.9'
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 0

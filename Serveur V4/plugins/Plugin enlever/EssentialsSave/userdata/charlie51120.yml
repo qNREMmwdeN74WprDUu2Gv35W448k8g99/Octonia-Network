@@ -1,0 +1,40 @@
+timestamps:
+  login: 1456490901621
+  kits:
+    bouffe: 1456490914349
+    octonien: 1456487815023
+    druide: 1456490912794
+    xp: 1456490920849
+    decouverte: 1456490917747
+  lastteleport: 1456491115695
+  logout: 1456491136236
+  lastheal: 1456489247177
+  mute: 0
+ipAddress: 78.231.189.55
+lastlocation:
+  world: world
+  x: 2730.9967667045917
+  y: 35.0
+  z: 9544.786102586575
+  yaw: -166.20303
+  pitch: 26.469631
+homes:
+  home:
+    world: world
+    x: 1047.4937302735314
+    y: 250.875
+    z: 8470.379094637154
+    yaw: -270.35104
+    pitch: 88.50003
+logoutlocation:
+  world: world
+  x: 1052.0106205502423
+  y: 250.875
+  z: 8470.180393742292
+  yaw: -142.40115
+  pitch: 66.15
+money: '18018.45'
+uuid: 2ea9a602-3a63-3dad-9103-69b00a98e763
+ignore:
+- amilax
+muted: false

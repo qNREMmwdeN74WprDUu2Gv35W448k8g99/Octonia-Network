@@ -1,0 +1,154 @@
+# Full plugin documentation:
+# dev.bukkit.org/bukkit-plugins/random_box/pages/main/documentation/
+
+boxName: '&6Joyeuses Paques'
+
+boxItem: STORAGE_MINECART
+
+lore:
+- '&eUne boite unique..'
+- '&eJoyeuses Paques..'
+- '&7--------------'
+- 'items 0 &7%ordinal%. &ex%amount% %name%'
+- '&7--------------'
+- '&bBoite de Paques'
+
+checkPermission: false
+
+openWhenClicked: true
+
+addGlow: true
+
+unstackable: true
+
+gui:
+  enabled: true
+  rolling:
+  - {delay: 1, iterations: 50}
+  - {delay: 2, iterations: 20}
+  - {delay: 3, iterations: 10}
+  - {delay: 4, iterations: 5}
+  window:
+    type: CHEST
+    format:
+    - '@@@@#@@@@'
+    - 'abcdEfghi'
+    - '@@@@#@@@@'
+    fillers:
+      '@':
+        item: {id: 160, data: 15, delay: 20}
+        onStop:
+          item: {id: 0}
+      '#':
+        animated:
+        - {id: 160, data: 4, delay: 10}
+        - {id: 160, data: 5, delay: 10}
+
+effects:
+  open:
+    firework:
+      type: BALL_LARGE
+      colors: ['#FF0000', '#00FF00', 'BLUE']
+      fadeColors: ['GRAY', 'BLACK']
+      flicker: false
+      trail: false
+      power: 1
+    sound:
+      sound: CHEST_OPEN
+      volume: 1.0
+      pitch: 1.0
+    broadcast: '&eLe joueur &6%player% &eouvre &cUne Boite de Paques &e!'
+  move:
+    sound: {sound: CLICK}
+  drop:
+    sound: {sound: ANVIL_LAND}
+    firework:
+      type: STAR
+      colors: ['RED']
+  close:
+    sound: {sound: CHEST_CLOSE}
+
+itemsToSelectCount: 1
+
+items:
+  item1:
+    item: OCTORITE_SWORD
+    data: 0
+    amount: 1
+    name: '&cEpee de Paques'
+    lore:
+    - '&6Elle nique des'
+    - '&4M*re.'
+    chance: 2
+  item2:
+    item: APPLEHAST
+    data: 1
+    amount: 64
+    name: '&cPommes de Paques'
+    lore:
+    - '&6GRRRR'
+    - '&6BON A MORT.'
+    chance: 2
+  item3:
+    item: OCTORITE_POWDER
+    data: 0
+    amount: 32
+    name: '&cPoudre de Paques'
+    lore:
+    - '&6OHHHWWW'
+    - '&6CAAA BRIIIILLE.'
+    chance: 2
+  item4:
+    item: OCTORITE_FRAGMENT
+    data: 0
+    amount: 16
+    name: '&cFragments de Paque'
+    lore:
+    - '&6OHMAGAD'
+    - '&4TERRIIIIBLE.'
+    chance: 2
+  item5:
+    item: OCTORITE
+    data: 0
+    amount: 8
+    name: '&cOctorite de Paque'
+    lore:
+    - '&4OHMAGAD'
+    - '&cDE LA NUCLEAAIIIIRE.'
+    chance: 2
+  item6:
+    item: WEED_ITEM
+    data: 0
+    amount: 64
+    name: '&cWeed de Paque'
+    lore:
+    - '&4OHMAGAD'
+    - '&cDE LA WEED SA MERE.'
+    chance: 2
+  item7:
+    item: REDORITE
+    data: 0
+    amount: 64
+    name: '&cRedorite de Paque'
+    lore:
+    - '&4HEHE'
+    - '&cUN TI STACK DE REDO.'
+    chance: 2
+  item8:
+    item: PIZZA
+    data: 1
+    amount: 64
+    name: '&cPIZZA de Paque'
+    lore:
+    - '&4HEHE'
+    - '&cPIZZA SA MERE.'
+    chance: 2
+  item9:
+    item: GOLDEN_APPLE
+    data: 1
+    amount: 5
+    name: '&cPomme Cheat de Paque'
+    lore:
+    - '&4OMGGG'
+    - '&cUNE POMME CHEAT.'
+    chance: 2

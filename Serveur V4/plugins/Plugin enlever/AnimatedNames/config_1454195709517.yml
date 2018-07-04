@@ -1,0 +1,106 @@
+# ------------------------------ #
+#
+#  AnimatedNames 4
+#  (c) Maxim Van de Wynckel
+#
+# ------------------------------ #
+
+# About: Everyone knows plugins that allow you to have your group name
+#		 in front of your name above your head. But this plugin does more then that
+#        with over 180+ placeholders and more to come every update this plugin not only
+#        allows placeholders in your name above your head but it also allows the name to
+#        be animated.
+
+# Permissions: To use the animatednames groups give them the permission
+#              animatednames.group.<group>  (ex. animatednames.group.default)
+#              Make sure to remove them from the other groupsd
+#              when giving a new permission.
+
+# Commands: List of all commands
+#           /animatednames reload     -  Reload the configuration
+#           /animatednames help       -  See all commands
+
+# Variables: These variables can be used in the TEXT section
+#            of both the header as the footer.
+#            
+#            {PLAYER}       - Player name
+#            {PLAYERNICK}   - Player nickname
+#            {PREFIX}       - Player prefix
+#            And lots lots more (see Spigot Page) (400+)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# GENERAL PLUGIN SETTINGS
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+## Config version (DO NOT EDIT)
+config: 3
+
+## Language file
+lang: 'en'
+
+## Debug mode
+debug: false
+
+## Log to file
+log:
+  enabled: true
+  # Reset log on startup
+  reset: false
+
+## Update checking
+update:
+  check: true # RECOMMENDED YOU LEAVE THIS TRUE
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# PLUGIN SPECIFIC SETTINGS
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+# Placeholder settings
+placeholder:
+  # logs the memory usage of placeholders on startup
+  log-memory: false
+  # Clear unused placeholders that are not enabled.
+  clear-unused: true
+
+# Legacy mode. Disable this if you experience client crashes (bungeecord mostly)
+legacymode: false
+
+
+# WARNING: The recommended interval for this plugin
+#          is calculated at 15 ticks (recommended 20 ticks)
+#          You can experiment with lower ticks but this might
+#          cause a slight flicker.
+
+
+groups:
+  default: # This is the default group. Add as many as you wish
+    # Prefix in front of the player name above their head
+    name-prefix:
+      # A list to create animations
+      text: # Text can be max 16 characters long (after placeholders are replaced)
+      - '{PREFIX}'
+      # Animation interval in ticks (20 ticks = 1 sec)
+      interval: 100
+    # The display name above the player head (default {PLAYER})
+    name-suffix:
+      # A list to create animations
+      text: # Text can be max 16 characters long (after placeholders are replaced)
+      - '{SUFFIX}'
+      # Animation interval in ticks (20 ticks = 1 sec)
+      interval: 100
+      
+# Text below your name above your head
+name-below:
+  # Set to false to disable the scoreboard under name (REQUIRES RESTART)
+  enabled: true
+  # A list to create animations
+  text: # Make sure that the placeholder is numeric!
+  - '{HEALTH}&cHealth'
+  - '{player_levelaa}&6 Lvl'
+  # Animation interval in ticks (20 ticks = 1 sec)
+  interval: 20
+  
+# Disabled worlds. Worlds in this list will not have
+# the score below or team names.
+disabled-worlds:
+- 'example_world'

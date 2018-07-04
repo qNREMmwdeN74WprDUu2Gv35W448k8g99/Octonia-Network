@@ -1,0 +1,46 @@
+socialspy: false
+timestamps:
+  login: 1455195146739
+  lastteleport: 1455195249189
+  kits:
+    bouffe: 1455061716843
+    octonien: 1455144991302
+    druide: 1455187655710
+    chevalier: 1455187425302
+    decouverte: 1455187496187
+    xp: 1455187580834
+    construction: 1455187478085
+    golden: 1455187591387
+    alchimiste: 1455187726884
+  logout: 1455195921198
+  lastheal: 1455195780043
+ipAddress: 90.12.8.134
+lastlocation:
+  world: world
+  x: 3544.413691167494
+  y: 19.0
+  z: 9317.676882437081
+  yaw: 265.49048
+  pitch: 16.43518
+logoutlocation:
+  world: world
+  x: 3543.7087205599937
+  y: 43.0
+  z: 9315.509274780241
+  yaw: 294.26007
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: 0.6999999880790666
+    y: 195.0
+    z: 0.5001589609780382
+    yaw: 94.267265
+    pitch: 61.892162
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+ignore:
+- realitycarnage
+- ckriliooo
+money: '476947.0'

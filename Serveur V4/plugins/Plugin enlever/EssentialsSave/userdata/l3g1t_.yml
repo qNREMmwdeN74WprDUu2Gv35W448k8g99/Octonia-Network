@@ -1,0 +1,33 @@
+uuid: 03ab3963-6bfc-3d12-9ba9-1723c9ecab65
+timestamps:
+  login: 1456229604069
+  kits:
+    octonien: 1456229639897
+  logout: 1456230457934
+  lastteleport: 1456230362856
+ipAddress: 198.144.106.111
+lastlocation:
+  world: world
+  x: 533.702970671432
+  y: 64.0
+  z: -480.6495677818202
+  yaw: 51.327454
+  pitch: 40.200035
+homes:
+  home:
+    world: world
+    x: 533.702970671432
+    y: 64.0
+    z: -480.6495677818202
+    yaw: 51.327454
+    pitch: 40.200035
+ban:
+  reason: 'Banni : Bon Cheat'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -13.686865786492477
+  y: 27.11999985575676
+  z: 10.828946567198937
+  yaw: -84.63122
+  pitch: 2.920014

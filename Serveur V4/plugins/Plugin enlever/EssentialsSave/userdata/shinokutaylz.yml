@@ -1,0 +1,76 @@
+timestamps:
+  login: 1456063347504
+  kits:
+    bouffe: 1456056854817
+    heros: 1456056830431
+    octonien: 1456063366206
+    druide: 1456056729525
+    chevalier: 1456056829143
+    decouverte: 1456056867879
+    xp: 1456056869312
+    legendaire: 1456056832492
+  lastteleport: 1456064806149
+  lastheal: 1456058111130
+  logout: 1456064852837
+ipAddress: 77.144.57.183
+lastlocation:
+  world: world
+  x: 2.917636254046128
+  y: 187.0
+  z: -53.187650663833715
+  yaw: -237.64914
+  pitch: -44.099983
+homes:
+  bp:
+    world: world
+    x: -6028.068784527976
+    y: 11.0
+    z: -1384.6138203223609
+    yaw: -182.95026
+    pitch: 31.097752
+  pillage:
+    world: world
+    x: -4081.026305458891
+    y: 255.0
+    z: 617.5979217064245
+    yaw: 263.9036
+    pitch: 55.50026
+  lava:
+    world: world
+    x: -6031.460467759023
+    y: 11.0
+    z: -1381.8009285025332
+    yaw: 92.449646
+    pitch: 26.59774
+  lavbp:
+    world: world
+    x: -4466.625439668553
+    y: 7.0
+    z: -2619.300000011921
+    yaw: -220.19955
+    pitch: 21.3
+  minage:
+    world: world
+    x: 3549.3822546945316
+    y: 5.0
+    z: 2874.897362916241
+    yaw: 347.5553
+    pitch: 9.449969
+  rena:
+    world: world
+    x: -2962.2883820692387
+    y: 59.0
+    z: -9492.047369531561
+    yaw: -177.41681
+    pitch: -0.98043835
+logoutlocation:
+  world: world
+  x: -4464.699999988079
+  y: 6.0
+  z: -2620.5363292789966
+  yaw: -149.99956
+  pitch: 45.75001
+uuid: d42c6fbf-5a60-3ca8-9e5f-55e325235450
+ignore:
+- phantye
+- flamoose

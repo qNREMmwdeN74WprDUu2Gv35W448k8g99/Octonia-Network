@@ -1,0 +1,37 @@
+uuid: 73151ae6-9a28-33e0-bcf4-e58f22bd7698
+timestamps:
+  login: 1456078667466
+  kits:
+    bouffe: 1456062076882
+    octonien: 1456078769743
+  logout: 1456080323425
+  lastteleport: 1456080243880
+  lastheal: 1456078933271
+  mute: 0
+ipAddress: 90.32.29.116
+lastlocation:
+  world: world
+  x: -5990.286924535538
+  y: 4.0
+  z: 5957.6348910978895
+  yaw: 78.47434
+  pitch: 9.450014
+ignore:
+- eyl_relyzz
+logoutlocation:
+  world: world
+  x: 5696.713501363081
+  y: 253.875
+  z: 3576.3109601511223
+  yaw: 119.41358
+  pitch: 42.599915
+money: '579.25'
+homes:
+  home:
+    world: world
+    x: -6415.42688251108
+    y: 5.0
+    z: 5326.884538197734
+    yaw: -165.1006
+    pitch: 1.6499671
+muted: false

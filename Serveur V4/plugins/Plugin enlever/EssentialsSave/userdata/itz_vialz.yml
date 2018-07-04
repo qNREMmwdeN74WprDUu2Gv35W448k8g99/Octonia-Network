@@ -1,0 +1,62 @@
+timestamps:
+  login: 1456345881166
+  kits:
+    heros: 1456265526877
+    bouffe: 1456264677150
+    octonien: 1455833401900
+    chevalier: 1456065255297
+    decouverte: 1456265091107
+    legendaire: 1456338636460
+  logout: 1456346540239
+  mute: 0
+  lastheal: 1456265176655
+  lastteleport: 1456346106024
+ipAddress: 78.126.41.74
+lastlocation:
+  world: world
+  x: -57.52129048747321
+  y: 72.5
+  z: -14.788216418386849
+  yaw: -14.899017
+  pitch: 71.45772
+logoutlocation:
+  world: world
+  x: -15.266145708040558
+  y: 189.0
+  z: -10.325309440727114
+  yaw: -59.59921
+  pitch: 34.707737
+muted: false
+homes:
+  sky:
+    world: world
+    x: -1718.4273774186513
+    y: 253.875
+    z: 3820.098684058603
+    yaw: 90.59253
+    pitch: 26.999868
+  popo:
+    world: world
+    x: 700.1209790914937
+    y: 5.0
+    z: 1758.935142261368
+    yaw: -154.98418
+    pitch: 30.073082
+  spawners:
+    world: world
+    x: -2355.658401362016
+    y: 19.0
+    z: 3415.814622833078
+    yaw: -356.99637
+    pitch: 27.299994
+  raid:
+    world: world
+    x: -2389.699999988079
+    y: 57.0
+    z: -2971.300000011921
+    yaw: -18.407928
+    pitch: 57.74998
+money: '261.6'
+ignore:
+- xxthekiller10xx
+uuid: be81be8f-b2cb-35ed-b69c-99b0dcd89b8d

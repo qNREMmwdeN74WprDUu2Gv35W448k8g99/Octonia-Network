@@ -1,0 +1,25 @@
+uuid: ca5ec9d5-c555-339e-97c2-a24cbdc94e67
+timestamps:
+  login: 1457196593003
+  logout: 1457199130897
+  kits:
+    bouffe: 1457198779891
+    octonien: 1456858059470
+  lastteleport: 1457198678872
+ipAddress: 176.156.155.233
+lastlocation:
+  world: world
+  x: 3.0279723869195863
+  y: 190.0
+  z: -0.31120837045624133
+  yaw: -290.9142
+  pitch: 4.669314
+logoutlocation:
+  world: world
+  x: -1205.0856830444595
+  y: 70.0
+  z: -1504.5895978067556
+  yaw: 239.20021
+  pitch: 21.477245
+ignore:
+- slendy

@@ -1,0 +1,81 @@
+socialspy: false
+timestamps:
+  login: 1457266603203
+  kits:
+    minerais: 1457258078585
+    bouffe: 1457261654904
+    heros: 1457267601996
+    octonien: 1457184153350
+    druide: 1457261840649
+    chevalier: 1457204483304
+    destruction: 1457261286847
+    decouverte: 1457256930176
+    xp: 1457257079717
+    construction: 1457261441318
+    legendaire: 1457256967798
+    alchimiste: 1457183102351
+  lastteleport: 1457268882530
+  logout: 1457268912522
+  lastheal: 1457267622410
+ipAddress: 77.201.52.159
+lastlocation:
+  world: world
+  x: 0.40448681777343154
+  y: 189.0
+  z: 6.472887367581166
+  yaw: -62.65103
+  pitch: 6.4500036
+logoutlocation:
+  world: world
+  x: -5257.411668284323
+  y: 68.0
+  z: 1120.0832860244757
+  yaw: -80.136734
+  pitch: -18.599998
+homes:
+  bp:
+    world: world
+    x: -6741.181973635972
+    y: 6.0
+    z: 7293.586609791473
+    yaw: 122.1167
+    pitch: 17.399996
+  minage:
+    world: world
+    x: -4141.307729434468
+    y: 6.0
+    z: 8087.429978150442
+    yaw: -269.25085
+    pitch: 31.65001
+  sky:
+    world: world
+    x: -6149.935998631713
+    y: 241.875
+    z: 7546.102109166174
+    yaw: 15.566353
+    pitch: 18.599932
+  toit:
+    world: world
+    x: -7991.814045681786
+    y: 232.0
+    z: 5159.675215921939
+    yaw: -108.416504
+    pitch: 19.199976
+  endehord:
+    world: world
+    x: -7967.260581786497
+    y: 70.0
+    z: 5129.105875290028
+    yaw: -264.7157
+    pitch: 13.04996
+  d:
+    world: world
+    x: -8724.690586885468
+    y: 240.0
+    z: 4875.343373750619
+    yaw: -321.5998
+    pitch: 90.0
+money: '684.0'
+uuid: c266bdb9-097a-3d0c-be6a-ebb8aea3b354
+ignore:
+- darknoss

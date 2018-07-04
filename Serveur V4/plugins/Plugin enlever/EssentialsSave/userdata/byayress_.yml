@@ -1,0 +1,80 @@
+timestamps:
+  login: 1457337329874
+  kits:
+    heros: 1457337444079
+    bouffe: 1457337476578
+    octonien: 1457337973184
+    chevalier: 1457337448177
+    decouverte: 1457337420179
+    legendaire: 1457337367379
+    construction: 1457337475077
+  lastteleport: 1457339915590
+  logout: 1457340141981
+  lastheal: 1457340137883
+  mute: 0
+  jail: 0
+ipAddress: 78.207.202.66
+lastlocation:
+  world: world
+  x: -4164.3360172912635
+  y: 66.0
+  z: -8799.372587951753
+  yaw: -116.899185
+  pitch: 56.193756
+logoutlocation:
+  world: world
+  x: -3998.355045310334
+  y: 66.0
+  z: -7516.0433730618715
+  yaw: -114.07817
+  pitch: 29.666105
+homes:
+  farmxp:
+    world: world
+    x: 1877.5
+    y: 5.0
+    z: -5728.5
+    yaw: -180.00584
+    pitch: 6.56384
+  redbird:
+    world: world
+    x: 1570.9093249832033
+    y: 99.0
+    z: -4163.300000011921
+    yaw: 186.90071
+    pitch: 25.0909
+  sky:
+    world: world
+    x: -3742.662234915231
+    y: 250.875
+    z: -7437.957254404755
+    yaw: -232.55743
+    pitch: 23.549707
+  farm:
+    world: world
+    x: -3864.80072434454
+    y: 67.0
+    z: -7551.550083647614
+    yaw: 178.1643
+    pitch: 4.6208615
+  jsp:
+    world: world
+    x: 1871.8919788110284
+    y: 5.0
+    z: -5732.286282370781
+    yaw: -269.55634
+    pitch: 6.413842
+  bp:
+    world: world
+    x: -3999.2428460966958
+    y: 65.5
+    z: -7516.191743135193
+    yaw: -6.6493454
+    pitch: 3.873078
+uuid: 764ca3f2-8a8e-3965-8672-072388cd8989
+muted: false
+jailed: false
+money: '376.25'
+ignore:
+- mrbosse
+- zertoz

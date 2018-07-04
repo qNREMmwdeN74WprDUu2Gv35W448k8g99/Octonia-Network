@@ -1,0 +1,20 @@
+multiserver:
+  use-netevents: false
+permissions:
+  debug: false
+  allowOps: false
+  user-add-groups-last: false
+  log-players: false
+  createUserRecords: false
+  backend: sql
+  informplayers:
+    changes: false
+  basedir: plugins/PermissionsEx
+  backends:
+    sql:
+      uri: mysql://164.132.203.88/octonia
+      user: OctoniaLocal
+      password: x0Q2a6d56q89ZAqs
+      type: sql
+updater: false
+alwaysUpdate: false

@@ -1,0 +1,43 @@
+uuid: 71d30944-bc75-3f2b-a8c6-b54d1d11eab9
+timestamps:
+  login: 1457185395173
+  kits:
+    bouffe: 1457190478597
+    octonien: 1457185632272
+    chevalier: 1457185477335
+  lastteleport: 1457191437840
+  logout: 1457191466991
+  lastheal: 1457189984941
+ipAddress: 88.169.97.48
+lastlocation:
+  world: world
+  x: 275.1895613740567
+  y: 59.0
+  z: -183.9504648232987
+  yaw: -91.46455
+  pitch: -17.849972
+homes:
+  home:
+    world: world
+    x: 7895.646612023414
+    y: 6.5
+    z: 2728.0311874436284
+    yaw: -349.59445
+    pitch: 6.300037
+  ap:
+    world: world
+    x: 258.0405283155693
+    y: 64.0
+    z: -184.18088222813307
+    yaw: -86.20062
+    pitch: 3.4500074
+logoutlocation:
+  world: world
+  x: 277.1851033223603
+  y: 59.0
+  z: -183.63674197151065
+  yaw: -92.95067
+  pitch: 22.049982
+money: '6768.0'
+ignore:
+- ridren51

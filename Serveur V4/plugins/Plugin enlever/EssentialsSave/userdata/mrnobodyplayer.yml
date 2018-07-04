@@ -1,0 +1,96 @@
+timestamps:
+  login: 1457265537627
+  lastteleport: 1457270947253
+  kits:
+    bouffe: 1456857681373
+    heros: 1456608975816
+    octonien: 1457027522820
+    druide: 1456780397289
+    chevalier: 1454782218789
+    destruction: 1457209692977
+    xp: 1454782528758
+    pvpbox: 1456837951519
+    legendaire: 1457208643389
+    alchimiste: 1456958080354
+    minerais: 1456605834811
+    tower3: 1454781844823
+    decouverte: 1456958576240
+    tower2: 1454781848334
+    tower1: 1456847365895
+    construction: 1456688038941
+    golden: 1456501718479
+  logout: 1457271389174
+ipAddress: 85.27.74.252
+lastlocation:
+  world: world
+  x: -623.3090441389322
+  y: 72.24244590480592
+  z: -5621.512499988079
+  yaw: -226.49683
+  pitch: 83.549995
+afk: false
+logoutlocation:
+  world: world
+  x: -4776.366675656879
+  y: 11.222731209847229
+  z: -8151.891517592368
+  yaw: -275.51306
+  pitch: 26.999893
+money: '572.0'
+socialspy: false
+uuid: 4a4acff3-db7b-30cf-8a4b-18c028fd2194
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+godmode: true
+homes:
+  bb:
+    world: world
+    x: -3230.60971293244
+    y: 251.875
+    z: -7663.588670441312
+    yaw: -114.99878
+    pitch: 26.69999
+  pillage:
+    world: world
+    x: 386.5
+    y: 87.0
+    z: -7209.5
+    yaw: -250.48853
+    pitch: 17.699831
+  spawner:
+    world: world
+    x: -4778.881071145731
+    y: 71.5
+    z: -8154.951866603419
+    yaw: -25.112452
+    pitch: 6.4496856
+  pill:
+    world: world
+    x: -5625.5
+    y: 37.0
+    z: -7814.5
+    yaw: -286.31506
+    pitch: 21.149855
+  sky:
+    world: world
+    x: 1868.632463555272
+    y: 249.875
+    z: -9339.266251074378
+    yaw: -190.34619
+    pitch: 59.476475
+  newbase:
+    world: world
+    x: -3838.5374827405276
+    y: 10.0
+    z: -757.5991086911151
+    yaw: -273.82593
+    pitch: 19.800066
+  haut:
+    world: world
+    x: -3230.3296591875232
+    y: 251.875
+    z: -7665.142587534304
+    yaw: -164.3692
+    pitch: 1.5000063
+teleportenabled: true

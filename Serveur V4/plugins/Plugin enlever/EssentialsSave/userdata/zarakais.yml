@@ -1,0 +1,59 @@
+timestamps:
+  login: 1457177465268
+  kits:
+    heros: 1457176843003
+    bouffe: 1456563069655
+    octonien: 1456574375040
+    druide: 1456934769248
+    chevalier: 1457035601313
+    destruction: 1456502313307
+    xp: 1456934766846
+    decouverte: 1457176998051
+    construction: 1457169201838
+    legendaire: 1456934724760
+    alchimiste: 1457035711120
+    golden: 1457177178109
+  lastteleport: 1457177485285
+  logout: 1457177642865
+  lastheal: 1457177333055
+ipAddress: 88.185.235.146
+lastlocation:
+  world: world
+  x: 174.30000001192093
+  y: 7.0
+  z: 298.69999998807907
+  yaw: 186.78857
+  pitch: -4.5128694
+homes:
+  sky:
+    world: world
+    x: -7223.591001310967
+    y: 181.0
+    z: 2630.5838182788257
+    yaw: 169.90616
+    pitch: 90.0
+  farm:
+    world: world
+    x: -7109.267576009008
+    y: 49.0
+    z: 2590.8976747363263
+    yaw: 198.93085
+    pitch: 10.840405
+  ap:
+    world: world
+    x: 282.81529236603836
+    y: 64.0
+    z: 200.15159115078637
+    yaw: 90.28662
+    pitch: 8.414261
+logoutlocation:
+  world: world
+  x: 172.16398625117662
+  y: 64.0
+  z: 298.9749033819727
+  yaw: 170.66243
+  pitch: 12.739271
+money: '5671.0'
+ignore:
+- lekebab
+uuid: 1215594f-bde8-3cda-b7bf-2af5f4a5b751

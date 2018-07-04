@@ -1,0 +1,43 @@
+## kitshopitem: 
+## Here you can define the look and functionality of every kit icon.
+## By default clicking and checking out the preview of a kit is free.
+## The reward when clicking the icon is the preview-menu being opened.
+## Besides the default configuration uses the '%kititem_1%' placeholder to make the icon look like the first item of the kit.
+## That way icons look different and already give a preview of the actual kit.
+kitshopitem:    
+  PriceType: NOTHING
+  RewardType: SHOP
+  Reward: 'KitPreview_%kitname%'
+  MenuItem:
+  - '%kititem_1%'
+  - 'name:&f&n&lKit&0 &6&l%kitname%'
+  - 'lore:&8Click in order to preview/activate the kit.'
+  - hideflags:all
+  - amount:1
+## Uncomment the condition below if you want only player-owned kits to be shown
+#  Condition:
+#  - type:essentialskit
+#  - owns:%kitname%
+##
+##
+## Everything below this comment works just like every BossShopPro shop.
+## More information can be found here: https://www.spigotmc.org/wiki/bossshoppro-configuration/
+ShopName: Kits
+DisplayName: '&6&lKits'
+Command: kits:kitgui
+signs:
+  text: '[Kits]'
+  NeedPermissionToCreateSign: false
+shop:
+  Back:
+    MenuItem:
+    - lore:&8Back to Menu
+    - name:&cBack
+    - amount:1
+    - type:REDSTONE
+    RewardType: SHOP
+    Reward: menu
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18

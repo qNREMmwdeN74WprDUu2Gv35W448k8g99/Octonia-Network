@@ -1,0 +1,37 @@
+uuid: 152ef2f3-feca-3dbb-a53e-05a2bd0c76ee
+timestamps:
+  login: 1457228463728
+  kits:
+    bouffe: 1457070938072
+    octonien: 1457228509451
+    xp: 1457059570570
+    decouverte: 1457064495811
+  lastteleport: 1457228529702
+  logout: 1457228562102
+  lastheal: 1457070700371
+ipAddress: 70.55.209.215
+lastlocation:
+  world: world
+  x: 6801.98095564043
+  y: 22.0
+  z: -6226.513716096386
+  yaw: 129.92505
+  pitch: 40.39419
+homes:
+  home:
+    world: world
+    x: 6504.300000011921
+    y: 5.0
+    z: -608.6999999880791
+    yaw: 280.6151
+    pitch: 11.360792
+money: '45.860'
+logoutlocation:
+  world: world
+  x: 6805.300000011921
+  y: 5.5
+  z: -6230.687895421404
+  yaw: -4.0291467
+  pitch: 8.408313
+ignore:
+- thebest00_pvp

@@ -1,0 +1,44 @@
+uuid: f4cd3472-1706-3414-9a26-175f7bff1314
+timestamps:
+  login: 1457267350235
+  kits:
+    bouffe: 1457188062192
+    octonien: 1457188052258
+    chevalier: 1457258289944
+  lastteleport: 1457272167659
+  logout: 1457272377626
+  lastheal: 1457271577363
+ipAddress: 88.120.147.114
+lastlocation:
+  world: world
+  x: -1978.5
+  y: 252.875
+  z: -1198.5
+  yaw: 178.6986
+  pitch: 8.470072
+logoutlocation:
+  world: world
+  x: -8221.261421221468
+  y: 71.0
+  z: -3977.639719725307
+  yaw: -98.35944
+  pitch: 9.946792
+homes:
+  sky:
+    world: world
+    x: -1978.8741691883288
+    y: 252.875
+    z: -1198.0720887007521
+    yaw: 209.08345
+    pitch: -4.635455
+  farm:
+    world: world
+    x: -9313.5
+    y: 112.5
+    z: -307.5
+    yaw: 124.94287
+    pitch: 32.405693
+money: '4853.5'
+ignore:
+- dirilis68000
+- fefe2

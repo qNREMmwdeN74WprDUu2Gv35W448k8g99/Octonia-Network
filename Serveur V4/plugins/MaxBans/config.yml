@@ -1,0 +1,63 @@
+# 
+# Sync is an advanced feature of MaxBans.
+# It only applies to server owners who want to BAN/etc Players using a WEBPAGE, such as PHP Script
+# Or owners who want two servers to have the SAME banlist!
+# This option is in BETA! I take no responsibility if it breaks, though I will endeaver to fix it.
+version: 2.0
+lockdown: false
+lockdown-reason: ''
+auto-dupeip: false
+history-expirey-minutes: 10080
+warnings:
+  expirey-in-minutes: 4320
+  actions:
+    '2': '/kick {name} Dernier avertissement: \n{reason}'
+    '3': '/tempmute {name} 10 minutes Trop d avertissements vous avez ete mute 10 minutes.'
+    '4': '/tempban {name} 10 minutes Trop d avertissements vous avez ete ban 10 minutes.'
+    '5': '/tempban {name} 30 minutes Trop d avertissements vous avez ete ban 30 minutes.'
+    '6': '/tempban {name} 1 hour Trop d avertissements vous avez ete ban 1h.'
+    '7': '/tempban {name} 2 day Trop d avertissements vous avez ete ban 2 jours.'
+  max: 3
+update:
+  type: NO_DOWNLOAD
+default-reason: Aucun motif
+appeal-message: "&1&k!&2&k!&3&k!&4&k!&5&k!&6&k! &cVous pensez qu'il s'agit d'une erreur\
+  \ de notre part ? \n&6Demande de debannissement sur le forum &c: -> &nhttp://octonia.fr/forum\
+  \ &1&k!&2&k!&3&k!&4&k!&5&k!&6&k! "
+color:
+  primary: f
+  secondary: a
+kick-colors:
+  reason: f
+  regular: f
+  banner: f
+  time: f
+override-commands: true
+chat-commands:
+- me
+- say
+notify: false
+filter-names: true
+dnsbl:
+  use: true
+  servers:
+  - bl.spamcop.net
+  - sbl.spamhaus.org
+  notify: true
+  kick: false
+bungee: false
+sync:
+  use: false
+  server: false
+  host: 127.0.0.1
+  port: 2711
+  pass: ChangeMeNow
+  debug: false
+database:
+  mysql: true
+  user: OctoniaLocal
+  pass: x0Q2a6d56q89ZAqs
+  host: 164.132.203.88
+  port: 3306
+  name: octonia
+  read-only: false

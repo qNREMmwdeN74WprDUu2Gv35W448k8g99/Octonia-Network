@@ -1,0 +1,37 @@
+uuid: a1292de7-0a78-3fae-86b0-b9d94b42a6da
+timestamps:
+  login: 1456059391834
+  kits:
+    bouffe: 1456060736848
+    octonien: 1456052203247
+  lastteleport: 1456063439241
+  logout: 1456063447052
+  mute: 0
+ipAddress: 78.152.149.222
+lastlocation:
+  world: world
+  x: 5454.231724385825
+  y: 68.0
+  z: -4271.519018265087
+  yaw: 282.39038
+  pitch: 26.416782
+homes:
+  home:
+    world: world
+    x: 1202.9770167183863
+    y: 252.0
+    z: 679.0016880793074
+    yaw: -359.85306
+    pitch: 18.749586
+logoutlocation:
+  world: world
+  x: -0.7896877993571771
+  y: 190.0
+  z: 2.5673808314297393
+  yaw: -269.5992
+  pitch: 58.707737
+money: '1.0'
+ban:
+  reason: Banni temporairement du serveur pour 1 jour.
+  timeout: 1456149851284
+muted: false

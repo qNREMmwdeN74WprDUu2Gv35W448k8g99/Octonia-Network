@@ -1,0 +1,25 @@
+Redis:
+  Host: 164.132.203.88
+  Port: 6379
+  DB-Index: 0
+  Timeout: 60000
+  Connections: 4
+  Channel: REDSYNC
+  Auth:
+    Enabled: true
+    Password: acb3e808650e1c24e9e39fd6a9362935dbfd628774bf421b828008f91b424abc
+  Connection-Validation:
+    Create: true
+    Return: true
+Security:
+  Lock-Player: true
+  Fixed-Lock:
+    Enabled: true
+    Ticks: 60
+  Save-Interval: 1
+Settings:
+  BungeeCord-Server-Name: factions1
+  Server-Group: group1
+Language: en
+Update-Mode: false
+Config-Version: 4

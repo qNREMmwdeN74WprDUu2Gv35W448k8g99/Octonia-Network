@@ -1,0 +1,76 @@
+timestamps:
+  login: 1457293587230
+  logout: 1457293591095
+  kits:
+    bouffe: 1457264675780
+    heros: 1457280847555
+    octonien: 1457261884226
+    chevalier: 1457280942253
+    destruction: 1457280788420
+    decouverte: 1457287016547
+    legendaire: 1457280804017
+  lastteleport: 1457293425389
+  mute: 0
+  lastheal: 1457293425569
+ipAddress: 77.149.252.26
+lastlocation:
+  world: world
+  x: -0.5876359849416652
+  y: 55.0
+  z: 34.842554362614344
+  yaw: -91.369514
+  pitch: 17.674696
+logoutlocation:
+  world: world
+  x: 5175.392436763634
+  y: 5.0
+  z: -4414.334240513409
+  yaw: 253.1488
+  pitch: -30.834978
+socialspy: false
+homes:
+  home:
+    world: world
+    x: -8369.663855463601
+    y: 77.0
+    z: -4601.958521893927
+    yaw: -89.72624
+    pitch: 17.309464
+  home2:
+    world: world
+    x: -8460.478142453603
+    y: 48.0
+    z: -5306.798881326751
+    yaw: 262.52924
+    pitch: 24.1605
+  apwarning:
+    world: world
+    x: 91.22361319341385
+    y: 64.0
+    z: 284.34647149016376
+    yaw: -145.92519
+    pitch: 15.164508
+  base:
+    world: world
+    x: 5183.300000011921
+    y: 11.0
+    z: -4414.645436283412
+    yaw: -130.93974
+    pitch: 68.79258
+  cannaweed:
+    world: world
+    x: 1869.8128060253143
+    y: 66.0
+    z: -5721.699999988079
+    yaw: -55.984848
+    pitch: 9.062203
+  aptra:
+    world: world
+    x: 151.72258232609641
+    y: 64.0
+    z: 282.5552690694918
+    yaw: -8.817544
+    pitch: 9.795735
+money: '675.75'
+muted: false
+uuid: e6b981cf-be69-37d2-870a-1d0280c4406f

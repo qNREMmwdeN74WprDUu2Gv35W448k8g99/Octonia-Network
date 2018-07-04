@@ -1,0 +1,38 @@
+uuid: 01a04a52-0417-3a34-b1d4-ef00775d62e7
+timestamps:
+  login: 1457293578617
+  kits:
+    bouffe: 1457283732629
+    octonien: 1457269441644
+    xp: 1457286406338
+    decouverte: 1457283414525
+  lastteleport: 1457294972741
+  logout: 1457294983572
+  lastheal: 1457294874262
+ipAddress: 78.233.148.114
+lastlocation:
+  world: world
+  x: 282.4090593658038
+  y: 64.0
+  z: 263.8158340892292
+  yaw: 80.30228
+  pitch: 22.097433
+homes:
+  home:
+    world: world
+    x: 229.95913011527168
+    y: 251.875
+    z: -8921.571947098084
+    yaw: -84.11918
+    pitch: 61.36858
+logoutlocation:
+  world: world
+  x: 2.089326553615056
+  y: 190.5
+  z: 1.5910318710070106
+  yaw: -56.5885
+  pitch: 33.775757
+money: '1370.49'
+ignore:
+- aymatt
+- gamerkiller27

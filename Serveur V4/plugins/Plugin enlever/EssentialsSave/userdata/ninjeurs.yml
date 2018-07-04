@@ -1,0 +1,46 @@
+socialspy: false
+timestamps:
+  login: 1457121206619
+  kits:
+    bouffe: 1456243548122
+    heros: 1456243806956
+    octonien: 1456242667280
+    druide: 1457121749674
+    chevalier: 1456084380558
+    decouverte: 1457121767170
+    xp: 1457121730667
+    legendaire: 1457121692047
+  lastteleport: 1457125347970
+  logout: 1457125702728
+  mute: 0
+  lastheal: 1457124138165
+ipAddress: 78.196.39.16
+lastlocation:
+  world: world
+  x: 2322.8211643623226
+  y: 5.0
+  z: -8719.061142361612
+  yaw: 65.88199
+  pitch: -8.999999
+logoutlocation:
+  world: world
+  x: -5.615230662308593
+  y: 189.0
+  z: 8.540141003436272
+  yaw: -298.00122
+  pitch: 23.247766
+homes:
+  bp:
+    world: world
+    x: 9803.049357358683
+    y: 89.0
+    z: 1587.7615657507536
+    yaw: -358.58884
+    pitch: 77.70008
+muted: false
+money: '40.0'
+godmode: false
+uuid: 2b75d0f2-93cd-303f-b61e-05980cbe8493
+ban:
+  reason: 'Banni : Vente de compte'
+  timeout: 0

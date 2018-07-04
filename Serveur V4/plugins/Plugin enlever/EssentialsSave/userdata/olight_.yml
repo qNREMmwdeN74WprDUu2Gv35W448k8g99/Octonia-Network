@@ -1,0 +1,76 @@
+timestamps:
+  login: 1456581122778
+  kits:
+    heros: 1456346063465
+    bouffe: 1456346099303
+    octonien: 1456346090902
+    chevalier: 1456346082833
+    decouverte: 1456346117762
+    legendaire: 1456345726531
+  logout: 1456581235933
+  lastteleport: 1456346611240
+  lastheal: 1456346481828
+  mute: 0
+ipAddress: 78.122.65.229
+lastlocation:
+  world: world
+  x: 2618.966326546838
+  y: 73.0
+  z: 1595.8904641174302
+  yaw: -66.99658
+  pitch: 71.70009
+logoutlocation:
+  world: world
+  x: -26.69999998807907
+  y: 195.0
+  z: 18.92500001192093
+  yaw: -223.24927
+  pitch: 36.95775
+homes:
+  end:
+    world: world
+    x: 1622.300000011921
+    y: 49.0
+    z: -9687.962972676385
+    yaw: -85.29325
+    pitch: 2.9386265
+  bp:
+    world: world
+    x: 2338.300000011921
+    y: 62.0
+    z: -2386.699999988079
+    yaw: -45.655823
+    pitch: 5.5897284
+  home:
+    world: world
+    x: 3864.4854940064197
+    y: 21.0
+    z: 691.7089499829585
+    yaw: -320.47522
+    pitch: 16.350006
+  spawners2:
+    world: world
+    x: 157.8981439931382
+    y: 46.0
+    z: 1254.542174428668
+    yaw: 87.90023
+    pitch: 9.750047
+  pillage:
+    world: world
+    x: 2646.7419643051576
+    y: 69.0
+    z: 1611.687039013939
+    yaw: -181.44647
+    pitch: 15.900011
+  sky:
+    world: world
+    x: -440.5
+    y: 254.0
+    z: -9963.5
+    yaw: -81.82595
+    pitch: 80.4
+money: '0.00'
+muted: false
+uuid: 5eb5ee3f-babe-3a2d-90ba-d48c5b3e5368
+ignore:
+- aymatt

@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1457282796123
+  kits:
+    bouffe: 1456936102190
+    octonien: 1457125848575
+    decouverte: 1457127466971
+    xp: 1457283025687
+  lastteleport: 1457270291995
+  logout: 1457284057311
+  lastheal: 1457283566331
+  jail: 0
+ipAddress: 82.246.22.13
+lastlocation:
+  world: world
+  x: -0.07571226492788259
+  y: 47.0
+  z: 0.4243243443913302
+  yaw: -176.44464
+  pitch: -4.001763
+logoutlocation:
+  world: world
+  x: 6840.2044057130515
+  y: 139.0
+  z: 6025.934490946006
+  yaw: -187.23137
+  pitch: -30.490046
+homes:
+  home:
+    world: world
+    x: 8361.213620927541
+    y: 5.0
+    z: 4251.057719948017
+    yaw: 114.96234
+    pitch: 20.249973
+money: '1185.00'
+ignore:
+- ninjakenz
+uuid: cf50caf9-9901-35c9-88a0-2be079167e6f
+jailed: false

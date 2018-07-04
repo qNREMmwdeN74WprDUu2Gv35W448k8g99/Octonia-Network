@@ -1,0 +1,76 @@
+socialspy: false
+timestamps:
+  login: 1456566248593
+  lastteleport: 1456567325547
+  kits:
+    bouffe: 1455628509535
+    heros: 1455886802591
+    octonien: 1455887278304
+    druide: 1455546860827
+    chevalier: 1455887699217
+    destruction: 1455546815479
+    xp: 1455546810067
+    legendaire: 1456566460701
+    alchimiste: 1455546842996
+    minerais: 1455460529443
+    decouverte: 1456567108083
+    construction: 1455885974879
+    golden: 1454861707356
+  logout: 1456567328878
+  lastheal: 1456567301912
+  mute: 0
+ipAddress: 78.242.142.95
+lastlocation:
+  world: world
+  x: 262.61872344149845
+  y: 64.0
+  z: -261.09123290241246
+  yaw: 63.051098
+  pitch: 9.869914
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 190.5
+  z: 0.5
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  base:
+    world: world
+    x: -8173.538322365104
+    y: 6.0
+    z: 5736.423717271025
+    yaw: -8.153237
+    pitch: 29.400225
+  pots:
+    world: world
+    x: -8176.251048551526
+    y: 28.0
+    z: 5729.300000011921
+    yaw: 330.27115
+    pitch: 41.054314
+  potion:
+    world: world
+    x: -8172.676576754857
+    y: 51.0
+    z: 5731.100215080016
+    yaw: 118.59857
+    pitch: 49.350796
+  mm:
+    world: world
+    x: 724.4550431628662
+    y: 31.0
+    z: -603.8256205735862
+    yaw: 183.6253
+    pitch: 12.721063
+money: '1856.0'
+ignore:
+- ninjeurs
+- xgamesx
+- i_weats
+- playzerflo
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 2 secondes.
+  timeout: 0
+uuid: be2c7680-cac1-38cc-ad32-419e4bd86e94

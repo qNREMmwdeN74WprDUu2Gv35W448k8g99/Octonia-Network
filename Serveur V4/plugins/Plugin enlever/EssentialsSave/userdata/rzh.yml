@@ -1,0 +1,38 @@
+uuid: b4966d1a-92bd-3ccf-a08c-a082962a2746
+timestamps:
+  login: 1457269216438
+  logout: 1457269763691
+  kits:
+    heros: 1457269581475
+    bouffe: 1457215387408
+    octonien: 1457213084535
+    druide: 1457269448930
+    xp: 1457215285426
+    construction: 1457214769637
+    alchimiste: 1457269446683
+  lastheal: 1457269502994
+  lastteleport: 1457269659446
+ipAddress: 92.146.97.224
+lastlocation:
+  world: world
+  x: 9809.540983179098
+  y: 218.0
+  z: 1586.087274662356
+  yaw: 141.63086
+  pitch: -4.759159
+logoutlocation:
+  world: world
+  x: 9801.300000011921
+  y: 211.0
+  z: 1580.6652174467845
+  yaw: 276.01425
+  pitch: 7.7586517
+homes:
+  home:
+    world: world
+    x: 7430.364787674601
+    y: 14.0
+    z: 201.2361787160282
+    yaw: -197.28326
+    pitch: 11.694344
+money: '5000'

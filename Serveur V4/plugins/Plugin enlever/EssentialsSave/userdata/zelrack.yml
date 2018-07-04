@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1457299635644
+  kits:
+    bouffe: 1457296781805
+    octonien: 1457280268823
+    decouverte: 1457280317969
+    xp: 1457296785330
+  lastteleport: 1457298010507
+  logout: 1457299287781
+  lastheal: 1457299722236
+  mute: 0
+ipAddress: 109.222.37.125
+lastlocation:
+  world: world
+  x: -9957.607224701731
+  y: 20.0
+  z: -501.8277068433601
+  yaw: 350.36392
+  pitch: 10.624253
+homes:
+  home:
+    world: world
+    x: -2345.5623859567513
+    y: 31.0
+    z: -4712.552694125739
+    yaw: 178.59389
+    pitch: 14.849954
+logoutlocation:
+  world: world
+  x: -2344.6952606628597
+  y: 31.0
+  z: -4714.491128635511
+  yaw: 316.5938
+  pitch: 27.60002
+money: '44766.5'
+uuid: fc3ca8b1-969b-3d47-a8cc-fabc27bff9ea
+muted: false
+ignore:
+- mega_kebab

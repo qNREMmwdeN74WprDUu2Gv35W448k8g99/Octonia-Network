@@ -1,0 +1,26 @@
+uuid: 17260ca9-d2bd-3193-a72f-599a76c2d673
+timestamps:
+  login: 1456985659080
+  kits:
+    bouffe: 1456984734283
+    octonien: 1456981120109
+  lastteleport: 1456985345328
+  logout: 1456986123495
+ipAddress: 185.94.189.132
+lastlocation:
+  world: world
+  x: -12.202221747491437
+  y: 22.5
+  z: 12.627750485457948
+  yaw: -235.18164
+  pitch: 14.319778
+logoutlocation:
+  world: world
+  x: 0.766825334731231
+  y: 189.0
+  z: 5.190684948882855
+  yaw: 183.48846
+  pitch: 31.799923
+ban:
+  reason: 'Banni : Vien Ts #Dizza'
+  timeout: 0

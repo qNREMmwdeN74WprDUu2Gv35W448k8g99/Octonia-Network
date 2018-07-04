@@ -1,0 +1,281 @@
+ShopName: boutiquecostumecouronne
+DisplayName: '&c&oCouronne &4&l[right]'
+signs:
+  text: '[boutiquecostumecouronne]'
+  NeedPermissionToCreateSign: true
+InventorySize: 54
+shop:
+  glassnoir14:
+    MenuItem:
+    - amount:1
+    - type:BLAZE_POWDER
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  glassnoir30:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  glassnoir31:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  glassnoir32:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  glassnoir33:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  glassnoir34:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  glassnoir37:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glassnoir38:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  glassnoir39:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  confirmer40:
+    MenuItem:
+    - lore1:&7Avec cet achat vous obtenez[colon]
+    - lore2:&7 + Couronne
+    - lore3:&c  (Valable sur le serveur où vous l'achetez)
+    - lore5:&7&m----------------------------
+    - lore6:&cRequis[colon] &7250 &cOctoCoins
+    - lore7:&aVous avez[colon] &7%token% &aOctoCoins
+    - lore8:&7&m----------------------------
+    - lore9:&aClique pour Confirmer
+    - name:&7[o] &3&lConfirmer Achat ?
+    - amount:1
+    - type:COINS
+    PriceType: token
+    Price: 250
+    RewardType: command
+    Reward:
+    - broadcast &cLe joueur &7%player%&c a acheté &cCouronne &7!
+    - token take %player% 250
+    - costume ajouter Couronne %player%
+    Message: '&6Merci d''avoir acheté Couronne !'
+    ExtraPermission: ''
+    InventoryLocation: 40
+  glassnoir41:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  confirmer42:
+    MenuItem:
+    - name:&cRetour
+    - amount:1
+    - type:BLOCK_INVISIBLE
+    RewardType: shop
+    Reward: boutiquecostume
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  glassnoir43:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  glassnoir44:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  glassnoir45:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  glassnoir46:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  glassnoir47:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 47
+  glassnoir48:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 48
+  glassnoir49:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  glassnoir50:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  glassnoir51:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glassnoir52:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 52
+  glassnoir53:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 53
+  glassnoir54:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

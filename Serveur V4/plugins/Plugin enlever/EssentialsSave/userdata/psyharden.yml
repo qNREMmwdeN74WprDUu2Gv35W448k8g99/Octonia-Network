@@ -1,0 +1,39 @@
+timestamps:
+  login: 1456254383437
+  kits:
+    bouffe: 1456254437986
+    octonien: 1456254436543
+  lastteleport: 1456255501891
+  logout: 1456255608156
+  lastheal: 1456255499077
+  mute: 0
+ipAddress: 92.140.170.130
+lastlocation:
+  world: world
+  x: -2342.9598827781892
+  y: 25.0
+  z: -1382.0861680701573
+  yaw: 234.62378
+  pitch: 67.499954
+logoutlocation:
+  world: world
+  x: -2345.666251177469
+  y: 37.0
+  z: -1383.3825767909318
+  yaw: 255.17432
+  pitch: 82.069145
+homes:
+  home:
+    world: world
+    x: 131.3766774454425
+    y: 79.0
+    z: -3899.3965257310124
+    yaw: 96.60095
+    pitch: 39.300045
+money: '106.430'
+uuid: 6a149c75-bcb7-326f-b952-7e3a3d554b4c
+muted: false
+mail:
+- 'thekilleur33: srx les claims perdu --'''
+- 'thekilleur33: casse pas la pierre au dernier etage y a un gars avec un home !'
+- 'thekilleur33: on c fais pete ma balise :('

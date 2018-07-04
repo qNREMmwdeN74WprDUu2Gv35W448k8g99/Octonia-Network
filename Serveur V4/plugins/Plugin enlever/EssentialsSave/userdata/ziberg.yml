@@ -1,0 +1,32 @@
+uuid: dbd101df-2766-36aa-9c34-f60aa92aded7
+timestamps:
+  login: 1457279611620
+  kits:
+    bouffe: 1457172244157
+    octonien: 1457184665631
+  lastteleport: 1457256910397
+  logout: 1457279668351
+  lastheal: 1457256913407
+ipAddress: 90.46.99.28
+lastlocation:
+  world: world
+  x: 2307.1261147100854
+  y: 10.0
+  z: 97.34820828044374
+  yaw: 132.77686
+  pitch: -0.5999836
+homes:
+  home:
+    world: world
+    x: 2306.173215839926
+    y: 10.0
+    z: 97.09364837537034
+    yaw: 222.47673
+    pitch: 28.19999
+logoutlocation:
+  world: world
+  x: 5654.465368344482
+  y: 64.0
+  z: 167.27089541391044
+  yaw: 333.47668
+  pitch: 7.350019

@@ -1,0 +1,22 @@
+uuid: c9b89a42-c319-3dd9-a64b-619b7906d914
+timestamps:
+  login: 1456317001494
+  logout: 1456317037147
+ipAddress: 86.235.7.44
+lastlocation:
+  world: world
+  x: -3.5
+  y: 186.0
+  z: 4.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: Banni temporairement du serveur pour 2 heures.
+  timeout: 1456324238636
+logoutlocation:
+  world: world
+  x: -25.975576847958198
+  y: 188.0
+  z: 0.022243196944128935
+  yaw: -270.64917
+  pitch: 22.857735

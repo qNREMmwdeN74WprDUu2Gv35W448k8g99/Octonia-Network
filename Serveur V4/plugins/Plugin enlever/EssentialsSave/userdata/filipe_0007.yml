@@ -1,0 +1,92 @@
+socialspy: false
+timestamps:
+  login: 1457283476210
+  kits:
+    bouffe: 1457283816608
+    heros: 1457283799943
+    octonien: 1457209255427
+    druide: 1457284018231
+    chevalier: 1457283782097
+    destruction: 1457283968212
+    xp: 1457283894675
+    legendaire: 1457284060835
+    alchimiste: 1457284073097
+    minerais: 1457283982293
+    decouverte: 1457283907623
+    construction: 1457283844348
+    golden: 1457283757236
+  lastteleport: 1457286525459
+  logout: 1457287499596
+  lastheal: 1457287464745
+  mute: 0
+  jail: 0
+ipAddress: 81.249.2.41
+lastlocation:
+  world: world
+  x: -5664.3484997867545
+  y: 73.0
+  z: -7010.503427138415
+  yaw: 105.16434
+  pitch: -0.037664108
+homes:
+  mine:
+    world: world
+    x: 5885.762998940095
+    y: 71.1707870772188
+    z: -6673.313643436403
+    yaw: -0.29999816
+    pitch: 5.7000012
+  bp:
+    world: world
+    x: 3317.731816641339
+    y: 4.0
+    z: -8221.430980019342
+    yaw: -179.64607
+    pitch: 10.800418
+  bite:
+    world: world
+    x: -687.2184622223456
+    y: 6.0
+    z: -616.629873152048
+    yaw: -73.64107
+    pitch: 11.700023
+  surclaim:
+    world: world
+    x: 3582.2393788774743
+    y: 11.0
+    z: 2925.300000011921
+    yaw: 350.29074
+    pitch: 31.199999
+  azert:
+    world: world
+    x: -6724.5
+    y: 252.875
+    z: -1551.5
+    yaw: -81.77927
+    pitch: 5.6999717
+  cryzzis:
+    world: world
+    x: 3580.699999988079
+    y: 18.0
+    z: 2917.0503087358225
+    yaw: 133.69629
+    pitch: 58.842518
+logoutlocation:
+  world: world
+  x: -6719.308276017346
+  y: 72.7531999805212
+  z: -1550.759759060398
+  yaw: -45.981266
+  pitch: -45.676723
+money: '1006.0'
+muted: false
+ignore:
+- perealban
+- xxfire
+- playpvp
+- x_diablac_x
+uuid: 34c4a988-476a-3658-805e-849081e11ff7
+jailed: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

@@ -1,0 +1,41 @@
+# MessageAnnouncer v1.6.2 Main configuration
+announcer_enabled: true
+announcer_random: true
+announce_interval: 60
+sound:
+  enabled: false
+  sound_name: NOTE_PLING
+  volume: 10
+  pitch: 1
+interval_announcement_list:
+- default
+- teamspeak
+- vote
+- rtp
+- costume
+announcements:
+  default:
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  - '{"text":"Vous pouvez acheter un grade sur la boutique ! (Cliquez ICI)","color":"gold","bold":true,"italic":true,"clickEvent":{"action":"open_url","value":"http://octonia.fr/shop"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Votre
+    Aide nous est tres precieuse !","color":"green"}]}}}'
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  teamspeak:
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  - '{"text":"Notre Teamspeak est disponible : ts.octonia.fr","color":"green","bold":true,"italic":true,"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Merci
+    de respecter les règles !","color":"green"}]}}}'
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  vote:
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  - '{"text":"Les grades vous donnent certains avantages ! (Cliquez ICI)","color":"red","bold":true,"italic":true,"clickEvent":{"action":"open_url","value":"http://octonia.fr/shop"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Avec
+    votre grade vous avez regulierement des recompenses gratuites !","color":"green"}]}}}'
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  rtp:
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  - '{"text":"Avec le /level vous pouvez avoir gratuitement tous les kits/grades !","color":"blue","bold":true,"italic":true,"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Tu
+    peux connaitres les recompenses en ouvrant ton inventaire !","color":"green"}]}}}'
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  costume:
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'
+  - '{"text":"Des costumes sont disponibles sur la Boutique !","color":"red","bold":true,"italic":true,"clickEvent":{"action":"open_url","value":"http://octonia.fr/shop"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Ailes
+    Ange, Chapeaux de Noel, Cowboy, Couronne, Barbe..","color":"green"}]}}}'
+  - '{"text": "-------------------------------------------","color":"red","strikethrough":true,"bold":false,"italic":false}'

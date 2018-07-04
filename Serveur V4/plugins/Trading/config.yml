@@ -1,0 +1,95 @@
+CountdownLength: 5
+Distance: -1
+TradeCurrency: true
+TradeCurrencyAmount: 100.0
+TradeInCreative: false
+ShiftRightClick: false
+Messages:
+  error-not-involved: '&6OctoTrade> &7Vous n''etes pas en echange'
+  error-trade-already-accepted: '&6OctoTrade> &7L''echange a deja ete accepte'
+  error-accepter-different-trade: '&6OctoTrade> &7Le jour &b%accepter% &7est deja
+    en echange'
+  error-requester-different-trade: '&6OctoTrade> &7Vous etes deja dans differents
+    echanges'
+  error-distance: '&6OctoTrade> &7Vous devez etre a 10 blocks du joueurs pour echanger
+    !'
+  error-world: '&6OctoTrade> &7Vous devez etre dans le meme monde pour echanger'
+  error-self: '&6OctoTrade> &7Vous ne pouvez pas echanger avec vous meme'
+  error-not-online: '&6OctoTrade> &7Le jour &b%accepter% &7n''est pas en ligne'
+  error-creative: '&6OctoTrade> &7Vous ne pouvez pas echanger en &bCreative &7mode'
+  error-incorrect-usage: '&6OctoTrade> &7Erreur, utilisez: &b/trade <Pseudo du joueur>&7,
+    &b/echange accept&7, or &b/echange decline'
+  trade-request-sent: '&6OctoTrade> &7Demande d''echange envoye a &b%accepter%'
+  trade-request-received: '&6OctoTrade> &7Le joueur &b%requester% &7vous a propose
+    de faire un echange. Faites &2/trade accept &7ou &4/echange decline'
+  trade-accepted: '&6OctoTrade> &2L''echange a ete accepte'
+  trade-successful: '&6OctoTrade> &7L''echange s''est bien deroule !'
+  trade-cancelled: '&6OctoTrade> &cL''echange est annule'
+  trade-cancelled-creative-reason: '&6OctoTrade> &7This was because a player was in
+    creative mode'
+  traded-currency: '&6OctoTrade> &7You have traded &b%currencyamount% &7as a result
+    of the trade'
+  received-currency: '&6OctoTrade> &7You have received &b%currencyamount% &7as a result
+    of the trade'
+  config-reloaded: '&6OctoTrade> &7The &bconfig.yml &7file has been reloaded'
+Item-Names:
+  inventory: Toi                  Joueur
+  divider: ' '
+  decline-trade: '&cClique pour Annuler'
+  accept-trade: '&aClique si tu es Pret'
+  not-ready: '&cPas Pret'
+  ready: '&aPret'
+  add-currency: '&aAdd &f%currencyamount%'
+  remove-currency: '&cRemove &f%currencyamount%'
+  total-currency: '&aCurrent Money-to-be-Traded: &f%currencyamount%'
+Item-Lores:
+  decline-trade:
+  - '&7Clique n''importe quand pour'
+  - '&7annuler l''echange.'
+  accept-trade:
+  - '&7Lorsque vous avez tous les'
+  - '&7deux clique, l''echange'
+  - '&7commencera'
+  add-currency:
+  - '&7Adds your money to the trade'
+  remove-currency:
+  - '&7Removes your money from the trade'
+method-whitelist:
+- getPlayerLimit
+- dynmap.getPort
+options:
+  stream_pusher:
+    max_queue_age: 30
+    max_queue_length: 500
+  startup-delay: 2000
+  port: 25591
+  ip-whitelist: []
+  log-to-console: 'false'
+  log-to-file: 'true'
+  salt: craftmycms
+  anyone-can-use-calladmin: true
+  use-new-api: false
+logins:
+  ac31626bf770c562b1351287081ce9fd: 43e5614ebe9fb650561eafc3c6c75026 involved in a different trade'
+  error-requester-different-trade: '&bOctoTrade> &7You are currently involved in a
+    different trade'
+  error-distance: '&bOctoTrade> &7Vous devez etre a 10 blocs du joueurs !'
+  error-world: '&6OctoTrade> &7Vous devez etre dans le meme monde pour echanger'
+  error-self: '&6OctoTrade> &7Vous ne pouvez pas echanger avec vous meme'
+  error-not-online: '&6OctoTrade> &7Le jour &b%accepter% &7n''est pas en ligne'
+  error-creative: '&6OctoTrade> &7Vous ne pouvez pas echanger en &bCreative &7mode'
+  error-incorrect-usage: '&6OctoTrade> &7Erreur, utilisez: &b/trade <Pseudo du joueur>&7,
+    &b/trade accept&7, or &b/trade non'
+  trade-request-sent: '&6OctoTrade> &7Demande d''echange envoye a &b%accepter%'
+  trade-request-received: '&6OctoTrade> &7Le joueur &b%requester% &7vous a propose
+    de faire un echange. Faites &2/trade accept &7ou &4/trade decline'
+  trade-accepted: '&6OctoTrade> &2L''echange a ete accepte'
+  trade-successful: '&6OctoTrade> &7L''echange s''est bien deroule !'
+  trade-cancelled: '&6OctoTrade> &cL''echange est annule'
+  trade-cancelled-creative-reason: '&bOctoTrade> &7This was because a player was in
+    creative mode'
+  traded-currency: '&bOctoTrade> &7You have traded &b%currencyamount% &7as a result
+    of the trade'
+  received-currency: '&bOctoTrade> &7You have received &b%currencyamount% &7as a result
+    of the trade'
+  config-reloaded: '&bOctoTrade> &7The &bconfig.yml &7file has been reloaded'

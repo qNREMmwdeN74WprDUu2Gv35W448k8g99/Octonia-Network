@@ -1,0 +1,34 @@
+socialspy: false
+timestamps:
+  login: 1454861016984
+  logout: 1454861073497
+  kits:
+    octonien: 1454836793880
+  mute: 0
+ipAddress: 88.172.188.234
+lastlocation:
+  world: world
+  x: -0.05640325665323345
+  y: 191.0
+  z: 0.06084168811078994
+  yaw: -178.79053
+  pitch: 16.049873
+logoutlocation:
+  world: world
+  x: 9266.960880087956
+  y: 72.0
+  z: 3726.8048758727527
+  yaw: -158.40001
+  pitch: 14.850005
+homes:
+  home:
+    world: world
+    x: 5012.8214694247945
+    y: 55.0
+    z: 2709.645144025734
+    yaw: 138.53027
+    pitch: 15.408655
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 26 minutes 40 secondes.
+  timeout: 0

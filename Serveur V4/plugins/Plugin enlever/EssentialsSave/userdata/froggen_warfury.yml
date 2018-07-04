@@ -1,0 +1,22 @@
+uuid: 337dc185-633d-3ba1-9a9a-655a6fee11d4
+timestamps:
+  login: 1455967893029
+  lastteleport: 1455968634723
+  kits:
+    octonien: 1455913013260
+  logout: 1455968686173
+ipAddress: 105.102.93.172
+lastlocation:
+  world: world
+  x: 4933.885920469545
+  y: 15.0
+  z: -6231.313723098736
+  yaw: 109.84982
+  pitch: 19.50762
+logoutlocation:
+  world: world
+  x: 22.44870832184823
+  y: 189.0
+  z: 4.14137061613668
+  yaw: -250.68353
+  pitch: 16.87957

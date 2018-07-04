@@ -1,0 +1,43 @@
+timestamps:
+  login: 1456783609186
+  kits:
+    bouffe: 1456785862573
+    octonien: 1456785586668
+    druide: 1456785062215
+    destruction: 1456785140617
+    decouverte: 1456785076371
+    alchimiste: 1456785085069
+  logout: 1456786189510
+  lastteleport: 1456786094100
+  mute: 0
+  jail: 0
+  lastheal: 1456777451200
+ipAddress: 94.224.195.198
+lastlocation:
+  world: world
+  x: 258.77891803126903
+  y: 64.0
+  z: -101.89100621660745
+  yaw: -269.78857
+  pitch: 5.825713
+logoutlocation:
+  world: world
+  x: -2112.1449956099364
+  y: 254.875
+  z: 3679.558905523978
+  yaw: 266.70676
+  pitch: 11.023516
+homes:
+  home:
+    world: world
+    x: -2109.216720310681
+    y: 253.875
+    z: 3677.7125898875724
+    yaw: 250.05116
+    pitch: 56.979958
+money: '6.940'
+uuid: ed45418e-a7ad-311f-998d-4c70a4c14a01
+muted: false
+jailed: false
+ignore:
+- juju2001

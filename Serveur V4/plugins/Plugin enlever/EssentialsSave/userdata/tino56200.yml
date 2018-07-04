@@ -1,0 +1,83 @@
+timestamps:
+  login: 1457333169895
+  logout: 1457333584205
+  kits:
+    minerais: 1457333235898
+    heros: 1457280188021
+    bouffe: 1457264305962
+    octonien: 1457284819706
+    druide: 1457279646170
+    chevalier: 1457280203279
+    destruction: 1457276674771
+    xp: 1457333267998
+    decouverte: 1457280158215
+    construction: 1457333282898
+    legendaire: 1457280194501
+    golden: 1457333178101
+  lastteleport: 1457293374693
+  mute: 0
+  lastheal: 1457292062272
+ipAddress: 86.214.153.250
+lastlocation:
+  world: world
+  x: -2117.2456638647755
+  y: 7.0
+  z: 5957.636107774335
+  yaw: -88.46423
+  pitch: 23.660524
+logoutlocation:
+  world: world
+  x: -2676.6149411380934
+  y: 6.0
+  z: 5677.684397179703
+  yaw: 287.2426
+  pitch: 2.1000106
+socialspy: false
+homes:
+  bp:
+    world: world
+    x: -2679.9851334979885
+    y: 5.0
+    z: 5678.539446862011
+    yaw: 232.04321
+    pitch: 29.399984
+  horsbp:
+    world: world
+    x: -2702.824259436512
+    y: 65.0
+    z: 5689.380386940508
+    yaw: -111.61001
+    pitch: -1.050007
+  pvp:
+    world: world
+    x: 44.67242421987375
+    y: 64.0
+    z: 259.4889209593058
+    yaw: -352.73447
+    pitch: 8.090532
+  pillage:
+    world: world
+    x: 7591.463040020535
+    y: 81.0
+    z: 5960.9297284099775
+    yaw: -184.58815
+    pitch: 57.950436
+  pillage2:
+    world: world
+    x: 7591.317470333688
+    y: 93.0
+    z: 5958.355995835271
+    yaw: -5.338196
+    pitch: 76.200005
+  pillage3:
+    world: world
+    x: 7592.533222927568
+    y: 89.0
+    z: 5966.558920810472
+    yaw: 105.04887
+    pitch: 9.892121
+muted: false
+money: '19716.200'
+uuid: b6a1d7fb-6bbc-3e9a-bca4-6dc253399fbd
+ignore:
+- rlolol

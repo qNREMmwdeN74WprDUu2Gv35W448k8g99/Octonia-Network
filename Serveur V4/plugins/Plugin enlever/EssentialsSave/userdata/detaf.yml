@@ -1,0 +1,80 @@
+uuid: e3ef255c-7634-3104-aee2-f552e394f67a
+timestamps:
+  login: 1457295186756
+  kits:
+    heros: 1457293036008
+    bouffe: 1457295580119
+    octonien: 1457294046127
+    chevalier: 1457293043137
+    destruction: 1457293085042
+    decouverte: 1457293181632
+    legendaire: 1457293040107
+    construction: 1457293082308
+    alchimiste: 1457293179589
+    golden: 1457293153933
+  logout: 1457296738872
+  lastteleport: 1457296459918
+  mute: 0
+  lastheal: 1457296558504
+ipAddress: 109.27.243.51
+lastlocation:
+  world: world
+  x: -1463.1340805129755
+  y: 7.0
+  z: 554.6999999880791
+  yaw: -212.34766
+  pitch: 8.24985
+logoutlocation:
+  world: world
+  x: 7451.810081669648
+  y: 72.0
+  z: 891.5526467073015
+  yaw: -263.74292
+  pitch: -10.499998
+homes:
+  spawner:
+    world: world
+    x: 9815.391281322554
+    y: 8.0
+    z: 469.8884002818051
+    yaw: -4.127533
+    pitch: 9.15
+  kaizox:
+    world: world
+    x: 7452.449283375015
+    y: 66.0
+    z: 896.8318336408369
+    yaw: 134.80176
+    pitch: 12.599949
+  bp:
+    world: world
+    x: 7688.903386889659
+    y: 65.0
+    z: 2151.2838221402326
+    yaw: 86.94568
+    pitch: -8.099953
+  sc:
+    world: world
+    x: 8775.1559507437
+    y: 66.0
+    z: 4547.375491835471
+    yaw: 98.84685
+    pitch: 10.799995
+  raid4:
+    world: world
+    x: 7311.699999988079
+    y: 5.0
+    z: 6133.895890357063
+    yaw: 358.9489
+    pitch: 4.4022737
+  spawner2:
+    world: world
+    x: 6164.883981980534
+    y: 5.0
+    z: 6806.604445160425
+    yaw: -67.133545
+    pitch: -1.2000582
+money: '4.5'
+muted: true
+ignore:
+- spiidie

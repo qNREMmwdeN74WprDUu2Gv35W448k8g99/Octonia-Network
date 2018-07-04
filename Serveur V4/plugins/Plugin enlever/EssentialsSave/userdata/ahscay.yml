@@ -1,0 +1,22 @@
+uuid: 39259caf-abaa-3534-8196-c184310db7a3
+timestamps:
+  login: 1456924997213
+  kits:
+    octonien: 1456925121806
+  logout: 1456926215557
+  lastteleport: 1456925765426
+ipAddress: 90.49.149.168
+lastlocation:
+  world: world
+  x: 33.645379734488465
+  y: 196.0
+  z: 56.35960045837324
+  yaw: -135.25609
+  pitch: 31.577208
+logoutlocation:
+  world: world
+  x: 1.0911369926311858
+  y: 176.0
+  z: -1.2443848344588313
+  yaw: -320.2527
+  pitch: 79.07368

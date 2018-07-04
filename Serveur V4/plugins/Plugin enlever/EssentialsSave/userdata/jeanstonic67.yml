@@ -1,0 +1,75 @@
+timestamps:
+  login: 1457201565609
+  kits:
+    bouffe: 1457203530678
+    heros: 1457108347140
+    octonien: 1457201999030
+    chevalier: 1457108537432
+    decouverte: 1457107159694
+    xp: 1457034319361
+    legendaire: 1457107129390
+    construction: 1457128206132
+    golden: 1457107135104
+  lastteleport: 1457203572747
+  logout: 1457203631514
+  lastheal: 1457203295083
+ipAddress: 86.223.173.123
+lastlocation:
+  world: world
+  x: -94.55802970288991
+  y: 64.0
+  z: 267.0460617544998
+  yaw: -348.4539
+  pitch: 8.475916
+logoutlocation:
+  world: world
+  x: -90.05198197704118
+  y: 64.0
+  z: 283.80507400406856
+  yaw: -226.88916
+  pitch: 35.84829
+homes:
+  ap:
+    world: world
+    x: -95.9952186455721
+    y: 64.0
+    z: 284.3286874597511
+    yaw: -223.88889
+    pitch: -1.6516988
+  vangencev2ap:
+    world: world
+    x: -151.1635642794529
+    y: 65.0
+    z: 285.5219240060897
+    yaw: -103.62493
+    pitch: 7.3499722
+  base:
+    world: world
+    x: 3214.6559616715867
+    y: 10.0
+    z: -9391.065095253305
+    yaw: 153.90628
+    pitch: 24.150015
+  shadow:
+    world: world
+    x: 362.3081648419201
+    y: 11.0
+    z: -4453.537719240544
+    yaw: -119.58545
+    pitch: -5.849983
+  new:
+    world: world
+    x: 4051.699999988079
+    y: 5.0
+    z: -8696.114108878568
+    yaw: -284.23154
+    pitch: 13.650031
+  aptimnik:
+    world: world
+    x: -293.3097227514271
+    y: 64.0
+    z: 183.78589066260392
+    yaw: -87.73724
+    pitch: 13.791971
+money: '20357.00'
+uuid: e403cdda-af94-34b7-bc13-67a1f8f69830

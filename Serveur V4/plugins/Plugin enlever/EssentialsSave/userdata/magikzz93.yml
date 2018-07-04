@@ -1,0 +1,54 @@
+timestamps:
+  login: 1455650167741
+  kits:
+    heros: 1455567881590
+    octonien: 1455474454702
+    legendaire: 1455641199879
+  logout: 1455654129036
+  lastteleport: 1455653694891
+  lastheal: 1455653805051
+  mute: 0
+  jail: 0
+ipAddress: 88.161.42.164
+lastlocation:
+  world: world
+  x: -766.616325445788
+  y: 34.0
+  z: -3373.6676242214685
+  yaw: -84.999695
+  pitch: 15.281106
+logoutlocation:
+  world: world
+  x: 16.137499988079064
+  y: 190.0
+  z: 6.8965870328247485
+  yaw: -356.67697
+  pitch: 62.870415
+homes:
+  home:
+    world: world
+    x: -765.8460275447019
+    y: 48.875
+    z: -3369.4011572952104
+    yaw: -93.82534
+    pitch: 32.268745
+  coco:
+    world: world
+    x: 1965.9490717882518
+    y: 70.0
+    z: -2417.618630456239
+    yaw: -205.72179
+    pitch: 24.188475
+  spawner:
+    world: world
+    x: 6615.52929306812
+    y: 37.0
+    z: -3692.490818215158
+    yaw: 230.26236
+    pitch: 15.881302
+muted: false
+jailed: true
+jail: Prison1
+ban:
+  reason: Banni temporairement du serveur pour 1 année.
+  timeout: 1487276530928

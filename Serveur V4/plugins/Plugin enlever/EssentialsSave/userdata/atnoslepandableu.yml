@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1455647412804
+  kits:
+    bouffe: 1455649179178
+    octonien: 1455649249276
+    decouverte: 1455631444056
+  lastteleport: 1455649288444
+  logout: 1455649419306
+  mute: 0
+  lastheal: 1455649316186
+ipAddress: 91.91.143.88
+lastlocation:
+  world: world
+  x: -72.06856017579823
+  y: 64.0
+  z: 281.9744714008292
+  yaw: -305.2364
+  pitch: 30.600044
+homes:
+  home:
+    world: world
+    x: 6436.075553884485
+    y: 39.0
+    z: -7407.036447292499
+    yaw: 132.70064
+    pitch: 16.650005
+logoutlocation:
+  world: world
+  x: -76.38671623874768
+  y: 83.0
+  z: 282.437869944294
+  yaw: -322.93127
+  pitch: 9.160789
+muted: false
+money: '6953.0'
+ignore:
+- modzlebuteuryt
+- xxxloic08xxx

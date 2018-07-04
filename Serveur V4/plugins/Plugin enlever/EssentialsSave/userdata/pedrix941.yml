@@ -1,0 +1,38 @@
+uuid: 0f882f89-6f10-3942-8895-78caa06f9146
+timestamps:
+  login: 1456575486587
+  kits:
+    bouffe: 1456574561145
+    octonien: 1456566136157
+    decouverte: 1456572352080
+  logout: 1456576200012
+  lastteleport: 1456573674078
+  lastheal: 1456381701427
+  mute: 0
+ipAddress: 90.39.236.52
+lastlocation:
+  world: world
+  x: 33.956308887118226
+  y: 60.0
+  z: -160.92791132130353
+  yaw: 8.459778
+  pitch: 37.949596
+homes:
+  home:
+    world: world
+    x: -5717.256101557055
+    y: 91.0
+    z: -1813.0667268527004
+    yaw: 186.53403
+    pitch: 43.05
+muted: false
+money: '2689.50'
+logoutlocation:
+  world: world
+  x: -5745.192649144546
+  y: 5.0
+  z: -1754.583361724305
+  yaw: 86.48212
+  pitch: 24.449995
+ignore:
+- papigruau

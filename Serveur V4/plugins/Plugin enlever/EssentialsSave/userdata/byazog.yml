@@ -1,0 +1,77 @@
+timestamps:
+  login: 1457072868829
+  logout: 1457073288780
+  kits:
+    bouffe: 1457072965932
+    heros: 1457072945035
+    octonien: 1457072934834
+    chevalier: 1457072901033
+    decouverte: 1457072969833
+    legendaire: 1457072957234
+  lastteleport: 1457072986929
+  lastheal: 1457035307064
+  mute: 0
+ipAddress: 90.1.38.113
+lastlocation:
+  world: world
+  x: 7704.699999988079
+  y: 5.0
+  z: -6315.71640118851
+  yaw: -287.8932
+  pitch: 60.75002
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 190.5
+  z: 0.5
+  yaw: -357.55096
+  pitch: 4.1978226
+socialspy: false
+homes:
+  lave:
+    world: world
+    x: 7704.699999988079
+    y: 5.0
+    z: -6316.821085237726
+    yaw: -214.39313
+    pitch: 38.100025
+  messa:
+    world: world
+    x: -1533.037772367754
+    y: 91.0
+    z: 3620.5440406419093
+    yaw: 63.66223
+    pitch: 41.7332
+  ap:
+    world: world
+    x: -29.5
+    y: 64.0
+    z: 283.5
+    yaw: 145.96213
+    pitch: 63.67205
+  mine:
+    world: world
+    x: 7350.300000011921
+    y: 5.0
+    z: -6307.300000011921
+    yaw: 86.23688
+    pitch: 32.150322
+  en:
+    world: world
+    x: 8502.699999988079
+    y: 72.0
+    z: 3481.772354972826
+    yaw: 202.59683
+    pitch: 45.194
+  bp:
+    world: world
+    x: 3159.5
+    y: 47.0
+    z: -3458.5
+    yaw: 20.276367
+    pitch: 4.4458146
+money: '568.445'
+uuid: f6814c73-3228-3302-b5f2-f6bd52b046f0
+ignore:
+- neyzer78
+muted: false

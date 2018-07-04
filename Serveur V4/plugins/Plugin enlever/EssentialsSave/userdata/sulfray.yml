@@ -1,0 +1,74 @@
+uuid: 5d82dc1d-5c55-32d0-9b3e-d884b3916543
+timestamps:
+  login: 1457299867308
+  logout: 1457300274404
+  lastteleport: 1457300256796
+  mute: 0
+  kits:
+    bouffe: 1457043914052
+    heros: 1457299677081
+    octonien: 1457181031140
+    legendaire: 1457288535335
+  lastheal: 1457300171954
+  jail: 0
+ipAddress: 79.89.151.32
+lastlocation:
+  world: world
+  x: 200.6920144215485
+  y: 64.0
+  z: 282.69999998807907
+  yaw: -213.75064
+  pitch: 7.925415
+logoutlocation:
+  world: world
+  x: 2.561595287164004
+  y: 188.0
+  z: 17.999621350126226
+  yaw: -2.8269958
+  pitch: 20.484577
+muted: false
+money: '7248.0'
+homes:
+  bp:
+    world: world
+    x: -5977.919993612623
+    y: 6.0
+    z: -3316.4885921848822
+    yaw: 94.744484
+    pitch: 11.869547
+  d:
+    world: world
+    x: -5976.000479959334
+    y: 63.0
+    z: -3309.822743492129
+    yaw: -255.93178
+    pitch: 12.78106
+  h:
+    world: world
+    x: -5986.258804234239
+    y: 254.0
+    z: -3304.7156699669454
+    yaw: -92.58988
+    pitch: 19.479904
+  t:
+    world: world
+    x: -5994.847848977625
+    y: 33.0
+    z: -3331.138645762223
+    yaw: 18.728668
+    pitch: 29.255484
+  berzek:
+    world: world
+    x: 6852.5
+    y: 139.0
+    z: 6019.5
+    yaw: 45.30359
+    pitch: 22.601788
+  pousse:
+    world: world
+    x: -5964.300000011921
+    y: 245.0
+    z: -3309.7953045936906
+    yaw: 127.13043
+    pitch: 37.46948
+jailed: false

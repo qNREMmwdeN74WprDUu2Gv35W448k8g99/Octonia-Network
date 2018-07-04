@@ -1,0 +1,23 @@
+uuid: c3aa701a-f001-397e-9fd9-9aafb77c8e69
+timestamps:
+  login: 1455825374623
+  lastteleport: 1455825399784
+  logout: 1455825416561
+ipAddress: 82.245.219.119
+lastlocation:
+  world: world
+  x: 15.678665393833807
+  y: 189.0
+  z: -15.606085269562472
+  yaw: 14.555328
+  pitch: 14.368042
+logoutlocation:
+  world: world
+  x: -2454.699999988079
+  y: 19.0
+  z: 1584.699999988079
+  yaw: -147.1617
+  pitch: 43.94446
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

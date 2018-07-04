@@ -1,0 +1,37 @@
+uuid: ddae1eaf-cf11-3a7d-930a-d6ed87cdb7f3
+timestamps:
+  login: 1457277015506
+  kits:
+    bouffe: 1457280653700
+    octonien: 1457280229095
+    decouverte: 1457284148945
+  lastteleport: 1457283521941
+  logout: 1457284172445
+  mute: 0
+  lastheal: 1457283710825
+ipAddress: 90.96.48.12
+lastlocation:
+  world: world
+  x: 1.1400549484932458
+  y: 190.0
+  z: 2.9971613984150407
+  yaw: -346.44473
+  pitch: 3.6739507
+logoutlocation:
+  world: world
+  x: -2055.6999999880795
+  y: 5.0
+  z: 8684.529899649491
+  yaw: 89.96643
+  pitch: 0.75645435
+homes:
+  home:
+    world: world
+    x: -2505.3472688620427
+    y: 43.0
+    z: 7772.462345851861
+    yaw: 203.56158
+    pitch: -1.1989017
+ignore:
+- royal_ghost
+muted: false

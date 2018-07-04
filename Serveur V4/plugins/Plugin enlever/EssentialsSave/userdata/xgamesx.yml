@@ -1,0 +1,39 @@
+timestamps:
+  login: 1457185565261
+  kits:
+    bouffe: 1455484185312
+    octonien: 1455807705258
+    druide: 1456670917928
+    xp: 1456670919648
+    decouverte: 1456670922697
+  logout: 1457185720567
+  lastteleport: 1456670231319
+  lastheal: 1456671732020
+ipAddress: 88.174.134.187
+lastlocation:
+  world: world
+  x: 71.89535244779795
+  y: 63.0
+  z: -283.46809478708036
+  yaw: 355.8197
+  pitch: -49.49996
+logoutlocation:
+  world: world
+  x: 7170.758685645218
+  y: 23.5
+  z: 3922.306407182922
+  yaw: 102.1568
+  pitch: -13.049993
+homes:
+  home:
+    world: world
+    x: 7162.853672099412
+    y: 12.0
+    z: 3916.2823189468168
+    yaw: -192.02014
+    pitch: 26.549889
+money: '7.0'
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+uuid: 120da4e0-509c-315a-8d01-fcbf92cb968c

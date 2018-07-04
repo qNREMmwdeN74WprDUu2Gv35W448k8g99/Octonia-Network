@@ -1,0 +1,35 @@
+timestamps:
+  login: 1455892608604
+  kits:
+    bouffe: 1455893324379
+    octonien: 1455893318853
+  logout: 1455893393958
+  lastteleport: 1455893143586
+ipAddress: 90.30.0.115
+lastlocation:
+  world: world
+  x: 3848.7656000316656
+  y: 4.0
+  z: -1414.699999988079
+  yaw: -230.14355
+  pitch: -66.75002
+money: '1.00'
+logoutlocation:
+  world: world
+  x: 3842.699999988079
+  y: 48.0
+  z: -1420.7919198972218
+  yaw: -259.3504
+  pitch: 30.59999
+homes:
+  home:
+    world: world
+    x: 5468.40206799521
+    y: 63.0
+    z: -4277.264064189996
+    yaw: -90.44653
+    pitch: 31.199974
+uuid: 0295f816-a425-3d9c-999c-f1c6abd34363
+ignore:
+- dragon_pvp
+- miithix_world

@@ -1,0 +1,34 @@
+uuid: 6bd9282c-731f-3a2b-b5e2-4c4bf75273f2
+timestamps:
+  login: 1456408480534
+  logout: 1456408498433
+  kits:
+    bouffe: 1456408371750
+    octonien: 1456407767706
+  lastteleport: 1456408432056
+ipAddress: 216.172.142.135
+lastlocation:
+  world: world
+  x: 543.8026712390131
+  y: 72.0
+  z: -488.2966997611213
+  yaw: 118.19336
+  pitch: 14.549954
+homes:
+  home:
+    world: world
+    x: 530.4919807210015
+    y: 72.0
+    z: -488.8396793528092
+    yaw: 98.393684
+    pitch: 44.23103
+logoutlocation:
+  world: world
+  x: 28.834729958105193
+  y: 22.919999986886978
+  z: 24.02409580336851
+  yaw: 40.9742
+  pitch: 10.243297
+ban:
+  reason: 'Banni : Cheat tu viendra sur teamspeak par worg31'
+  timeout: 0

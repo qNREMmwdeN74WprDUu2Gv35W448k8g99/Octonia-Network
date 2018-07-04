@@ -1,0 +1,34 @@
+uuid: 5099d8cf-8645-3226-85e3-b82220bc5fee
+timestamps:
+  login: 1456451078240
+  kits:
+    bouffe: 1456450081628
+    octonien: 1456446708885
+  logout: 1456451114541
+  lastteleport: 1456450483317
+ipAddress: 185.94.189.133
+lastlocation:
+  world: world
+  x: 2.52795686636431
+  y: 189.0
+  z: 12.498947235151924
+  yaw: -357.55096
+  pitch: 4.1978226
+logoutlocation:
+  world: world
+  x: -110.78418604029915
+  y: 29.0
+  z: 44.9015419431322
+  yaw: -98.59365
+  pitch: 4.3672414
+homes:
+  home:
+    world: world
+    x: -1835.4801589399967
+    y: 63.0
+    z: -300.50926064470684
+    yaw: 10.761113
+    pitch: 75.707596
+ban:
+  reason: 'Banni : Pseudo Invalide ?'
+  timeout: 0

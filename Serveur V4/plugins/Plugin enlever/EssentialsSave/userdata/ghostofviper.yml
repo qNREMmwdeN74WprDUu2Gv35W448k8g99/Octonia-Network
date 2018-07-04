@@ -1,0 +1,39 @@
+timestamps:
+  login: 1457293462384
+  kits:
+    bouffe: 1457293583958
+    octonien: 1457268466471
+    chevalier: 1457294942762
+    decouverte: 1457293587891
+  logout: 1457295895678
+  lastteleport: 1457295870447
+  lastheal: 1457295514099
+ipAddress: 109.12.50.251
+lastlocation:
+  world: world
+  x: 1814.0868731799217
+  y: 68.0
+  z: 9243.999928066762
+  yaw: -160.823
+  pitch: -19.483269
+logoutlocation:
+  world: world
+  x: 1818.2552442311637
+  y: 55.0
+  z: 9274.376048071877
+  yaw: -199.83096
+  pitch: 24.387396
+homes:
+  home:
+    world: world
+    x: 8216.51342147656
+    y: 12.0
+    z: 2873.846605512657
+    yaw: 244.85114
+    pitch: 10.492047
+money: '534.05'
+uuid: aa3833a3-c3f3-3bab-a8f5-052105f91fce
+ignore:
+- vz_nobody
+- sullyvan94
+- raytox

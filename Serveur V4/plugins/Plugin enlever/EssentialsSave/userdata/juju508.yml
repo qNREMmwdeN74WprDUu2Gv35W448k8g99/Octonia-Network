@@ -1,0 +1,44 @@
+socialspy: false
+timestamps:
+  login: 1455976312737
+  lastteleport: 1455978097830
+  kits:
+    bouffe: 1455977818608
+    octonien: 1455977817161
+    druide: 1455976449275
+    xp: 1455976456501
+    decouverte: 1455976453868
+    golden: 1455976390807
+  logout: 1455979823766
+  mute: 0
+  lastheal: 1455979319659
+ipAddress: 37.59.58.28
+lastlocation:
+  world: world
+  x: 1568.7941199226536
+  y: 42.0
+  z: -9314.97361524887
+  yaw: -264.0033
+  pitch: 19.049961
+logoutlocation:
+  world: world
+  x: -5190.69345774852
+  y: 25.0
+  z: 7858.70087123503
+  yaw: 217.0496
+  pitch: -85.95003
+muted: false
+homes:
+  home:
+    world: world
+    x: -5194.09591264763
+    y: 11.0
+    z: 7864.47713115843
+    yaw: 276.5875
+    pitch: 36.247192
+money: '16521.5'
+uuid: e6bb1a39-eaf9-35aa-aa25-f1d6f2257c52
+ban:
+  reason: 'Banni : Une plainte a été déposé à ton encontre, pour Vols et Usurpation
+    , Fait un poste forum'
+  timeout: 0

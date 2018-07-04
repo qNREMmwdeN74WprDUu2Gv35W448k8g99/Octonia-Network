@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1456559248574
+  lastteleport: 1456567379109
+  kits:
+    bouffe: 1456565530973
+    octonien: 1456559771625
+  logout: 1456567639985
+  mute: 0
+  lastheal: 1456567163430
+ipAddress: 37.58.147.244
+lastlocation:
+  world: world
+  x: 471.4663903527405
+  y: 5.0
+  z: 9710.07944059561
+  yaw: -285.776
+  pitch: 1.9500465
+homes:
+  home:
+    world: world
+    x: 463.76585372216334
+    y: 6.0
+    z: 9713.237500011921
+    yaw: 170.5252
+    pitch: 44.39993
+muted: false
+logoutlocation:
+  world: world
+  x: 3483.5455071595115
+  y: 65.0
+  z: -2845.400710823356
+  yaw: -30.794525
+  pitch: 8.249927
+uuid: 446cbd8b-6658-3d4a-857e-cc0c99d73f4c
+money: '1.5'
+ignore:
+- by_shadows
+- byrzk

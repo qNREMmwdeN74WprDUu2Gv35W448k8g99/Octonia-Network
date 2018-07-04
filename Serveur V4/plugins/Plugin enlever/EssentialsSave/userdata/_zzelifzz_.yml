@@ -1,0 +1,23 @@
+uuid: 81740ee6-3c27-34b0-beda-a4b9d1173381
+timestamps:
+  login: 1457187091407
+  kits:
+    bouffe: 1457187396500
+    octonien: 1457187143102
+  lastteleport: 1457187366382
+  logout: 1457188771873
+ipAddress: 2.5.57.136
+lastlocation:
+  world: world
+  x: 12.699999988079066
+  y: 189.0
+  z: 65.3010436936936
+  yaw: -256.7258
+  pitch: 1.6222107
+logoutlocation:
+  world: world
+  x: -2846.9089889657093
+  y: 65.0
+  z: -1982.9685168019644
+  yaw: -166.84155
+  pitch: 39.357635

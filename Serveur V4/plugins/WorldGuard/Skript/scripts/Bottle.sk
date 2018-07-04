@@ -1,0 +1,67 @@
+#============================================#
+#					     #
+#       XPBottle V1 | By ZewKay_	     #
+#					     #
+#============================================#
+
+options:
+	prefix: &8[&a&lOctoBottle&8]
+
+#============================================#
+#					     #
+# 	    Commande principale              #
+#					     #
+#============================================#
+
+
+command /octobottle:
+	trigger:
+		if {level.%player%.use} is true:
+			send "{@prefix} &cVeuillez d'abord utiliser cette bouteille avant d'en refaire une."
+			stop trigger
+		else:
+			set {level.%player%.use} to false
+		if player's level is greater than 0:
+			if {level.%player%.use} is false:
+				set {level.%player%.now} to player's level
+				set {level.%player%.use} to true
+				reduce the player's level by {level.%player%.now}
+				give player a experience bottle named "&6&lBouteille d'experience" with lore "&7Niveaux contenus: &9%{level.%player%.now}%"
+				send "{@prefix} &7Vous venez de stacker &e%{level.%player%.now}% &7niveaux&7."
+		else:
+			send "{@prefix} &cTu n'as pas d'experience � stacker."
+
+#============================================#
+#					     #
+# 	L'event "on right click"             #
+#					     #
+#============================================#
+
+on right click with experience bottle:
+	if player is holding a experience bottle named "&6&lBouteille d'experience" with lore "&7Niveaux contenus: &9%{level.%player%.now}%":
+		cancel event
+		set {level.%player%.use} to false
+		add {level.%player%.now} to the player's level
+		play raw sound "random.orb" at player with pitch 1 volume 10
+		remove 1 experience bottle named "&6&lBouteille d'experience" with lore "&7Niveaux contenus: &9%{level.%player%.now}%" from the player
+
+#============================================#
+#					     #
+# 	  Commande d'information             #
+#					     #
+#============================================#
+
+
+command /octobottlehelp:
+	trigger:
+		send ""
+		send "                    &6&l&o☰ OctoBottle By Razor ☰"
+		send ""
+		send "&e» &7/octobottle &f- Te permet de stacker ton experience."
+		send "&e» &7Information &f- Le plugin stack l'experience jusqu'a l'infini."
+		send "         &6Merci de rapporter tous bug à un administrateur."
+		send ""
+		stop trigger
+
+	
+ 

@@ -1,0 +1,53 @@
+timestamps:
+  login: 1455990651945
+  kits:
+    bouffe: 1455989471265
+    heros: 1455653889258
+    octonien: 1455610769054
+    chevalier: 1455654242539
+    legendaire: 1455989444694
+    construction: 1455653793025
+  lastteleport: 1455989553486
+  logout: 1455990695300
+  lastheal: 1455989577354
+ipAddress: 86.247.102.27
+lastlocation:
+  world: world
+  x: -30.481394235954617
+  y: 27.419999986886978
+  z: 143.25513558595065
+  yaw: -32.04901
+  pitch: 17.399601
+logoutlocation:
+  world: world
+  x: 1.5029505651658432
+  y: 189.5
+  z: 3.877450255187335
+  yaw: -155.7331
+  pitch: 15.079581
+homes:
+  home:
+    world: world
+    x: 3103.29969372676
+    y: 12.0
+    z: -1994.5969294658594
+    yaw: -139.64992
+    pitch: 25.04939
+  spawner:
+    world: world
+    x: 3131.9535195769686
+    y: 54.0
+    z: -1980.7680542202693
+    yaw: -172.30035
+    pitch: 34.949875
+  pillage:
+    world: world
+    x: 658.5980538369237
+    y: 3.0
+    z: 5389.300000011921
+    yaw: -136.53906
+    pitch: 28.04968
+money: '670.0'
+ignore:
+- mago95
+uuid: 25db8442-6197-31c0-945a-d05b004dc997

@@ -1,0 +1,65 @@
+octopoint: {}
+totem:
+  x: -205
+  y: 33
+  z: -227
+rushitem_1:
+  x: -152
+  y: 63
+  z: 122
+rushitem_2:
+  x: -148
+  y: 74
+  z: 111
+rushitem_3:
+  x: -154
+  y: 80
+  z: 122
+rushitem_4:
+  x: -148
+  y: 87
+  z: 131
+castle_war_door:
+  x: 177
+  y: 29
+  z: 242
+etage1:
+  x: 193
+  y: 29
+  z: 244
+etage2:
+  x: 200
+  y: 38
+  z: 273
+etage3:
+  x: 223
+  y: 65
+  z: 237
+etage4:
+  x: 200
+  y: 75
+  z: 277
+etage5:
+  x: 240
+  y: 78
+  z: 273
+door_1_1:
+  x: 217
+  y: 37
+  z: 248
+door_1_2:
+  x: 217
+  y: 37
+  z: 240
+door_2:
+  x: 233
+  y: 41
+  z: 270
+door_3:
+  x: 221
+  y: 64
+  z: 257
+door_4:
+  x: 216
+  y: 74
+  z: 277

@@ -1,0 +1,32 @@
+timestamps:
+  login: 1457193820405
+  logout: 1457193824489
+  kits:
+    bouffe: 1455273696148
+    octonien: 1455300052838
+  lastteleport: 1457190044525
+  lastheal: 1455302363256
+  mute: 0
+ipAddress: 86.204.6.70
+lastlocation:
+  world: world
+  x: 0.7333663748837336
+  y: 55.0
+  z: 33.93652335463595
+  yaw: -209.70758
+  pitch: 42.539043
+logoutlocation:
+  world: world
+  x: 21.69999998807906
+  y: 194.0
+  z: 42.8073298331431
+  yaw: -218.80142
+  pitch: 27.599964
+socialspy: false
+homes: {}
+money: '22.6'
+muted: false
+ignore:
+- skypvp
+- bebekonard53
+uuid: e5d2fbbf-7aa3-3467-a60f-ef07ca6078b1

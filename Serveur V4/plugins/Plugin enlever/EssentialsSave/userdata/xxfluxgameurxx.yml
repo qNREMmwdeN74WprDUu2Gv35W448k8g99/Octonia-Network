@@ -1,0 +1,22 @@
+timestamps:
+  login: 1455982471938
+  logout: 1455982569440
+ipAddress: 37.59.58.28
+lastlocation:
+  world: world
+  x: 3.5
+  y: 190.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 4.589278953200463
+  y: 188.0
+  z: -36.70019545585517
+  yaw: -37.962467
+  pitch: 18.330654
+uuid: d0cbf10d-176d-3050-bda8-31047f4deb6a
+ban:
+  reason: 'Banni : Arnaque PayeSafeCard TeamSpeak'
+  timeout: 0

@@ -1,0 +1,34 @@
+socialspy: false
+timestamps:
+  login: 1457026755336
+  logout: 1457026990403
+  kits:
+    bouffe: 1457026810882
+    octonien: 1456512961059
+  lastteleport: 1457026912386
+ipAddress: 90.39.3.204
+lastlocation:
+  world: world
+  x: 1.6724154446864716
+  y: 188.0
+  z: 26.48766566497912
+  yaw: -342.6032
+  pitch: 1.3804154
+logoutlocation:
+  world: world
+  x: -19.69999998807907
+  y: 188.0
+  z: 63.15070255995242
+  yaw: -3.254898
+  pitch: 11.587907
+uuid: 6a05112c-08f0-346e-8e2e-081e17aaa085
+ignore:
+- nl_noxiid
+homes:
+  home:
+    world: world
+    x: -3961.155996711822
+    y: 5.5
+    z: 379.9362492126059
+    yaw: -181.75674
+    pitch: 17.369463

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1457288742994
+  lastteleport: 1457288771325
+  kits:
+    bouffe: 1457286841136
+    octonien: 1457287358352
+    decouverte: 1457286870969
+  logout: 1457288917175
+  lastheal: 1457288773739
+  mute: 0
+ipAddress: 88.181.72.81
+lastlocation:
+  world: world
+  x: 1090.3105716854318
+  y: 34.0
+  z: -1931.3537662599888
+  yaw: -87.31735
+  pitch: -5.0438485
+homes:
+  home:
+    world: world
+    x: -255.19936925215436
+    y: 64.0
+    z: -257.6938064653452
+    yaw: 182.18298
+    pitch: 18.54491
+logoutlocation:
+  world: world
+  x: -1573.4505808999256
+  y: 20.0
+  z: 3616.968078796817
+  yaw: 205.84149
+  pitch: 20.80835
+money: '10608.50'
+uuid: b780839b-3914-359e-96c6-0c9a635c4be5
+muted: false
+ignore:
+- starjek

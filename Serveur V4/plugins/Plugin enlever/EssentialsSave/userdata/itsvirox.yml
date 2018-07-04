@@ -1,0 +1,51 @@
+socialspy: false
+timestamps:
+  login: 1457292172191
+  kits:
+    minerais: 1457295648977
+    bouffe: 1457187869199
+    octonien: 1457187925147
+    druide: 1457295229656
+    chevalier: 1456408338024
+    destruction: 1457204544746
+    xp: 1457292273451
+    decouverte: 1457292246396
+    legendaire: 1457292199736
+    construction: 1457295593754
+    alchimiste: 1457292211128
+    golden: 1457292212738
+  lastteleport: 1457295912624
+  logout: 1457295973255
+  lastheal: 1457295171314
+  mute: 0
+ipAddress: 89.84.182.232
+lastlocation:
+  world: world
+  x: 6016.075097492557
+  y: 5.0
+  z: -7532.04454595668
+  yaw: 333.9917
+  pitch: 1.6660687
+money: '389.60'
+homes:
+  home:
+    world: world
+    x: 6018.564505979246
+    y: 5.0
+    z: -7526.147813422993
+    yaw: 302.58414
+    pitch: 4.665393
+logoutlocation:
+  world: world
+  x: 2333.7411242863895
+  y: 5.0
+  z: -8720.427025497758
+  yaw: 232.7558
+  pitch: 39.89998
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+ignore:
+- playzerflo
+muted: false
+uuid: d1427137-e67c-3d31-a40c-df46240f0090

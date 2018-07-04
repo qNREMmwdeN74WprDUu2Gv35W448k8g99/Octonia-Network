@@ -1,0 +1,68 @@
+timestamps:
+  login: 1457293373052
+  kits:
+    bouffe: 1457288829995
+    heros: 1457277786088
+    octonien: 1457213896027
+    chevalier: 1457277817756
+    destruction: 1457277879619
+    legendaire: 1457293158926
+    alchimiste: 1457293039218
+  lastteleport: 1457293349734
+  logout: 1457293400386
+  lastheal: 1457293145890
+  mute: 0
+ipAddress: 109.129.106.45
+lastlocation:
+  world: world
+  x: -66.30000001192093
+  y: 7.888045790541633
+  z: -274.82393678462097
+  yaw: -237.047
+  pitch: 18.68007
+money: '3036.00'
+logoutlocation:
+  world: world
+  x: 7429.738103403698
+  y: 5.5
+  z: 199.63980973203164
+  yaw: -168.68185
+  pitch: 3.9996943
+homes:
+  farm:
+    world: world
+    x: 9809.876565762297
+    y: 219.0
+    z: 1583.5172404837795
+    yaw: -266.64172
+    pitch: 14.929033
+  farm2:
+    world: world
+    x: 9153.037345364048
+    y: 45.0
+    z: -3410.984877158072
+    yaw: -336.81207
+    pitch: 19.661612
+  0riginz:
+    world: world
+    x: 9152.43113488794
+    y: 62.0
+    z: -3414.2221795937485
+    yaw: -316.95197
+    pitch: -0.7781134
+  spawn0ri:
+    world: world
+    x: 9153.322689198285
+    y: 5.0
+    z: -3407.6248751238413
+    yaw: -292.45682
+    pitch: 36.163315
+  skybase:
+    world: world
+    x: 9173.453999985422
+    y: 253.875
+    z: -1599.986542285663
+    yaw: 4.065379
+    pitch: 27.749928
+uuid: eadade5f-c0ef-3217-ae8b-3f007d0bcc35
+muted: false

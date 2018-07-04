@@ -1,0 +1,69 @@
+socialspy: false
+timestamps:
+  login: 1457260789779
+  logout: 1457260803727
+  lastteleport: 1457174306610
+  kits:
+    bouffe: 1457131988769
+    heros: 1457166863926
+    octonien: 1457014591734
+    chevalier: 1457166872749
+    decouverte: 1457166954146
+    legendaire: 1457260796620
+    alchimiste: 1457166967393
+  lastheal: 1457175472057
+  mute: 0
+ipAddress: 83.201.116.175
+lastlocation:
+  world: world
+  x: -4190.5
+  y: 6.0
+  z: -1921.5
+  yaw: 186.4694
+  pitch: 3.4271927
+logoutlocation:
+  world: world
+  x: -2332.700675709536
+  y: 13.0
+  z: -4133.801116989807
+  yaw: 175.25995
+  pitch: 17.520006
+homes:
+  sable:
+    world: world
+    x: -3278.6746173112488
+    y: 63.0
+    z: -6795.286561261114
+    yaw: -177.56151
+    pitch: 4.915201
+  bp:
+    world: world
+    x: -2335.729703501458
+    y: 71.0
+    z: -4145.804054141248
+    yaw: 11.634466
+    pitch: -34.108814
+  bpenbas:
+    world: world
+    x: -2328.0295330369236
+    y: 7.0
+    z: -4137.2357123466445
+    yaw: -354.12292
+    pitch: 40.25281
+  sdf:
+    world: world
+    x: 7630.699999988079
+    y: 4.0
+    z: -1771.4517671645121
+    yaw: 42.411892
+    pitch: 12.018637
+  skylegend:
+    world: world
+    x: -625.5
+    y: 68.0
+    z: -5648.5
+    yaw: 358.0302
+    pitch: -70.794945
+money: '0.400'
+uuid: 5afd67ab-9e49-36f4-8257-7a6a835bbc9d
+muted: false

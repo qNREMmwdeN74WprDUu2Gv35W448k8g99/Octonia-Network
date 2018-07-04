@@ -1,0 +1,39 @@
+uuid: a1cae762-d805-30eb-8b8c-a087c9fdba90
+timestamps:
+  login: 1457285434551
+  lastteleport: 1457295914821
+  logout: 1457295923192
+  kits:
+    bouffe: 1457293024981
+    octonien: 1457285544872
+    decouverte: 1457293565102
+  lastheal: 1457295565705
+  mute: 0
+ipAddress: 78.247.81.18
+lastlocation:
+  world: world
+  x: 1540.3225810753388
+  y: 35.0
+  z: -7400.509664208397
+  yaw: -226.64046
+  pitch: 46.050014
+logoutlocation:
+  world: world
+  x: 985.5
+  y: 7.0
+  z: 1142.5
+  yaw: -123.417046
+  pitch: 52.736347
+homes:
+  home:
+    world: world
+    x: 1540.5
+    y: 35.0
+    z: -7401.5
+    yaw: -252.59138
+    pitch: -18.900017
+money: '8076.25'
+muted: false
+ignore:
+- daros18
+- missfrite

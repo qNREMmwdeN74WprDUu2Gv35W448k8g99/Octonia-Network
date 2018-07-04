@@ -1,0 +1,75 @@
+uuid: c69488e2-7f8e-33fe-9e50-c333f50c042a
+timestamps:
+  login: 1457280001674
+  kits:
+    heros: 1457276391556
+    bouffe: 1456559181312
+    octonien: 1457280658331
+    chevalier: 1457276410843
+    destruction: 1457282645042
+    legendaire: 1457276374908
+    alchimiste: 1457280761813
+  lastteleport: 1457283191671
+  logout: 1457283404782
+  lastheal: 1457283361662
+  mute: 0
+ipAddress: 154.67.44.231
+lastlocation:
+  world: world
+  x: 3699.3170211429806
+  y: 63.0
+  z: 4988.293990071646
+  yaw: -87.01833
+  pitch: 7.2516403
+homes:
+  home:
+    world: world
+    x: 5200.931619637044
+    y: 64.5
+    z: 1980.7492276196424
+    yaw: 265.51437
+    pitch: 7.9498982
+  sky:
+    world: world
+    x: 3856.5786288740933
+    y: 252.875
+    z: -3573.5257528972993
+    yaw: 182.2106
+    pitch: 77.54962
+  pillage2:
+    world: world
+    x: 6459.836842874628
+    y: 22.0
+    z: -7278.817716696068
+    yaw: -77.22717
+    pitch: 50.25005
+  biib:
+    world: world
+    x: 6267.21563797428
+    y: 5.0
+    z: -7028.695375398002
+    yaw: -242.88403
+    pitch: 15.749916
+  rebornv2:
+    world: world
+    x: 6784.5
+    y: 18.0
+    z: -6728.5
+    yaw: -174.78484
+    pitch: 4.3498883
+  falling:
+    world: world
+    x: 6799.638326182581
+    y: 6.0
+    z: -6227.991486013125
+    yaw: -172.66612
+    pitch: -86.70008
+logoutlocation:
+  world: world
+  x: 5219.5104907912055
+  y: 65.28502770378924
+  z: 1986.6376929975984
+  yaw: 351.01422
+  pitch: 6.599897
+money: '122.0'
+muted: false

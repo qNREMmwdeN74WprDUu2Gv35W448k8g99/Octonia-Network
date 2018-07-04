@@ -1,0 +1,10 @@
+# Here you have to specify a list of whitelisted ips.
+# Note that you do not need to specify bungee IPs here.
+# Those are automatically imported from your bukkit.yml.
+# Set them there if you didn't already.
+Message: '&c&p, you are not whitelisted on this server!'
+whitelist:
+- 164.132.203.88
+playerKickMessage: '&cVous devez passer par nos serveurs.'
+debug: true
+setup: false

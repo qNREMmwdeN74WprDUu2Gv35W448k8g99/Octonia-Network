@@ -1,0 +1,26 @@
+uuid: 09739ef5-8fcb-311a-ba7a-fc5291639248
+timestamps:
+  login: 1456102493094
+  kits:
+    bouffe: 1456102592900
+    octonien: 1456102572999
+  lastteleport: 1456102871794
+  logout: 1456103256094
+ipAddress: 92.139.111.209
+lastlocation:
+  world: world
+  x: 3336.383310287822
+  y: 9.0
+  z: -9173.344082560603
+  yaw: -227.6858
+  pitch: 23.2558
+logoutlocation:
+  world: world
+  x: 55.248031983675304
+  y: 200.0
+  z: 43.52090565321801
+  yaw: 83.24525
+  pitch: 43.169506
+ban:
+  reason: 'Banni : Double compte'
+  timeout: 0

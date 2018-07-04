@@ -1,0 +1,34 @@
+uuid: baaba8a0-4a92-3024-a9c5-7435c45f2cc4
+timestamps:
+  login: 1457293250917
+  kits:
+    bouffe: 1457296011318
+    octonien: 1457276552305
+  lastteleport: 1457296676764
+  logout: 1457296791366
+ipAddress: 92.152.180.170
+lastlocation:
+  world: world
+  x: 191.60043628132814
+  y: 29.0
+  z: 31.41708037999898
+  yaw: -220.1551
+  pitch: 10.15323
+homes:
+  home:
+    world: world
+    x: 5767.390152938361
+    y: 8.5
+    z: 7835.8643729956975
+    yaw: 80.891846
+    pitch: -3.5580034
+money: '124.0'
+logoutlocation:
+  world: world
+  x: 3788.587852270243
+  y: 11.0
+  z: 8559.787491517705
+  yaw: 245.52084
+  pitch: -18.651196
+ignore:
+- ohhkearz

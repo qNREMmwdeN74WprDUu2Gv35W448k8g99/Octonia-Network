@@ -1,0 +1,44 @@
+language: EN
+blockedWorlds:
+- world_the_end
+- world_nether
+date:
+  time: 00:00
+  month: 12
+  year: 2017
+economy:
+  vault: false
+  points: false
+database:
+  type: FILE
+  user: name
+  host: ip
+  database: db
+  password: password
+multipleChoice: true
+GUIItems:
+  empty:
+    itemID: 160
+    dataID: 15
+  window:
+    opened:
+      itemID: 644
+      dataID: 0
+      skullOwner: Hannah4848
+    closed:
+      itemID: 35
+      dataID: 5
+      skullOwner: SeerPotion
+  presents:
+    '0':
+      itemID: 1293
+      dataID: 0
+      skullOwner: MHF_Present1
+    '1':
+      itemID: 1293
+      dataID: 0
+      skullOwner: MHF_Present2
+    '2':
+      itemID: 1293
+      dataID: 0
+      skullOwner: SeerPotion

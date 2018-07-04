@@ -1,0 +1,545 @@
+rewards:
+    1:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 495 3"
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 495 3" 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 495 3" # Cadeau 1 
+    2:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 322 5"
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 322 5"
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 322 5" # Cadeau 2
+    3:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 839 1"
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 839 1"
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 839 1" # Cadeau 3
+    4:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "kit Explorateur {player}" 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "kit Explorateur {player}" 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "kit Explorateur {player}" # Cadeau 4               
+    5:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 205 1"
+                - "give {player} 638 8"
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 205 1"   
+                - "give {player} 638 8"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 205 1" # Cadeau 5   
+                - "give {player} 638 8"                
+    6:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 672 32"               
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 672 32"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 672 32"  #Cadeau 6           
+    7:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 659 64" 
+                - "give {player} 660 64"                 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 659 64" 
+                - "give {player} 660 64"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 659 64" 
+                - "give {player} 660 64"  # Cadeau 7              
+    8:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 800 3"                 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 800 3"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 800 3" # Cadeau 8                
+    9:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 492 1"                 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 492 1"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 492 1"  # Cadeau 9              
+    10:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 930 1"                
+                - "give {player} 813 1"               
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 930 1"                
+                - "give {player} 813 1"                  
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 930 1"                
+                - "give {player} 813 1"  # Cadeau 10                
+    11:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 931 1" 
+                - "give {player} 322:1 1"                 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 931 1" 
+                - "give {player} 322:1 1"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 931 1" 
+                - "give {player} 322:1 1" # Cadeau 11                
+    12:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 206 7" 
+                - "give {player} 932 1"                 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 206 7" 
+                - "give {player} 932 1"                  
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 206 7" 
+                - "give {player} 932 1"  # Cadeau 12                
+    13:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 554 1"                
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 554 1"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 554 1" # Cadeau 13                
+    14:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 814 1"                 
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 814 1"                  
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 814 1"  # Cadeau 14                
+    15:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 46 32"                
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 860 1"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 611 8" # Cadeau 15               
+    16:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list:
+                - "give {player} 804 1" 
+              
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 499 3"                    
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 498 5"    #16              
+    17:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 46 64"   
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "kit News {player}"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 987 64"     #17           
+    18:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 829 1"
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 830 1"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 807 1"    #18            
+    19:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 804 1"                   
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 824 5"                 
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 499 3"                
+    20:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 645 1"                   
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 499 4"                  
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 1294 64"                 
+    21:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 552 1"                  
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 207 12"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 806 1"                
+    22:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 206 15"                
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 837 1"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 207 32"                
+    23:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 499 16"                
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 848 1"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 857 1"                
+    24:
+        0:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 807 1"                
+        1:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 911 1"                
+        2:
+            MONEY: 0
+            POINT: 0
+            COMMAND:
+                enable: true
+                list: 
+                - "give {player} 845 1"

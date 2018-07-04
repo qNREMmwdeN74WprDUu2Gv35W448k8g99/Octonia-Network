@@ -1,0 +1,42 @@
+timestamps:
+  login: 1456922938076
+  kits:
+    heros: 1455895372522
+    bouffe: 1456610664929
+    octonien: 1455895375592
+    chevalier: 1455895379127
+  logout: 1456922995864
+  lastteleport: 1456669567608
+  lastheal: 1455419621610
+ipAddress: 94.225.166.184
+lastlocation:
+  world: world
+  x: 25.98281249316921
+  y: 190.0
+  z: -65.72636029115012
+  yaw: -80.20099
+  pitch: 31.197823
+homes:
+  pillage:
+    world: world
+    x: 3135.7290592724894
+    y: 13.0
+    z: 349.6792883858503
+    yaw: 93.61658
+    pitch: 13.500007
+  bp:
+    world: world
+    x: 6411.699999988079
+    y: 5.0
+    z: 1862.699999988079
+    yaw: 141.89865
+    pitch: 10.500201
+money: '703.5'
+logoutlocation:
+  world: world
+  x: 6403.192744064626
+  y: 5.0
+  z: 1858.433085908687
+  yaw: 88.39656
+  pitch: 19.799946
+uuid: 6b9e962f-3b83-330b-b177-cc5d3458bbae

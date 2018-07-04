@@ -1,0 +1,81 @@
+uuid: be0a3c60-bfbf-34cc-94a6-51b31dcd330f
+timestamps:
+  login: 1457334558358
+  kits:
+    bouffe: 1457293261105
+    heros: 1457335619774
+    minerais: 1457335120211
+    octonien: 1457286355456
+    chevalier: 1457335603274
+    destruction: 1457335058212
+    decouverte: 1457334835012
+    legendaire: 1457334903011
+    construction: 1457287417997
+    alchimiste: 1457335077313
+    golden: 1457334685911
+  lastteleport: 1457335047608
+  logout: 1457335716675
+  lastheal: 1457334982011
+  mute: 0
+  jail: 0
+ipAddress: 92.136.51.199
+lastlocation:
+  world: world
+  x: -280.42019511427077
+  y: 5.0
+  z: -283.30000001192093
+  yaw: 97.52444
+  pitch: 24.885975
+logoutlocation:
+  world: world
+  x: -9700.306757704513
+  y: 6.875
+  z: 136.30000001192093
+  yaw: 2.0491943
+  pitch: 20.699888
+homes:
+  haut:
+    world: world
+    x: -9717.217239628773
+    y: 255.0
+    z: 376.780879144638
+    yaw: -262.50366
+    pitch: 69.600006
+  bb:
+    world: world
+    x: -8215.745175768874
+    y: 65.0
+    z: -3976.5707107721637
+    yaw: -269.9974
+    pitch: 24.600039
+  dodo:
+    world: world
+    x: 3417.452647312372
+    y: 5.0
+    z: -2819.6468057172833
+    yaw: 183.86821
+    pitch: 13.800106
+  fhome:
+    world: world
+    x: -9885.554802119312
+    y: 64.0
+    z: 1501.699999988079
+    yaw: 210.1533
+    pitch: 15.174506
+  farmdodo:
+    world: world
+    x: 3477.300000011921
+    y: 64.0
+    z: -2837.300000011921
+    yaw: 228.32288
+    pitch: 11.850124
+  lord:
+    world: world
+    x: 2849.887158692218
+    y: 28.0
+    z: -6346.459306299932
+    yaw: 347.14493
+    pitch: 10.349953
+money: '11778.21'
+muted: false
+jailed: false

@@ -1,0 +1,28 @@
+uuid: 27612578-3455-3810-a933-d195bbdbe90e
+timestamps:
+  login: 1456063907538
+  kits:
+    bouffe: 1456064386240
+    octonien: 1456063987599
+  lastteleport: 1456064294569
+  mute: 0
+  logout: 1456064631288
+ipAddress: 37.59.58.28
+lastlocation:
+  world: world
+  x: 18.35843826351696
+  y: 156.0
+  z: 5.107579793880232
+  yaw: -108.53678
+  pitch: 77.24999
+muted: true
+logoutlocation:
+  world: world
+  x: 50.29974784361994
+  y: 25.0
+  z: -5.298921889116885
+  yaw: -216.729
+  pitch: 26.972933
+ban:
+  reason: Banni temporairement du serveur pour 30 minutes.
+  timeout: 1456066431936

@@ -1,0 +1,5 @@
+NAME: '§cStatTrack§0: §b'
+STATTRACK_ENTITIES:
+- PLAYER
+- ZOMBIE
+- SKELETON

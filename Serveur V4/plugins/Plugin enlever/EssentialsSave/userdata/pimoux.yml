@@ -1,0 +1,25 @@
+uuid: e4357c8c-aead-3685-a663-08587d1a594b
+timestamps:
+  login: 1456149082735
+  lastteleport: 1456149171784
+  kits:
+    bouffe: 1456136761346
+    octonien: 1456136757785
+  logout: 1456149433483
+ipAddress: 83.193.138.159
+lastlocation:
+  world: world
+  x: 5829.192992122712
+  y: 6.0
+  z: 2998.6396891556574
+  yaw: -92.697044
+  pitch: 20.249895
+ignore:
+- azenpvp
+logoutlocation:
+  world: world
+  x: -27.20399940578088
+  y: 207.0
+  z: -37.41902123267759
+  yaw: -91.78247
+  pitch: 35.281578

@@ -1,0 +1,56 @@
+timestamps:
+  login: 1457097672619
+  kits:
+    bouffe: 1456570219769
+    heros: 1457099076564
+    octonien: 1456414518355
+    chevalier: 1457099071263
+    xp: 1457099087615
+    decouverte: 1457099084816
+    legendaire: 1457098005834
+    golden: 1457098276453
+    alchimiste: 1457099095984
+  logout: 1457099161207
+  lastteleport: 1457099134507
+  lastheal: 1456571718518
+ipAddress: 5.50.101.232
+lastlocation:
+  world: world
+  x: -8216.699999988079
+  y: 68.0
+  z: -3976.300000011921
+  yaw: -105.90274
+  pitch: 12.600006
+homes:
+  spawner:
+    world: world
+    x: 375.450401368582
+    y: 7.5
+    z: 7644.082222630398
+    yaw: -56.661194
+    pitch: 20.55004
+  bp:
+    world: world
+    x: 2732.7616681071445
+    y: 35.0
+    z: 9544.699999988079
+    yaw: -129.00017
+    pitch: 28.350027
+  sky:
+    world: world
+    x: 2743.300000011921
+    y: 253.875
+    z: 9586.699999988079
+    yaw: -78.45001
+    pitch: 24.449972
+logoutlocation:
+  world: world
+  x: 0.6870064056140209
+  y: 189.5
+  z: 4.219965146241073
+  yaw: -237.40105
+  pitch: 7.4978223
+money: '1559.9'
+uuid: 88da10bf-aba4-3c36-b999-974232d6fcf6
+ignore:
+- thedarknessg0d

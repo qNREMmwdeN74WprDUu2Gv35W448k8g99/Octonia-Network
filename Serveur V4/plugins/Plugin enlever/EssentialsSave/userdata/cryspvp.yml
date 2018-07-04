@@ -1,0 +1,49 @@
+uuid: 48b48a4e-c761-3d87-836a-3ae045cd997d
+timestamps:
+  login: 1457330476767
+  kits:
+    heros: 1457015947172
+    bouffe: 1457294373777
+    octonien: 1457292814975
+    druide: 1457261450724
+    chevalier: 1457204170632
+    destruction: 1457330511936
+    xp: 1457263254173
+    decouverte: 1457331144634
+    construction: 1457330946933
+    legendaire: 1457331458874
+    golden: 1457294053855
+  logout: 1457332281624
+  lastteleport: 1457331929823
+  lastheal: 1457331821558
+  jail: 0
+  mute: 0
+ipAddress: 90.29.161.161
+lastlocation:
+  world: world
+  x: -5658.756957406887
+  y: 73.0
+  z: -7014.699999988079
+  yaw: 314.51465
+  pitch: 5.100008
+homes:
+  home:
+    world: world
+    x: 8304.826266424034
+    y: 63.0
+    z: -4342.060517798372
+    yaw: -147.02914
+    pitch: 38.999954
+logoutlocation:
+  world: world
+  x: 8312.512206873695
+  y: 63.0
+  z: -4346.047317646879
+  yaw: 24.870575
+  pitch: -6.300004
+money: '130.0'
+jailed: false
+muted: false
+ignore:
+- actimeal
+- byyipcas

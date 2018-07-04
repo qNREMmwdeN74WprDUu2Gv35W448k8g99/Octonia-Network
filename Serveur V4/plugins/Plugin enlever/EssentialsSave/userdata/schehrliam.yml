@@ -1,0 +1,73 @@
+timestamps:
+  login: 1457281827963
+  kits:
+    heros: 1457257445769
+    bouffe: 1457198894878
+    octonien: 1457216914819
+    chevalier: 1457210055524
+    decouverte: 1457258033185
+    xp: 1457263340482
+    legendaire: 1457283319934
+  lastteleport: 1457287072665
+  logout: 1457287995840
+  lastheal: 1457287566959
+ipAddress: 83.155.93.58
+lastlocation:
+  world: world
+  x: 7447.713552239061
+  y: 249.875
+  z: 1571.2261414360523
+  yaw: 10.341949
+  pitch: 8.100002
+homes:
+  minage:
+    world: world
+    x: 9712.864302057935
+    y: 5.0
+    z: -1595.699999988079
+    yaw: 354.30072
+    pitch: 23.699987
+  bp:
+    world: world
+    x: 8204.699999988079
+    y: 5.5
+    z: 1520.699999988079
+    yaw: 139.04626
+    pitch: 15.0
+  spawneur:
+    world: world
+    x: 9670.300000011921
+    y: 19.0
+    z: 1689.699999988079
+    yaw: -137.10388
+    pitch: 16.848566
+  pillage:
+    world: world
+    x: 5214.379479051137
+    y: 12.0
+    z: -3441.300000011921
+    yaw: -148.13596
+    pitch: 13.800009
+  farm:
+    world: world
+    x: 8833.300000011921
+    y: 6.5
+    z: 1925.6996892915422
+    yaw: -83.76987
+    pitch: 9.755363
+  sky:
+    world: world
+    x: 7451.465520338854
+    y: 249.875
+    z: 1570.1536104471818
+    yaw: 355.19196
+    pitch: 23.786366
+logoutlocation:
+  world: world
+  x: 6967.699999988079
+  y: 5.875
+  z: 4220.574999988079
+  yaw: 102.69983
+  pitch: 26.100012
+money: '209.0'
+uuid: 518701c5-333f-3c89-972d-5763a286d1e8

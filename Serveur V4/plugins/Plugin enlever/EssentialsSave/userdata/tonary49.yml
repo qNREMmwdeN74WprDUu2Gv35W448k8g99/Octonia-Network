@@ -1,0 +1,35 @@
+uuid: 9026b0e5-86f8-3f27-b865-20767a7f6f38
+timestamps:
+  login: 1456140688585
+  kits:
+    bouffe: 1456142715593
+    octonien: 1456128937010
+  logout: 1456144897391
+  lastteleport: 1456144326041
+ipAddress: 176.149.161.115
+lastlocation:
+  world: world
+  x: 281.98427289472477
+  y: 5.0
+  z: 238.30000001192093
+  yaw: 273.99194
+  pitch: -5.9999824
+homes:
+  home:
+    world: world
+    x: 1201.5
+    y: 253.0
+    z: 675.5
+    yaw: 79.81082
+    pitch: 0.9000171
+logoutlocation:
+  world: world
+  x: -1.0035579813920363
+  y: 190.5
+  z: -0.5728212856755945
+  yaw: -245.44917
+  pitch: 32.607735
+money: '1276.0'
+ban:
+  reason: 'Banni : tp kill ^^'
+  timeout: 0

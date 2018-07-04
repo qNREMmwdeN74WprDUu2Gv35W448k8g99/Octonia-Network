@@ -1,0 +1,21 @@
+# Enable or disable different modules of CompilexPatches.
+patches:
+  async_spigot: false
+  anti_redstone_lag: false
+  anti_piston_lag: false
+  limit_water_flow: false
+  bulk_saving: false
+  chunk_gc: true
+  chunk_load_flush: true
+  entity_cleaner: false
+  world_tick_optimizer: true
+language: []
+settings:
+  redstone_event_threshold: 5000
+  max_pistons_per_chunk: 200
+  limit_water_flow:
+    block-flow-per-tick: 80
+    limit-mob-spawn: false
+entity_cleaner: false
+chunk_gc: true
+async_spigotasync_spigot: true

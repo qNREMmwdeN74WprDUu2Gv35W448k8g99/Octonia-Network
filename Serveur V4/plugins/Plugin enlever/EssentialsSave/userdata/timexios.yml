@@ -1,0 +1,86 @@
+timestamps:
+  login: 1457278979528
+  kits:
+    bouffe: 1456555976561
+    minerais: 1457259220706
+    heros: 1457279487749
+    octonien: 1457256813272
+    druide: 1455966669228
+    chevalier: 1457279520926
+    destruction: 1457139763988
+    decouverte: 1457258036727
+    xp: 1457259217508
+    legendaire: 1457282415139
+    construction: 1457281301598
+    alchimiste: 1457218420628
+  logout: 1457283510637
+  lastteleport: 1457283497906
+  lastheal: 1457283488717
+  jail: 0
+  mute: 0
+ipAddress: 175.158.166.99
+lastlocation:
+  world: world
+  x: -9402.188813828268
+  y: 84.0
+  z: -3373.3078493429034
+  yaw: 171.54858
+  pitch: 24.449955
+homes:
+  bp:
+    world: world
+    x: 2583.1649500986814
+    y: 20.0
+    z: -829.7392534035151
+    yaw: 49.800724
+    pitch: 11.550017
+  mob:
+    world: world
+    x: 362.5566450766839
+    y: 94.0
+    z: -4465.316470972262
+    yaw: 5.278761
+    pitch: -16.18796
+  champignon:
+    world: world
+    x: -3843.9743279911736
+    y: 63.0
+    z: -6686.408635360627
+    yaw: 86.10986
+    pitch: 32.699924
+  sable:
+    world: world
+    x: -1553.557085527322
+    y: 72.0
+    z: -7257.174573843221
+    yaw: 348.14984
+    pitch: 17.550005
+  pillage:
+    world: world
+    x: -3320.56170352935
+    y: 47.28896566731252
+    z: 1189.425000011921
+    yaw: 359.05298
+    pitch: 84.89999
+  mistere:
+    world: world
+    x: 2800.1741031475644
+    y: 92.0
+    z: -2416.788787456461
+    yaw: 8.399475
+    pitch: 54.15
+logoutlocation:
+  world: world
+  x: -1551.9523655324767
+  y: 72.0
+  z: -7267.699999988079
+  yaw: 54.599606
+  pitch: 20.400003
+money: '81957.185'
+ignore:
+- gheralgal
+- thekiller8357
+- tembomax
+uuid: 9f9e28ce-a012-3834-b069-136f56d7fbee
+jailed: false
+muted: false

@@ -1,0 +1,42 @@
+timestamps:
+  login: 1457266751245
+  kits:
+    bouffe: 1457266894484
+    octonien: 1457267001029
+    decouverte: 1457267366492
+  lastteleport: 1457267923384
+  logout: 1457268768988
+  lastheal: 1457268391856
+  mute: 0
+  jail: 0
+ipAddress: 91.68.182.87
+lastlocation:
+  world: world
+  x: -77.67923268629238
+  y: 5.0
+  z: -276.69999998807907
+  yaw: -84.17321
+  pitch: -46.04729
+logoutlocation:
+  world: world
+  x: -74.19397090878063
+  y: 74.0
+  z: -294.60483177134614
+  yaw: -346.66577
+  pitch: 28.650007
+homes:
+  home:
+    world: world
+    x: -6648.523362278077
+    y: 65.875
+    z: 2457.9878494382956
+    yaw: 179.55037
+    pitch: 58.950016
+money: '86.030'
+ignore:
+- alexandre
+- marseillekalash
+- lightofnight_
+muted: false
+uuid: b58c8f90-9323-3a68-98a9-9eb2994476fc
+jailed: false

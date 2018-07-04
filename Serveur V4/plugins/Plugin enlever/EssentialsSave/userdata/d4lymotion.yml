@@ -1,0 +1,50 @@
+timestamps:
+  login: 1456846280276
+  kits:
+    bouffe: 1456772760467
+    minerais: 1456842074493
+    octonien: 1456763597456
+    chevalier: 1456842038084
+    decouverte: 1456842143302
+    golden: 1456842096683
+    alchimiste: 1456841996564
+  lastteleport: 1456846411787
+  logout: 1456846562387
+  lastheal: 1456846525107
+  mute: 0
+ipAddress: 212.198.127.29
+lastlocation:
+  world: world
+  x: 0.24220116936484656
+  y: 189.0
+  z: -21.7563644278857
+  yaw: -145.30093
+  pitch: 22.199997
+homes:
+  a:
+    world: world
+    x: -6633.021537185789
+    y: 4.0
+    z: 1431.6353605345134
+    yaw: 78.05702
+    pitch: 16.649967
+  bp:
+    world: world
+    x: -8866.300118396168
+    y: 8.0
+    z: -1270.8073495431827
+    yaw: -270.10535
+    pitch: 7.7999883
+logoutlocation:
+  world: world
+  x: -8640.384638166426
+  y: 22.0
+  z: -902.3000000119209
+  yaw: 100.60505
+  pitch: 21.299973
+uuid: f1515e6c-f8c7-3892-9cba-d97d20484b15
+money: '2379.265'
+muted: false
+ban:
+  reason: "Banni : Cheat \n Vient TS"
+  timeout: 0

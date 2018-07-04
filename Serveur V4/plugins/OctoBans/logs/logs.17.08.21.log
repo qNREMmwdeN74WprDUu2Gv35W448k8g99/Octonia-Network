@@ -1,0 +1,634 @@
+21-08-17 22:31:44 [INFO] [OctoBans] File Handler successfully initialized!
+21-08-17 22:31:44 [INFO] [OctoBans] SQL connection successfully etablished
+21-08-17 22:31:44 [INFO] [OctoBans] Moderator Tools by Octonia.
+21-08-17 22:31:50 [INFO] [OctoBans] guillaume02823 sql checked, record: provocation by Ceraiste to 1503348639
+21-08-17 22:31:50 [INFO] [OctoBans] pepsicoca sql checked, record: spammp by Steph078 to -1
+21-08-17 22:31:50 [INFO] [OctoBans] pepsicoca sql checked, record: incitationflood by The_Frusty to 1503353568
+21-08-17 22:31:50 [INFO] [OctoBans] hugiix sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:31:50 [INFO] [OctoBans] hugiix sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:31:50 [INFO] [OctoBans] hugiix sql checked, record: floodmp by Forway to -1
+21-08-17 22:31:50 [INFO] [OctoBans] hugiix sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:31:50 [INFO] [OctoBans] hugiix sql checked, record: floodmp by Forway to -1
+21-08-17 22:31:50 [INFO] [OctoBans] hugiix sql checked, record: floodmp by Forway to -1
+21-08-17 22:31:50 [INFO] [OctoBans] xxrandomxx sql checked, record: spammp by SmooKeur to -1
+21-08-17 22:31:50 [INFO] [OctoBans] adiix32yt sql checked, record: spammp by Remil to -1
+21-08-17 22:31:50 [INFO] [OctoBans] adiix32yt sql checked, record: majuscule by Remil to 1503350289
+21-08-17 22:31:50 [INFO] [OctoBans] azbanzeur sql checked, record: insultegrave by Shainko to 1503367961
+21-08-17 22:32:02 [INFO] [OctoBans] weetiix sql checked, record: spammp by SmooKeur to -1
+21-08-17 22:32:02 [INFO] [OctoBans] weetiix sql checked, record: spammp by SmooKeur to -1
+21-08-17 22:32:03 [INFO] [OctoBans] instateproofy sql checked, record: spammp by Remil to -1
+21-08-17 22:32:03 [INFO] [OctoBans] instateproofy sql checked, record: spammp by Remil to -1
+21-08-17 22:32:03 [INFO] [OctoBans] instateproofy sql checked, record: spammp by Remil to -1
+21-08-17 22:32:06 [INFO] [OctoBans] kyzirie sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:32:06 [INFO] [OctoBans] kyzirie sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:32:06 [INFO] [OctoBans] kyzirie sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:32:10 [INFO] [OctoBans] superover sql checked, record: insulte by SmooKeur to 1503348900
+21-08-17 22:32:26 [INFO] [OctoBans] l3g_lol sql checked, record: insultegrave by tinmar to 1503363863
+21-08-17 22:32:29 [INFO] [OctoBans] lefifoudu3 sql checked, record: insultegrave by Shouteur to 1503522141
+21-08-17 22:32:30 [INFO] [OctoBans] saucisse2france sql checked, record: spammp by SmooKeur to -1
+21-08-17 22:32:33 [INFO] [OctoBans] roi_du_rush sql checked, record: spammp by YTB_XxKarnageXx to -1
+21-08-17 22:32:38 [INFO] [OctoBans] weezy sql checked, record: kickautre by Steph078 to -1
+21-08-17 22:32:47 [INFO] [OctoBans] Ceraiste punished guillaume02823 for: Spam/flood
+21-08-17 22:33:02 [INFO] [OctoBans] blubfire sql checked, record: spammp by YTB_XxKarnageXx to -1
+21-08-17 22:33:08 [INFO] [OctoBans] _dragnir_ sql checked, record: insultegrave by Shainko to 1503363882
+21-08-17 22:33:14 [INFO] [OctoBans] mindex45 sql checked, record: spammp by SnowEffect to -1
+21-08-17 22:33:14 [INFO] [OctoBans] mindex45 sql checked, record: kickautre by NeosiaNexus to -1
+21-08-17 22:33:19 [INFO] [OctoBans] sqkaa_ sql checked, record: spammp by Remil to -1
+21-08-17 22:33:19 [INFO] [OctoBans] sqkaa_ sql checked, record: faussesinfos by SmooCoeur to 1503410576
+21-08-17 22:33:32 [INFO] [OctoBans] christophe2003 sql checked, record: insultesrv by RaydeN to 1503349955
+21-08-17 22:34:00 [INFO] [OctoBans] logamer sql checked, record: floodmp by Forway to -1
+21-08-17 22:34:00 [INFO] [OctoBans] logamer sql checked, record: spammp by iPurple_ to -1
+21-08-17 22:34:00 [INFO] [OctoBans] logamer sql checked, record: spammp by YTB_XxKarnageXx to -1
+21-08-17 22:34:00 [INFO] [OctoBans] logamer sql checked, record: floodmp by Forway to -1
+21-08-17 22:34:04 [INFO] [OctoBans] kokojo sql checked, record: spammp by Remil to -1
+21-08-17 22:34:57 [INFO] [OctoBans] kettur_ sql checked, record: spammp by ZerKup to -1
+21-08-17 22:34:57 [INFO] [OctoBans] kettur_ sql checked, record: spammp by Remil to -1
+21-08-17 22:34:57 [INFO] [OctoBans] kettur_ sql checked, record: spammp by Remil to -1
+21-08-17 22:34:57 [INFO] [OctoBans] kettur_ sql checked, record: spammp by Remil to -1
+21-08-17 22:34:57 [INFO] [OctoBans] kettur_ sql checked, record: spammp by YTB_XxKarnageXx to -1
+21-08-17 22:34:57 [INFO] [OctoBans] kettur_ sql checked, record: spammp by tinmar to -1
+21-08-17 22:35:21 [INFO] [OctoBans] ttot sql checked, record: spammp by Remil to -1
+21-08-17 22:36:04 [INFO] [OctoBans] sam_ytb sql checked, record: spammp by iPurple_ to -1
+21-08-17 22:36:04 [INFO] [OctoBans] sam_ytb sql checked, record: spammp by drbrine to -1
+21-08-17 22:36:04 [INFO] [OctoBans] sam_ytb sql checked, record: spammp by TheBrioche13 to -1
+21-08-17 22:36:11 [INFO] [OctoBans] Ceraiste punished mrsyouyou for: Majuscule
+21-08-17 22:36:41 [INFO] [OctoBans] totototo11 sql checked, record: spammp by NeosiaNexus to -1
+21-08-17 22:36:41 [INFO] [OctoBans] totototo11 sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:37:36 [INFO] [OctoBans] black_lotus sql checked, record: spam by SmooKeur to 1503349203
+21-08-17 22:40:33 [INFO] [OctoBans] arktizz sql checked, record: langage by SmooKeur to 1503349098
+21-08-17 22:40:53 [INFO] [OctoBans] Forway punished alarmebruine6 for: Double Poste
+21-08-17 22:44:03 [INFO] [OctoBans] minecanis sql checked, record: spammp by Remil to -1
+21-08-17 22:44:27 [INFO] [OctoBans] siruse sql checked, record: spammp by YTB_XxKarnageXx to -1
+21-08-17 22:44:45 [INFO] [OctoBans] goblex sql checked, record: spam by Shainko to 1503373738
+21-08-17 22:44:50 [INFO] [OctoBans] idreyzen sql checked, record: spammp by Remil to -1
+21-08-17 22:45:19 [INFO] [OctoBans] wilson84 sql checked, record: kickautre by YTB_XxKarnageXx to -1
+21-08-17 22:45:23 [INFO] [OctoBans] wiindows sql checked, record: floodmp by Forway to -1
+21-08-17 22:45:23 [INFO] [OctoBans] wiindows sql checked, record: spammp by Remil to -1
+21-08-17 22:47:06 [INFO] [OctoBans] mrtictac sql checked, record: spam by Ceraiste to 1503349710
+21-08-17 22:49:36 [INFO] [OctoBans] Forway punished elevator for: Double Poste
+21-08-17 22:50:12 [INFO] [OctoBans] Ceraiste punished boumboum for: Langage incorrect
+21-08-17 22:50:32 [INFO] [OctoBans] Forway punished talha for: Double Poste
+21-08-17 22:50:46 [INFO] [OctoBans] harst sql checked, record: spammp by Remil to -1
+21-08-17 22:50:46 [INFO] [OctoBans] harst sql checked, record: insultegrave by drbrine to 1503367957
+21-08-17 22:51:47 [INFO] [OctoBans] Wiindows punished harst for: Spam/flood
+21-08-17 22:52:19 [INFO] [OctoBans] YTB_XxKarnageXx punished oxrodl for: Spam/flood
+21-08-17 22:52:38 [INFO] [OctoBans] by_fly sql checked, record: spammp by NeosiaNexus to -1
+21-08-17 22:53:07 [INFO] [OctoBans] YTB_XxKarnageXx punished ayzon_yt for: Incitation au flood
+21-08-17 22:54:55 [INFO] [OctoBans] _marjo_ sql checked, record: spammp by Remil to -1
+21-08-17 22:55:24 [INFO] [OctoBans] mrkebab sql checked, record: flood by Wiindows to 1503351655
+21-08-17 22:55:55 [INFO] [OctoBans] skyrroz sql checked, record: spammp by Remil to -1
+21-08-17 22:56:03 [INFO] [OctoBans] Wiindows punished octoway for: Majuscule
+21-08-17 22:57:04 [INFO] [OctoBans] biguiboss31 sql checked, record: spammp by PseudoNul to -1
+21-08-17 22:57:04 [INFO] [OctoBans] biguiboss31 sql checked, record: spammp by Remil to -1
+21-08-17 22:58:13 [INFO] [OctoBans] YTB_XxKarnageXx punished mrgaminggaming for: TpKill
+21-08-17 22:58:28 [INFO] [OctoBans] Forway punished superover for: Spam/flood
+21-08-17 22:58:45 [INFO] [OctoBans] SmooKeur punished sami9696 for: Double Poste
+21-08-17 22:58:59 [INFO] [OctoBans] Forway punished skyrroz for: Incitation au flood
+21-08-17 22:59:19 [INFO] [OctoBans] Forway punished bouledeneige for: Majuscule
+21-08-17 23:00:12 [INFO] [OctoBans] Forway punished nin_ja for: Double Poste
+21-08-17 23:00:52 [INFO] [OctoBans] YTB_XxKarnageXx punished joulss for: Double Poste
+21-08-17 23:01:25 [INFO] [OctoBans] fifou1165 sql checked, record: spammp by iPurple_ to -1
+21-08-17 23:01:35 [INFO] [OctoBans] Forway punished dutche for: Double Poste
+21-08-17 23:02:15 [INFO] [OctoBans] Forway punished fifou1165 for: Double Poste
+21-08-17 23:02:46 [INFO] [OctoBans] SmooKeur punished jenmidukilleur for: Double Poste
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500322753
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500322962
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500325520
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500326258
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500376459
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1500376647
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500377121
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500378251
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500379068
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1500388691
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500379768
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500552668
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1500556067
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1500725306
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500554379
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500554431
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500554752
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500554852
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1500557895
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500555832
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500559135
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500563047
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500558135
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1500561245
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500563828
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1500652136
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500575018
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1500660651
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500726332
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1500811000
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500729610
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1500730611
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500727177
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1500812198
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500728164
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500727535
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500729624
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500729030
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1500728653
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500728637
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1500743785
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500743747
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500745544
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1500761971
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1500747727
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1500747988
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500905841
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500914862
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1500921550
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500914988
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500915325
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500915996
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500916390
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1500917941
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500917744
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultegrave by SmooKeur to 1500987428
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultegrave by SmooKeur to 1500987484
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500916442
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500918904
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1500918616
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500916822
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spamfopen by SmooKeur to 1501088972
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1500919784
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500916501
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1500919872
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500917893
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultesrv by SmooKeur to 1500952475
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500919251
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500988654
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500988358
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500990516
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500988836
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1500989900
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500989362
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500990006
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500991111
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500991737
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1500990444
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501003137
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500995092
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultestaff by SmooKeur to 1501030846
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1500995501
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultestaff by SmooKeur to 1501030951
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501081565
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501081811
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500995772
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500997380
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500996608
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultestaff by SmooKeur to 1501032094
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500996513
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500998180
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501169735
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1500997241
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501011410
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1500998543
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501003485
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1500997937
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1501162993
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501163843
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501168167
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501248015
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501164634
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501164493
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501165882
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501164205
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501165086
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501165535
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501168487
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501169003
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501170752
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1501256044
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501170651
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501170672
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501170808
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501257251
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501177593
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501261953
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501348365
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501348668
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501176504
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501176801
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501178686
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501179652
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501263625
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501263646
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501177603
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501264327
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501178241
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501178829
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501182982
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501181088
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501180502
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1501266337
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501180581
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501180714
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501266531
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501266538
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501183776
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501181397
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1501183878
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501181859
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501181592
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501181635
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501320755
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501317907
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501317132
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501335179
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501317638
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1501318339
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubsrv by SmooKeur to 1501321743
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501318904
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501318915
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501324698
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501324081
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501323659
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501326626
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501324833
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501328668
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501326944
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501325756
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501505088
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501506485
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501503904
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501589855
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1501518130
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501514535
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501528939
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501518238
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501512579
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501512331
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501516858
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501514942
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501678510
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501677714
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501679114
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501678874
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501678864
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501680643
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501852138
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501680202
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1501698340
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501682162
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501770635
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: trahisonforum by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501691989
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultestaff by SmooKeur to 1501793097
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501771727
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501772887
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501861994
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502121268
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501689638
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501689982
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501695390
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501690276
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501863923
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501950343
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501864240
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501777863
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501691921
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501695431
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501698368
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501784695
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501784982
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501785166
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501700076
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501872538
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501786164
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501707181
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501791830
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501707208
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501708488
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501708597
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1501794685
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501709253
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501714418
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501709626
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501712085
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501710506
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1501709618
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1501712984
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501709787
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501712249
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501711270
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1501713910
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1501711246
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501759687
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1501761075
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501761788
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501759187
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501759646
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501759384
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501760642
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501760049
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1501770104
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1501759930
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501762281
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1501771050
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1501762957
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501763033
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501766063
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501764694
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501762981
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501766286
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1501848928
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501849103
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501853605
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501853611
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501768475
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1501769167
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501854467
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1501854487
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1501771668
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502021158
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502111356
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1502196717
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502111943
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502118148
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502122379
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502120586
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultestaff by SmooKeur to 1502155735
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502123349
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502126964
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502130673
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502120620
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502126997
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502148955
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502123770
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502127377
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502121204
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502121156
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502137114
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502150724
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502137054
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502137162
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502224044
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502310865
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502310909
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502138422
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1502225136
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502225986
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502312407
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502543916
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502541893
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1502544492
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1502548136
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502637028
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502637062
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1502552584
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502553668
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502552339
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502556208
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1502557436
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502554794
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502559606
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502568407
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502568366
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502566729
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502567751
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502567221
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502568439
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502576822
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502729621
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: hack by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502732771
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502817752
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502734110
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502735730
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502737796
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1502909138
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1502822767
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502742955
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502745968
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502747296
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502746191
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultesrv by SmooKeur to 1502762566
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502748192
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502744907
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502745315
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1502747606
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502749316
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spamftag by SmooKeur to 1502921656
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502752481
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502975041
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1503147867
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502892415
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502895887
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502977148
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502977157
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502893236
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: multicompte by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spamftag by SmooKeur to 1503064278
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1503064867
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1502894939
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502978821
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502893198
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502894472
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultestaff by SmooKeur to 1502928979
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1502894618
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502909799
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1502901097
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502902901
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502903279
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502903297
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1502904837
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubsrv by SmooKeur to 1502905866
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1502907003
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502904282
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502905593
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1502907402
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502913755
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1502914063
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502990923
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502904874
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502910736
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502991256
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502908223
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502991946
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1502991957
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502909311
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502909316
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubsrv by SmooKeur to 1502909691
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1502909751
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubsrv by SmooKeur to 1502909895
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502908791
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1502910157
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502993134
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: faussesinfos by SmooKeur to 1502993283
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502907553
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502907738
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502907474
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502907771
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: incitationflood by SmooKeur to 1502994675
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: pubyt by SmooKeur to 1502915698
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502913894
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1502918650
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502913364
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1502917279
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1502918571
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insultegrave by SmooKeur to 1502954918
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502961192
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502965108
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502961251
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502963386
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502961293
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1502962238
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: tpkill by SmooKeur to 1503134237
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1502968523
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503332823
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503337853
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1503332542
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1503333198
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1503333178
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1503332585
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503338881
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: provocation by SmooKeur to 1503336428
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1503337120
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1503337180
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1503337087
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: langage by SmooKeur to 1503349098
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: majuscule by SmooKeur to 1503346049
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503345613
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503347194
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spam by SmooKeur to 1503349203
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: spammp by SmooKeur to -1
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: insulte by SmooKeur to 1503348900
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503352023
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503349725
+21-08-17 23:03:48 [INFO] [OctoBans] smookeur sql checked, record: doubleposte by SmooKeur to 1503350866
+21-08-17 23:04:18 [INFO] [OctoBans] pvp_pvp sql checked, record: kickautre by Steph078 to -1
+21-08-17 23:07:14 [INFO] [OctoBans] YTB_XxKarnageXx punished chatgaming for: Double Poste
+21-08-17 23:08:11 [INFO] [OctoBans] SmooKeur punished tyzaa for: Provocation
+21-08-17 23:09:22 [INFO] [OctoBans] Ceraiste punished _theodu13_ for: Provocation
+21-08-17 23:10:41 [INFO] [OctoBans] YTB_XxKarnageXx punished kimoli for: Double Poste
+21-08-17 23:13:27 [INFO] [OctoBans] Forway punished virocl for: Provocation
+21-08-17 23:15:34 [INFO] [OctoBans] SmooKeur punished kettur_ for: Insulte
+21-08-17 23:16:07 [INFO] [OctoBans] Shainko punished tigerfight for: Double Poste
+21-08-17 23:16:38 [INFO] [OctoBans] SmooKeur punished kettur_ for: Provocation
+21-08-17 23:16:59 [INFO] [OctoBans] SmooKeur punished kettur_ for: Spam/flood en MP
+21-08-17 23:17:20 [INFO] [OctoBans] virocl sql checked, record: provocation by Forway to 1503353607
+21-08-17 23:18:32 [INFO] [OctoBans] SmooKeur punished bouboule for: TpKill
+21-08-17 23:18:37 [INFO] [OctoBans] SmooKeur punished by_fly for: TpKill
+21-08-17 23:19:53 [INFO] [OctoBans] SmooKeur punished kettur_ for: Spam/flood en MP
+21-08-17 23:21:37 [INFO] [OctoBans] YTB_XxKarnageXx punished skygames974 for: Double Poste
+21-08-17 23:21:55 [INFO] [OctoBans] YTB_XxKarnageXx punished emirpvp for: Spam/flood
+21-08-17 23:22:21 [INFO] [OctoBans] YTB_XxKarnageXx punished emirpvp for: Insulte grave
+21-08-17 23:22:33 [INFO] [OctoBans] jasoxx sql checked, record: spammp by iPurple_ to -1
+21-08-17 23:22:33 [INFO] [OctoBans] jasoxx sql checked, record: spammp by drbrine to -1
+21-08-17 23:22:33 [INFO] [OctoBans] jasoxx sql checked, record: spammp by drbrine to -1
+21-08-17 23:22:33 [INFO] [OctoBans] jasoxx sql checked, record: spammp by drbrine to -1
+21-08-17 23:22:47 [INFO] [OctoBans] by_fly sql checked, record: spammp by NeosiaNexus to -1
+21-08-17 23:22:47 [INFO] [OctoBans] by_fly sql checked, record: tpkill by SmooKeur to 1503523117
+21-08-17 23:24:52 [INFO] [OctoBans] Shainko punished nymerialafrite for: Double Poste
+21-08-17 23:25:13 [INFO] [OctoBans] bouboule sql checked, record: tpkill by SmooKeur to 1503436712
+21-08-17 23:26:13 [INFO] [OctoBans] YTB_XxKarnageXx punished kimoli for: Double Poste
+21-08-17 23:26:24 [INFO] [OctoBans] by_fly sql checked, record: spammp by NeosiaNexus to -1
+21-08-17 23:26:24 [INFO] [OctoBans] by_fly sql checked, record: tpkill by SmooKeur to 1503523117
+21-08-17 23:29:18 [INFO] [OctoBans] SmooKeur punished ishaadow_ for: TpKill
+21-08-17 23:30:01 [INFO] [OctoBans] progameur sql checked, record: spammp by tinmar to -1
+21-08-17 23:30:37 [INFO] [OctoBans] YTB_XxKarnageXx punished gastronmagie2 for: Majuscule
+21-08-17 23:30:59 [INFO] [OctoBans] idreyzen_ sql checked, record: spammp by tinmar to -1
+21-08-17 23:31:44 [INFO] [OctoBans] SmooKeur punished talha for: Double Poste
+21-08-17 23:33:34 [INFO] [OctoBans] ededed91 sql checked, record: spammp by SkyKosIV to -1
+21-08-17 23:33:34 [INFO] [OctoBans] ededed91 sql checked, record: spammp by Remil to -1
+21-08-17 23:36:10 [INFO] [OctoBans] colman_le_grand sql checked, record: floodmp by Forway to -1
+21-08-17 23:38:04 [INFO] [OctoBans] Shainko punished amine for: Double Poste
+21-08-17 23:38:23 [INFO] [OctoBans] YTB_XxKarnageXx punished zoliooxx for: Spam/flood
+21-08-17 23:39:08 [INFO] [OctoBans] Shainko punished dany12345mm for: Double Poste
+21-08-17 23:39:12 [INFO] [OctoBans] _topui_ sql checked, record: spammp by ZerKup to -1
+21-08-17 23:46:53 [INFO] [OctoBans] dixlou sql checked, record: spammp by Remil to -1
+21-08-17 23:46:53 [INFO] [OctoBans] dixlou sql checked, record: kickautre by YTB_XxKarnageXx to -1
+21-08-17 23:47:50 [INFO] [OctoBans] hayden_frost sql checked, record: spammp by PseudoNul to -1
+21-08-17 23:47:50 [INFO] [OctoBans] hayden_frost sql checked, record: spammp by Remil to -1
+21-08-17 23:48:23 [INFO] [OctoBans] xxheroiikxx sql checked, record: floodmp by Forway to -1
+21-08-17 23:49:33 [INFO] [OctoBans] zix_gamme sql checked, record: insultegrave by The_Frusty to 1503354948
+22-08-17 00:03:18 [INFO] [OctoBans] Shainko punished keen0x for: Insulte grave
+22-08-17 00:04:08 [INFO] [OctoBans] Shainko punished zebosse for: Insulte
+22-08-17 00:04:23 [INFO] [OctoBans] Shainko punished octoway for: Majuscule
+22-08-17 00:07:14 [INFO] [OctoBans] Shainko punished killer1 for: Spam/flood
+22-08-17 00:08:31 [INFO] [OctoBans] iPurple_ punished bananna_yt for: Double Poste
+22-08-17 00:11:31 [INFO] [OctoBans] iPurple_ punished tyzaa for: Spam/flood
+22-08-17 00:12:20 [INFO] [OctoBans] karimospvp sql checked, record: spammp by YTB_XxKarnageXx to -1
+22-08-17 00:12:20 [INFO] [OctoBans] karimospvp sql checked, record: spammp by YTB_XxKarnageXx to -1
+22-08-17 00:12:20 [INFO] [OctoBans] karimospvp sql checked, record: spammp by tinmar to -1
+22-08-17 00:25:40 [INFO] [OctoBans] d3adorsnipsurytb sql checked, record: spammp by Remil to -1
+22-08-17 00:25:40 [INFO] [OctoBans] d3adorsnipsurytb sql checked, record: spammp by Remil to -1
+22-08-17 00:25:40 [INFO] [OctoBans] d3adorsnipsurytb sql checked, record: spammp by SmooCoeur to -1
+22-08-17 00:29:04 [INFO] [OctoBans] Shainko punished evenshine for: Double Poste
+22-08-17 00:30:21 [INFO] [OctoBans] Shainko punished dylims for: Insulte grave
+22-08-17 00:35:28 [INFO] [OctoBans] by_kw3e sql checked, record: kickautre by Antoine57565 to -1
+22-08-17 00:37:48 [INFO] [OctoBans] Shainko punished neoss for: Double Poste
+22-08-17 00:42:33 [INFO] [OctoBans] Shainko punished larectiveman for: Double Poste
+22-08-17 00:45:55 [INFO] [OctoBans] Wiindows punished kettur_ for: Double Poste
+22-08-17 00:46:50 [INFO] [OctoBans] Shainko punished kettur_ for: Double Poste
+22-08-17 00:52:12 [INFO] [OctoBans] Shainko punished dutche for: Double Poste
+22-08-17 00:57:40 [INFO] [OctoBans] _strykz_ sql checked, record: spammp by Remil to -1
+22-08-17 00:57:40 [INFO] [OctoBans] _strykz_ sql checked, record: spammp by Remil to -1
+22-08-17 01:01:06 [INFO] [OctoBans] Shainko punished kyzirie for: Double Poste
+22-08-17 01:08:09 [INFO] [OctoBans] Shainko punished doliprane for: Double Poste
+22-08-17 01:08:17 [INFO] [OctoBans] Wiindows punished neyko for: Insulte grave
+22-08-17 01:10:58 [INFO] [OctoBans] Shainko punished michel_g0d for: Double Poste
+22-08-17 01:13:48 [INFO] [OctoBans] Wiindows punished amine for: Insulte staff
+22-08-17 01:14:32 [INFO] [OctoBans] Wiindows punished pvp_pvp for: Insulte staff
+22-08-17 01:14:43 [INFO] [OctoBans] Wiindows punished boumboum for: Langage incorrect
+22-08-17 01:24:30 [INFO] [OctoBans] Wiindows punished xxlaswinxx for: Spam/flood
+22-08-17 01:24:56 [INFO] [OctoBans] neyko sql checked, record: insultegrave by Wiindows to 1503392897
+22-08-17 01:25:18 [INFO] [OctoBans] pvp_pvp sql checked, record: kickautre by Steph078 to -1
+22-08-17 01:25:18 [INFO] [OctoBans] pvp_pvp sql checked, record: insultestaff by Wiindows to 1503393272
+22-08-17 01:25:39 [INFO] [OctoBans] amine sql checked, record: insultestaff by Wiindows to 1503681228
+22-08-17 01:28:00 [INFO] [OctoBans] mightymouse_ sql checked, record: spammp by SuperJojo to -1
+22-08-17 01:44:44 [INFO] [OctoBans] denis018 sql checked, record: spammp by Remil to -1
+22-08-17 01:51:59 [INFO] [OctoBans] Kyabe punished erisium_ethan for: Double Poste
+22-08-17 02:03:00 [INFO] [OctoBans] zlkayzen sql checked, record: insultestaff by Shainko to 1503399904
+22-08-17 02:03:53 [INFO] [OctoBans] itsrecktom sql checked, record: tpkill by SmooCoeur to 1503410934
+22-08-17 02:26:49 [INFO] [OctoBans] Wiindows punished pikashadowyt for: Double Poste
+22-08-17 02:26:52 [INFO] [OctoBans] Wiindows punished jenmidukilleur for: Langage incorrect
+22-08-17 02:58:35 [INFO] [OctoBans] tokyo sql checked, record: spammp by SnowEffect to -1
+22-08-17 03:37:52 [INFO] [OctoBans] baka_le_fou sql checked, record: spammp by ZerKup to -1
+22-08-17 03:39:08 [INFO] [OctoBans] Wiindows punished thebibi78 for: Majuscule
+22-08-17 03:42:16 [INFO] [OctoBans] Wiindows punished fredb777 for: Langage incorrect
+22-08-17 03:53:00 [INFO] [OctoBans] Wiindows punished _vortex_ for: Langage incorrect
+22-08-17 03:54:02 [INFO] [OctoBans] Wiindows punished trystanausaure for: Majuscule
+22-08-17 04:01:00 [INFO] [OctoBans] elbelladum sql checked, record: spammp by Steph078 to -1
+22-08-17 04:04:26 [INFO] [OctoBans] Wiindows punished emmenal for: Majuscule
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by YTB_XxKarnageXx to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by tinmar to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: kickautre by CreepyEagle to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by tinmar to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by YTB_XxKarnageXx to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by NeosiaNexus to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by NeosiaNexus to -1
+22-08-17 04:40:18 [INFO] [OctoBans] xboymax sql checked, record: spammp by NeosiaNexus to -1
+22-08-17 05:21:34 [INFO] [OctoBans] provaix punished xboymax for: Spam/flood
+22-08-17 05:21:45 [INFO] [OctoBans] provaix punished _vortex_ for: Spam/flood
+22-08-17 05:22:02 [INFO] [OctoBans] provaix punished jenmidukilleur for: Langage incorrect
+22-08-17 05:22:21 [INFO] [OctoBans] provaix punished _vortex_ for: Insulte staff
+22-08-17 06:01:01 [INFO] [OctoBans] Disabling OctoBans v1.0

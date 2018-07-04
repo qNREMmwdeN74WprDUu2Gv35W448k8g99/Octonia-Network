@@ -1,0 +1,46 @@
+uuid: 81c02bf0-03a1-3b6d-97df-a7a637b5e742
+timestamps:
+  login: 1457029719781
+  lastteleport: 1457035379651
+  kits:
+    minerais: 1457026866352
+    bouffe: 1457034731232
+    octonien: 1457026802206
+    decouverte: 1457026821472
+    alchimiste: 1457026844896
+    golden: 1457026838162
+  logout: 1457035395530
+  lastheal: 1457035334403
+  mute: 0
+ipAddress: 90.23.183.161
+lastlocation:
+  world: world
+  x: 3790.971352630208
+  y: 17.0
+  z: 8558.469954728469
+  yaw: -260.232
+  pitch: -0.06478357
+homes:
+  home:
+    world: world
+    x: 3602.5184693826773
+    y: 5.0
+    z: 5275.9380075223
+    yaw: 183.71582
+    pitch: 45.667816
+logoutlocation:
+  world: world
+  x: 5767.300000011921
+  y: 8.5
+  z: 7835.841868318281
+  yaw: -37.685787
+  pitch: 18.374168
+ignore:
+- le_gammer_du
+- jobarteam
+- skryzio
+muted: false
+money: '4928.80'
+ban:
+  reason: Banni temporairement du serveur pour 2 jours.
+  timeout: 1457212144744

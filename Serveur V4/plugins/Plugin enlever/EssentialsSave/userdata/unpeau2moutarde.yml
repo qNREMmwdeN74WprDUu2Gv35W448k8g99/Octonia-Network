@@ -1,0 +1,83 @@
+timestamps:
+  login: 1456256843370
+  kits:
+    bouffe: 1456257062679
+    heros: 1455904217051
+    octonien: 1456258449045
+    chevalier: 1455904221152
+    xp: 1455904214853
+    construction: 1456256905923
+    legendaire: 1456257048463
+    golden: 1456257055409
+    alchimiste: 1456257070811
+  lastteleport: 1456258333844
+  logout: 1456258456969
+  lastheal: 1455845858641
+ipAddress: 81.49.119.107
+lastlocation:
+  world: world
+  x: 31.486723467861864
+  y: 23.419999986886978
+  z: 45.385532998290785
+  yaw: -321.35028
+  pitch: 19.499994
+money: '5039.0'
+logoutlocation:
+  world: world
+  x: -0.14090013897333264
+  y: 190.5
+  z: 0.48611282218956364
+  yaw: -270.64917
+  pitch: 22.857735
+homes:
+  lol:
+    world: world
+    x: 4050.6470370604156
+    y: 155.0
+    z: 422.4710038482416
+    yaw: 120.595764
+    pitch: 90.0
+  bp:
+    world: world
+    x: 5298.461306210457
+    y: 34.0
+    z: 4539.601557304659
+    yaw: -275.17896
+    pitch: -20.999983
+  arnaque:
+    world: world
+    x: 4069.584670026515
+    y: 5.0
+    z: 4935.534027840751
+    yaw: -2.989685
+    pitch: 18.749996
+  home:
+    world: world
+    x: -4289.5
+    y: 15.0
+    z: -84.5
+    yaw: -176.89551
+    pitch: 40.350002
+  pilllage:
+    world: world
+    x: -3354.312097673445
+    y: 80.0
+    z: -3565.4516571351587
+    yaw: 200.24951
+    pitch: 55.499958
+  spawner:
+    world: world
+    x: -278.2805929112675
+    y: 53.0
+    z: 156.34802847056972
+    yaw: 83.291565
+    pitch: -6.925602
+ignore:
+- xtr3mpvp
+- romudu269
+- eazy239ytb
+- gameelex
+- sentex87
+- pawn
+- mysthictv
+uuid: fd386849-a280-3774-a10f-f9cb83fc1de9

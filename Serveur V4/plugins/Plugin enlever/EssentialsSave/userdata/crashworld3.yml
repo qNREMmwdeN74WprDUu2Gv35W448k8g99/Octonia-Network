@@ -1,0 +1,41 @@
+uuid: 3a1bc526-7b34-3a69-8c91-5b08568b0eb8
+timestamps:
+  login: 1457057855553
+  kits:
+    minerais: 1457057941457
+    bouffe: 1456612437559
+    octonien: 1456527483351
+    druide: 1456677558801
+    xp: 1457057922759
+    decouverte: 1456612402582
+  lastteleport: 1457057872353
+  logout: 1457057995303
+  lastheal: 1456678081002
+  jail: 0
+ipAddress: 95.176.103.203
+lastlocation:
+  world: world
+  x: 270.96712072685995
+  y: 64.0
+  z: 240.50463670538812
+  yaw: -272.08228
+  pitch: 26.58807
+logoutlocation:
+  world: world
+  x: -2546.5
+  y: 63.0
+  z: -2296.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: -3892.037492347822
+    y: 11.0
+    z: -3372.699999988079
+    yaw: -357.26318
+    pitch: 5.1000295
+money: '100.50'
+ignore:
+- _gamer_
+jailed: false

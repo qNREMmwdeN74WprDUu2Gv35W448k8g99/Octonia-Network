@@ -1,0 +1,19 @@
+uuid: cafc4628-bd66-3708-8d64-1337e51ec55e
+timestamps:
+  login: 1456589609354
+  logout: 1456589624469
+ipAddress: 109.208.122.41
+lastlocation:
+  world: world
+  x: 4.5
+  y: 187.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 13.393192293196117
+  y: 189.0
+  z: -11.95137587540822
+  yaw: -150.55096
+  pitch: 22.347822

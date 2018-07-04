@@ -1,0 +1,78 @@
+uuid: 3bc801a4-426e-38fd-afaf-71ad4e778c0b
+timestamps:
+  login: 1457279825658
+  kits:
+    heros: 1457285372891
+    bouffe: 1457287758465
+    octonien: 1457285629098
+    chevalier: 1457285519378
+    destruction: 1457291552172
+    decouverte: 1457276836445
+    legendaire: 1457291555634
+    golden: 1457291548528
+  lastteleport: 1457291537696
+  logout: 1457291588225
+  lastheal: 1457291456529
+  mute: 0
+ipAddress: 77.145.148.176
+lastlocation:
+  world: world
+  x: 284.4685548315192
+  y: 64.0
+  z: 3.249293248239499
+  yaw: 200.9089
+  pitch: 25.049839
+money: '5606.0900000000004'
+homes:
+  mine:
+    world: world
+    x: 8376.699999988079
+    y: 5.0
+    z: 1975.9335381430644
+    yaw: 93.89996
+    pitch: 17.699936
+  spawneur:
+    world: world
+    x: 462.3274334602896
+    y: 6.0
+    z: 9711.98903153772
+    yaw: -82.67495
+    pitch: -16.950003
+  surface:
+    world: world
+    x: 5760.291461903495
+    y: 70.0
+    z: 1388.990153232864
+    yaw: 279.4711
+    pitch: 23.1
+  base2:
+    world: world
+    x: 7381.330186765255
+    y: 78.0
+    z: 3882.972522807044
+    yaw: 306.70682
+    pitch: 9.899629
+  ap:
+    world: world
+    x: 284.5
+    y: 64.0
+    z: -10.5
+    yaw: 159.65887
+    pitch: 14.249827
+  home:
+    world: world
+    x: 8561.569032090229
+    y: 252.875
+    z: 1791.2915927020913
+    yaw: -353.84958
+    pitch: 52.79992
+logoutlocation:
+  world: world
+  x: 5552.5
+  y: 43.0
+  z: 1409.5
+  yaw: -272.0232
+  pitch: 40.200573
+ignore:
+- xxprotrollerxx
+muted: false

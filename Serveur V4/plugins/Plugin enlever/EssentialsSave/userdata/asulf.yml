@@ -1,0 +1,38 @@
+timestamps:
+  login: 1457295104688
+  kits:
+    bouffe: 1457295551895
+    octonien: 1456936466962
+    decouverte: 1457284373182
+  logout: 1457296133375
+  lastteleport: 1457295497994
+  lastheal: 1457284574290
+  mute: 0
+ipAddress: 88.182.206.87
+lastlocation:
+  world: world
+  x: -4406.69931737876
+  y: 239.0
+  z: 8517.300000011921
+  yaw: 291.3514
+  pitch: 19.500013
+logoutlocation:
+  world: world
+  x: -4409.851129786851
+  y: 240.5
+  z: 8521.413590899021
+  yaw: 317.56152
+  pitch: 60.74999
+homes:
+  home:
+    world: world
+    x: -2871.699487274915
+    y: 5.0
+    z: 8747.402484858101
+    yaw: 221.15071
+    pitch: 3.7095168
+money: '87.10'
+uuid: 64f92baa-7f86-3bd0-b4ae-0b0ff8bbe0c9
+muted: true
+ignore:
+- jp_g33k

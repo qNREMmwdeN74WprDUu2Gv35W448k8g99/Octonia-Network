@@ -1,0 +1,48 @@
+timestamps:
+  login: 1457187921533
+  kits:
+    bouffe: 1456581913062
+    octonien: 1456953826625
+    chevalier: 1456947871475
+    destruction: 1456953823926
+    decouverte: 1457037603941
+    alchimiste: 1456948111019
+  lastteleport: 1457038415704
+  logout: 1457188223298
+  lastheal: 1457038428609
+  mute: 0
+ipAddress: 86.194.15.57
+lastlocation:
+  world: world
+  x: 796.1941236433402
+  y: 72.0
+  z: -5407.500243461897
+  yaw: -96.54325
+  pitch: 16.054499
+homes:
+  pillage:
+    world: world
+    x: 796.1941236433402
+    y: 72.0
+    z: -5407.500243461897
+    yaw: -84.693245
+    pitch: 16.354494
+  new:
+    world: world
+    x: -3803.5964080785116
+    y: 12.0
+    z: 1674.7601165126973
+    yaw: 52.79674
+    pitch: 7.949992
+logoutlocation:
+  world: world
+  x: -3801.0274360589974
+  y: 7.0
+  z: 1672.2530112445563
+  yaw: -97.34805
+  pitch: 7.045237
+uuid: 5817f558-357e-3d14-8bf0-9939eb736d27
+money: '1069.25'
+muted: false
+ignore:
+- skillcreeps_g0d

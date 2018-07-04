@@ -1,0 +1,48 @@
+uuid: 36ae678e-cf18-3b5a-8a9b-eedfaee43a12
+timestamps:
+  login: 1456925343245
+  kits:
+    bouffe: 1456855249923
+    octonien: 1456851797634
+    druide: 1456853697535
+    chevalier: 1456855236927
+    decouverte: 1456849959691
+    construction: 1456855996263
+    alchimiste: 1456853497036
+    golden: 1456853548686
+  logout: 1456925416107
+  lastteleport: 1456857420657
+  lastheal: 1456857203112
+ipAddress: 85.170.193.207
+lastlocation:
+  world: world
+  x: 285.1968793592635
+  y: 5.5
+  z: 34.69999998807907
+  yaw: -79.277954
+  pitch: 12.784719
+logoutlocation:
+  world: world
+  x: -3676.606274337851
+  y: 78.0
+  z: -5065.336417383862
+  yaw: -186.01865
+  pitch: 35.463783
+homes:
+  bp:
+    world: world
+    x: -3669.699999988079
+    y: 49.0
+    z: -5074.699999988079
+    yaw: -33.96086
+    pitch: 44.44625
+  farm:
+    world: world
+    x: -911.4827280673461
+    y: 71.0
+    z: -7297.406877265291
+    yaw: 185.00589
+    pitch: 24.777374
+money: '6048.00'
+ignore:
+- darman77

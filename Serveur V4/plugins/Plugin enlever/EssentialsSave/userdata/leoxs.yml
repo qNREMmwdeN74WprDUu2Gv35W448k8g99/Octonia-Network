@@ -1,0 +1,89 @@
+timestamps:
+  login: 1457290147067
+  kits:
+    heros: 1457277701043
+    bouffe: 1457264236825
+    octonien: 1457278287371
+    druide: 1457292884182
+    chevalier: 1457293390326
+    destruction: 1457278467166
+    xp: 1457257198270
+    legendaire: 1457292711470
+    alchimiste: 1457292755400
+    minerais: 1457292816434
+    decouverte: 1457290716619
+    construction: 1457290308918
+    golden: 1457294105563
+  lastteleport: 1457294659406
+  logout: 1457294720135
+  lastheal: 1457294672989
+  mute: 0
+  jail: 0
+ipAddress: 90.53.76.226
+lastlocation:
+  world: world
+  x: -318.38056739520243
+  y: 61.0
+  z: -115.99951406802808
+  yaw: -355.98035
+  pitch: -20.454924
+logoutlocation:
+  world: world
+  x: -280.94999998807907
+  y: 65.0
+  z: -9.769449739573657
+  yaw: -90.948135
+  pitch: 16.40448
+homes:
+  ap:
+    world: world
+    x: -284.30000001192093
+    y: 65.0
+    z: 13.699999988079007
+    yaw: -255.37614
+    pitch: 19.048422
+  kb:
+    world: world
+    x: -261.58210033200464
+    y: 64.0
+    z: 0.3904758301887784
+    yaw: -275.32654
+    pitch: 13.650013
+  bp3:
+    world: world
+    x: 9049.5
+    y: 5.0
+    z: 4252.5
+    yaw: 119.00512
+    pitch: 33.149994
+  ap2:
+    world: world
+    x: -183.67494185650156
+    y: 64.0
+    z: -278.7999569258939
+    yaw: 10.496998
+    pitch: 22.246748
+  ap3:
+    world: world
+    x: -279.1863025686193
+    y: 64.0
+    z: -39.285055446836836
+    yaw: -186.50623
+    pitch: 4.350008
+  bp:
+    world: world
+    x: -9603.46290551632
+    y: 5.0
+    z: -2616.574999988079
+    yaw: -182.72989
+    pitch: -76.35
+money: '28.90'
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 jour.
+  timeout: 1456588091873
+uuid: 2180e0dd-8c7c-345c-b2dc-120417d14360
+jailed: false
+ignore:
+- galaxy13craft
+- daros18

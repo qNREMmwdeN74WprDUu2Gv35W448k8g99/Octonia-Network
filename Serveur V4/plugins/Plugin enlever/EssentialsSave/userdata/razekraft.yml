@@ -1,0 +1,63 @@
+timestamps:
+  login: 1457304901568
+  logout: 1457304955475
+  kits:
+    bouffe: 1457227612490
+    heros: 1457304950380
+    octonien: 1456362927217
+    chevalier: 1457213193007
+    decouverte: 1457228059208
+  lastteleport: 1457304911969
+  mute: 0
+  lastheal: 1457289900517
+ipAddress: 132.208.31.138
+lastlocation:
+  world: world
+  x: -566.7127077374425
+  y: 5.5
+  z: -9978.846423905536
+  yaw: 78.15921
+  pitch: 29.450262
+logoutlocation:
+  world: world
+  x: 3612.9021522388775
+  y: 63.0
+  z: -2425.630046447967
+  yaw: -191.40002
+  pitch: 21.751476
+socialspy: false
+homes:
+  fac:
+    world: world
+    x: -559.582959817008
+    y: 254.0
+    z: -9967.563017783707
+    yaw: 199.92331
+    pitch: 69.49222
+  ap2:
+    world: world
+    x: 284.41372520882345
+    y: 64.0
+    z: -72.8193073724772
+    yaw: 240.45248
+    pitch: 16.342142
+  pillage:
+    world: world
+    x: -792.380767623599
+    y: 5.0
+    z: -3796.377757951928
+    yaw: 315.36234
+    pitch: 11.752726
+  pillage2:
+    world: world
+    x: 3606.9681353194915
+    y: 64.0
+    z: -2408.3979947910116
+    yaw: -267.35782
+    pitch: 15.90815
+muted: false
+ignore:
+- tenodrix
+- lekebab
+money: '3.285'
+uuid: d49a3caa-304a-3484-92d1-51747475b09c

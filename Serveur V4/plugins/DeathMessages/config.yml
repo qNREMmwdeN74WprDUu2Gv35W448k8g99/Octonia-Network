@@ -1,0 +1,123 @@
+#####################
+#   DeathMessages   #
+#      SainttX      #
+#####################
+
+gui:
+  health:
+    type: SPECKLED_MELON
+    name: "[DEATHM]&4&6Vie: &f[health]/[maxhealth]"
+  food:
+    type: COOKED_BEEF
+    name: "[DEATHM]&4&6Nourriture: &f[food]/20"
+  exp:
+    type: EXP_BOTTLE
+    name: "[DEATHM]&4&6EXP Levels: &f[level]"
+  potions:
+    type: BREWING_STAND_ITEM
+    name: "[DEATHM]&4&6Potions Actives:"
+    lore-format: "[DEATHM]&4- &7[potion] [level] ([time])"
+  
+
+# Various configurable settings related to the plugin
+settings:
+  # If we should ignore self deaths
+  showSelfDeaths: false
+  # Whether or not to allow players to click the names of the
+  # dead/killer player in death messages to view their inventory
+  # at the time of death
+  useCachedInventories: false
+  # The amount of time until cached inventories are removed
+  # from memory and will no longer be clickable in messages
+  # This time is in seconds
+  removeCachedInventoryAfter: 30
+  # The radius that players will be able to see death messages. Set
+  # this to -1 to have an infinite radius.
+  broadcastRadius: -1
+  # Whether or not the plugin should parse player names
+  # and broadcast them to players displaying their faction
+  # relation color. This feature will only work if FactionUUID
+  # or if HCFactions are enabled on the server. It will throw
+  # errors with any other versions of Factions.
+  useFactionRelationColors: false
+  # The title of the death inventory GUI
+  guiTitle: "[DEATHM]&4Inventaire de [player]"
+  # Disables default minecraft vanilla death messages
+  disableVanillaMessages: true
+  # Disables death messages when the player that died had an empty inventory
+  ignoreWhenDeadInventoryEmpty: false
+  # A list of worlds to disable the plugin from broadcasting
+  # messages in
+  disabledWorlds:
+  - "test_world1"
+  - "test_world2"
+
+# All configurable messages
+# Various placeholders where applicable:
+# [dead] - Replaced by messages.format.dead
+# [killer] - Replaced by messages.format.killer
+# [weapon] - Displays the weapons name or display name (if applicable)
+#            as well as a hoverable icon display
+# [killer_kills] - Displays killers kills
+# [killer_deaths] - Displays killers deaths
+# [killer_name] - Displays killers real name
+# [killer_displayname] - Displays killers display name
+# [killer_health] - Displays killers health
+# [dead_kills] - Displays dead players kills
+# [dead_deaths] - Displays dead players deaths
+# [dead_name] - Displays dead players real name
+# [dead_displayname] - Displays dead players display name
+# [dead_health] - Displays dead players health
+messages:
+  # Any messages related to a player dying
+  # NOTE: All messages.deathCause messages can be disabled by settings them to empty
+  deathCause:
+    contact: "[DEATHM]&4[dead] &7a été défoncé !"
+    drowning: "[DEATHM]&4[dead] &7est mort noyé !"
+    drowningFighting: "[DEATHM]&4[dead] &7s'est noyé en echappant à [killer] &7!"
+    enderpearl: "[DEATHM]&4[dead] &7est mort en tombant avec une enderpearl."
+    enderpearlFighting: "[DEATHM]&4[dead] &7est mort en essayant d'échapper à [killer] &7!"
+    explosion: "[DEATHM]&4[dead] &7a explosé !"
+    fall: "[DEATHM]&4[dead] &7est tombé de trop haut!"
+    fallPushed: "[DEATHM]&4[dead] &7a été condamné à la chute par [killer] &7!"
+    fallingBlock: "[DEATHM]&4[dead] &7a été écrasé par un bloc !"
+    fighting: "[DEATHM]&4[dead] &7est mort par [killer] &7!"
+    fightingArrow: "[DEATHM]&4[dead] &7s'est fait tiré dessus par [killer] &7!"
+    fightingArrowWeapon: "[DEATHM]&4[dead] &7s'est fait tiré dessus par [killer] &7!"
+    fightingWeapon: "[DEATHM]&4[dead] &7est mort par [killer] &7!"
+    fire: "[DEATHM]&4[dead] &7a cramé !"
+    lava: "[DEATHM]&4[dead] &7voulait nager dans la lave &7!"
+    lavaPushed: "[DEATHM]&4[dead] &7a nagé dans la lave pour enfuire à [killer] &7!"
+    lightning: "[DEATHM]&4[dead] &7s'est fait défoncé par un Eclair !"
+    magic: "[DEATHM]&4[dead] &7s'est fait tué par la magie !"
+    mob:
+      blaze: "[DEATHM]&4[dead] &7a été tué par un Blaze !"
+      cavespider: "[DEATHM]&4[dead] &7a été tué par une Araignée des Caves!"
+      enderman: "[DEATHM]&4[dead] &7a été tué par un Enderman !"
+      giant: "[DEATHM]&4[dead] &7a été tué par un Giant !"
+      pigzombie: "[DEATHM]&4[dead] &7a été tué par un Pig Zombie !"
+      skeleton: "[DEATHM]&4[dead] &7a été tué par un Squelette !"
+      spider: "[DEATHM]&4[dead] &7a été tué par une Araignée !"
+      witch: "[DEATHM]&4[dead] &7a été tué par une Sorcière !"
+      zombie: "[DEATHM]&4[dead] &7a été tué par un Zombie !"
+    poison: "[DEATHM]&4[dead] &7a été tué par du poison !"
+    starvation: "[DEATHM]&4[dead] &7est mort de faim !"
+    suffocation: "[DEATHM]&4[dead] &7est mort dans un mur !"
+    suicide: "[DEATHM]&4[dead] &7s'est suicidé !"
+    void: "[DEATHM]&4[dead] &7est mort dans le néant !"
+    voidPushed: "[DEATHM]&4[dead] &7est mort dans le néant par [killer] &7!"
+    wither: "[DEATHM]&4[dead] &7s'est frotté au Wither !"
+  # Placeholder formats for [killer] and [dead]
+  format:
+    killer: "&c[killer_name]"
+    dead: "&c[dead_name]"
+  # Various error messages
+  error:
+    expired: "&4&cLe temps pour voir cet inventaire a expiré."
+    permission: "&4&cVous n'avez pas la permission."
+  # Miscellaneous messages
+  misc:
+    clickInfo: "&aClique pour voir l'inventaire du joueur à sa mort."
+    reload: "&4&aSuccessfully reloaded config.yml"
+    toggleOn: "&aVous verrez désormais les messages de mort."
+    toggleOff: "&4&cVous ne verrez plus les messages de mort."

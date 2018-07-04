@@ -1,0 +1,80 @@
+socialspy: false
+timestamps:
+  login: 1457341705049
+  kits:
+    heros: 1457288180396
+    bouffe: 1457342380755
+    octonien: 1457299055436
+    chevalier: 1457289353144
+    xp: 1457341890556
+    decouverte: 1457341899753
+    legendaire: 1457341966558
+    alchimiste: 1457295680156
+    golden: 1457341835456
+  lastteleport: 1457342724848
+  logout: 1457342932012
+  lastheal: 1457343274545
+  mute: 0
+ipAddress: 90.30.21.193
+lastlocation:
+  world: world
+  x: 272.5
+  y: 82.0
+  z: 249.5
+  yaw: 165.61395
+  pitch: 40.04998
+logoutlocation:
+  world: world
+  x: -4308.760754715391
+  y: 8.5
+  z: 7112.144037294633
+  yaw: 1.0082865
+  pitch: 5.100029
+uuid: b1857c05-7e32-311f-9204-3996c9224307
+homes:
+  xp:
+    world: world
+    x: -5672.778380227991
+    y: 5.0
+    z: 8220.871386875095
+    yaw: 186.6665
+    pitch: 4.4999022
+  ap:
+    world: world
+    x: 283.6569318229518
+    y: 64.0
+    z: 247.6808613832372
+    yaw: 89.41489
+    pitch: 25.392736
+  aph:
+    world: world
+    x: 272.5388022609328
+    y: 82.0
+    z: 249.83478463266403
+    yaw: 90.313995
+    pitch: 54.449997
+  douve:
+    world: world
+    x: 283.4876137687219
+    y: 5.0
+    z: 243.62683940137921
+    yaw: 91.32615
+    pitch: 17.10002
+  pillage2:
+    world: world
+    x: 2833.3973418143414
+    y: 6.0
+    z: 4455.082670073059
+    yaw: 47.222656
+    pitch: 21.900002
+  cabanon:
+    world: world
+    x: -2108.703076341065
+    y: 73.0
+    z: 5673.882762781146
+    yaw: 281.6897
+    pitch: 27.300154
+money: '5392.0'
+ignore:
+- petit_panda
+muted: false

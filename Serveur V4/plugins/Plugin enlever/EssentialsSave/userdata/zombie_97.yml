@@ -1,0 +1,38 @@
+socialspy: false
+timestamps:
+  login: 1456927689826
+  kits:
+    bouffe: 1456421361988
+    octonien: 1456421359844
+    xp: 1456058191715
+    decouverte: 1456057952671
+  lastteleport: 1456928991787
+  logout: 1456929307479
+  lastheal: 1456577118699
+ipAddress: 78.215.146.106
+lastlocation:
+  world: world
+  x: -1.257843926978913
+  y: 190.5
+  z: 2.0331441622068
+  yaw: -71.150055
+  pitch: 19.857225
+logoutlocation:
+  world: world
+  x: -166.34039757194492
+  y: 65.52396705093716
+  z: 292.30000001192093
+  yaw: 39.78777
+  pitch: 8.87596
+homes:
+  home:
+    world: world
+    x: -150.06838191565353
+    y: 64.0
+    z: 266.62365575011887
+    yaw: 324.26688
+    pitch: 10.789878
+money: '0.005'
+uuid: 44ea0dff-d9f2-3262-a91f-320710d20760
+ignore:
+- wolt3k

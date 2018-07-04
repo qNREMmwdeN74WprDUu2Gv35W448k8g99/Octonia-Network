@@ -1,0 +1,12 @@
+# EnderPearl Cooldown
+# Version 2
+# Made by JMAK with luv <3
+# DO NOT REMOVE THE '' AT THE BEGINNING AND ENDS OF THE LINES!!! (Will cause issues if you do!)
+
+cooldownmsg: '&5[OctoPearl&5]&9Temps restant pour lancer la prochaine EnderPearl: &c&l%time% &9secondes !'
+cooldownendedmsg: '&5[OctoPearl&5]&9Tu peux a nouveau lancer une EnderPearl !'
+cooldown: 15
+
+use-scoreboard: false
+sb-title: '&5[OctoPearl&5]&cv6.3'
+scoreboardline: '&6&lTime Left:'

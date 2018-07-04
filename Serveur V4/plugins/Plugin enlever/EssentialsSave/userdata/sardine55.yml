@@ -1,0 +1,70 @@
+timestamps:
+  login: 1455451551235
+  kits:
+    heros: 1455358764648
+    bouffe: 1455295562435
+    octonien: 1455388236192
+    chevalier: 1455387050554
+    legendaire: 1455388496688
+  lastteleport: 1455452395420
+  logout: 1455453154978
+  lastheal: 1455452651296
+ipAddress: 2.1.180.123
+lastlocation:
+  world: world
+  x: -4342.915729033957
+  y: 15.0
+  z: 8893.345337978883
+  yaw: 195.42981
+  pitch: 20.521202
+logoutlocation:
+  world: world
+  x: -2311.0490939040583
+  y: 55.5
+  z: 9540.300000011921
+  yaw: -130.79901
+  pitch: 0.75001854
+homes:
+  home:
+    world: world
+    x: -2315.699999988079
+    y: 63.0
+    z: 9544.699999988079
+    yaw: 193.50072
+    pitch: -1.0499673
+  base:
+    world: world
+    x: 1610.300000011921
+    y: 54.0
+    z: 1801.699999988079
+    yaw: 177.91235
+    pitch: 10.95
+  bp:
+    world: world
+    x: -6737.300000011921
+    y: 6.0
+    z: 7286.581317186779
+    yaw: 88.19704
+    pitch: 6.5999885
+  sable:
+    world: world
+    x: 1610.300000011921
+    y: 69.0
+    z: 1794.5208707415813
+    yaw: -20.399933
+    pitch: 10.650021
+  perso:
+    world: world
+    x: -4350.699999988079
+    y: 15.0
+    z: 8894.699999988079
+    yaw: 255.12973
+    pitch: 12.271198
+  sardine55:
+    world: world
+    x: -5621.825390459024
+    y: 15.0
+    z: 6458.256476491377
+    yaw: -228.78992
+    pitch: 17.550085
+money: '8381.50'

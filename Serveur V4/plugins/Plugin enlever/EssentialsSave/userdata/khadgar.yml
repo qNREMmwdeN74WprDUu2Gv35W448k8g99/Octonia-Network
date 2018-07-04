@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1456608701440
+  lastteleport: 1456610147333
+  kits:
+    bouffe: 1456610689088
+    octonien: 1456607473875
+    decouverte: 1456607483883
+    xp: 1456607479908
+  logout: 1456610699706
+  lastheal: 1456610575880
+  mute: 0
+ipAddress: 77.147.155.170
+lastlocation:
+  world: world
+  x: 355.76249998807907
+  y: 38.0
+  z: -4458.061321355022
+  yaw: -130.24652
+  pitch: 20.100008
+homes:
+  home:
+    world: world
+    x: 365.52088627285843
+    y: 94.0
+    z: -4469.7191082940935
+    yaw: -97.2459
+    pitch: -9.300009
+money: '268574.60'
+logoutlocation:
+  world: world
+  x: 359.1522378687239
+  y: 22.0
+  z: -4452.300000011921
+  yaw: 222.92204
+  pitch: -84.68259
+muted: false
+uuid: 1dfe111c-d132-3555-b838-4c474f15145c
+ignore:
+- samthebest

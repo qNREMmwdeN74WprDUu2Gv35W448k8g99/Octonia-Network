@@ -1,0 +1,31 @@
+Blacklist:
+- '380:0:Cancer '
+- '853:-1:'
+Filter:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 87
+- 12
+- 112
+- 13
+- 17
+- 18
+- 159
+- 162
+- 172
+- 323
+- 174
+- 24
+- 38
+- 6
+- 31
+- 79
+Blacklist Placement: []
+Blacklist Pickup: []
+Blacklist Interaction: []
+Blacklist Click: []
+Blacklist Break: []
+Blacklist World: []

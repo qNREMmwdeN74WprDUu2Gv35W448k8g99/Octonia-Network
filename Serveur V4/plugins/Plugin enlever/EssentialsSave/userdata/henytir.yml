@@ -1,0 +1,34 @@
+uuid: 60cac624-51ec-3f78-92ed-8e0d66e2a987
+timestamps:
+  login: 1457278785503
+  kits:
+    bouffe: 1456249228435
+    octonien: 1456324584579
+  logout: 1457280150878
+  lastteleport: 1457279997481
+ipAddress: 78.249.153.206
+lastlocation:
+  world: world
+  x: -281.69999998807907
+  y: 57.5
+  z: 232.9674190977055
+  yaw: -272.90198
+  pitch: -34.799995
+homes:
+  home:
+    world: world
+    x: -4.5
+    y: 64.0
+    z: 286.5
+    yaw: -94.06008
+    pitch: 12.079584
+logoutlocation:
+  world: world
+  x: -5000.790240267516
+  y: 52.0
+  z: 394.23223177136447
+  yaw: -102.16345
+  pitch: 24.150011
+money: '0.0'
+ignore:
+- thomas0185

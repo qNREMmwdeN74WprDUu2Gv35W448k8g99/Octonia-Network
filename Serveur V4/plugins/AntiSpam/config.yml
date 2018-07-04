@@ -1,0 +1,21 @@
+###########################################
+#+---------------------------------------+#
+#|        InvictusPVP© | AntiSpam        |#
+#|    Plugin by Deziity and STARL3UK     |#
+#|        http://invictuspvp.fr          |#
+#+---------------------------------------+#
+###########################################
+# Permission: for bypass(antispam.bypass) for use /asreload(antispam.reload)
+
+# Countdown time in seconds
+time: 2
+
+# Spam message
+message: '&C[Octonia]&6Merci de ne pas spam le chat ! 
+
+# No permission message
+noperm: '&cVous ne pouvez pas utiliser cette commande !'
+
+# Reload message
+mreload: '&aAntiSpam reload!'
+

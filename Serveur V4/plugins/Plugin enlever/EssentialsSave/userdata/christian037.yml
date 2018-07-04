@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1457177674779
+  kits:
+    bouffe: 1457176168834
+    octonien: 1457177370339
+    decouverte: 1457176304101
+  logout: 1457177545015
+  lastteleport: 1457177693219
+  lastheal: 1457118107253
+  mute: 0
+ipAddress: 88.169.195.70
+lastlocation:
+  world: world
+  x: 4.036353225946603
+  y: 189.5
+  z: 0.06581705245659476
+  yaw: -38.500946
+  pitch: 8.547825
+homes:
+  home:
+    world: world
+    x: 1876.699999988079
+    y: 5.0
+    z: -5733.579667678729
+    yaw: 93.286385
+    pitch: 46.200012
+logoutlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -357.85095
+  pitch: 4.9478226
+ignore:
+- hurricanekiller
+uuid: 2a177b46-ae60-35a8-8e76-805a87e2c750
+muted: false
+money: '18.5'

@@ -1,0 +1,36 @@
+socialspy: false
+timestamps:
+  login: 1455560144573
+  lastteleport: 1455560205790
+  logout: 1455561218856
+  kits:
+    bouffe: 1455154888098
+    octonien: 1455560178763
+    decouverte: 1455390883864
+  lastheal: 1455391036305
+ipAddress: 46.16.37.140
+lastlocation:
+  world: world
+  x: 936.0297909615837
+  y: 90.0
+  z: -1275.8692812731927
+  yaw: 3.1500754
+  pitch: 10.799979
+logoutlocation:
+  world: world
+  x: 19.655714511151768
+  y: 188.0
+  z: -27.237542888629186
+  yaw: -187.06146
+  pitch: 26.399937
+homes:
+  home:
+    world: world
+    x: 921.3000000119209
+    y: 90.0
+    z: -1271.8458270483154
+    yaw: -216.44984
+    pitch: 27.749987
+money: '7.0'
+ignore:
+- masteriii

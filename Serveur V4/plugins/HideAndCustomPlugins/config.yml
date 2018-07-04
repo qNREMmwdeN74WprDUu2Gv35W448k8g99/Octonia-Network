@@ -1,0 +1,9 @@
+# HideAndCustomPlugins by the Austrian Developer LauseggerDevelopment (lausi1793)
+# Type here your Custom Plugins in the config.yml
+# When disableHelpCommand is false the message hidehelpmessage is useless
+HideAndCustomPlugins:
+  updateNotification: false
+  plugins: OctoCoreV3
+  hideversion: craftbukkit-1.6.4-server
+  disableHelpCommand: false
+  hidehelpmessage: '&cYou dont need help'

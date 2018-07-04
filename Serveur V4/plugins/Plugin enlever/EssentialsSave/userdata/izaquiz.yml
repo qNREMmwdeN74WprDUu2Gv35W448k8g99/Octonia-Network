@@ -1,0 +1,82 @@
+timestamps:
+  login: 1456844626787
+  lastteleport: 1456845244940
+  kits:
+    heros: 1456088745025
+    bouffe: 1455741541434
+    minerais: 1456844639926
+    octonien: 1456053689785
+    chevalier: 1456159120268
+    destruction: 1456177304165
+    decouverte: 1456845248340
+    construction: 1456177324250
+    legendaire: 1456844634228
+    alchimiste: 1456088693091
+    golden: 1456844636829
+  logout: 1456845276563
+  lastheal: 1456844735599
+  mute: 0
+ipAddress: 86.196.135.237
+lastlocation:
+  world: world
+  x: 9386.5
+  y: 245.0
+  z: -2042.5
+  yaw: 172.59622
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 4.050000011920929
+  y: 191.0
+  z: -1.437770729188303
+  yaw: -139.60101
+  pitch: 43.649967
+homes:
+  raid:
+    world: world
+    x: -8817.5
+    y: 249.875
+    z: -4133.5
+    yaw: -159.28232
+    pitch: 53.849224
+  pillage:
+    world: world
+    x: 1432.0431975466074
+    y: 67.0
+    z: 2057.225552359193
+    yaw: 275.7223
+    pitch: 18.900045
+  sky:
+    world: world
+    x: 9386.5
+    y: 245.0
+    z: -2042.5
+    yaw: -66.65384
+    pitch: 49.426304
+  bp:
+    world: world
+    x: 3113.8489473863906
+    y: 19.0
+    z: 1557.7436374882084
+    yaw: 219.45764
+    pitch: 33.74998
+  oo:
+    world: world
+    x: 9815.379072753753
+    y: 35.0
+    z: 474.06909973860303
+    yaw: 241.76733
+    pitch: 16.800138
+  farm:
+    world: world
+    x: 713.3165357686559
+    y: 6.0
+    z: 3264.6351535087633
+    yaw: 160.20699
+    pitch: 18.900003
+money: '0.0'
+uuid: 24bd3e41-1c67-3048-9349-70629065a308
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

@@ -1,0 +1,71 @@
+socialspy: false
+timestamps:
+  login: 1457264037643
+  kits:
+    heros: 1456563867837
+    bouffe: 1457263545360
+    octonien: 1456564652615
+    chevalier: 1456564034725
+    decouverte: 1457264924453
+    legendaire: 1457263704578
+  logout: 1456580767742
+  lastteleport: 1457264983083
+  lastheal: 1456578231418
+  mute: 0
+ipAddress: 109.130.109.78
+lastlocation:
+  world: world
+  x: 2837.6234299785597
+  y: 66.0
+  z: 4450.156604890451
+  yaw: -279.79614
+  pitch: -8.010743
+logoutlocation:
+  world: world
+  x: -23.663093207222186
+  y: 198.0
+  z: 22.699999988079067
+  yaw: -162.35168
+  pitch: 25.024864
+homes:
+  ap:
+    world: world
+    x: -22.898353770459302
+    y: 64.0
+    z: -283.0892243988183
+    yaw: -69.42234
+    pitch: 28.526785
+  pillage:
+    world: world
+    x: 2081.0091030424032
+    y: 68.0
+    z: -2237.300000011921
+    yaw: -161.34578
+    pitch: 35.482944
+  p:
+    world: world
+    x: -1145.5
+    y: 136.0
+    z: -5.5
+    yaw: -230.02353
+    pitch: 38.98903
+  sky:
+    world: world
+    x: 4514.663151144746
+    y: 253.0
+    z: 6270.364203960367
+    yaw: -34.551666
+    pitch: 77.27585
+  bp:
+    world: world
+    x: 2508.300000011921
+    y: 82.0
+    z: 6478.004262804348
+    yaw: -357.78802
+    pitch: 66.307755
+money: '5.50'
+muted: false
+uuid: aa2b693a-ab9c-3a43-b80d-3338f0360bb7
+ban:
+  reason: Banni temporairement du serveur pour 5 secondes.
+  timeout: 0

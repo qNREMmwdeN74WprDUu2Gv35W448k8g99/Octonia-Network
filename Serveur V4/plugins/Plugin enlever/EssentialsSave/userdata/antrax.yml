@@ -1,0 +1,90 @@
+timestamps:
+  login: 1456855060340
+  logout: 1456856109453
+  kits:
+    heros: 1455299644977
+    bouffe: 1455901128923
+    octonien: 1456855982873
+    druide: 1455975845732
+    chevalier: 1455299648734
+    destruction: 1455975935054
+    xp: 1455975984878
+    pvpbox: 1455223307802
+    legendaire: 1455975716185
+    alchimiste: 1455975738130
+    minerais: 1455975812050
+    tower3: 1455056946068
+    tower2: 1455056949279
+    decouverte: 1455976008741
+    tower1: 1455585362603
+    construction: 1455975895709
+  lastteleport: 1456855616729
+  lastheal: 1455836435612
+  jail: 0
+ipAddress: 2.1.5.200
+logoutlocation:
+  world: world
+  x: 2323.300000011921
+  y: 11.5
+  z: -8718.1973035494
+  yaw: 103.083466
+  pitch: 11.987437
+socialspy: true
+lastlocation:
+  world: world
+  x: 2324.5
+  y: 5.0
+  z: -8713.5
+  yaw: 336.11295
+  pitch: 12.391461
+homes:
+  home:
+    world: world
+    x: -71.23058356603875
+    y: 36.0
+    z: -7987.676563197587
+    yaw: 2.6361084
+    pitch: -8.249943
+  r:
+    world: world
+    x: -6394.597989044736
+    y: 6.0
+    z: -7624.116306111607
+    yaw: 216.48047
+    pitch: 8.99986
+  h:
+    world: world
+    x: -5319.300000011921
+    y: 6.0
+    z: -4885.699999988079
+    yaw: 0.63171387
+    pitch: 45.150043
+  ap:
+    world: world
+    x: 25.486234489614702
+    y: 4.0
+    z: 285.69999998807907
+    yaw: 179.14989
+    pitch: 90.0
+money: '0.0'
+afk: false
+godmode: false
+powertools:
+  '369':
+  - fireball
+  '499':
+  - tnt
+  '294':
+  - tnt
+  '371':
+  - tnt
+  '280':
+  - tnt
+teleportenabled: true
+ignore:
+- ninjeurs
+ban:
+  reason: Banni temporairement du serveur pour now.
+  timeout: 0
+jailed: false
+uuid: 4d90317c-aace-3a60-9c3b-fb38f349d599

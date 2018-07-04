@@ -1,0 +1,66 @@
+timestamps:
+  login: 1457279989701
+  logout: 1457282586081
+  lastteleport: 1457281918933
+  kits:
+    bouffe: 1457229033216
+    heros: 1457228403795
+    octonien: 1457224728892
+    chevalier: 1457230402107
+    xp: 1457282265905
+    decouverte: 1457227587851
+    legendaire: 1457222878479
+  lastheal: 1457282474694
+  mute: 0
+ipAddress: 92.157.23.5
+lastlocation:
+  world: world
+  x: -9312.070249502392
+  y: 155.0
+  z: -304.1929238947054
+  yaw: 162.41046
+  pitch: 64.950005
+logoutlocation:
+  world: world
+  x: -9311.715735705126
+  y: 113.0
+  z: -311.2709331976391
+  yaw: -71.07196
+  pitch: 4.199995
+homes:
+  home:
+    world: world
+    x: -9312.802582008102
+    y: 114.5
+    z: -304.41434461207075
+    yaw: -278.7509
+    pitch: 61.950127
+  spawner:
+    world: world
+    x: -9311.460954682201
+    y: 143.0
+    z: -302.6817596625449
+    yaw: -21.546295
+    pitch: 88.5
+  pillage:
+    world: world
+    x: -8323.050972609108
+    y: 6.0
+    z: -2808.8856287013195
+    yaw: -217.95282
+    pitch: 18.450022
+  ap:
+    world: world
+    x: 283.9116410468775
+    y: 64.0
+    z: -71.98346597837615
+    yaw: 28.723253
+    pitch: 26.332747
+money: '7778.00'
+muted: false
+ignore:
+- vulcoz
+uuid: bc667253-8ee7-3816-8b8b-11f766035830
+ban:
+  reason: Banni temporairement du serveur pour 1 minute.
+  timeout: 0

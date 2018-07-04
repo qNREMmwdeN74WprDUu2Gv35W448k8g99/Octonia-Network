@@ -1,0 +1,531 @@
+﻿ShopName: Menu
+DisplayName: '&4&l[x] &c&lOctonia V3.5 &4&l[x]'
+signs:
+  text: '[Menu]'
+  NeedPermissionToCreateSign: true
+InventorySize: 45
+shop:
+  glass1:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glass2:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  zonefarming:
+    MenuItem:
+    - lore:&7Téléportation direct au HUB !##&cPrenez le portail#&cde votre choix !
+    - name:&7[o] &a&lChanger de serveur Faction &7[o]
+    - amount:1
+    - type:DRAKE_SWORD
+    RewardType: PLAYERCOMMAND
+    Reward: hub_1
+    PriceType: NOTHING
+    Message: '&4Merci de deconnecter !'
+    ExtraPermission: ''
+    InventoryLocation: 3
+  zoneminage:
+    MenuItem:
+    - lore:&7Téléportation directe à la zone Minage !##&cPrenez le portail#&cde votre choix !#&7- Minage 1#&7- Minage 2
+    - name:&7[o] &6&lZone Minage &7[o]
+    - amount:1
+    - type:STONE_PICKAXE
+    RewardType: PLAYERCOMMAND
+    Reward: hub_2
+    PriceType: NOTHING
+    Message: '&4Merci de deconnecter !'
+    ExtraPermission: ''
+    InventoryLocation: 4
+  zoneshop:
+    MenuItem:
+    - lore:&7Ouverture du Shop !
+    - name:&7[o] &c&lShop &7[o]
+    - amount:1
+    - type:DIAMOND
+    RewardType: PLAYERCOMMAND
+    Reward:
+    - shop
+    PriceType: NOTHING
+    Message: '	'
+    ExtraPermission: ''
+    InventoryLocation: 6
+  zoneend:
+    MenuItem:
+    - lore:&7Téléportation directe à la zone End !
+    - name:&7[o] &1&lZone End &7[o]
+    - amount:1
+    - type:ENDER_PEARL
+    RewardType: PLAYERCOMMAND
+    Reward:
+    - warp end
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 7
+  glass3:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 5
+  glass4:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glass400:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 40
+  glass401:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  glass5:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glass6:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  shopmetier:
+    MenuItem:
+    - lore:&7Ouverture du Shop Metiers !##&4Disponible a la V4 !
+    - name:&7[tools] &c&lShop Metiers &7[tools]
+    - amount:1
+    - type:GOLD_INGOT
+    RewardType: shop
+    Reward: metiershop
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  boutique:
+    MenuItem:
+    - lore:&7Ouverture de la boutique !#&7Les &6OctoCoins &7sont achetables#&7sur &c&lle site &r&7d'Octonia.
+    - name:&7[o] &c&lBoutique &a[v]
+    - amount:1
+    - type:COINS
+    RewardType: shop
+    Reward: boutique
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  gestionmetier:
+    MenuItem:
+    - lore:&7Ouverture de la Gestion Metiers !##&4Disponible a la V4 !
+    - name:&7[tools] &6&lGestion Metiers &7[tools]
+    - amount:1
+    - type:DIAMOND_AXE
+    RewardType: shop
+    Reward: gestionmetier
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 21
+  venterapide:
+    MenuItem:
+    - lore:&7Ouverture du Shop Vente Rapide !
+    - name:&7[*] &5&lShop Vente Rapide &7[*]
+    - amount:1
+    - type:PUMPKIN
+    RewardType: shop
+    Reward: Menu
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 25
+  mobspawner:
+    MenuItem:
+    - lore:&7Ouverture de mon OctoSpawner !
+    - name:&7[o] &b&lMes Spawners &7[o]
+    - amount:1
+    - type:MOB_SPAWNER
+    RewardType: PLAYERCOMMAND
+    Reward:
+    - octospawner
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  hdv:
+    MenuItem:
+    - lore:&7Ouverture du HDV !
+    - name:&7[o] &e&lHotel des Ventes &7[o]
+    - amount:1
+    - type:CHEST
+    RewardType: PLAYERCOMMAND
+    Reward:
+    - ah
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 35
+  glass7:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18
+  glass8:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+  glass9:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 36
+  glass10:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glass11:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  glass12:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  glass13:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  glass14:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  bottlexp:
+    MenuItem:
+    - lore:&7Créer une bouteille d'exp !
+    - name:&7[o] &b&lBottle XP &7[o]
+    - amount:1
+    - type:EXP_BOTTLE
+    RewardType: PLAYERCOMMAND
+    Reward:
+    - bottlexp
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  glass15:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  glass151:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  glass152:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  glass16:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  glass17:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  glass18:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 15
+  glass19:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 16
+  glass20:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  glass21:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  glass22:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 22
+  glass23:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 24
+  playerinfo:
+    MenuItem:
+    - 'lore:&7Voici vos statistiques:## &7[o] &6Monnaie: &7%balance% # &7[o] &6JobPoints: &7%balancepoints% ## &7[o] &cOctoCoins: &7%token%##&aClique ici pour afficher#&ates succès'
+    - name:&2[o] &a&lVos Statistiques &2[o]
+    - amount:1
+    - type:SKULL_ITEM
+    - durability:3
+    RewardType: command
+    Reward: lol
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 23
+  glass24:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 26
+  glass25:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  glass26:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  glass27:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  glass28:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  glass29:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  glass30:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34

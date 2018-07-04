@@ -1,0 +1,43 @@
+timestamps:
+  login: 1457342599148
+  logout: 1457342929512
+  lastteleport: 1457343198745
+  kits:
+    chevalier: 1455099462689
+    destruction: 1454707747789
+    tower3: 1454756741098
+    xp: 1454710388865
+    tower2: 1454756739598
+    decouverte: 1454709743307
+    tower1: 1456847225734
+    legendaire: 1456666212745
+    golden: 1455912003856
+    alchimiste: 1455234352841
+ipAddress: 92.130.248.170
+lastlocation:
+  world: world
+  x: 131.36689214551893
+  y: 79.0
+  z: 671.3869388813072
+  yaw: 270.10117
+  pitch: 8.277083
+logoutlocation:
+  world: world
+  x: -39.065960932626155
+  y: 70.0
+  z: 629.0018134695589
+  yaw: -84.649666
+  pitch: 9.926985
+afk: false
+money: '60'
+socialspy: false
+godmode: true
+homes:
+  home:
+    world: world
+    x: 0.5
+    y: 190.5099999904633
+    z: 0.5
+    yaw: -357.55096
+    pitch: 4.1978226
+uuid: 5a638e02-ef2d-35fc-b07f-a1d7e43ef70b

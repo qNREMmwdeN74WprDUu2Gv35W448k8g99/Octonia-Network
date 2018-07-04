@@ -1,0 +1,38 @@
+socialspy: false
+timestamps:
+  login: 1457307539834
+  kits:
+    bouffe: 1457315306809
+    octonien: 1457311920080
+    xp: 1457308620237
+    decouverte: 1457308677936
+  lastteleport: 1457319658618
+  logout: 1457313811512
+  lastheal: 1457318285919
+ipAddress: 109.211.245.172
+lastlocation:
+  world: world
+  x: 3337.588870387222
+  y: 65.0
+  z: -1.5725076179591144
+  yaw: 153.23608
+  pitch: 35.999996
+logoutlocation:
+  world: world
+  x: 3334.9975543774985
+  y: 5.0
+  z: -10.293100611929074
+  yaw: -128.24915
+  pitch: 11.250003
+homes:
+  home:
+    world: world
+    x: 3336.398446433908
+    y: 252.0
+    z: -16.53801394335153
+    yaw: -9.064026
+    pitch: 70.99825
+money: '1278.0'
+uuid: c8b5d0f1-1f20-35ae-8db5-468e42ff50b9
+ignore:
+- arthurodelanoche

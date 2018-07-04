@@ -1,0 +1,53 @@
+timestamps:
+  login: 1457278901555
+  kits:
+    bouffe: 1454929212635
+    octonien: 1454929215100
+    druide: 1457125616484
+    chevalier: 1457084904109
+    decouverte: 1457181622428
+    construction: 1457175851510
+    golden: 1457174420839
+    alchimiste: 1457174451716
+  lastteleport: 1457278910112
+  logout: 1457279638181
+  lastheal: 1457264296794
+ipAddress: 86.252.135.29
+lastlocation:
+  world: world
+  x: 10.765252963522565
+  y: 158.0
+  z: 3.5355874509263634
+  yaw: -177.8954
+  pitch: 60.83487
+homes:
+  home:
+    world: world
+    x: -8171.800000011921
+    y: 13.0
+    z: 5732.464868180057
+    yaw: 79.27411
+    pitch: 9.835661
+  bp:
+    world: world
+    x: -7911.320113553002
+    y: 76.0
+    z: 4256.95680925741
+    yaw: 220.32712
+    pitch: 12.913293
+logoutlocation:
+  world: world
+  x: 3.6913950072718964
+  y: 178.0
+  z: 3.699999988079071
+  yaw: 6.571893
+  pitch: 36.142147
+uuid: cc6d5659-495d-32e9-9433-e4747adc77fd
+money: '18868.0'
+ignore:
+- jordan59290
+- zekrom
+- selahsue
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

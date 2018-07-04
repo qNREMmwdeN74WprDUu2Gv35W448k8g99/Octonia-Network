@@ -1,0 +1,34 @@
+uuid: d451fbcc-1082-3547-a675-2a171e604449
+timestamps:
+  login: 1456277068393
+  logout: 1456277622407
+  kits:
+    bouffe: 1456273866234
+    octonien: 1456274664066
+  lastteleport: 1456277486221
+ipAddress: 88.150.201.61
+lastlocation:
+  world: world
+  x: 2817.3398102470637
+  y: 5.0
+  z: 2340.490144441472
+  yaw: -89.5849
+  pitch: 5.3515325
+homes:
+  home:
+    world: world
+    x: -478.6472275839209
+    y: 33.0
+    z: -2653.9847505684593
+    yaw: -149.74988
+    pitch: 28.49996
+logoutlocation:
+  world: world
+  x: -3.5581545545038917
+  y: 189.5
+  z: -0.3994300467057995
+  yaw: -261.3496
+  pitch: -35.192253
+ban:
+  reason: 'Banni : Give'
+  timeout: 0

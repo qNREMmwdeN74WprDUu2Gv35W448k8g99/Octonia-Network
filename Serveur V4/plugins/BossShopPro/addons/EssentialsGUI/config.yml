@@ -1,0 +1,17 @@
+# EssentialsGUI
+# by Felix Neubauer
+#
+#
+# Settings:
+# FirstLetterUppercase:
+# If enabled the first letter of the name of the warp/kit will be transformed into upper case.
+#
+# Enabled:
+# Set this to false if you do not want the related menus to be created/loaded.
+Settings:
+  Warp:
+    FirstLetterUppercase: true
+    Enabled: true
+  Kit:
+    FirstLetterUppercase: true
+    Enabled: true

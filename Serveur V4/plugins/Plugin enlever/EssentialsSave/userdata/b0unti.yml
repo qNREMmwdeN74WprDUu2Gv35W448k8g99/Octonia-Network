@@ -1,0 +1,88 @@
+timestamps:
+  login: 1457294265618
+  kits:
+    minerais: 1457290001340
+    heros: 1457289994641
+    bouffe: 1457294845716
+    octonien: 1457186918155
+    druide: 1457290003192
+    chevalier: 1457289991995
+    decouverte: 1457279157103
+    xp: 1457289997289
+    legendaire: 1457294853629
+    alchimiste: 1457278873400
+    golden: 1457294813754
+  lastteleport: 1457299688083
+  logout: 1457299737835
+  lastheal: 1457299651928
+  jail: 0
+  mute: 0
+ipAddress: 90.76.28.53
+lastlocation:
+  world: world
+  x: 152.51265265728208
+  y: 5.0
+  z: 287.4096886774506
+  yaw: 168.8894
+  pitch: -22.05001
+homes:
+  bp:
+    world: world
+    x: 963.2976655022451
+    y: 10.0
+    z: -7273.931155818758
+    yaw: 181.24092
+    pitch: 26.970144
+  p:
+    world: world
+    x: 152.65650991999203
+    y: 10.0
+    z: 290.69999998807907
+    yaw: 131.53958
+    pitch: 42.89996
+  ap:
+    world: world
+    x: 95.53415643225055
+    y: 64.0
+    z: 285.69999998807907
+    yaw: 173.44635
+    pitch: 6.449784
+  farm:
+    world: world
+    x: 1877.3012143077235
+    y: 5.0
+    z: -5729.3349762151265
+    yaw: 103.09897
+    pitch: -21.149975
+  mine:
+    world: world
+    x: 7684.300000011921
+    y: 3.0
+    z: -769.3000000119209
+    yaw: -194.10025
+    pitch: 19.500006
+  bp2:
+    world: world
+    x: 9774.98054550599
+    y: 5.5
+    z: 848.3138289981187
+    yaw: 23.014067
+    pitch: 20.249977
+logoutlocation:
+  world: world
+  x: 9774.133554228496
+  y: 5.0
+  z: 858.0594125020117
+  yaw: -353.6362
+  pitch: 8.400002
+money: '1379.5'
+ignore:
+- tronex_pvp
+- bracos80
+- darkmonster
+uuid: 5996195e-f432-3139-a329-12057d7c2439
+jailed: false
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 2 secondes.
+  timeout: 0

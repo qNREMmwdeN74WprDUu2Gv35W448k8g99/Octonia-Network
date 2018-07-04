@@ -1,0 +1,36 @@
+timestamps:
+  login: 1456594646231
+  kits:
+    bouffe: 1456594684216
+    octonien: 1456594678709
+    decouverte: 1456594689822
+  logout: 1456594982465
+  lastheal: 1456515258651
+  lastteleport: 1456515303941
+ipAddress: 78.242.169.123
+lastlocation:
+  world: world
+  x: -24.965081715208587
+  y: 31.0
+  z: 118.8369392406683
+  yaw: 179.44727
+  pitch: 10.499685
+logoutlocation:
+  world: world
+  x: 2.005701278203692
+  y: 189.0
+  z: 14.490915461677925
+  yaw: -337.301
+  pitch: 17.247824
+homes:
+  home:
+    world: world
+    x: -4013.8396763588325
+    y: 64.0
+    z: -389.247139155877
+    yaw: 66.41557
+    pitch: 20.999987
+money: '200'
+uuid: d77647ea-b441-3041-8943-698509a4e19b
+ignore:
+- agarock

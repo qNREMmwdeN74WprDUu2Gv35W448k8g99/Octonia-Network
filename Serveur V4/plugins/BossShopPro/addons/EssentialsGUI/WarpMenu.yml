@@ -1,0 +1,46 @@
+## warpshopitem: 
+## Here you can define the look and functionality of every warp icon.
+## By default clicking a warp and as result executing the warp command is free.
+## The reward of clicking the icon is the warp command being executed. 
+## Possible warp delays, prices or required permissions depend on your Essentials settings 
+## as all this plugin does is making the player execute a specific warp command.
+## One possibility to make your automated warp icons look different is by using the placeholder '%warpid%' which will be replaced with the id of the icon (from 0 to <amount of icons> -1).
+## In the default configuration the warpid is combined with modulo in order to generate colorful wool icons. Of course you can remove the durability line if you do not want that effect.
+warpshopitem:
+  PriceType: NOTHING
+  RewardType: PLAYERCOMMAND
+  Reward:
+  - 'warp %warpname%'
+  MenuItem:
+  - name:&f&n&lWarp&0 &6&l%warpname%.
+  - 'lore:&8Click in order to warp to %warpname%.'
+  - type:WOOL
+  - amount:1
+  - 'durability:%warpid% % 15'
+## Uncomment the playerworld condition if you want players to only see local warps which are in the same world as they are.
+  Condition:
+  - type:essentialswarp
+  - 'validworld:%warpname%'
+#  - 'playerworld:%warpname%'
+##
+## Everything below this comment works just like every BossShopPro shop.
+## More information can be found here: https://www.spigotmc.org/wiki/bossshoppro-configuration/
+ShopName: Warps
+DisplayName: '&1&lWarps'
+Command: warps:warpgui
+signs:
+  text: '[Warps]'
+  NeedPermissionToCreateSign: false
+shop:
+  Back:
+    MenuItem:
+    - lore:&8Back to Menu
+    - name:&cBack
+    - amount:1
+    - type:REDSTONE
+    RewardType: SHOP
+    Reward: menu
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

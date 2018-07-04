@@ -1,0 +1,75 @@
+uuid: 3501cd93-8b2e-35f2-be0f-69bfbddeb3f0
+timestamps:
+  login: 1457276306562
+  kits:
+    bouffe: 1457277145856
+    heros: 1457277174896
+    octonien: 1457279921688
+    chevalier: 1457256698076
+    legendaire: 1457277179044
+  logout: 1457294790341
+  lastteleport: 1457294446232
+  mute: 0
+  jail: 0
+  lastheal: 1457294433363
+ipAddress: 90.27.104.82
+lastlocation:
+  world: world
+  x: 111.5
+  y: 73.0
+  z: -850.5
+  yaw: -33.375183
+  pitch: -27.450012
+homes:
+  sky:
+    world: world
+    x: -9132.23319149762
+    y: 221.875
+    z: -3417.572259603818
+    yaw: -130.10126
+    pitch: 4.1999454
+  farm:
+    world: world
+    x: -780.0706175164797
+    y: 23.0
+    z: -3798.113124954469
+    yaw: -134.38
+    pitch: -0.30000657
+  raid:
+    world: world
+    x: -9394.5
+    y: 254.0
+    z: -3371.5
+    yaw: -281.00128
+    pitch: 14.099998
+  raid3:
+    world: world
+    x: 2821.5
+    y: 16.0
+    z: 4456.5
+    yaw: -96.5358
+    pitch: 4.210093
+  raid2:
+    world: world
+    x: 6767.569596902018
+    y: 14.5
+    z: -1775.8820724360428
+    yaw: -128.96054
+    pitch: 15.900087
+  ap:
+    world: world
+    x: 104.78812357089602
+    y: 64.0
+    z: -284.4382668178341
+    yaw: -0.2253418
+    pitch: 8.699996
+logoutlocation:
+  world: world
+  x: -9395.992807697025
+  y: 65.0
+  z: -3373.5236723230987
+  yaw: -188.4513
+  pitch: -7.500062
+muted: false
+jailed: false
+money: '3958.0'

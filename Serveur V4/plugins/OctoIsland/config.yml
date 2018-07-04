@@ -1,0 +1,17 @@
+# Fichier de configuration de l'Oeuf de Drake
+# Toutes les durées sont en minutes.
+# Attention, le fichier schematic doit être dans le répertoire du plugin.
+# La liste du nom des items est disponible ici : http://jd.bukkit.org/rb/apidocs/org/bukkit/Material.html
+# Il est important d'indiquer le nom du monde afin de prendre en compte la worldborder.
+dureePrespawn: 15
+dureeTag: 12
+rayonClaimInterdit: 7
+nomFichierSchematic: octonia.schematic
+nomFichierSchematicNuit: octonia.schematic
+IdItemEntrainantTag: 203
+monde: world
+delaiActivationRedemarrage: 0
+noSpawnItems:
+- 17
+- 18
+blocsEnDessousDeLaTerre: 5

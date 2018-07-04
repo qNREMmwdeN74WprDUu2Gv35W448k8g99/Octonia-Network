@@ -1,0 +1,44 @@
+uuid: e46f7ab4-7196-3a3e-aa1f-ccfbd215a708
+timestamps:
+  login: 1457287786899
+  kits:
+    bouffe: 1457287804828
+    octonien: 1457278132697
+    decouverte: 1457278137069
+  logout: 1457289486404
+  lastteleport: 1457289344813
+  jail: 1457332603457
+  mute: 0
+  lastheal: 1457289354605
+ipAddress: 92.148.182.75
+lastlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -357.55096
+  pitch: 4.1978226
+logoutlocation:
+  world: world
+  x: 11.31562908552587
+  y: 190.1707870772188
+  z: 15.311827611178163
+  yaw: -232.88289
+  pitch: -1.6103115
+homes:
+  home:
+    world: world
+    x: 4854.497374522514
+    y: 181.875
+    z: -5074.691044320286
+    yaw: -272.40005
+    pitch: 39.60002
+jailed: true
+muted: false
+money: '874.25'
+ignore:
+- thomas0185
+jail: prison2
+ban:
+  reason: Banni temporairement du serveur pour 2 secondes.
+  timeout: 1457289489078

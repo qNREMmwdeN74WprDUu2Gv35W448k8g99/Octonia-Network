@@ -1,0 +1,22 @@
+#----------------------------------------
+# Vanilla player join
+# Player joining
+# 
+#----------------------------------------
+
+# DO NOT EDIT THIS CONFIG VERSION!
+config: 1
+
+
+# Do you want to enable this event hook?
+# Enabling this hook will trigger team
+# when the player joins the server
+# for the player that joined
+enabled: false
+
+# team to trigger
+team: 'default'
+
+
+# The time to display the team on the screen (in millseconds)
+onscreen-time: 5000

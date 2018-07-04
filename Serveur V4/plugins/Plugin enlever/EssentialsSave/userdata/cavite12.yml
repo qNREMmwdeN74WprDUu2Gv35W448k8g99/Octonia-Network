@@ -1,0 +1,37 @@
+uuid: 010e4d0e-5b13-359c-ba49-3c1fff62db56
+timestamps:
+  login: 1456482053073
+  kits:
+    bouffe: 1456476208273
+    octonien: 1456471983911
+  lastteleport: 1456481965099
+  mute: 0
+  logout: 1456482094959
+  lastheal: 1456479996398
+ipAddress: 45.73.109.184
+lastlocation:
+  world: world
+  x: -8232.75757695949
+  y: 254.875
+  z: -3087.5441051404923
+  yaw: -267.8379
+  pitch: 27.899939
+muted: false
+logoutlocation:
+  world: world
+  x: 241.67333650185208
+  y: 64.31957527892983
+  z: 83.6183312857466
+  yaw: 17.449799
+  pitch: 7.0478387
+homes:
+  home:
+    world: world
+    x: -8233.650543111993
+    y: 253.875
+    z: -3087.4176391720875
+    yaw: -106.73786
+    pitch: 46.50026
+ban:
+  reason: 'Banni : Cheat'
+  timeout: 0

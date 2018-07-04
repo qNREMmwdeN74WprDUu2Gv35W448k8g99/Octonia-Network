@@ -1,0 +1,23 @@
+uuid: edf3accc-474b-3a62-8f4d-d46443613abd
+timestamps:
+  login: 1456414263550
+  kits:
+    bouffe: 1456415061747
+    octonien: 1456414477168
+  logout: 1456415269777
+  lastteleport: 1456341949363
+ipAddress: 90.51.193.31
+lastlocation:
+  world: world
+  x: -298.69999998807907
+  y: 52.0
+  z: 147.81007815522852
+  yaw: 61.089478
+  pitch: 28.049995
+logoutlocation:
+  world: world
+  x: 0.43738816925857166
+  y: 188.0
+  z: 22.710010862441305
+  yaw: 262.45087
+  pitch: -7.5922737

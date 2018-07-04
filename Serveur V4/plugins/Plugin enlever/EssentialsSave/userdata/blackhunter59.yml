@@ -1,0 +1,20 @@
+uuid: fed12b96-a167-3b61-93ae-87a7f49dd0a4
+timestamps:
+  login: 1456137491662
+  lastteleport: 1456137523398
+  logout: 1456137559317
+ipAddress: 2.6.211.24
+lastlocation:
+  world: world
+  x: 10.162629074209885
+  y: 189.0
+  z: 19.878520384534916
+  yaw: -231.34894
+  pitch: -2.042252
+logoutlocation:
+  world: world
+  x: -6.242742349870913
+  y: 189.0
+  z: 0.5133637031180409
+  yaw: -270.64917
+  pitch: 22.857735

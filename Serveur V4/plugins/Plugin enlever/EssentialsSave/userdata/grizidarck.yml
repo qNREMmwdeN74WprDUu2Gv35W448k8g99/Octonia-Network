@@ -1,0 +1,62 @@
+timestamps:
+  login: 1457287812870
+  kits:
+    bouffe: 1457281563396
+    heros: 1457279343280
+    octonien: 1457281630003
+    chevalier: 1457279479580
+    destruction: 1457279525362
+    legendaire: 1457279400760
+  lastteleport: 1457288117043
+  logout: 1457288250425
+  lastheal: 1457288046910
+  mute: 0
+ipAddress: 82.249.72.207
+lastlocation:
+  world: world
+  x: 7505.895391838477
+  y: 16.0
+  z: -5473.472747027866
+  yaw: 287.94763
+  pitch: 53.99993
+logoutlocation:
+  world: world
+  x: 7511.396533712865
+  y: 19.5
+  z: -5468.194412433865
+  yaw: -11.8090515
+  pitch: -16.200026
+uuid: 458bc1d0-7e9e-3691-bb91-e70b3b44d343
+homes:
+  route:
+    world: world
+    x: -4440.243249220607
+    y: 67.0
+    z: -6265.832921631354
+    yaw: -132.00119
+    pitch: 10.949946
+  bp:
+    world: world
+    x: -6124.111941268577
+    y: 3.0
+    z: -4052.686968471855
+    yaw: 3.8146954
+    pitch: 41.164814
+  farm:
+    world: world
+    x: 1874.300000011921
+    y: 5.0
+    z: -5734.335547035706
+    yaw: -65.16745
+    pitch: 2.3123326
+  route2:
+    world: world
+    x: 7406.228271443803
+    y: 67.0
+    z: -5455.173251406983
+    yaw: 188.78575
+    pitch: 34.349976
+money: '1203.0'
+ignore:
+- jordan59290
+muted: false

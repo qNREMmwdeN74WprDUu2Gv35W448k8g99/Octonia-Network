@@ -1,0 +1,63 @@
+socialspy: false
+timestamps:
+  login: 1457307972934
+  logout: 1457314123969
+  kits:
+    heros: 1457302722531
+    bouffe: 1457310361347
+    octonien: 1457305905328
+    chevalier: 1457305480454
+    decouverte: 1457308775236
+    xp: 1457304749493
+  lastteleport: 1457313307738
+  mute: 0
+  lastheal: 1457310740552
+ipAddress: 109.30.247.29
+lastlocation:
+  world: world
+  x: -8086.974439872151
+  y: 15.0
+  z: 3302.6852517034945
+  yaw: 350.79053
+  pitch: 50.5332
+logoutlocation:
+  world: world
+  x: -8509.368536954384
+  y: 5.0
+  z: 3978.161573218173
+  yaw: 357.25543
+  pitch: 18.05464
+homes:
+  bp:
+    world: world
+    x: -8111.300000011921
+    y: 32.0
+    z: 3264.4939765530976
+    yaw: 34.85434
+    pitch: 20.683151
+  ap:
+    world: world
+    x: -8920.699999988079
+    y: 5.0
+    z: 3675.680378668849
+    yaw: 25.579397
+    pitch: 12.383029
+  futur:
+    world: world
+    x: 3182.300000011921
+    y: 6.0
+    z: 6102.115731787035
+    yaw: -63.156895
+    pitch: -9.764182
+  spawner:
+    world: world
+    x: 3570.8644197518147
+    y: 18.0
+    z: 2926.699999988079
+    yaw: -0.94155884
+    pitch: 66.01824
+muted: false
+money: '3458.605'
+uuid: ac4ee43d-c0f4-38dc-a4ff-b0ddc589d5c0
+ignore:
+- samthebest

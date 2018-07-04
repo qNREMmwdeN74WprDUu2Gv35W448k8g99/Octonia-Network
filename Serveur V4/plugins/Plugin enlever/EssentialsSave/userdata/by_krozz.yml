@@ -1,0 +1,36 @@
+uuid: 78f59333-7346-3a98-a638-af64b84842c1
+timestamps:
+  login: 1456328665191
+  kits:
+    bouffe: 1456327318524
+    octonien: 1456325531356
+  lastteleport: 1456330623173
+  logout: 1456331117754
+ipAddress: 78.220.165.46
+lastlocation:
+  world: world
+  x: 2990.669565824955
+  y: 55.0
+  z: 2661.5100937912084
+  yaw: 240.9004
+  pitch: 29.699995
+money: '2287.5'
+homes:
+  home:
+    world: world
+    x: 2979.699999988079
+    y: 62.0
+    z: 2657.178910281454
+    yaw: -19.799616
+    pitch: 32.1
+ignore:
+- just_skill
+- lilian68140
+- darkaqua28
+logoutlocation:
+  world: world
+  x: 2942.782129291804
+  y: 64.0
+  z: 2711.9927598905606
+  yaw: 121.79968
+  pitch: 15.749949

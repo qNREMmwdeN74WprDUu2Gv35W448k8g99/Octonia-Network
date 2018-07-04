@@ -1,0 +1,41 @@
+socialspy: false
+timestamps:
+  login: 1457142608521
+  kits:
+    bouffe: 1457142893105
+    octonien: 1457142869544
+    druide: 1457142774665
+    xp: 1457142681081
+    decouverte: 1457142704980
+  logout: 1457143187054
+  mute: 1457146545202
+  lastteleport: 1457143009795
+  lastheal: 1456329870480
+ipAddress: 199.188.236.223
+lastlocation:
+  world: world
+  x: -1.300000011920925
+  y: 26.0
+  z: -31.32829003057007
+  yaw: -5.5657654
+  pitch: 1.840691
+logoutlocation:
+  world: world
+  x: -5322.571740770476
+  y: 27.0
+  z: 7882.300000011921
+  yaw: 0.30995303
+  pitch: 87.17143
+homes:
+  home:
+    world: world
+    x: -5310.438148583885
+    y: 52.0
+    z: 7894.140895526721
+    yaw: 337.63818
+    pitch: -4.6713924
+muted: true
+money: '3194.030'
+ignore:
+- masterfight63
+uuid: c792db50-19b0-3884-9d09-75939f0433bb

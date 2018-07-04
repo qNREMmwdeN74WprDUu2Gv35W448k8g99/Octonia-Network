@@ -1,0 +1,71 @@
+uuid: fb273ab7-d56d-35ec-b08e-c4cd61324ed4
+timestamps:
+  login: 1456503544176
+  logout: 1456503921757
+  kits:
+    bouffe: 1456503582062
+    heros: 1456503844763
+    octonien: 1456503882080
+    chevalier: 1456503866473
+    legendaire: 1456503816599
+  lastteleport: 1456503616228
+  lastheal: 1456314843865
+ipAddress: 81.246.213.29
+lastlocation:
+  world: world
+  x: -0.38758551121596746
+  y: 190.0
+  z: -1.4011057985894486
+  yaw: -197.8992
+  pitch: 30.657736
+logoutlocation:
+  world: world
+  x: -2698.1803988402903
+  y: 11.0
+  z: -3532.4823491066
+  yaw: -263.3996
+  pitch: 18.899958
+homes:
+  chemin:
+    world: world
+    x: -2894.9703101363393
+    y: 64.0
+    z: -3752.052664969491
+    yaw: -229.35007
+    pitch: -3.299975
+  obsi:
+    world: world
+    x: -2630.8753726823415
+    y: 64.0
+    z: -3509.94506561316
+    yaw: -237.60013
+    pitch: -20.699995
+  grotte:
+    world: world
+    x: -2698.6394080940067
+    y: 11.0
+    z: -3533.6405890311707
+    yaw: -132.14941
+    pitch: 46.950058
+  mantik:
+    world: world
+    x: -2693.3199884540245
+    y: 63.0
+    z: -3586.5312443614907
+    yaw: -196.05011
+    pitch: 30.3
+  neust:
+    world: world
+    x: -4061.374022141718
+    y: 64.0
+    z: -4988.54303462968
+    yaw: -181.50043
+    pitch: 28.049963
+  pillage:
+    world: world
+    x: -4070.721896366126
+    y: 13.0
+    z: -5029.7157939642075
+    yaw: 258.74933
+    pitch: -61.5
+money: '951.0'

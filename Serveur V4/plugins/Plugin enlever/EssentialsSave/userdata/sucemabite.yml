@@ -1,0 +1,24 @@
+uuid: 52fd7f80-075b-3c3c-a4d0-644acd644a3b
+timestamps:
+  login: 1456500609002
+  logout: 1456500632823
+  kits:
+    octonien: 1456500629504
+ipAddress: 90.7.12.30
+lastlocation:
+  world: world
+  x: -3.5
+  y: 193.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: 'Banni : Suce la miene'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 1.061984855976404
+  y: 189.5
+  z: 4.083473546064705
+  yaw: -346.15106
+  pitch: 3.7478294

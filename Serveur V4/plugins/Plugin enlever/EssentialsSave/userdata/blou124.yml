@@ -1,0 +1,44 @@
+uuid: f37b059b-e75f-36b7-919c-d67ee349677d
+timestamps:
+  login: 1457299869909
+  kits:
+    minerais: 1457297954221
+    heros: 1457298192886
+    bouffe: 1457282923429
+    chevalier: 1457298316356
+    destruction: 1457301477637
+    decouverte: 1457296588296
+    xp: 1457296419817
+    legendaire: 1457296575001
+  lastteleport: 1457303295660
+  logout: 1457303360577
+ipAddress: 88.173.41.71
+lastlocation:
+  world: world
+  x: 3567.457990935799
+  y: 50.5
+  z: -1985.179668084653
+  yaw: 347.51892
+  pitch: 34.050037
+homes:
+  unclaim:
+    world: world
+    x: 3568.89691753983
+    y: 49.5
+    z: -1981.4125427054123
+    yaw: 77.66904
+    pitch: 37.650013
+  xp:
+    world: world
+    x: 3384.699999988079
+    y: 11.0
+    z: -2120.699999988079
+    yaw: 23.519714
+    pitch: 29.999968
+logoutlocation:
+  world: world
+  x: -4.358966168859381
+  y: 189.0
+  z: 0.3908268192517507
+  yaw: -129.4008
+  pitch: 10.047831

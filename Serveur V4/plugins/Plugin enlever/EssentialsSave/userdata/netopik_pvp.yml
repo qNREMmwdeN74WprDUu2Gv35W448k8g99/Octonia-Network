@@ -1,0 +1,35 @@
+timestamps:
+  login: 1455575986506
+  kits:
+    bouffe: 1455536518791
+    octonien: 1455576452881
+    decouverte: 1455535062531
+  lastteleport: 1455577242971
+  logout: 1455577257606
+  lastheal: 1455577170203
+ipAddress: 109.208.103.233
+lastlocation:
+  world: world
+  x: 0.04716528394442776
+  y: 189.0
+  z: -8.335526212004476
+  yaw: -181.36298
+  pitch: 70.68065
+homes:
+  home:
+    world: world
+    x: -1366.6539318093692
+    y: 5.0
+    z: -2645.9768965063513
+    yaw: -7.823217
+    pitch: 25.95001
+logoutlocation:
+  world: world
+  x: -1367.4845218307344
+  y: 5.0
+  z: -2647.8005988602686
+  yaw: 258.42657
+  pitch: 7.500009
+money: '5.5'
+ignore:
+- ryzok

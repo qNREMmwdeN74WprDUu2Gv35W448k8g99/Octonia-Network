@@ -1,0 +1,76 @@
+awe:
+  #Do not change
+  version: 1
+  rendering:
+    #amount of time (in ticks) the server will place a chunk of blocks
+    interval: 15
+    #how often that a user will get an update on the current que (number of intervals)
+    talk-interval: 10
+    #blocks to place (per-interval), this determines the max speed of block placing
+    #if you experience lag lower this and the next number    
+    blocks: 300000
+    #blocks to place (per-interval) for users with the permission AWE.user.vip-queue
+    blocks-vip: 2000
+    #maximum size of the blocks queue
+    queue-max-size: 1000000000
+    #maximum size of the player block queue
+    queue-limit-hard: 5000000000
+    #number of blocks on the player queue when to stop placing blocks
+    queue-limit-soft: 2500000000
+  #check for updates
+  checkVersion: false
+  #allow metrics to run
+  allowMetrics: false
+  #Whether or not to set messages using BarAPI
+  use-barapi: true
+  #is async world edit talkative 
+  talkative: true
+  #Default AWE status for loging in players if the player does not have 
+  #AWE.user.mode.on or AWE.user.mode.off permission
+  defaultOn: true
+  #Disable or enable blocks physics freeze when placing blocks
+  physicsFreez: true
+  #Enable PlotMe Global Mask Fix
+  plotMeFixEnabled: true
+  #Enable or disable auto job cancelation on player quit
+  cleanOnLogout: true
+  blocksHub:
+    #Enable block chang loggin
+    logBlocks: true
+    #Enable blocks access control
+    checkAccess: false
+  #AWE will make the following WorldEdit actions async
+  enabledOperations:
+    - undo
+    - redo
+    - fillXZ
+    - removeAbove
+    - removeBelow
+    - removeNear
+    - setBlocks
+    - replaceBlocks
+    - makeCuboidFaces
+    - makeCuboidWalls
+    - overlayCuboidBlocks
+    - naturalizeCuboidBlocks
+    - stackCuboidRegion
+    - moveCuboidRegion
+    - drainArea
+    - fixLiquid
+    - makeCylinder
+    - makeSphere
+    - makePyramid
+    - thaw
+    - simulateSnow
+    - green
+    - makePumpkinPatches
+    - makeForest
+    - makeShape
+    - deformRegion
+    - hollowOutRegion
+    - paste
+    - regenerate
+    - center
+    - drawLine
+    - drawSpline
+    - makeBiomeShape

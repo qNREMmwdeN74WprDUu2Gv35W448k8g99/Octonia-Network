@@ -1,0 +1,54 @@
+timestamps:
+  login: 1457276361779
+  kits:
+    heros: 1457271479524
+    bouffe: 1457276824506
+    octonien: 1457271866742
+    chevalier: 1457271851202
+    decouverte: 1457282749184
+  lastteleport: 1457286533019
+  logout: 1457286694117
+  lastheal: 1457286450853
+  mute: 0
+ipAddress: 88.185.147.162
+lastlocation:
+  world: world
+  x: 1351.300000011921
+  y: 35.0
+  z: -587.0220206422682
+  yaw: -313.49182
+  pitch: -27.299913
+homes:
+  sky:
+    world: world
+    x: -6968.7015628745685
+    y: 252.875
+    z: 120.52735545074253
+    yaw: -279.93237
+    pitch: 27.15004
+  ap:
+    world: world
+    x: 215.9964170371821
+    y: 90.0
+    z: 280.3139124760615
+    yaw: -187.66156
+    pitch: 17.250036
+  farm:
+    world: world
+    x: 1351.831488230037
+    y: 35.0
+    z: -593.5781307101133
+    yaw: -186.14226
+    pitch: 23.78106
+logoutlocation:
+  world: world
+  x: 1390.0374217670455
+  y: 56.0
+  z: 9502.290666476549
+  yaw: -168.29028
+  pitch: -5.849909
+uuid: 520804a8-6fce-346d-96f8-453e0244a89f
+money: '5507.0'
+muted: true
+ignore:
+- xxryloxexx

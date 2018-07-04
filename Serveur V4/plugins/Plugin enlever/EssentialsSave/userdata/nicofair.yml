@@ -1,0 +1,76 @@
+timestamps:
+  login: 1457204139981
+  kits:
+    heros: 1457204323640
+    bouffe: 1456950653435
+    octonien: 1456944317991
+    chevalier: 1457204452372
+    xp: 1457204404879
+    decouverte: 1457204407143
+    construction: 1457204391152
+    legendaire: 1457204372539
+  logout: 1457205289301
+  lastteleport: 1457204987924
+  lastheal: 1456946978223
+ipAddress: 149.154.243.166
+lastlocation:
+  world: world
+  x: 6252.256062794886
+  y: 65.0
+  z: 7799.201973366523
+  yaw: 137.38269
+  pitch: 14.850057
+homes:
+  ap:
+    world: world
+    x: 102.4243837287118
+    y: 64.0
+    z: 278.15804980504623
+    yaw: -196.40424
+    pitch: 18.73723
+  loin:
+    world: world
+    x: 7456.505225856208
+    y: 66.0
+    z: 5996.808409895352
+    yaw: 355.03735
+    pitch: 23.250008
+  haut:
+    world: world
+    x: 7477.4772108784755
+    y: 150.0
+    z: 6010.667188029689
+    yaw: 163.97913
+    pitch: 68.699974
+  bp:
+    world: world
+    x: 7474.699999988079
+    y: 35.0
+    z: 6002.300000011921
+    yaw: 84.48343
+    pitch: 32.50768
+  raid:
+    world: world
+    x: 7280.796781686278
+    y: 35.0
+    z: 6082.269660884232
+    yaw: 349.68613
+    pitch: 32.74471
+  darkchest:
+    world: world
+    x: 7874.132435945003
+    y: 64.0
+    z: 5879.40394534309
+    yaw: 304.94693
+    pitch: -0.15004021
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 190.5
+  z: 0.5
+  yaw: -356.951
+  pitch: 4.1978226
+uuid: a56db14d-ceb1-31e3-92af-72bc4c3b77ac
+money: '723.75'
+ignore:
+- lelive

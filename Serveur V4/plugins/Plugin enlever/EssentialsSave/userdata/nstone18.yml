@@ -1,0 +1,55 @@
+uuid: ee400bdf-dd2a-3c36-9ba9-5470e5b89b4b
+timestamps:
+  login: 1456590527704
+  kits:
+    bouffe: 1455967689412
+    heros: 1456590536338
+    octonien: 1456590613681
+    chevalier: 1455987837971
+  logout: 1456590680087
+  lastteleport: 1455988007835
+  lastheal: 1455894353372
+ipAddress: 77.154.204.116
+lastlocation:
+  world: world
+  x: -0.1240070782501559
+  y: 188.0
+  z: 20.785230454548753
+  yaw: -310.29944
+  pitch: 52.901306
+logoutlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  eee:
+    world: world
+    x: 4611.300000011921
+    y: 12.0
+    z: 353.2228356564302
+    yaw: 224.73517
+    pitch: 0.45221987
+  home:
+    world: world
+    x: 995.8622298678048
+    y: 68.0
+    z: -354.26439156682017
+    yaw: 86.28201
+    pitch: 22.823547
+  ok:
+    world: world
+    x: 274.6341676016084
+    y: 4.5
+    z: -82.30000001192093
+    yaw: -193.26285
+    pitch: 14.288444
+  coffre:
+    world: world
+    x: 968.7348146847191
+    y: 64.0
+    z: -125.91044663643531
+    yaw: 97.423546
+    pitch: 26.616863

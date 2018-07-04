@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1457279653607
+  logout: 1457282661508
+  kits:
+    bouffe: 1457280899860
+    octonien: 1457277927957
+    golden: 1457280914634
+  lastteleport: 1457282495357
+  mute: 0
+  lastheal: 1457282649133
+ipAddress: 82.226.6.125
+lastlocation:
+  world: world
+  x: -1261.7910677666284
+  y: 253.875
+  z: -7370.482477134627
+  yaw: 89.04997
+  pitch: 24.899954
+logoutlocation:
+  world: world
+  x: 237.30000001192093
+  y: 4.0
+  z: 283.30000001192093
+  yaw: -99.21612
+  pitch: 17.249996
+homes:
+  home:
+    world: world
+    x: -1260.4117650646685
+    y: 253.875
+    z: -7370.922527912534
+    yaw: 176.5
+    pitch: 79.49998
+muted: false
+uuid: a73dc9ec-8051-3ac8-9ba4-81a5cd39a4dc
+money: '8490.0'
+ignore:
+- elpatriote59

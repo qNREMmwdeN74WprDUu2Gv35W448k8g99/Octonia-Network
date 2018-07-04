@@ -1,0 +1,41 @@
+uuid: 6547e5d3-e41b-3ef8-b93c-6b6926c29ff0
+timestamps:
+  login: 1457285560563
+  kits:
+    bouffe: 1457286100354
+    octonien: 1457285728955
+    decouverte: 1457288812992
+  logout: 1457290361761
+  lastteleport: 1457289820349
+  mute: 0
+  jail: 0
+  lastheal: 1457290264526
+ipAddress: 82.233.21.125
+lastlocation:
+  world: world
+  x: -5444.760135028818
+  y: 5.0
+  z: 695.2682202353147
+  yaw: 25.812012
+  pitch: 57.299988
+homes:
+  home:
+    world: world
+    x: -5455.699999988079
+    y: 60.0
+    z: 684.6999999880791
+    yaw: 260.11322
+    pitch: 52.499996
+logoutlocation:
+  world: world
+  x: 0.03923614086052607
+  y: 189.0
+  z: 6.012042460412401
+  yaw: -4.1509705
+  pitch: 13.797823
+money: '26.0'
+muted: true
+jailed: false
+ignore:
+- legend_of_sky
+- slendershow

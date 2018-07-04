@@ -1,0 +1,40 @@
+timestamps:
+  login: 1457333828704
+  kits:
+    bouffe: 1457257894704
+    octonien: 1457258248890
+    druide: 1457292856705
+    xp: 1457330996633
+    decouverte: 1457331110234
+  lastteleport: 1457333871404
+  logout: 1457334004204
+  lastheal: 1457333863107
+  jail: 0
+ipAddress: 90.60.102.119
+lastlocation:
+  world: world
+  x: 3.6523962856595427
+  y: 42.0
+  z: -0.30000001192092896
+  yaw: -1.329834
+  pitch: 24.038412
+homes:
+  home:
+    world: world
+    x: 3317.4975483063035
+    y: 4.0
+    z: -8221.676441236506
+    yaw: -112.40831
+    pitch: 43.95354
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 190.5
+  z: 0.5
+  yaw: -357.91574
+  pitch: 3.4682956
+money: '1719.510'
+ignore:
+- khadgar
+uuid: 4350ed8a-a963-3287-9fd2-719f7d0f3f02
+jailed: false

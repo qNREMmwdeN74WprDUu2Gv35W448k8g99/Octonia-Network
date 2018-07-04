@@ -1,0 +1,22 @@
+uuid: fab0a26c-01f3-3d9b-a5e9-c4cc7ddb4112
+timestamps:
+  login: 1456682368593
+  kits:
+    bouffe: 1456682388124
+    octonien: 1456682381300
+  logout: 1456682532445
+ipAddress: 82.229.129.28
+lastlocation:
+  world: world
+  x: 2.5
+  y: 177.0
+  z: -3.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 2.949999988079071
+  y: 191.0
+  z: -1.949999988079071
+  yaw: -189.401
+  pitch: 65.09783

@@ -1,0 +1,74 @@
+timestamps:
+  login: 1457257986785
+  lastteleport: 1457259666820
+  kits:
+    bouffe: 1456022056529
+    heros: 1457258598334
+    octonien: 1456023383201
+    chevalier: 1457258602148
+    decouverte: 1457258586852
+    legendaire: 1457258572118
+  logout: 1457259773524
+  lastheal: 1457259044639
+ipAddress: 86.208.18.20
+lastlocation:
+  world: world
+  x: -4986.62216591266
+  y: 93.0
+  z: -8598.743768531802
+  yaw: -158.8205
+  pitch: -55.172028
+logoutlocation:
+  world: world
+  x: -4981.856070692066
+  y: 55.0
+  z: -8596.962821877742
+  yaw: -115.28562
+  pitch: 22.95614
+homes:
+  newbp:
+    world: world
+    x: -4968.630707271495
+    y: 54.0
+    z: -8600.422599688878
+    yaw: -309.99487
+    pitch: 15.192678
+  bp:
+    world: world
+    x: -2776.9610135499697
+    y: 5.0
+    z: -6743.377963245279
+    yaw: -73.65383
+    pitch: 13.500002
+  sable:
+    world: world
+    x: -2725.101771763434
+    y: 68.0
+    z: -6719.412070105478
+    yaw: -357.9043
+    pitch: 43.200005
+  pos:
+    world: world
+    x: -4991.508129662673
+    y: 134.0
+    z: -8595.045956815457
+    yaw: -44.699734
+    pitch: 48.89998
+  suf:
+    world: world
+    x: 3.493183075622286
+    y: 74.0
+    z: -381.8535435715753
+    yaw: -83.91673
+    pitch: 4.0500154
+  trap:
+    world: world
+    x: 10.415546322015977
+    y: 33.0
+    z: -384.30000001192093
+    yaw: -224.4664
+    pitch: 5.249988
+money: '10685.00'
+ignore:
+- pbergeron18
+uuid: 8b280127-53dd-3f15-a4f3-7ff459957d6e

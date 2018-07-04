@@ -1,0 +1,38 @@
+timestamps:
+  login: 1457194070447
+  kits:
+    bouffe: 1456924009085
+    octonien: 1457117202983
+    decouverte: 1457019299417
+  logout: 1457195486740
+  lastteleport: 1457195108323
+  lastheal: 1457195164592
+  mute: 0
+ipAddress: 109.131.57.109
+lastlocation:
+  world: world
+  x: 16.948752013352248
+  y: 192.0
+  z: 62.1495621757055
+  yaw: -238.15057
+  pitch: 21.447865
+money: '7.5'
+logoutlocation:
+  world: world
+  x: -3541.5200310802793
+  y: 5.0
+  z: 7929.105223988651
+  yaw: 179.25024
+  pitch: 15.899946
+homes:
+  home:
+    world: world
+    x: -3545.3614195480022
+    y: 63.0
+    z: 8015.309896360921
+    yaw: -27.900269
+    pitch: 28.8
+uuid: 18b38dd3-15a9-36ab-b7bf-68af2a225e17
+muted: false
+ignore:
+- ytbfryolo

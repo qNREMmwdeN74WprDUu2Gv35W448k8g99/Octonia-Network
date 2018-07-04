@@ -1,0 +1,51 @@
+socialspy: false
+timestamps:
+  login: 1457303514533
+  kits:
+    bouffe: 1457304507293
+    octonien: 1457304503892
+    chevalier: 1457292785144
+    xp: 1457304521096
+    decouverte: 1457292804461
+  lastteleport: 1457304154734
+  logout: 1457304625392
+  lastheal: 1457303544446
+  mute: 0
+ipAddress: 77.194.253.98
+lastlocation:
+  world: world
+  x: -7218.464675105506
+  y: 5.0
+  z: -4275.844449928756
+  yaw: -187.72168
+  pitch: -13.500041
+homes:
+  home:
+    world: world
+    x: -4943.93365756583
+    y: 60.0
+    z: -2730.158562449316
+    yaw: -64.727264
+    pitch: 31.650011
+  mine:
+    world: world
+    x: -6983.475146038562
+    y: 5.0
+    z: -4273.422266125148
+    yaw: 95.28101
+    pitch: 17.849968
+logoutlocation:
+  world: world
+  x: -8209.521398058283
+  y: 65.875
+  z: -3983.4658387892464
+  yaw: -333.79434
+  pitch: -36.828026
+uuid: f9205f7c-d591-3a67-bc8f-518142d2562a
+money: '72.00'
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+ignore:
+- phantye

@@ -1,0 +1,38 @@
+socialspy: false
+timestamps:
+  login: 1456589060286
+  logout: 1456589149683
+  kits:
+    bouffe: 1456334920361
+    octonien: 1456261531535
+  lastteleport: 1456335668548
+  mute: 0
+ipAddress: 90.11.171.150
+lastlocation:
+  world: world
+  x: -8479.300000011921
+  y: 14.5
+  z: 5119.957585984739
+  yaw: 80.84385
+  pitch: 40.350044
+logoutlocation:
+  world: world
+  x: -8468.526292047796
+  y: 21.0
+  z: 5130.300000011921
+  yaw: -238.35602
+  pitch: -27.899994
+muted: false
+homes:
+  home:
+    world: world
+    x: -8470.66016907232
+    y: 13.0
+    z: 5123.410314568709
+    yaw: 140.54436
+    pitch: 2.5499082
+uuid: 28820eda-1fc8-3658-9c0b-7ee28c9c35ed
+ignore:
+- just4fire
+- just_skill
+- warrenj

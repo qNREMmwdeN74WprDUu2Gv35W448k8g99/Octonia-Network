@@ -1,0 +1,43 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  json:
+    enabled: false
+    interval: 5
+    expiry: -1
+    random: false
+    messages:
+    - '{text:"Hover over me!",hoverEvent:{action:show_text,value:[{text:"Woah, you
+      just hovered over me!",color:blue}]}}'
+    - '{text:"Click me to run a command!",clickEvent:{action:run_command,value:"/say
+      Clicked."}}'
+    - '{text:"Click me to open Google!",clickEvent:{action:open_url,value:"http://google.com"}}'
+  regular:
+    enabled: true
+    interval: 30
+    expiry: -1
+    random: true
+    messages:
+    - '&3&lOCTONIA &b&l>> &6Votez depuis notre site &e&loctonia.fr/vote &6!'
+    - '&3&lOCTONIA &b&l>> &6Devenez &cYout&8ubeur &6ou &cYout&8ubeur&6+ &6sur le Forum
+      ! A partir de &e&l800subs'
+    - '&3&lOCTONIA &b&l>> &6Rejoignez notre TeamSpeak3, faites &e&l/ts'
+    - '&3&lOCTONIA &b&l>> &6Pour connaitre nos events, faites &e&l/planning'
+    - '&3&lOCTONIA &b&l>> &6Echangez avec un joueur, faites &e&l/echange'
+    - '&3&lOCTONIA &b&l>> &6TP Random, faites &e&l/rtp warzone &c(Toutes les 2h)'
+    - '&3&lOCTONIA &b&l>> &6Profite durant 10 jours &e&4 de doubler tes OctoCoins
+      &cen payant par PaySafeCard et Starpass &4Du 20/04 au 30/04'

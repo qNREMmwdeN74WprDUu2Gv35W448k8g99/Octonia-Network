@@ -1,0 +1,70 @@
+timestamps:
+  login: 1455221644069
+  logout: 1455222414565
+  kits:
+    bouffe: 1454882513753
+    heros: 1454970410245
+    octonien: 1455140948778
+    druide: 1455138756783
+    chevalier: 1454963043879
+    destruction: 1454962936032
+    xp: 1455139880299
+    legendaire: 1454962900964
+    alchimiste: 1454962985240
+    minerais: 1454962873549
+    decouverte: 1454963005295
+    construction: 1454962969466
+    golden: 1455138425988
+  lastteleport: 1455222113419
+  lastheal: 1455221925777
+  mute: 0
+ipAddress: 199.188.236.204
+lastlocation:
+  world: world
+  x: -1118.300000011921
+  y: 16.0
+  z: -4551.074999988079
+  yaw: 62.673187
+  pitch: 15.833606
+logoutlocation:
+  world: world
+  x: -0.5
+  y: 190.5
+  z: 0.5
+  yaw: -180.44048
+  pitch: 81.74999
+homes:
+  lavachest:
+    world: world
+    x: -389.16956982825394
+    y: 11.0
+    z: -3317.42454746169
+    yaw: -156.07762
+    pitch: 4.468132
+  claim:
+    world: world
+    x: -1131.903403284917
+    y: 41.0
+    z: -4562.699999988079
+    yaw: 317.5304
+    pitch: 7.0507483
+  up:
+    world: world
+    x: -1136.5902557381048
+    y: 31.0
+    z: -4561.70284714983
+    yaw: 334.02686
+    pitch: 77.313644
+  arene:
+    world: world
+    x: -2101.699999988079
+    y: 65.20000004768369
+    z: -1390.300000011921
+    yaw: 228.59232
+    pitch: 40.505768
+socialspy: false
+money: '163301.0'
+muted: false
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

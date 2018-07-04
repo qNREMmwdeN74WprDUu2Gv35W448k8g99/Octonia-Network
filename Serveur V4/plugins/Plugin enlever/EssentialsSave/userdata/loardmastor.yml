@@ -1,0 +1,60 @@
+timestamps:
+  login: 1457213805110
+  lastteleport: 1457212739074
+  kits:
+    heros: 1457186981420
+    bouffe: 1456650547547
+    octonien: 1456523033227
+    druide: 1457187594145
+    chevalier: 1457187744354
+    xp: 1457176049260
+    decouverte: 1457209451298
+    legendaire: 1457188494441
+  logout: 1457213878956
+  lastheal: 1457213366893
+ipAddress: 92.152.251.97
+lastlocation:
+  world: world
+  x: -2958.6637901052236
+  y: 75.0
+  z: 9063.726612736913
+  yaw: -203.85498
+  pitch: 31.013933
+homes:
+  supremacy:
+    world: world
+    x: -2679.117689149649
+    y: 22.0
+    z: 5675.373000747763
+    yaw: 10.093364
+    pitch: 19.739996
+  haut:
+    world: world
+    x: -274.8433822209894
+    y: 253.0
+    z: 8153.464527775426
+    yaw: -99.65506
+    pitch: 51.965874
+  bp:
+    world: world
+    x: -265.25956366103554
+    y: 5.0
+    z: 8133.123396251537
+    yaw: 1.9764011
+    pitch: 11.700015
+  pillage:
+    world: world
+    x: 2802.7945240503577
+    y: 63.0
+    z: 5490.288855691143
+    yaw: -200.85205
+    pitch: 34.200047
+logoutlocation:
+  world: world
+  x: -264.0014748198433
+  y: 37.0
+  z: 8131.300000011921
+  yaw: -181.62193
+  pitch: -21.899979
+money: '2048.930'
+uuid: 58d0bbae-d438-3826-bfd9-8a5ae9aad745

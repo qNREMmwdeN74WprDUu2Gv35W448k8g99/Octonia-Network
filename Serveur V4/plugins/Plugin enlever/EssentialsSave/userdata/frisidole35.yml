@@ -1,0 +1,35 @@
+timestamps:
+  login: 1456250382366
+  lastteleport: 1456250517381
+  kits:
+    bouffe: 1456074228017
+    octonien: 1456074220652
+  logout: 1456250801715
+  lastheal: 1455901782382
+ipAddress: 176.154.157.48
+lastlocation:
+  world: world
+  x: 2.280082749508237
+  y: 190.875
+  z: 2.0621475556096964
+  yaw: -31.099365
+  pitch: 76.55774
+homes:
+  home:
+    world: world
+    x: -4345.762499988079
+    y: 4.0
+    z: -9001.762499988079
+    yaw: -268.57745
+    pitch: 52.5
+money: '2205.77'
+logoutlocation:
+  world: world
+  x: -4343.603084428513
+  y: 5.0
+  z: -9002.993882540728
+  yaw: -43.877342
+  pitch: 46.19999
+uuid: 28d38a1e-3c91-3e5b-ac2d-446207b8a84c
+ignore:
+- olivier007

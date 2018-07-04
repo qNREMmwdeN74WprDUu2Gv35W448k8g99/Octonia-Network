@@ -1,0 +1,44 @@
+uuid: c7d600d1-5653-3a8f-85a8-575562fb5fd2
+timestamps:
+  login: 1457263878143
+  kits:
+    bouffe: 1457263969342
+    octonien: 1456483566665
+    chevalier: 1457263900020
+    decouverte: 1457263977170
+  lastteleport: 1457264065477
+  logout: 1457264216353
+  lastheal: 1456511625572
+ipAddress: 92.134.139.226
+lastlocation:
+  world: world
+  x: -698.6392422075298
+  y: 11.0
+  z: -1354.168509286767
+  yaw: 87.68768
+  pitch: -31.017645
+homes:
+  bp:
+    world: world
+    x: -693.5
+    y: 11.0
+    z: -1352.5
+    yaw: 125.12781
+    pitch: 15.676764
+  bp2:
+    world: world
+    x: -3979.2686103410715
+    y: 6.0
+    z: -3040.017435708164
+    yaw: 179.34076
+    pitch: -2.7744098
+money: '2156.5'
+logoutlocation:
+  world: world
+  x: -3980.7977380877855
+  y: 5.5
+  z: -3044.699999988079
+  yaw: 183.64243
+  pitch: 1.5263896
+ignore:
+- vincent59

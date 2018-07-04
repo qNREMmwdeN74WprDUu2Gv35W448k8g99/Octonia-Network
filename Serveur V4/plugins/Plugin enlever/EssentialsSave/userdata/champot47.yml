@@ -1,0 +1,74 @@
+uuid: c78ee899-32e8-3e7e-af56-e62886323d62
+timestamps:
+  login: 1457289805071
+  kits:
+    heros: 1457291247365
+    bouffe: 1457291335419
+    octonien: 1457291543138
+    chevalier: 1457291249468
+    destruction: 1457291317960
+    decouverte: 1457291314736
+    legendaire: 1457291243587
+    construction: 1457291285853
+  logout: 1457292332143
+  lastteleport: 1457292153631
+  lastheal: 1457292191202
+  jail: 1457335467519
+ipAddress: 77.203.11.222
+lastlocation:
+  world: world
+  x: -2964.245955472832
+  y: 59.0
+  z: -9501.780829929194
+  yaw: -290.33655
+  pitch: 20.549978
+homes:
+  sables:
+    world: world
+    x: 5190.987014736725
+    y: 64.0
+    z: -8178.934754605172
+    yaw: -280.05988
+    pitch: 10.856544
+  biome:
+    world: world
+    x: 4742.000093380917
+    y: 65.0
+    z: -8000.423273260432
+    yaw: -297.72156
+    pitch: 13.651932
+  bp:
+    world: world
+    x: 2546.9808777703925
+    y: 5.0
+    z: -8070.3453915346045
+    yaw: 111.34766
+    pitch: 9.750014
+  haut:
+    world: world
+    x: 2557.760348021441
+    y: 21.0
+    z: -8067.524689416925
+    yaw: -211.85796
+    pitch: 21.838858
+  lave:
+    world: world
+    x: -2965.5
+    y: 59.0
+    z: -9500.5
+    yaw: -106.91107
+    pitch: 14.57197
+logoutlocation:
+  world: world
+  x: 15.699999988079071
+  y: 189.0
+  z: 7.699999988079071
+  yaw: -264.0854
+  pitch: -10.470408
+ignore:
+- britox
+- xx_gab13_xx
+- adibdu997
+money: '224.25'
+jailed: true
+jail: prison1

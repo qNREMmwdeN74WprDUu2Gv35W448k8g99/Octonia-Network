@@ -1,0 +1,23 @@
+uuid: fca29450-3249-3bac-b87f-916b8e6be68a
+timestamps:
+  login: 1456339666237
+  lastteleport: 1456317921747
+  kits:
+    bouffe: 1456317952613
+    octonien: 1456339160655
+  logout: 1456339750009
+ipAddress: 84.100.105.100
+lastlocation:
+  world: world
+  x: -4.8436593153852785
+  y: 189.0
+  z: 0.5179603055585176
+  yaw: -270.64917
+  pitch: 22.857735
+logoutlocation:
+  world: world
+  x: -17.43672168193183
+  y: 192.5
+  z: -16.713608279237672
+  yaw: -52.999336
+  pitch: -38.64225

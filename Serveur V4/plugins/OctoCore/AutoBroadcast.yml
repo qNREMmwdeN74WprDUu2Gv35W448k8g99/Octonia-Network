@@ -1,0 +1,25 @@
+# 
+#    ____       _         _____              
+#   / __ \     | |       / ____|              
+#  | |  | | ___| |_ ___ | |     ___  _ __ ___
+#  | |  | |/ __| __/ _ \| |    / _ \| '__/ _ \
+#  | |__| | (__| || (_) | |___| (_) | | |  __/
+#   \____/ \___|\__\___/ \_____\___/|_|  \___|
+# 
+# 
+# *
+# *
+# * Par: CharpenteDocile
+# * Description: Liste des messages automatiques.
+# * Pour OctoCore version: Bêta
+# *********************************************/		
+
+AutoMessages:
+  Enable: true
+  Time: 30
+  Prefix: '&bOctonia &7>> '
+  Messages:
+  - '&6Fais &c/aide &6pour avoir de l''aide.'
+  - '&6Tu peux transferer des items entre &cce monde et le minage&6 en faisant &c/octomine&6.'
+  - '&6Un portail vers le monde minage est disponible directement &4au spawn &6!'
+  - '&6Tu peux nous rejoindre sur Teamspeak : &cts.octonia.fr'

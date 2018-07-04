@@ -1,0 +1,42 @@
+socialspy: false
+timestamps:
+  login: 1455803508452
+  logout: 1455803647479
+  lastteleport: 1455802766396
+  kits:
+    bouffe: 1455717665502
+    octonien: 1455799745612
+    druide: 1455802430633
+    xp: 1455800493974
+    decouverte: 1455801954535
+  mute: 0
+  lastheal: 1455802702991
+ipAddress: 91.88.155.139
+lastlocation:
+  world: world
+  x: -3195.6891425861395
+  y: 5.0
+  z: 3273.4514933871224
+  yaw: -0.5912373
+  pitch: 1.79997
+logoutlocation:
+  world: world
+  x: -6968.990677815562
+  y: 5.0
+  z: 2613.889926832451
+  yaw: 135.29646
+  pitch: 12.900018
+muted: false
+homes:
+  home:
+    world: world
+    x: -1218.3890938374745
+    y: 10.0
+    z: -409.8609398391911
+    yaw: 89.86293
+    pitch: 22.199238
+money: '38.0'
+ignore:
+- chaos_killer51
+- methano
+uuid: 5775ac75-e323-3bb3-bc2f-3bbddd5e7cf4

@@ -1,0 +1,663 @@
+﻿# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: '4'
+nickname-prefix: '~'
+max-nick-length: 15
+change-displayname: false
+add-prefix-suffix: true
+teleport-safety: true
+teleport-cooldown: 5
+teleport-delay: 5
+teleport-invulnerability: 1
+heal-cooldown: 30
+permission-based-item-spawn: false
+spawnmob-limit: 1000
+warn-on-smite: true
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+player-commands:
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+kits:
+  Octonien:
+    delay: 3600
+    items:
+    - ENDER_PEARL 4
+    - COBALT_SPADE 1 dig_speed:2
+    - COBALT_AXE 1 dig_speed:2
+    - COBALT_PICKAXE 1 dig_speed:2
+    - COBALT_SWORD 1 damage_all:2
+    - COBALT_BOOTS 1 protection_environmental:2
+    - DIAMOND_LEGGINGS 1 protection_environmental:2
+    - DIAMOND_CHESTPLATE 1 protection_environmental:2
+    - COBALT_HELMET 1 protection_environmental:2
+    - COOKED_BEEF 64
+  tower1:
+    delay: 14400
+    items:
+    - 462 1 protection:3
+    - 463 1 protection:3
+    - 464 1 protection:3
+    - 465 1 protection:3
+    - 485 1 sharpness:3
+    - 600 4
+    - 612 4
+  bouffe:
+    delay: 3000
+    items:
+    - 364 24
+    - 610:1 3
+  construction:
+    delay: 14400
+    items:
+    - 49 48
+    - 17 64
+    - 17,1 64
+    - 17,2 64
+    - 17,3 64
+    - 208 128
+    - 2 32
+    - 24,2 64
+    - 89 32
+    - 630 6
+    - 4 192
+    - 638 2
+    - 643 16
+    - 110 16
+  decouverte:
+    delay: 14400
+    items:
+    - 368 8
+    - 333 2
+    - 364 32
+    - 373,16450
+    - 61 4
+    - 58 4
+    - 4 64
+    - 17 32
+    - 329 1
+    - 383,100 1
+  magicien:
+    delay: 14400
+    items:
+    - 145 1
+    - 116 1
+    - 47 32
+    - 340 32
+    - 386 1
+    - 339 64
+    - 634 2
+    - 54 4
+    - 384 96
+  golden:
+    delay: 86400
+    items:
+    - 260 4
+    - 322 2
+    - 371 32
+    - 266 16
+    - 322:1 1
+  alchimiste:
+    delay: 14400
+    items:
+    - 373,16388 4
+    - 373,8233 2
+    - 373,16451 2
+    - 373,16418 4
+    - 373,16421 12
+    - 670 3
+    - 671 3
+    - 373,16427 2
+  artificier:
+    delay: 14400
+    items:
+    - 46 12
+    - 76 8
+    - 356 4
+    - 331 10
+    - 77 4
+    - 326 2
+    - 44:3 6
+    - 69 6
+    - 33 4
+    - 404 2
+    - 152 4
+    - 66 6
+  minerais:
+    delay: 14400
+    items:
+    - 263 64
+    - 264 12
+    - 265 16
+    - 266 6
+    - 388 10
+    - 495 10
+    - 496 5
+    - 498 2
+    - 497 5
+    - 805 4
+    - 331 64
+  sorcier:
+    delay: 14400
+    items:
+    - 382 6
+    - 369 4
+    - 289 8
+    - 376 2
+    - 374 32
+    - 326 1
+    - 379 2
+    - 370 2
+    - 378 2
+    - 372 16
+    - 375 6
+    - 353 7
+    - 348 4
+    - 331 9
+  News:
+    delay: 86400
+    items:
+    - 828:1 4
+    - 800 6
+    - 611:1 2
+    - 802 1
+    - 801 1
+    - 809 1
+    - 805 8
+    - 829 1
+    - 830 1
+    - 834 1
+  farmeur:
+    delay: 259200
+    items:
+    - 482 1 efficiency:4 unbreaking:2 fortune:2 lore:Pioche
+    - 483 1 efficiency:5 unbreaking:2 lore:Hache
+    - 481 1 efficiency:4 unbreaking:2 silktouch:1 fortune:2 lore:Pelle
+    - 610:1 4
+    - 341 4
+    - 29 8
+    - 33 8
+    - 325 4
+    - 326 2
+    - 146 2
+    - 373:8262 3
+    - 352 32
+    - 81 64
+    - 338 64
+    - 295 64
+    - 362 32
+    - 372 64
+  bijoutier:
+    delay: 86400
+    items:
+    - 809 2 unbreaking:1
+    - 810 1 unbreaking:1
+    - 812 1 unbreaking:1
+    - 813 1 unbreaking:1
+  architecte:
+    delay: 14400
+    items:
+    - 1 32
+    - 2 32
+    - 3 32
+    - 17 32
+    - 17:1 32
+    - 17:2 32
+    - 24 32
+    - 24:1 32
+    - 17:3 32
+    - 24 32
+    - 155 10
+    - 45 8
+    - 49 16
+    - 4 128
+    - 208 64
+    - 88 10
+    - 643 16
+    - 85 4
+    - 58 8
+    - 634 2
+    - 29 2
+    - 61 4
+    - 97:2 32
+    - 152 4
+    - 96 4
+    - 18 22
+    - 79 12
+  villageois:
+    delay: 14400
+    items:
+    - 392 16
+    - 146 6
+    - 33 2
+    - 29 4
+    - 325 1
+    - 326 2
+    - 295 64
+    - 362 16
+    - 351:3 16
+    - 361 16
+    - 372 16
+    - 351:15 128
+    - 338 16
+    - 600 16
+    - 326 2
+    - 50 128
+    - 611:1 4
+    - 364 64
+    - 487 1 efficiency:3 unbreaking:2 fortune:1 lore:Pioche
+    - 488 1 efficiency:3 unbreaking:2 lore:Hache
+    - 486 1 efficiency:3 unbreaking:2 lore:Pelle
+    - 489 1 unbreaking:2 lore:Hoe
+    - 480 1 smite:3 unbreaking:2 looting:1
+  gapple:
+    delay: 14400
+    items:
+    - 322 16
+    - 322:1 1
+    - 611:1 1
+    - 260 8
+    - 266 18
+    - 371 32
+  explorateur:
+    delay: 14400
+    items:
+    - 4 128
+    - 17 32
+    - 58 4
+    - 61 4
+    - 482 1 efficiency:5 lore:Pioche
+    - 333 3
+    - 152 4
+    - 85 4
+    - 373:16450 6
+  alastor:
+    delay: 14400
+    items:
+    - 450 1 protection:2
+    - 455 1 protection:1
+    - 456 1 protection:1
+    - 453 1 protection:2
+    - 470 1 sharpness:2
+    - 472 1 efficiency:1
+    - 473 1 efficiency:1
+    - 471 1 efficiency:1
+    - 670 1
+    - 671 1
+    - 828:1 1
+    - 262 64
+    - 322 2
+    - 261 1 power:1
+    - 364 32
+  abbadon:
+    delay: 14400
+    items:
+    - 454 1 protection:2
+    - 459 1 protection:1
+    - 460 1 protection:1
+    - 457 1 protection:2
+    - 475 1 sharpness:2
+    - 477 1 efficiency:1
+    - 478 1 efficiency:1
+    - 476 1 efficiency:1
+    - 670 1
+    - 671 1
+    - 828:1 1
+    - 262 64
+    - 322 2
+    - 490 1 power:1
+    - 364 32
+  appolyon:
+    delay: 14400
+    items:
+    - 462 1 protection:2
+    - 459 1 protection:1
+    - 460 1 protection:1
+    - 465 1 protection:2
+    - 480 1 sharpness:2
+    - 482 1 efficiency:1
+    - 483 1 efficiency:1
+    - 481 1 efficiency:1
+    - 670 1
+    - 671 1
+    - 828:1 1
+    - 262 64
+    - 322 4
+    - 491 1 power:1
+    - 364 32
+  typhon:
+    delay: 14400
+    items:
+    - 458 1 protection:2
+    - 463 1 protection:1
+    - 464 1 protection:1
+    - 461 1 protection:2
+    - 485 1 sharpness:2
+    - 487 1 efficiency:1
+    - 488 1 efficiency:1
+    - 486 1 efficiency:1
+    - 670 1
+    - 671 1
+    - 828:1 1
+    - 262 64
+    - 322 8
+    - 492 1 power:1
+    - 364 32
+  skoll:
+    delay: 14400
+    items:
+    - 462 1 protection:1
+    - 463 1 protection:1
+    - 464 1 protection:1
+    - 465 1 protection:1
+    - 485 1 sharpness:2
+    - 819 1 efficiency:1
+    - 820 1 efficiency:1
+    - 818 1 efficiency:1
+    - 670 1
+    - 671 1
+    - 828:1 8
+    - 262 64
+    - 322 12
+    - 493 1 power:1
+    - 364 32
+    - 809 1 unbreaking:1
+    - 368 4
+  Noel:
+    delay: 86400
+    items:
+    - CANDY_TOP 64
+    - BLOCK_NOEL_1 64
+    - STOCKING_FULL 64
+    - CANDY_BLOCK 64
+    - PAIN_D_EPICE 64
+    - STOCKING 64
+    - NOEL_FENCE 64
+    - FEUILLE_NOEL 64
+    - BLOCK_NOEL_2 64
+    - WOOL 64
+    - WOOL:14 64
+    - CANDY_BLOCK_SIDE 64
+    - PAIN_D_EPICE_STONE 64
+    - REDLUMINITE 16
+    - LADDER 16
+    - CANDY:1 10
+enabledSigns:
+- color
+- buy
+- sell
+- warp
+- kit
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: false
+list:
+  Admins: owner admin
+debug: false
+locale: fr
+remove-god-on-disconnect: false
+auto-afk: 251021211221
+auto-afk-kick: 15415415455454
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+death-messages: true
+allow-silent-join-quit: false
+custom-join-message: none
+custom-quit-message: none
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: false
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 1000
+max-tempban-time: -1
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  octonien: 2
+  alastor: 3
+  abbadon: 5
+  appolyon: 7
+  typhon: 8
+  skoll: 12
+  partenairev4: 5
+  partenaireplusv4: 6
+tpa-accept-cancellation: 120
+starting-balance: 0
+currency-symbol: $
+max-money: 10000000000000
+min-money: -10
+economy-log-enabled: false
+non-ess-in-help: true
+hide-permissionless-help: true
+chat:
+  radius: 0
+  group-formats:
+    Octonien: '&r[FACTION] &8*&eOctonien&7&8* &7{DISPLAYNAME}&8:&7 {MESSAGE}'
+    Alastor: '[FACTION] &8/&3Alastor&8\&7 &3{DISPLAYNAME}&8:&7 {MESSAGE}'
+    Abbadon: '[FACTION] &8/&6&oAbbadon&8\&7 &6{DISPLAYNAME}&8:&7 {MESSAGE}'
+    Appolyon: '[FACTION] &8/&dAppolyon&8\&7 &d{DISPLAYNAME}&8:&7 {MESSAGE}'
+    Typhon: '[FACTION] &8|&bTyphon&8|&7 &b{DISPLAYNAME}&8:&7 {MESSAGE}'
+    Skoll: '[FACTION] &8/| &cSk&6ø&cll&8 |\ &6{DISPLAYNAME}&8:&7 {MESSAGE}'
+    PartenaireV4: '&2 [FACTION] &8[&c&7-&a&lYouTuber&7-&8] &r&a{DISPLAYNAME}&8:&r {MESSAGE}'
+    PartenairePlusV4: '&2 [FACTION] &8[&c&7-&a&lYouTuber&c+&7-&8] &r&a{DISPLAYNAME}&8:&r
+      {MESSAGE}'
+    PartenairePlusPlusV4: '&2 [FACTION] &8[&c&7-&a&lYouTuber&c++&7-&8] &r&a{DISPLAYNAME}&8:&r
+      {MESSAGE}'
+    Lardon: '&2 [FACTION] &8[&dFondaRose&8] &r&a{DISPLAYNAME}&8:&r
+      {MESSAGE}'
+    Guide: '&2 [FACTION] &b&d[&5Helper&d] &5&o{DISPLAYNAME}&8&5 &d{MESSAGE}'
+    ModoJ: '&2 [FACTION] &b[&3Modo-J&b] &3{DISPLAYNAME}&l&b {MESSAGE}'
+    ChefHelper: '&2 [FACTION] &9[ChefHelper] {DISPLAYNAME}&8:&b {MESSAGE}'
+    ChefModo: '&2 [FACTION] &9[ChefModo] {DISPLAYNAME}&8:&b {MESSAGE}'
+    Moderateur: '&2 [FACTION] &2[Moderateur] {DISPLAYNAME}&8:&a {MESSAGE}'
+    Admin: '&2[FACTION] &c[&4Administrateur&c] {DISPLAYNAME}&8:&4 {MESSAGE}'
+    AdminNoPerm: '&2[FACTION] &4[Ex-Fonda] {DISPLAYNAME}&8:&c {MESSAGE}'
+    Fondateur: '&2[FACTION] &4[Fondateur] {DISPLAYNAME}&8:&c {MESSAGE}'
+    Fondateurss: '&2[FACTION] &8*| &cF&6ø&cndateur&8 |* {DISPLAYNAME}&8:&c {MESSAGE}'
+    Dev: '&2[FACTION] &4[&cDev&4] {DISPLAYNAME}&8:&c {MESSAGE}'
+    ModoTest: '&2[FACTION] &2[ModoTest] {DISPLAYNAME}&8:&a {MESSAGE}'
+    Modo: '&2[FACTION] &1&9[Moderateur]&c {DISPLAYNAME}&8:&c {MESSAGE}'
+    SCModo: '&2[FACTION] &1[&9Sous-Chef Modo&1] {DISPLAYNAME}&8:&c {MESSAGE}'
+    TopDonateur: '[FACTION] &e[&7-&6&oTopDonateur&7-&e] {DISPLAYNAME}&8:&r {MESSAGE}'
+    GameMaster: '&2[FACTION] &8[&4*GameMaster*&8] &c{DISPLAYNAME}&8:&c {MESSAGE}'
+    GameMasterMoyen: '&2[FACTION] &4[GameMaster] {DISPLAYNAME}&8:&c {MESSAGE}'
+    Fondateurs: '&2[FACTION] &c[&4Fondateur&c] {DISPLAYNAME}&8:&4 {MESSAGE}'
+    Animatrice: '&2[FACTION] &8[&dAnimatrice-J&8]&d {DISPLAYNAME}&8:&d {MESSAGE}'
+    Animateur: '&2[FACTION] &8[&5Animateur-J&8]&5 {DISPLAYNAME}&8:&5 {MESSAGE}'
+    OctoFriends: '&2[FACTION] &e[&6&oOctoFriends+&e] {DISPLAYNAME}&8:&6 {MESSAGE}'
+    OctoFriendsplus: '&2[FACTION] &e[&6&oOctoFriends&e] {DISPLAYNAME}&8:&6 {MESSAGE}'
+    ResponsableTS: '&2[FACTION] &4[&l&cResponsable-TS&9&4]  &c{DISPLAYNAME}&8:&c {MESSAGE}'
+    SupportTS: '&2[FACTION] &b[&l&3Support-TS&b]  &b{DISPLAYNAME}&8:&b {MESSAGE}'
+    FilsDePuteQuiLitige: '&2[JE SUIS UNE POUBELLE] &b[&l&3FilsDePuteQuiLitigeGoMeBan&b]  &b{DISPLAYNAME}&8:&b
+      {MESSAGE}'
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert: {}
+  blacklist: {}
+newbies:
+  announce-format: '&6Bienvenue&9 {DISPLAYNAME} &6Sur &c&oOctonia &r&6!'
+  spawnpoint: newbies
+  kit: ''
+respawn-listener-priority: high
+respawn-at-home: false

@@ -1,0 +1,33 @@
+uuid: bffca5d9-0405-3af0-a85f-d21012925476
+timestamps:
+  login: 1456433654418
+  kits:
+    bouffe: 1456433967526
+    octonien: 1456429584631
+  logout: 1456435442016
+ipAddress: 90.23.78.112
+lastlocation:
+  world: world
+  x: 3.5
+  y: 193.0
+  z: -1.5
+  yaw: 0.0
+  pitch: 0.0
+ignore:
+- king_rusch
+- iziazox
+homes:
+  home:
+    world: world
+    x: 4763.481725951643
+    y: 63.0
+    z: -649.6452605007267
+    yaw: -98.56964
+    pitch: 58.940567
+logoutlocation:
+  world: world
+  x: 9437.57919819969
+  y: 69.0
+  z: -123.06830026021521
+  yaw: 221.97021
+  pitch: 26.109934

@@ -1,0 +1,77 @@
+timestamps:
+  login: 1457331525473
+  kits:
+    heros: 1457331984226
+    bouffe: 1457331789559
+    octonien: 1457331975228
+    druide: 1457331660260
+    chevalier: 1457331987326
+    destruction: 1457332191025
+    xp: 1457331791759
+    legendaire: 1457331944725
+    alchimiste: 1457331736058
+    minerais: 1457331537376
+    decouverte: 1457331851737
+    construction: 1457332098425
+    golden: 1457331542075
+  lastteleport: 1457332443173
+  logout: 1457332861644
+  lastheal: 1457332717043
+  mute: 0
+ipAddress: 2.4.249.74
+lastlocation:
+  world: world
+  x: 13.433896307177093
+  y: 189.0
+  z: 12.757119285985322
+  yaw: -245.65076
+  pitch: 11.490002
+homes:
+  home:
+    world: world
+    x: 6518.274575474468
+    y: 5.0
+    z: -611.4020912895106
+    yaw: 56.25875
+    pitch: 13.250491
+  bp:
+    world: world
+    x: 2921.574999988079
+    y: 6.0
+    z: -64.69563453718553
+    yaw: -273.19586
+    pitch: 42.43544
+  dehor:
+    world: world
+    x: 2871.3394934568555
+    y: 71.0
+    z: -85.2825942339258
+    yaw: -16.118652
+    pitch: 2.7080956
+  t:
+    world: world
+    x: -791.4809656045458
+    y: 5.0
+    z: -9431.527015715204
+    yaw: -13.568481
+    pitch: 13.484328
+  popo:
+    world: world
+    x: 2915.609002361337
+    y: 51.0
+    z: -57.09696585162211
+    yaw: -26.989746
+    pitch: -2.6437442
+logoutlocation:
+  world: world
+  x: 2910.5011342888374
+  y: 6.0
+  z: -62.525666877188314
+  yaw: -183.71057
+  pitch: 47.573055
+money: '54591.005'
+ban:
+  reason: 'Banni : Cheat. (FLY)'
+  timeout: 0
+uuid: 78de6182-c137-3437-b1ab-cf8a7d89785f
+muted: false

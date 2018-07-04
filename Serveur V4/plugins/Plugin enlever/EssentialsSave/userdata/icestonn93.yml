@@ -1,0 +1,21 @@
+logoutlocation:
+  world: world
+  x: 9.531615504419417
+  y: 187.0
+  z: 62.45053130730999
+  yaw: -252.91895
+  pitch: 7.563402
+timestamps:
+  login: 1455108165476
+  kits:
+    octonien: 1455108691963
+  lastteleport: 1455108814923
+  logout: 1455109172341
+ipAddress: 86.210.77.95
+lastlocation:
+  world: world
+  x: -0.6314479107414608
+  y: 177.0
+  z: -0.13553164535035833
+  yaw: -72.81909
+  pitch: 22.83096

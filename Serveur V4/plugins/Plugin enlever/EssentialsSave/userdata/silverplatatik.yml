@@ -1,0 +1,34 @@
+timestamps:
+  login: 1455364538295
+  kits:
+    bouffe: 1455366105932
+    octonien: 1455355007882
+  logout: 1455371706167
+  lastteleport: 1455371679548
+  lastheal: 1455371466174
+ipAddress: 86.221.5.40
+lastlocation:
+  world: world
+  x: -8450.435343463563
+  y: 56.85535186873517
+  z: -5317.972318318614
+  yaw: 207.07452
+  pitch: 28.247633
+homes:
+  home:
+    world: world
+    x: -8198.515746686668
+    y: 56.0
+    z: -5371.699999988079
+    yaw: -313.07855
+    pitch: 40.05014
+logoutlocation:
+  world: world
+  x: -8205.699999988079
+  y: 55.5
+  z: -5372.699999988079
+  yaw: -299.42816
+  pitch: 10.050164
+ignore:
+- teamomega
+money: '700.0'

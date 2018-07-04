@@ -1,0 +1,37 @@
+timestamps:
+  login: 1457030409874
+  kits:
+    octonien: 1455464498595
+  lastteleport: 1457030440027
+  logout: 1457030932863
+  lastheal: 1457030784254
+  mute: 0
+ipAddress: 62.241.95.75
+lastlocation:
+  world: world
+  x: -1.4827363328165082
+  y: 190.5
+  z: 1.5867764872682777
+  yaw: 182.14914
+  pitch: 16.047825
+logoutlocation:
+  world: world
+  x: -7990.8850477619435
+  y: 6.0
+  z: 5166.541023447525
+  yaw: 149.11957
+  pitch: 9.709124
+homes:
+  home:
+    world: world
+    x: -7993.746321550335
+    y: 219.0
+    z: 5156.369366221322
+    yaw: -29.96645
+    pitch: 8.699996
+money: '4366.580'
+ignore:
+- lezond34
+- newtoto
+muted: false
+uuid: e2912623-5302-3cd3-a48c-da8bda1882be

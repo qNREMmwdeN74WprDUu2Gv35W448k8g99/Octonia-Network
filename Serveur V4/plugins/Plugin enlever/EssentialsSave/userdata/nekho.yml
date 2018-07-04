@@ -1,0 +1,37 @@
+uuid: 495ca11e-bb65-334d-a428-c70c267b8f63
+timestamps:
+  login: 1457304263934
+  kits:
+    bouffe: 1457288532257
+    octonien: 1457276818111
+  lastteleport: 1457301731015
+  logout: 1457304675400
+  lastheal: 1457298489125
+  mute: 0
+ipAddress: 78.244.159.6
+lastlocation:
+  world: world
+  x: 8428.300508623926
+  y: 22.0
+  z: -1563.0716806095238
+  yaw: 69.765686
+  pitch: -32.25
+logoutlocation:
+  world: world
+  x: 9736.547329350127
+  y: 13.0
+  z: -1654.7072892917647
+  yaw: -122.373505
+  pitch: 20.850025
+homes:
+  home:
+    world: world
+    x: 9734.993690162393
+    y: 6.5
+    z: -1655.8653216099735
+    yaw: -85.489815
+    pitch: 68.70002
+ignore:
+- lucas1879
+muted: false
+money: '67.0'

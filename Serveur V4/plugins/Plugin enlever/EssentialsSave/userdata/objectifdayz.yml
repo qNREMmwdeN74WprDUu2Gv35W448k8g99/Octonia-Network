@@ -1,0 +1,35 @@
+uuid: dea28e1e-a892-3128-b5f0-f89fdc7cb51c
+timestamps:
+  login: 1457333507051
+  kits:
+    bouffe: 1457302323840
+    octonien: 1457282017723
+  lastteleport: 1457303533034
+  logout: 1457333531704
+ipAddress: 77.201.89.4
+lastlocation:
+  world: world
+  x: 10.483359421338037
+  y: 189.0
+  z: -14.56546622059763
+  yaw: -296.65082
+  pitch: 10.647817
+logoutlocation:
+  world: world
+  x: -4490.861202264643
+  y: 19.0
+  z: -3019.5351356883607
+  yaw: -62.872654
+  pitch: 14.249983
+homes:
+  home:
+    world: world
+    x: -1384.2200430634582
+    y: 63.0
+    z: -1113.8750310082476
+    yaw: -302.5499
+    pitch: 29.849983
+money: '8026.0'
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 0

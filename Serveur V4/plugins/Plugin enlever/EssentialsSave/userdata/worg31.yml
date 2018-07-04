@@ -1,0 +1,60 @@
+socialspy: false
+timestamps:
+  login: 1457278103361
+  kits:
+    heros: 1457282958824
+    bouffe: 1457282965562
+    octonien: 1457272398411
+    druide: 1457284120377
+    chevalier: 1456319180370
+    destruction: 1457284119060
+    xp: 1457284113557
+    legendaire: 1457181413055
+    alchimiste: 1457181513297
+    minerais: 1457284115915
+    decouverte: 1457214686081
+    construction: 1457278316930
+    golden: 1457284112534
+  lastteleport: 1457284847027
+  logout: 1457284935084
+  lastheal: 1457283485692
+  mute: 0
+  jail: 0
+ipAddress: 92.156.164.227
+lastlocation:
+  world: world
+  x: 31.183868228140255
+  y: 99.10195733444036
+  z: -52.45616319984782
+  yaw: 84.94928
+  pitch: 27.150066
+homes:
+  home:
+    world: world
+    x: -2821.09060605906
+    y: 250.875
+    z: 1716.5079367031456
+    yaw: -91.206665
+    pitch: 15.899918
+  dehbase:
+    world: world
+    x: -2788.9332042005417
+    y: 63.0
+    z: 1907.8048667585529
+    yaw: 134.38629
+    pitch: 12.866444
+money: '3814.405'
+logoutlocation:
+  world: world
+  x: -36.792016378783366
+  y: 189.70000004768372
+  z: -4.090082823207434
+  yaw: 92.68971
+  pitch: 12.548423
+muted: false
+uuid: 96da1e7c-1457-3d5b-b80b-6cc6e9ab633d
+ban:
+  reason: Banni temporairement du serveur pour 5 secondes.
+  timeout: 0
+jailed: false
+godmode: true

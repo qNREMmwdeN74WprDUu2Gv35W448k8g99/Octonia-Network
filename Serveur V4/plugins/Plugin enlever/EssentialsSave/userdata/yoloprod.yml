@@ -1,0 +1,68 @@
+timestamps:
+  login: 1457297776279
+  kits:
+    heros: 1457200464156
+    bouffe: 1457181996534
+    octonien: 1457206962193
+    chevalier: 1457092043698
+    decouverte: 1457182676309
+    legendaire: 1457256901806
+    golden: 1457285839438
+  logout: 1457297917175
+  lastteleport: 1457297900244
+  lastheal: 1457271107834
+  mute: 0
+ipAddress: 86.202.234.183
+lastlocation:
+  world: world
+  x: 776.200205593364
+  y: 253.875
+  z: -9677.642067128896
+  yaw: 358.4091
+  pitch: 17.4
+logoutlocation:
+  world: world
+  x: 2909.661413055246
+  y: 5.0
+  z: 1198.8836128170358
+  yaw: -213.23401
+  pitch: 22.79996
+homes:
+  home:
+    world: world
+    x: -3974.026220349562
+    y: 5.0
+    z: -2451.2902072955308
+    yaw: 285.29987
+    pitch: 5.69999
+  der:
+    world: world
+    x: -118.39066350758044
+    y: 64.0
+    z: 258.2493452450029
+    yaw: 4.7309465
+    pitch: 2.9881208
+  sky:
+    world: world
+    x: 774.5
+    y: 253.90199999809266
+    z: -9675.5
+    yaw: 76.857834
+    pitch: 6.6719046
+  omg:
+    world: world
+    x: 1073.699999988079
+    y: 150.0
+    z: -9772.832115102467
+    yaw: -83.71936
+    pitch: 0.21439648
+  farm:
+    world: world
+    x: 2911.6393647936907
+    y: 5.0
+    z: 1197.1336061714842
+    yaw: -326.6337
+    pitch: 6.44996
+uuid: 47a3ee50-5b9c-3961-ac4e-092308bd1881
+money: '5429.75'
+muted: false

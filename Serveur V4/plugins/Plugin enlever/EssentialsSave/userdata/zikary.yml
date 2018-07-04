@@ -1,0 +1,35 @@
+timestamps:
+  login: 1455391674338
+  lastteleport: 1455398726961
+  kits:
+    bouffe: 1455391944699
+    octonien: 1455387859146
+    decouverte: 1455384537314
+  logout: 1455398984972
+  lastheal: 1455396614194
+ipAddress: 2.14.78.138
+lastlocation:
+  world: world
+  x: 7763.797384374903
+  y: 5.0
+  z: 1124.601466222486
+  yaw: -228.28491
+  pitch: 22.713587
+logoutlocation:
+  world: world
+  x: 2105.699999988079
+  y: 7.800000011920929
+  z: -1750.300000011921
+  yaw: 147.56848
+  pitch: 36.89996
+homes:
+  home:
+    world: world
+    x: 7757.614606498911
+    y: 10.0
+    z: 1121.9200903164563
+    yaw: -95.83284
+    pitch: 14.100043
+money: '23434.5'
+ignore:
+- ethann_27

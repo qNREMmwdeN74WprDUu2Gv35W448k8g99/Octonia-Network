@@ -1,0 +1,22 @@
+socialspy: false
+timestamps:
+  login: 1454803329836
+  logout: 1454803362136
+ipAddress: 82.242.210.165
+lastlocation:
+  world: world
+  x: -0.05640325665323345
+  y: 191.0
+  z: 0.06084168811078994
+  yaw: -178.79053
+  pitch: 16.049873
+logoutlocation:
+  world: world
+  x: 0.7665469329963241
+  y: 188.0
+  z: -37.87179149048576
+  yaw: -183.14052
+  pitch: -7.0501266
+ban:
+  reason: 'Banni : fake'
+  timeout: 0

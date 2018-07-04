@@ -1,0 +1,83 @@
+timestamps:
+  login: 1457097727389
+  kits:
+    minerais: 1457097877601
+    bouffe: 1455361500098
+    heros: 1457097900300
+    octonien: 1455359429873
+    chevalier: 1455386166188
+    xp: 1455556775200
+    decouverte: 1456568206882
+    construction: 1456567825443
+    legendaire: 1457097837564
+    alchimiste: 1456568037264
+  logout: 1457098145226
+  lastteleport: 1457097756301
+  lastheal: 1456568162173
+  mute: 0
+ipAddress: 90.34.245.59
+lastlocation:
+  world: world
+  x: 0.05117473683463955
+  y: 189.0
+  z: 5.700421207035285
+  yaw: 334.82202
+  pitch: 10.0412245
+logoutlocation:
+  world: world
+  x: -23.217795493230568
+  y: 188.0
+  z: -0.6999999880790717
+  yaw: 148.86325
+  pitch: 10.903713
+socialspy: false
+homes:
+  bp:
+    world: world
+    x: -6724.75136451565
+    y: 5.0
+    z: -6504.201792685352
+    yaw: 240.0334
+    pitch: 17.313677
+  raid:
+    world: world
+    x: 1587.0759078658045
+    y: 21.0
+    z: 58.67030384554528
+    yaw: -188.2465
+    pitch: 28.45489
+  farm:
+    world: world
+    x: -6846.5
+    y: 40.5
+    z: -7217.5
+    yaw: -198.46268
+    pitch: 18.467405
+  mantik:
+    world: world
+    x: 9816.949898751085
+    y: 63.0
+    z: 1552.6108605148545
+    yaw: -1.1969429
+    pitch: 10.400395
+  newbp:
+    world: world
+    x: -7424.939370597552
+    y: 20.0
+    z: -1128.1881690047273
+    yaw: -6.761699
+    pitch: 3.2410448
+  pillage:
+    world: world
+    x: -7342.622185570566
+    y: 55.0
+    z: -1082.3326413896866
+    yaw: -111.75685
+    pitch: 21.731817
+money: '11228.40'
+muted: false
+ignore:
+- maxdufoufou
+- maxdufou
+- ninjeurs
+uuid: e1f7a626-9b25-38e8-93f5-69a765aec272

@@ -1,0 +1,2059 @@
+Crates:
+  AntiqueOpening:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: KEY_SUPREME
+      name: '&3&l[&bClef AntiqueOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses AntiqueOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7SupremeOpening: &a&lCaisse AntiqueOpening'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 260
+        name: '&6Pomme'
+        chance: 17
+        commands:
+        - give %player% 260 16
+        amount: 1
+      '3':
+        enchanted: true
+        material: GOLDEN_APPLE
+        name: '&6 1 Pomme Cheat'
+        chance: 20
+        commands:
+        - give %player% 322 1 1
+        amount: 1
+      '4':
+        enchanted: true
+        material: 368
+        name: '&6 Perle du n�ant'
+        chance: 5
+        commands:
+        - give %player% 668 1
+        amount: 1
+      '5':
+        enchanted: true
+        material: 206
+        chance: 17
+        name: '&6 5 Block extane'
+        commands:
+        - give %player% 206 5
+        amount: 1
+      '6':
+        enchanted: true
+        material: 207
+        name: '&6 3 Block Redorite'
+        chance: 12
+        commands:
+        - give %player% 207 3
+        amount: 1
+      '7':
+        enchanted: false
+        material: 207
+        name: '&6 3 Blocks de Redorite'
+        chance: 12
+        commands:
+        - give %player% 207 3
+        amount: 1
+      '8':
+        enchanted: false
+        material: 499
+        name: '&6 1 Baton Octorite'
+        chance: 8
+        commands:
+        - give %player% 499 1
+        amount: 1
+      '9':
+        enchanted: false
+        material: 462
+        name: '&4 Casque en Redorite'
+        chance: 12
+        commands:
+        - give %player% 462 1 {ench:[{id:0,lvl:4}]}
+        amount: 1
+      '10':
+        enchanted: false
+        material: 919
+        name: '&6 Pendantif Herobrine'
+        chance: 15
+        commands:
+        - give %player% 919 1
+        amount: 1
+      '11':
+        enchanted: false
+        material: 807
+        name: '&4 1 Epee en Drakex'
+        chance: 1
+        commands:
+        - give %player% 807 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex &6dans une &c&6Cl� Antique !
+        - broadcast &4ATTENTION !
+        amount: 1
+  PremiumOpening:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: true
+      particle: flame
+    Key:
+      material: KEY_PREMIUM
+      name: '&4&l[&3Clef de caisse PremiumOpening&4&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses PremiumOpening !'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enablechancelore: false
+      lore:
+      - '&7Chance: &a&l%chance%%'
+      name: '&cPremiumOpening'
+      enabled: true
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '1':
+        enchanted: false
+        material: 804
+        name: '&6 3 Drakex'
+        chance: 10
+        commands:
+        - give %player% 804 3
+        amount: 1
+      '2':
+        enchanted: false
+        material: 322
+        name: '&9 8 Pomme Cheat'
+        chance: 20
+        commands:
+        - give %player% 322:1 8
+        amount: 1
+      '3':
+        enchanted: true
+        material: 919
+        name: '&6 Pendentif d Herobrine'
+        chance: 10
+        commands:
+        - give %player% 919 1
+        amount: 1
+      '4':
+        enchanted: false
+        material: 808
+        name: '&9 WarAxe en Drakex'
+        chance: 1
+        commands:
+        - give %player% 808 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4WarAxe en Drakex &6dans un &cPremiumOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '5':
+        enchanted: true
+        material: 207
+        name: '&9 64 Redorite'
+        chance: 10
+        commands:
+        - give %player% 207 64
+        amount: 1
+      '7':
+        enchanted: false
+        material: 806
+        name: '&91 Baton en Drakex'
+        chance: 15
+        commands:
+        - give %player% 806 1
+        amount: 1
+      '8':
+        enchanted: false
+        material: 807
+        name: '&c1 Epee en Drakex'
+        chance: 1
+        commands:
+        - give %player% 807 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex &6dans un &cPremiumOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '9':
+        enchanted: false
+        material: 824
+        name: '&9 Lingot de Sang'
+        chance: 25
+        commands:
+        - give %player% 824 1
+        amount: 1
+      '10':
+        enchanted: false
+        material: 905
+        name: '&9 Faux de Sang  Natural Edition'
+        chance: 0
+        commands:
+        - give %player% 905 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Faux de Sang  Natural Edition&6dans un &cPremiumOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '11':
+        enchanted: false
+        material: 339
+        name: '&9 200K Money'
+        chance: 15
+        commands:
+        - eco give %player% 200000
+        amount: 1
+  MenestralOpenning:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: true
+      particle: flame
+    Key:
+      material: KEY_RD1
+      name: '&4&l[&3Clef de caisse  MenestralOpenning&4&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses  MenestralOpenning!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enablechancelore: false
+      lore:
+      - '&7Chance: &a&l%chance%%'
+      name: '&c MenestralOpenning'
+      enabled: true
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '1':
+        enchanted: false
+        material: 46
+        name: '&6 24 TNT '
+        chance: 25
+        commands:
+        - give %player% 46 24
+        amount: 1
+      '2':
+        enchanted: true
+        material: 825
+        name: '&9 Faux de sang'
+        chance: 0
+        commands:
+        - give %player% 825 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Faux De Sang OMG OMG OMG TRO FOR TES LE MEILLEUR MEK &6dans une &cSotyOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '3':
+        enchanted: true
+        material: 206
+        name: '&6 16 Block Extane'
+        chance: 25
+        commands:
+        - give %player% 206 16
+        amount: 1
+      '4':
+        enchanted: false
+        material: 207
+        name: '&9 16Block de Redorite'
+        chance: 5
+        commands:
+        - give %player% 207 16
+        amount: 1
+      '5':
+        enchanted: true
+        material: 205
+        name: '&9 16 Block Andesite'
+        chance: 15
+        commands:
+        - give %player% 205 16
+        amount: 1
+      '6':
+        enchanted: false
+        material: 322
+        name: '&9 8 Pomme Cheat'
+        chance: 23
+        commands:
+        - give %player% 322 1 8
+        amount: 1
+      '7':
+        enchanted: false
+        material: 553
+        name: '&91 Bottes en Octorite'
+        chance: 28
+        commands:
+        - give %player% 553 1
+        amount: 1
+      '8':
+        enchanted: false
+        material: 138
+        name: '&c 2 Beacon'
+        chance: 36
+        commands:
+        - give %player% 138 2
+        amount: 1
+      '9':
+        enchanted: false
+        material: 801
+        name: '&4 2 DynamiteBall'
+        chance: 15
+        commands:
+        - give %player% 801 2
+        amount: 1
+      '10':
+        enchanted: false
+        material: 823
+        name: '&4 Poche de sang'
+        chance: 10
+        commands:
+        - give %player% 823 1
+        amount: 1
+  RecyclageAndesite:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: true
+      particle: flame
+    Key:
+      material: RECYCLED_KEY_ANDESITE
+      name: false
+      enchanted: false
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enablechancelore: true
+      lore:
+      - '&7Chance: &a&l%chance%%'
+      name: '&Recyclage Andesite'
+      enabled: true
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '1':
+        enchanted: false
+        material: 497
+        name: '&6 3 Minerais Andesite'
+        chance: 30
+        commands:
+        - give %player% 497 3
+        amount: 1
+      '2':
+        enchanted: false
+        material: 602
+        name: '&6 Feuille de Weed'
+        chance: 30
+        commands:
+        - give %player% 602 1
+        amount: 1
+      '3':
+        enchanted: false
+        material: 842
+        name: '&6 Piece de Recyclage'
+        chance: 30
+        commands:
+        - give %player% 842 1
+        amount: 1
+      '4':
+        enchanted: false
+        material: 832
+        name: '&6 Fragment de Recyclage'
+        chance: 30
+        commands:
+        - give %player% 832 1
+        amount: 1
+      '5':
+        enchanted: false
+        material: 372
+        name: '&6 Verrue du Nether'
+        chance: 25
+        commands:
+        - give %player% 372 5
+        amount: 1
+      '6':
+        enchanted: false
+        material: 495
+        name: '&6 Cobalt'
+        chance: 20
+        commands:
+        - give %player% 495 3
+        amount: 1
+      '7':
+        enchanted: false
+        material: 49
+        name: '&6 5 Obsidienne'
+        chance: 10
+        commands:
+        - give %player% 49 1
+        amount: 1
+      '8':
+        enchanted: false
+        material: 834
+        name: '&6 Fragment de clee en andesite'
+        chance: 10
+        commands:
+        - give %player% 834 1
+        amount: 1
+  RecyclageExtane:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: true
+      particle: flame
+    Key:
+      material: RECYCLED_KEY_EXTANE
+      name: false
+      enchanted: false
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enablechancelore: true
+      lore:
+      - '&7Chance: &a&l%chance%%'
+      name: '&Recyclage Extane'
+      enabled: true
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '1':
+        enchanted: false
+        material: 602
+        name: '&6 Feuille de Weed'
+        chance: 10
+        commands:
+        - give %player% 602 1
+        amount: 1
+      '2':
+        enchanted: false
+        material: 496
+        name: '&6 3 Extane'
+        chance: 30
+        commands:
+        - give %player% 496 1
+        amount: 1
+      '3':
+        enchanted: false
+        material: 835
+        name: '&6 Fragment de clee en Extane'
+        chance: 15
+        commands:
+        - give %player% 835 1
+        amount: 1
+      '4':
+        enchanted: false
+        material: 497
+        name: '&6 Minerais Andesite'
+        chance: 15
+        commands:
+        - give %player% 497 1
+        amount: 1
+      '5':
+        enchanted: false
+        material: 369
+        name: '&6Baton de Blaze'
+        chance: 15
+        commands:
+        - give %player% 369 1
+        amount: 1
+      '6':
+        enchanted: false
+        material: 264
+        name: '&6 1 Diamant'
+        chance: 30
+        commands:
+        - give %player% 264 1
+        amount: 1
+      '7':
+        enchanted: false
+        material: 802
+        name: '&6 1 Poudre De Drakex'
+        chance: 30
+        commands:
+        - give %player% 805 1
+        amount: 1
+      '8':
+        enchanted: false
+        material: 379
+        name: '&6 Alambic'
+        chance: 40
+        commands:
+        - give %player% 379 1
+        amount: 1
+  RecyclageRedorite:
+    ParticleEffect:
+      enabled: false
+      onlywhenopening: true
+      particle: flame
+    Key:
+      material: RECYCLED_KEY_REDORITE
+      name: false
+      enchanted: false
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enablechancelore: true
+      lore:
+      - '&7Chance: &a&l%chance%%'
+      name: '&Recyclage Redorite'
+      enabled: true
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '1':
+        enchanted: false
+        material: 836
+        name: '&6 1 Fragment de Clee Redorite'
+        chance: 30
+        commands:
+        - give %player% 836 1
+        amount: 1
+      '2':
+        enchanted: false
+        material: 498
+        name: '&6 3 Redorites'
+        chance: 25
+        commands:
+        - give %player% 498 3
+        amount: 1
+      '3':
+        enchanted: false
+        material: 322
+        name: '&6 1 Pomme Cheat'
+        chance: 10
+        commands:
+        - give %player% 322 1 1
+        amount: 1
+      '4':
+        enchanted: false
+        material: 368
+        name: '&6 4 Enderpearls'
+        chance: 30
+        commands:
+        - give %player% 368 4
+        amount: 1
+      '5':
+        enchanted: false
+        material: 208
+        name: '&6 32 Pousses'
+        chance: 30
+        commands:
+        - give %player% 208 32
+        amount: 1
+      '6':
+        enchanted: false
+        material: 260
+        name: '&6 8 Pommes'
+        chance: 30
+        commands:
+        - give %player% 260 8
+        amount: 1
+      '7':
+        enchanted: false
+        material: 801
+        name: '&6 1 Dynamite'
+        chance: 1
+        commands:
+        - give %player% 801 1
+        amount: 1
+      '8':
+        enchanted: false
+        material: 816
+        name: '&6 1 Minerais Os'
+        chance: 1
+        commands:
+        - give %player% 816 1
+        amount: 1
+      '9':
+        enchanted: false
+        material: 602
+        name: '&6 8 Feuilles de Weed'
+        chance: 25
+        commands:
+        - give %player% 602 8
+        amount: 1
+  HerobrineOpening:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: KEY_FREE
+      name: '&3&l[&bClef de caisse HerobrineOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses HerobrineOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7OctoSoft: &a&lCaisse HerobrineOpening'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 912
+        name: '&6Manche Mythique'
+        chance: 4
+        commands:
+        - give %player% 912 1
+        amount: 1
+      '3':
+        enchanted: true
+        material: 913
+        name: '&6Lame Mythique Gauche'
+        chance: 8
+        commands:
+        - give %player% 913 1
+        amount: 1
+      '4':
+        enchanted: true
+        material: 911
+        name: '&6 Ticket Chaos'
+        chance: 0
+        commands:
+        - give %player% 911 1
+        amount: 1
+      '5':
+        enchanted: true
+        material: 919
+        chance: 20
+        name: '&6 Pendentif d Herobrine'
+        commands:
+        - give %player% 919 1
+        amount: 1
+      '6':
+        enchanted: true
+        material: 918
+        name: '&6 Baton d Herobrine'
+        chance: 20
+        commands:
+        - give %player% 918 1
+        amount: 1
+      '7':
+        enchanted: false
+        material: 816
+        name: '&6 Minerais d os'
+        chance: 3
+        commands:
+        - give %player% 816 1
+        amount: 1
+      '8':
+        enchanted: false
+        material: 815
+        name: '&6 Minerais dos'
+        chance: 8
+        commands:
+        - give %player% 815 1
+        amount: 1
+      '9':
+        enchanted: false
+        material: 814
+        name: '&6 Minerais dos'
+        chance: 8
+        commands:
+        - give %player% 814 1
+        amount: 1
+  DrakexOpening:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: TABLE
+      name: '&3&l[&bCaisse DrakexOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses DrakexOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7DrakexOpening: &a&lCaisse DrakexOpening'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 825
+        name: '&6Faux de Sang'
+        chance: 0
+        commands:
+        - give %player% 825 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Faux De Sang  &6dans une &cDrakekOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '3':
+        enchanted: true
+        material: 907
+        name: '&6WarAxe en Drakex Fire Edition'
+        chance: 0
+        commands:
+        - give %player% 907 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4WarAxe Fire Edition  &6dans une &cDrakekOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '4':
+        enchanted: true
+        material: 847
+        name: '&6 Epee en Drakex OceanBlade'
+        chance: 1
+        commands:
+        - give %player% 847 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee En Drakex OceanBlade  &6dans une &cDrakekOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '5':
+        enchanted: true
+        material: 801
+        name: '&6DynamiteBall'
+        chance: 25
+        commands:
+        - give %player% 801 3
+        amount: 1
+      '7':
+        enchanted: true
+        material: 638
+        name: '&6 RenforceDrake'
+        chance: 25
+        commands:
+        - give %player% 638 64
+        amount: 1
+      '8':
+        enchanted: true
+        material: 918
+        name: '&6 Baton Herobrine'
+        chance: 1
+        commands:
+        - give %player% 919 1
+        amount: 1
+      '9':
+        enchanted: false
+        material: 919
+        name: '&6 Pendentif Herobrine'
+        chance: 25
+        commands:
+        - give %player% 919 1
+        amount: 1
+      '10':
+        enchanted: false
+        material: 806
+        name: '&6 Baton en Drakex'
+        chance: 25
+        commands:
+        - give %player% 806 1 3
+        amount: 1
+      '11':
+        enchanted: false
+        material: 804
+        name: '&6 2 Drakex'
+        chance: 1
+        commands:
+        - give %player% 804 1
+        amount: 1
+      '12':
+        enchanted: false
+        material: 340
+        name: '&6 Kit News'
+        chance: 25
+        commands:
+        - kit News %player%
+        amount: 1
+      '13':
+        enchanted: false
+        material: 340
+        name: '&6 Kit Bijoutier'
+        chance: 1
+        commands:
+        - kit Bijoutier %player%
+        amount: 1
+  SangOpenning:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: DRAGON_EGG
+      name: '&3&l[&bCaisse Sang Openning&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses Sang Openning !'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7SangOpenning: &a&lCaisse Sang Openning'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: BEACON
+    Items:
+      '2':
+        enchanted: true
+        material: 825
+        name: '&6Faux De Sang'
+        chance: 1
+        commands:
+        - give %player% 825 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Faux de Sang &6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '3':
+        enchanted: true
+        material: 855
+        name: '&6Hache de Sang'
+        chance: 1
+        commands:
+        - give %player% 855 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Hache de Sang &6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '4':
+        enchanted: true
+        material: 854
+        name: '&6Epee de Sang'
+        chance: 1
+        commands:
+        - give %player% 854 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee de Sang &6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '5':
+        enchanted: true
+        material: 646
+        name: '&6Block de Sang'
+        chance: 15
+        commands:
+        - give %player% 646 1
+        amount: 1
+      '6':
+        enchanted: true
+        material: 824
+        name: '&6Lingot de sang'
+        chance: 25
+        commands:
+        - give %player% 824 3
+        amount: 1
+      '7':
+        enchanted: true
+        material: 1287
+        name: '&6Clef en Drakex'
+        chance: 25
+        commands:
+        - give %player% 1287 1
+        amount: 1
+      '8':
+        enchanted: true
+        material: 804
+        name: '&6Drakex'
+        chance: 25
+        commands:
+        - give %player% 804 2
+        amount: 1
+      '9':
+        enchanted: false
+        material: 806
+        name: '&6Baton de Drakex'
+        chance: 25
+        commands:
+        - give %player% 806 2
+        amount: 1
+      '10':
+        enchanted: false
+        material: 824
+        name: '&6 Lingot de Sang'
+        chance: 25
+        commands:
+        - give %player% 824 4
+        amount: 1
+      '11':
+        enchanted: false
+        material: 843
+        name: '&6Epee en Drakex Fire Edition'
+        chance: 2
+        commands:
+        - give %player% 843 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex Fire Edition&6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '12':
+        enchanted: false
+        material: 844
+        name: '&6Epee en Drakex Lightning Edition'
+        chance: 2
+        commands:
+        - give %player% 844 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex Lightning Edition&6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '13':
+        enchanted: false
+        material: 847
+        name: '&6Epee en Drakex OceanBlade Edition'
+        chance: 3
+        commands:
+        - give %player% 847 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex OceanBlade Edition&6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '14':
+        enchanted: false
+        material: 846
+        name: '&6Epee En Drakex Natural Edition'
+        chance: 3
+        commands:
+        - give %player% 846 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee En Drakex Natural Edition&6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '15':
+        enchanted: false
+        material: 849
+        name: '&6Epee en Drakex PurpleEdition'
+        chance: 8
+        commands:
+        - give %player% 849 1
+        - broadcast &4ATTENTION !
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex PurpleEdition&6dans un &cSangOpening&6 !
+        - broadcast &4ATTENTION !
+        amount: 1
+      '16':
+        enchanted: false
+        material: 288
+        name: '&6 Money 120K'
+        chance: 25
+        commands:
+        - eco give %player% 120000
+        amount: 1
+      '17':
+        enchanted: false
+        material: 322
+        name: '&6 10 Pomme Cheat'
+        chance: 25
+        commands:
+        - give %player% 322:1 10
+        amount: 1
+      '18':
+        enchanted: false
+        material: 207
+        name: '&632 Block de Redorite'
+        chance: 15
+        commands:
+        - give %player% 207 32
+        amount: 1
+  SpawnerOpenning:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: MOB_SPAWNER
+      name: '&3&l[&bCaisse RandomSpawner&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses RandomSpawner !'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7SangOpenning: &a&lCaisse RandomSpawner'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: MOB_SPAWNER
+    Items:
+      '2':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a Golem'
+        chance: 1
+        commands:
+        - octospawner add VillagerGolem {PLAYER}
+        amount: 1
+      '3':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a Zombie'
+        chance: 1
+        commands:
+        - octospawner add zombie {PLAYER}
+        amount: 1
+      '4':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a Vache'
+        chance: 1
+        commands:
+        - octospawner add cow {PLAYER}
+        amount: 1
+      '5':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a PigZombie'
+        chance: 1
+        commands:
+        - octospawner add PigZombie {PLAYER}
+        amount: 1
+      '6':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a Skeleton'
+        chance: 1
+        commands:
+        - octospawner add Skeleton {PLAYER}
+        amount: 1
+      '7':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a Goule'
+        chance: 1
+        commands:
+        - octospawner add Goule {PLAYER}
+        amount: 1
+      '8':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a Mutant'
+        chance: 1
+        commands:
+        - octospawner add Mutant {PLAYER}
+        amount: 1
+      '9':
+        enchanted: true
+        material: 52
+        name: '&6Spawner a LoupGaron'
+        chance: 1
+        commands:
+        - octospawner add Werewolf {PLAYER}
+        amount: 1
+  SilverOpenning:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: KEY_RD5
+      name: '&3&l[&bCaisse SilverOpenning&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses SilverOpenning!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7SilverOpenning: &a&lCaisse SilverOpenning'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 554
+        name: '&6Epee en Octorite'
+        chance: 1
+        commands:
+        - give %player% 554 1 fireaspect:2 unbreaking:3 sharpness:5
+        amount: 1
+      '3':
+        enchanted: true
+        material: 490
+        name: '&6Arc en Cobalt'
+        chance: 1
+        commands:
+        - give %player% 490 1 infinity:2 power:5 punch:2
+        amount: 1
+      '4':
+        enchanted: true
+        material: 288
+        name: '&6 30K Money'
+        chance: 15
+        commands:
+        - eco give %player% 30000
+        amount: 1
+      '5':
+        enchanted: true
+        material: 368
+        name: '&6Pearl du neant'
+        chance: 25
+        commands:
+        - give %player% 368 8
+        amount: 1
+      '7':
+        enchanted: true
+        material: 611
+        name: '&6Pomme de hast'
+        chance: 25
+        commands:
+        - give %player% 611 1 1
+        amount: 1
+      '8':
+        enchanted: true
+        material: 812
+        name: '&6Pendantif de FireResistance'
+        chance: 25
+        commands:
+        - give %player% 812 2
+        amount: 1
+      '9':
+        enchanted: false
+        material: 207
+        name: '&6Block de redorite'
+        chance: 25
+        commands:
+        - give %player% 207 9
+        amount: 1
+      '10':
+        enchanted: false
+        material: 322
+        name: '&6 Pomme cheat'
+        chance: 25
+        commands:
+        - give %player% 322 1 2
+        amount: 1
+      '11':
+        enchanted: false
+        material: 138
+        name: '&6Beacon'
+        chance: 2
+        commands:
+        - give %player% 138 1
+        amount: 1
+  PayToWinOpenning:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: 985
+      name: '&3&l[&bCaisse PayToWinOpenning&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses PayToWinOpenning!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7PayToWinOpenning: &a&lCaisse PayToWinOpenning'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 825
+        name: '&6Faux de sang'
+        chance: 70
+        commands:
+        - give %player% 825 1 fireaspect:2 unbreaking:3 sharpness:5
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Faux de sang&6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '3':
+        enchanted: false
+        material: 844
+        name: '&6Epee en Drakex '
+        chance: 50
+        commands:
+        - give %player% 844 1
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en drakex&6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '4':
+        enchanted: true
+        material: 855
+        name: '&6Hache de sang'
+        chance: 51
+        commands:
+        - give %player% 855 1 fireaspect:2 unbreaking:3 sharpness:5
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Hache de sang&6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '5':
+        enchanted: false
+        material: 854
+        name: '&6Epee de sang '
+        chance: 50
+        commands:
+        - give %player% 854 1 fireaspect:2 unbreaking:3 sharpness:5
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee de sang&6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '6':
+        enchanted: false
+        material: 808
+        name: '&6WarAxe en Drakex '
+        chance: 50
+        commands:
+        - give %player% 808 1 fireaspect:2 unbreaking:3 sharpness:5
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4WarAxe en Drakex&6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '7':
+        enchanted: false
+        material: 847
+        name: '&6OceanBlade Drakex '
+        chance: 50
+        commands:
+        - give %player% 847 1 fireaspect:2 unbreaking:3 sharpness:5
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4OceanBlade &6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '8':
+        enchanted: false
+        material: 846
+        name: '&6Epee en Drakex'
+        chance: 50
+        commands:
+        - give %player% 846 1
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex &6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '9':
+        enchanted: false
+        material: 845
+        name: '&6Epee en Drakex pink Edition'
+        chance: 68
+        commands:
+        - give %player% 843 1
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex pink Edition &6dans un &cPayToWinOpening&6 !
+        amount: 1
+      '10':
+        enchanted: false
+        material: 843
+        name: '&6Epee en Drakex sun Edition'
+        chance: 50
+        commands:
+        - give %player% 851 1
+        - broadcast &6Le joueur &4%player% &6 a gagne une &4Epee en Drakex sun Edition &6dans un &cPayToWinOpening&6 !
+        amount: 1
+  BifrostOpening:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: 860
+      name: '&3&l[&bCaisse BifrostOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses BifrostOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7GoldOpenning: &a&lCaisse BifrostOpening'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 322
+        name: '&6Pomme dor�e'
+        chance: 1
+        commands:
+        - give %player% 322 16
+        amount: 1
+      '3':
+        enchanted: false
+        material: 611
+        name: '&6Pomme de hast'
+        chance: 50
+        commands:
+        - give %player% 611 16
+        amount: 1
+      '5':
+        enchanted: false
+        material: 638
+        name: '&6RenforcedDrake'
+        chance: 50
+        commands:
+        - give %player% 638 16
+        amount: 1
+      '6':
+        enchanted: false
+        material: 801
+        name: '&6DynamiteBall '
+        chance: 50
+        commands:
+        - give %player% 801 1
+        amount: 1
+      '7':
+        enchanted: false
+        material: 49
+        name: '&6Obsidienne '
+        chance: 50
+        commands:
+        - give %player% 49 32
+        amount: 1
+      '8':
+        enchanted: false
+        material: 322
+        name: '&61 Pomme dor�e'
+        chance: 50
+        commands:
+        - give %player% 322 1
+        amount: 1
+      '9':
+        enchanted: false
+        material: 463
+        name: '&6Plastron en Redorite'
+        chance: 50
+        commands:
+        - give %player% 463 1 {ench:[{id:0,lvl:4}]}
+        amount: 1
+      '10':
+        enchanted: false
+        material: 804
+        name: '&6 Drakex'
+        chance: 50
+        commands:
+        - give %player% 804 1
+        amount: 1
+      '11':
+        enchanted: false
+        material: 909
+        name: '&6Hache en Drakex Purple Edition'
+        chance: 1
+        commands:
+        - give %player% 909 1
+        amount: 1
+      '12':
+        enchanted: false
+        material: 911
+        name: '&6Ticket Chaos 0,000001% de chance'
+        chance: 0
+        commands:
+        - give %player% 911 1
+        amount: 1
+  DiamondOpenning:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: 857
+      name: '&3&l[&bCaisse DiamondOpenning&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses DiamondOpenning!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7GoldOpenning: &a&lCaisse DiamondOpenning'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 808
+        name: '&6Hache en Drakex'
+        chance: 1
+        commands:
+        - give %player% 808 1 fireaspect:2 unbreaking:3 sharpness:5
+        amount: 1
+      '3':
+        enchanted: false
+        material: 806
+        name: '&6Baton de Drakex '
+        chance: 50
+        commands:
+        - give %player% 806 1
+        amount: 1
+      '5':
+        enchanted: false
+        material: 207
+        name: '&6Block de Redorite'
+        chance: 50
+        commands:
+        - give %player% 207 24
+        amount: 1
+      '7':
+        enchanted: false
+        material: 459
+        name: '&6Plastron Extane'
+        chance: 50
+        commands:
+        - give %player% 459 1 protect:4
+        amount: 1
+      '8':
+        enchanted: false
+        material: 103
+        name: '&61Pasteque X64'
+        chance: 50
+        commands:
+        - give %player% 103 64
+        amount: 1
+      '9':
+        enchanted: false
+        material: 801
+        name: '&6DynamiteBall'
+        chance: 50
+        commands:
+        - give %player% 801 3
+        amount: 1
+      '10':
+        enchanted: false
+        material: 634
+        name: '&6 Coffre cobalt'
+        chance: 50
+        commands:
+        - give %player% 634 32
+        amount: 1
+      '11':
+        enchanted: false
+        material: 499
+        name: '&6Baton Octorite'
+        chance: 50
+        commands:
+        - give %player% 499 1
+        amount: 1
+      '12':
+        enchanted: false
+        material: 322
+        name: '&6 8 Pommes en Or'
+        chance: 30
+        commands:
+        - give %player% 322 8
+        amount: 1
+  DailyOpening:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: 856
+      name: '&3&l[&bCaisse DailyOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses DailyOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7GoldOpenning: &a&lCaisse DailyOpening'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 603
+        name: '&6Echelle en Extane'
+        chance: 50
+        commands:
+        - give %player% 603 8
+        amount: 1
+      '3':
+        enchanted: false
+        material: 322
+        name: '&6 8 Pommes en Or'
+        chance: 50
+        commands:
+        - give %player% 322 8
+        amount: 1
+      '5':
+        enchanted: false
+        material: 801
+        name: '&6DynamiteBall'
+        chance: 5
+        commands:
+        - give %player% 801 1
+        amount: 1
+      '7':
+        enchanted: false
+        material: 46
+        name: '&6 32 TNT'
+        chance: 40
+        commands:
+        - give %player% 46 32
+        amount: 1
+      '8':
+        enchanted: false
+        material: 322
+        name: '&6 Pomme cheat'
+        chance: 5
+        commands:
+        - give %player% 322 1 1
+        amount: 1
+      '10':
+        enchanted: false
+        material: 207
+        name: '&6Block de Redorite'
+        chance: 2
+        commands:
+        - give %player% 207 1
+        amount: 1
+      '11':
+        enchanted: false
+        material: 806
+        name: '&6Baton de Drakex '
+        chance: 3
+        commands:
+        - give %player% 806 1
+        amount: 1
+      '12':
+        enchanted: false
+        material: 138
+        name: '&6Beacon'
+        chance: 20
+        commands:
+        - give %player% 138 1
+        amount: 1
+  FreeOpening:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: KEY_RD5
+      name: '&3&l[&bCaisse FreeOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses FreeOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7FreeOpening: &a&lCaisse FreeOpening!'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 672
+        name: '&6Poussiere Octorite'
+        chance: 0
+        commands:
+        - give %player% 672 1
+        amount: 1
+      '3':
+        enchanted: true
+        material: 803
+        name: '&6Joint de Weed'
+        chance: 1
+        commands:
+        - give %player% 803 1
+        amount: 1
+      '4':
+        enchanted: true
+        material: 470
+        name: '&6 Epee en Cobalt'
+        chance: 1
+        commands:
+        - give %player% 470 1
+        amount: 1
+      '5':
+        enchanted: true
+        material: 638
+        name: '&6RenforceDrake'
+        chance: 25
+        commands:
+        - give %player% 638 3
+        amount: 1
+      '7':
+        enchanted: true
+        material: 658
+        name: '&6 Chaussette Murale'
+        chance: 25
+        commands:
+        - give %player% 658 3
+        amount: 1
+      '8':
+        enchanted: true
+        material: 657
+        name: '&6 Chaussette Murale'
+        chance: 1
+        commands:
+        - give %player% 657 3
+        amount: 1
+      '9':
+        enchanted: false
+        material: 663
+        name: '&6 Pain depices dur'
+        chance: 25
+        commands:
+        - give %player% 663 3
+        amount: 1
+      '10':
+        enchanted: false
+        material: 661
+        name: '&6 CandyTop'
+        chance: 25
+        commands:
+        - give %player% 661 3
+        amount: 1
+      '11':
+        enchanted: false
+        material: 662
+        name: '&6 Candy Block'
+        chance: 1
+        commands:
+        - give %player% 662 3
+        amount: 1
+      '12':
+        enchanted: false
+        material: 322
+        name: '&6 Pomme Cheat'
+        chance: 1
+        commands:
+        - give %player% 322 1 1
+        amount: 1
+      '13':
+        enchanted: false
+        material: 38
+        name: '&6 Coquelicot '
+        chance: 1
+        commands:
+        - give %player% 38 1
+        amount: 1
+      '14':
+        enchanted: false
+        material: 339
+        name: '&9 1K Money'
+        chance: 15
+        commands:
+        - eco give %player% 1000
+        amount: 1
+  NoelOpening:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: true
+      particle: spell
+    Key:
+      material: DEMONTILE
+      name: '&3&l[&bCaisse NoelOpening&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses NoelOpening!'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&NoelOpening: &a&lCaisse NoelOpening!'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: TRAPPED_CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 919
+        name: '&6Pendentif de Herobrine'
+        chance: 20
+        commands:
+        - give %player% 919 1
+        amount: 1
+      '3':
+        enchanted: true
+        material: 339
+        name: '&6Postere &1o&2c&3t&4o&5n&6i&7a'
+        chance: 1
+        commands:
+        - give %player% 339 1 name:Postere&1o&2c&3t&4o&5n&6i&7a
+        - bc %player% &4GAGNE UN POSTER  OCTONIA !!!!!!
+        amount: 1
+      '4':
+        enchanted: true
+        material: 499
+        name: '&6 3 Baton Octorite'
+        chance: 10
+        commands:
+        - give %player% 499 3
+        amount: 1
+      '5':
+        enchanted: true
+        material: 339
+        name: '&6P&4or&5te &3C&4l&8e&6f'
+        chance: 0
+        commands:
+        - give %player% 339 1
+        amount: 1
+      '7':
+        enchanted: true
+        material: 207
+        name: '&6 8 Block de Redorite'
+        chance: 25
+        commands:
+        - give %player% 207 8
+        amount: 1
+      '8':
+        enchanted: true
+        material: 493
+        name: '&6 Arc en Redorite'
+        chance: 1
+        commands:
+        - give %player% REDORITE_BOW 1 arrow_knockback:2 durability:3
+        amount: 1
+      '9':
+        enchanted: false
+        material: 848
+        name: '&6 Epee en Drakex Metal edition'
+        chance: 1
+        commands:
+        - give %player% DRAKE_SWORD_METAL 1 damage_all:5 durability:3
+        - bc %player% &4GAGNE UNE EPPE METAL EDITION !!!!!!
+        amount: 1
+      '10':
+        enchanted: false
+        material: 801
+        name: '&6DynamiteBall'
+        chance: 25
+        commands:
+        - give %player% 801 1
+        amount: 1
+      '11':
+        enchanted: false
+        material: 611
+        name: '&6Pomme de Hast'
+        chance: 1
+        commands:
+        - give %player% APPLEHAST 4
+        amount: 1
+      '12':
+        enchanted: false
+        material: 485
+        name: '&6 Epee en Redorite'
+        chance: 1
+        commands:
+        - give %player% REDORITE_SWORD 1 damage_all:5 durability:3
+        amount: 1
+      '13':
+        enchanted: false
+        material: 322
+        name: '&6Pomme dor�e'
+        chance: 1
+        commands:
+        - give %player% GOLDEN_APPLE 8
+        amount: 1
+      '14':
+        enchanted: false
+        material: GOLDEN_APPLE:1
+        name: '&9 Pomme cheat'
+        chance: 15
+        commands:
+        - give %player% 322 1 1
+        amount: 1
+      '15':
+        enchanted: false
+        material: 933
+        name: '&6 Bottes de noel'
+        chance: 1
+        commands:
+        - give %player% NOEL_BOOT 1 protection_environmental:4 durability:3
+        amount: 1
+      '16':
+        enchanted: false
+        material: NOEL_PANTS
+        name: '&6Pantalon de Noel'
+        chance: 1
+        commands:
+        - give %player% NOEL_PANTS 1 protection_environmental:4 durability:3
+        amount: 1
+      '17':
+        enchanted: false
+        material: NOEL_COAT
+        name: '&9 Plastron de Noel'
+        chance: 15
+        commands:
+        - give %player% NOEL_COAT 1 protection_environmental:4 durability:3
+        amount: 1
+      '18':
+        enchanted: false
+        material: NOEL_HAT
+        name: '&9 Chapeau de Noel'
+        chance: 15
+        commands:
+        - give %player% NOEL_HAT 1 protection_environmental:4 durability:3
+        amount: 1
+      '19':
+        enchanted: false
+        material: 823
+        name: '&9 Poche de sang'
+        chance: 15
+        commands:
+        - give %player% POCHE_DE_SANG 1
+        amount: 1
+      '20':
+        enchanted: false
+        material: 804
+        name: '&9Drakex'
+        chance: 15
+        commands:
+        - give %player% DRAKE 1
+        amount: 1
+      '21':
+        enchanted: true
+        material: 339
+        name: '&6Sti&7cker &1o&2c&3t&4o&5n&6i&7a'
+        chance: 0
+        commands:
+        - give %player% 339 1 name:&6Sti&7cker&1o&2c&3t&4o&5n&6i&7a
+        - bc %player% &4GAGNE UN STICKER OCTONIA  OctoWin !!!!!!
+        amount: 1
+      '22':
+        enchanted: false
+        material: 906
+        name: '&9Faux de Sang Purple Edition'
+        chance: 0
+        commands:
+        - give %player% 906 1
+        amount: 1
+      '23':
+        enchanted: false
+        material: 804
+        name: '&9Drakex'
+        chance: 15
+        commands:
+        - give %player% DRAKE 1
+        amount: 1
+      '24':
+        enchanted: true
+        material: 339
+        name: '&6T&3a&4p&5i&4sDeSouris&1o&2c&3t&4o&5n&6i&7a'
+        chance: 0
+        commands:
+        - give %player% 339 1 name:&6T&3a&4p&5i&4sDeSouris&1o&2c&3t&4o&5n&6i&7a
+        - bc %player% &4GAGNE UN TAPIS DE SOURS OCTONIA OctoWin  !!!!!!
+        amount: 1
+      '25':
+        enchanted: false
+        material: DRAKE
+        name: '&9 Drakex'
+        chance: 15
+        commands:
+        - give %player% DRAKE 1
+        amount: 1
+      '26':
+        enchanted: true
+        material: 339
+        name: Une Souris Razer Mamba
+        chance: 1
+        commands:
+        - give %player% 339 1 name:R&4a&5z&6e&7r&4M&5a&1m&8b&7a
+        - bc %player% &4GAGNE UE SOURIS RAZER MAMBA OctoWin !!!!!!
+        amount: 1
+      '27':
+        enchanted: true
+        material: 339
+        name: ClaVier Razer Blackwidow
+        chance: 0
+        commands:
+        - give %player% 339 1 name:R&4a&5z&6e&7r&7Clavier
+        - bc %player% &4GAGNE UE CLAVIER RAZER OctoWin !!!!!!
+        amount: 1
+      '28':
+        enchanted: true
+        material: 339
+        name: Grinder Octonia
+        chance: 0
+        commands:
+        - give %player% 339 1 name:Gri&4nder &3Octonia
+        - bc %player% &4GAGNE Un GRINDER OCTONIA OctoWin !!!!!!
+        amount: 1
+      '29':
+        enchanted: true
+        material: 339
+        name: Chicha Psychopack Tsar Micro MisterSmoke
+        chance: 0
+        commands:
+        - give %player% 339 1 name:Chi&4Cha &3Octonia
+        - bc %player% &4GAGNE Une chicha OCTONIA OctoWin !!!!!!
+        amount: 1
+      '30':
+        enchanted: false
+        material: DRAKE_AXE_NATURAL
+        name: '&9 Hache en Drakex x'
+        chance: 1
+        commands:
+        - give %player% DRAKE_AXE_NATURAL 1
+        amount: 1

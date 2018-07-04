@@ -1,0 +1,49 @@
+#     ___________________________________________________________ 
+#    |                                                           |
+#    |                 AzuBox v1.0 by Gravenilvec                |     
+#    |                                                           |
+#    | Commands:                                                 |
+#    |    /azubox : AzuBox Help                                  |  
+#    |    /azubox give : Give a Box                              |
+#    |    /azubox refill : Refill all Box                        |      
+#    |                                                           |
+#    | Permissions:                                              |
+#    |   azubox.give                                             |
+#    |   azubox.refill                                           |
+#    |                                                           |
+#    | SoundType List: 	http://goo.gl/kTP8a1                     |
+#    |                                                           |
+#    | Contents:                                                 |
+#    |   i-1: ID:DATA,AMOUNT name:NAME                           |
+#    |   i-1: 35:14,3 name:&cAmazing Red Wool !                  |
+#    |   i-1: 276,1 name:&cEnchanted Item / PROTECTION:10        |
+#    |                                                           | 
+Prefix: '&7[&aOctoBox&7] '
+BoxName: '&a&lCoffret Cadeau'
+BoxLore: '&aVous devez placer le coffret cadeau !'
+Messages:
+  NO_PERMISSION: '&cVous n avez pas le droit de faire ceci !'
+  GIVE: '&aVous avez recu une boite !'
+  REFILL: '&aLes coffrets cadeaux sont desormais disponible'
+  ALREADY_OPEN: '&cVous avez deja ouvert une boite aujourdhui'
+Sounds:
+  OPEN_SOUND: NOTE_PLING
+  REFILL_SOUND: CHEST_OPEN
+  ALREADY_SOUND: VILLAGER_NO
+Contents:
+  i1: 805,3 name:&aOctoBox
+  i2: 482,1 name:&aOctoBox
+  i3: 611,1 name:&aOctoBox
+  i4: 600,1 name:&aOctoBox
+  i5: 46,5 name:&aOctoBox
+  i6: 368,3 name:&aOctoBox
+  i7: 498,4 name:&aOctoBox
+  i8: 485,1 name:&aOctoBox
+  i9: 480,1 name:&aOctoBox
+  i10: 492,1 name:&aOctoBox
+  i11: 493,1 name:&aOctoBox
+  i12: 809,1 name:&aOctoBox
+  i13: 812,1 name:&aOctoBox
+  i14: 813,1 name:&aOctoBox
+  i15: 322,4 name:&aOctoBox
+  i16: 2264,1

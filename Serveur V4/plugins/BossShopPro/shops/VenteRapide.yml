@@ -1,0 +1,20 @@
+ShopName: VenteRapide
+signs:
+  text: '[VenteRapide]'
+  NeedPermissionToCreateSign: true
+DisplayName: '&7[*] &2&lShop Vente Rapide &7[*]'
+Command: gameshop
+shop:
+  Example:
+    RewardType: command
+    PriceType: money
+    Price: 5000
+    Reward:
+    - tell %name% Example
+    MenuItem:
+    - type:STONE
+    - amount:1
+    - name:&8Example
+    Message: ''
+    InventoryLocation: 1
+    ExtraPermission: ''

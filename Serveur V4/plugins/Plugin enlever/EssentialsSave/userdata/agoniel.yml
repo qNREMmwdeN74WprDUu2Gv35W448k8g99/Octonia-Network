@@ -1,0 +1,80 @@
+timestamps:
+  login: 1457294723703
+  logout: 1457298132387
+  kits:
+    heros: 1457289066419
+    bouffe: 1457296930444
+    octonien: 1457294812075
+    chevalier: 1457293119326
+    destruction: 1457197432585
+    xp: 1457295037161
+    decouverte: 1457289026403
+    construction: 1457297123620
+    legendaire: 1457288971990
+  lastteleport: 1457297320145
+  lastheal: 1457297251564
+  mute: 0
+ipAddress: 90.8.200.118
+lastlocation:
+  world: world
+  x: 245.47556617003096
+  y: 64.0
+  z: 133.51089247802165
+  yaw: -150.69934
+  pitch: 0.93912345
+logoutlocation:
+  world: world
+  x: 18.46816028609056
+  y: 188.0
+  z: 13.734327443283483
+  yaw: -317.33472
+  pitch: 13.077959
+socialspy: false
+homes:
+  sky:
+    world: world
+    x: 9899.551401497802
+    y: 253.875
+    z: 359.5485465684327
+    yaw: -190.57146
+    pitch: 43.021782
+  dh:
+    world: world
+    x: 9965.270111701951
+    y: 254.0
+    z: 724.5252663174019
+    yaw: 317.26395
+    pitch: 45.822853
+  raid:
+    world: world
+    x: 9093.989482834279
+    y: 69.0
+    z: -2310.3824397141834
+    yaw: -9.539734
+    pitch: 39.555202
+  sky2:
+    world: world
+    x: 9662.380012012578
+    y: 252.875
+    z: -329.9254202534995
+    yaw: -176.71881
+    pitch: 22.27435
+  newbase:
+    world: world
+    x: 8257.121448236498
+    y: 67.0
+    z: -2527.933748666034
+    yaw: 270.0384
+    pitch: -3.0751135
+  ndh:
+    world: world
+    x: 8250.806275291488
+    y: 107.0
+    z: -2548.4513950624564
+    yaw: -186.88782
+    pitch: 30.81946
+money: '6.5'
+muted: false
+uuid: a04ed6f8-3700-38cd-86c0-b6397280e751
+ignore:
+- xxxal4xandr3xxx

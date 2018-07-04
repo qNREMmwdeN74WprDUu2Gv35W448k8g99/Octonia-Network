@@ -1,0 +1,36 @@
+socialspy: false
+timestamps:
+  login: 1455723484365
+  kits:
+    bouffe: 1455724476245
+    octonien: 1455704345728
+    decouverte: 1455721329810
+  logout: 1455726569635
+  lastteleport: 1455726264777
+  lastheal: 1455724130646
+ipAddress: 83.201.125.219
+lastlocation:
+  world: world
+  x: 4.691943296195481
+  y: 189.0
+  z: -10.70147651030108
+  yaw: -323.2832
+  pitch: 2.3295977
+logoutlocation:
+  world: world
+  x: -7272.508351220245
+  y: 5.0
+  z: 2631.602502289956
+  yaw: 77.53345
+  pitch: 14.249954
+homes:
+  home:
+    world: world
+    x: -7272.444235110702
+    y: 5.0
+    z: 2634.959987119306
+    yaw: 358.47894
+    pitch: 15.599995
+money: '80'
+ignore:
+- xrayley_

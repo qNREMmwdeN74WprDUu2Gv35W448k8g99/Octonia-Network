@@ -1,0 +1,39 @@
+uuid: ac5a7a8b-c327-3304-8361-98ceb72eb381
+timestamps:
+  login: 1457276240933
+  kits:
+    bouffe: 1457284915509
+    octonien: 1457276843699
+  logout: 1457288864272
+  lastteleport: 1457288736282
+  mute: 0
+ipAddress: 2.3.146.49
+lastlocation:
+  world: world
+  x: -5000.674683696429
+  y: 51.0
+  z: 396.30000001192093
+  yaw: 293.6958
+  pitch: -38.357536
+logoutlocation:
+  world: world
+  x: -167.89579980425972
+  y: 64.0
+  z: 284.7848517979008
+  yaw: -164.88559
+  pitch: 49.15174
+homes:
+  home:
+    world: world
+    x: -163.9559699652504
+    y: 64.0
+    z: 283.87138633540746
+    yaw: -217.1419
+    pitch: 2.5626874
+money: '2440.0'
+muted: false
+ignore:
+- navol
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

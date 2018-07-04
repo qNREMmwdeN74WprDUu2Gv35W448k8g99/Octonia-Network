@@ -1,0 +1,61 @@
+timestamps:
+  login: 1456543831001
+  kits:
+    heros: 1456544600907
+    bouffe: 1456544036206
+    octonien: 1456545185859
+    druide: 1456544615205
+    chevalier: 1456544592707
+    xp: 1456544738562
+    decouverte: 1456544124808
+    legendaire: 1456543980505
+    alchimiste: 1456544002005
+  logout: 1456545898574
+  lastteleport: 1456544928754
+  lastheal: 1455896631479
+  mute: 0
+  jail: 0
+ipAddress: 24.225.155.114
+lastlocation:
+  world: world
+  x: -1202.0463083264394
+  y: 6.0
+  z: 1439.7144465464216
+  yaw: -36.70988
+  pitch: -6.03478
+logoutlocation:
+  world: world
+  x: 4.683555400637384
+  y: 188.0
+  z: -42.441288445891765
+  yaw: 186.17686
+  pitch: -5.4414525
+homes:
+  home:
+    world: world
+    x: 4697.050536860253
+    y: 5.0
+    z: -7416.549241909525
+    yaw: 97.695496
+    pitch: 16.680922
+  bp:
+    world: world
+    x: -1202.9594038305459
+    y: 5.0
+    z: 1441.6603397515405
+    yaw: -3.5325317
+    pitch: 1.9762877
+  raid:
+    world: world
+    x: -3900.5
+    y: 5.0
+    z: -3368.5
+    yaw: 257.389
+    pitch: 88.19999
+money: '0.0'
+ignore:
+- merry_sword92
+- chibataiki
+muted: false
+jailed: false
+uuid: dd715945-73e4-30c2-9161-35b0b36bcb46

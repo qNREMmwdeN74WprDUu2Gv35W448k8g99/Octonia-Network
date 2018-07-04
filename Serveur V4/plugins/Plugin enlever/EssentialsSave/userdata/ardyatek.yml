@@ -1,0 +1,34 @@
+socialspy: false
+timestamps:
+  login: 1455377482191
+  kits:
+    bouffe: 1455377544786
+    octonien: 1454776842647
+  lastteleport: 1455310388363
+  logout: 1455377721522
+  lastheal: 1455310315462
+ipAddress: 109.12.49.254
+lastlocation:
+  world: world
+  x: 121.70351929824636
+  y: 28.0
+  z: -42.756418411585074
+  yaw: 5.0708766
+  pitch: -13.167745
+homes:
+  home:
+    world: world
+    x: -1271.3610833075286
+    y: 21.0
+    z: 83.19469179210692
+    yaw: -331.68295
+    pitch: 13.357563
+logoutlocation:
+  world: world
+  x: 52.67097881825227
+  y: 187.0
+  z: -9.169681640140897
+  yaw: -8.412577
+  pitch: 28.500008
+ignore:
+- imperialeboss

@@ -1,0 +1,71 @@
+timestamps:
+  login: 1457172202443
+  logout: 1457173909319
+  kits:
+    bouffe: 1455718961411
+    heros: 1456256973343
+    octonien: 1456253290378
+    druide: 1456591198867
+    destruction: 1456179005297
+    xp: 1456266569626
+    pvpbox: 1456327991936
+    legendaire: 1457172657877
+    alchimiste: 1456411837109
+    minerais: 1456178985880
+    tower3: 1455107387663
+    tower2: 1455107383127
+    decouverte: 1456267349636
+    tower1: 1456689722457
+    construction: 1456250341374
+    golden: 1456179028182
+  lastteleport: 1457173890982
+  lastheal: 1456326259233
+  jail: 0
+ipAddress: 109.129.28.230
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 191.0
+  z: 0.5
+  yaw: -357.55096
+  pitch: 4.1978226
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 6302.183935386157
+    y: 67.0
+    z: 7013.66627389729
+    yaw: 283.73544
+    pitch: 14.099783
+  spam:
+    world: world
+    x: 6242.95484991805
+    y: 82.61435596677181
+    z: 6952.801455200238
+    yaw: 231.6967
+    pitch: 16.187746
+  boule:
+    world: world
+    x: 2328.563387432268
+    y: 11.0
+    z: -8719.075037796032
+    yaw: -21.414978
+    pitch: 10.110354
+lastlocation:
+  world: world
+  x: 2921.574999988079
+  y: 10.200000047683714
+  z: -63.7812666357353
+  yaw: -88.37421
+  pitch: 13.499987
+money: '39862.300'
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+ignore:
+- xtr3mpvp
+afk: false
+powertools: {}
+jailed: false
+uuid: e2b94413-589c-3bfe-9706-195ec4372691

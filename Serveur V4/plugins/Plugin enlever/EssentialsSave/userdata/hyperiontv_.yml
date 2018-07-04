@@ -1,0 +1,37 @@
+timestamps:
+  login: 1457293070713
+  kits:
+    bouffe: 1457278467686
+    octonien: 1457169512359
+    decouverte: 1457278645516
+  lastteleport: 1457280064095
+  logout: 1457293104359
+  lastheal: 1457196967901
+ipAddress: 79.81.141.118
+lastlocation:
+  world: world
+  x: -1400.6501303020736
+  y: 7.0
+  z: -3094.3303966503813
+  yaw: -87.00015
+  pitch: 8.023787
+homes:
+  home:
+    world: world
+    x: -1380.300000011921
+    y: 6.5
+    z: -3095.835780681146
+    yaw: -286.521
+    pitch: 31.366165
+logoutlocation:
+  world: world
+  x: -1402.5312172743636
+  y: 3.5
+  z: -3095.694404086041
+  yaw: -280.42923
+  pitch: 38.035423
+money: '245.0'
+ignore:
+- bykoz_
+- bardock5w5
+uuid: c73b3c64-7c35-3942-9e66-be110cc8f136

@@ -1,0 +1,42 @@
+socialspy: false
+timestamps:
+  login: 1457285396540
+  lastteleport: 1457285824698
+  kits:
+    bouffe: 1457264191361
+    octonien: 1456863871237
+    xp: 1457258699766
+    decouverte: 1457258716172
+    golden: 1457258681467
+  logout: 1457285891047
+  lastheal: 1457284695382
+  mute: 0
+ipAddress: 109.89.40.172
+lastlocation:
+  world: world
+  x: -269.1672480368418
+  y: 64.0
+  z: -118.64281831682787
+  yaw: -281.63373
+  pitch: 19.49998
+logoutlocation:
+  world: world
+  x: 8324.385979706783
+  y: 45.64136799395752
+  z: -5140.162222830662
+  yaw: -15.6409645
+  pitch: 23.099934
+homes:
+  home:
+    world: world
+    x: 8311.300000011921
+    y: 46.0
+    z: -5144.699999988079
+    yaw: -73.09135
+    pitch: 14.850005
+money: '60905.405'
+uuid: 726c894c-2500-3d6f-a227-ef2847ddf765
+muted: false
+ban:
+  reason: 'Banni : Bisous'
+  timeout: 0

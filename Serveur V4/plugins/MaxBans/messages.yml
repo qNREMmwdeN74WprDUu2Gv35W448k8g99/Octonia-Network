@@ -1,0 +1,53 @@
+disconnection:
+    you-were-kicked: "&c[Octonia] &cVous venez d'etre ejecter par &4{banner} \n&cRaison: &b{reason}"
+    you-are-banned: "&cVous venez d'etre banni par &6{banner} \n&cRaison: &b{reason} \n &6Expiration du bannissement dans : &cbannissement definitif \n\n{appeal-message}\n"
+    you-are-ipbanned: "&cVotre adresse IP est bannie de Octonia par &6{banner} &cRaison: &c{reason}"
+    you-are-temp-banned: "&4[Octonia] &cVous venez d'etre banni par &4{banner} \n&cRaison: &b{reason} \n&6Expiration du bannissement dans : &c{time}\n\n{appeal-message}\n"
+    you-are-temp-ipbanned: "&cIP bannie temporairement"
+    
+    you-are-rangebanned: "&fYour IP Address (&c{range}&f) is RangeBanned.\nReason: &a{reason}&f\nBy: &a{banner}&f.\n{appeal-message}"
+    you-are-temp-rangebanned: "&fYour IP Address (&c{range}&f) is RangeBanned.\nThe ban expires in &a{time}&f.\nReason: &a{reason}&f\nBy: &a{banner}&f.\n{appeal-message}\n"
+    
+    you-are-proxied: "Impossible de se connecter: Vous etes sous VPN {ip}"
+    
+    lockdown-active: "Serveur en maintenance maintenance lancer par &c{banner} Motif : &b \n{reason}"
+    invalid-letters: "&cVotre pseudo contient des caracteres interdit"
+    invalid-name: "&cPseudo incorrect"
+    
+    
+announcement:
+    player-was-kicked: "&4&l[&cOctonia&4&l] &6{name} vient d'etre ejecter par &c{banner} &cRaison: &b{reason}"
+    player-was-banned: "&7[&cOctonia&7] &c{name} &7vient d'etre banni par &c{banner} &7Raison : &b{reason} "
+    player-was-ip-banned: "&7[&cOctonia&7] &c{name} &7vient d'etre banni par ip par &c{banner} &7Raison : &b{reason}"
+    player-was-muted: "&c&o{name} a ete reduit au silence par {banner}"
+    player-was-tempbanned: "&7[&cOctonia&7] &c{name} &7vient d'etre banni par &c{banner} &ePendant: &c{time} &7Raison : &b{reason}"
+    player-was-tempipbanned: "&c{name} vien d'etre banni par ip &c{banner} &cpendant &6{time} &cpour la raison suivante: &6'{reason}'"
+    player-was-temp-muted: "&c{name}&6 est mute temporairement par &c{banner} ! &6Raison : &c{reason} &6Pendant: &c{time}."
+    player-was-unbanned: "&7[&cOctonia&7] &c{banner} &7vient de &6debannir &c{name}&f"
+    player-was-unmuted: "&c{banner}&6 a demute &c{name}"
+    player-was-warned: "&6[OctoWarn] &b{name}&c vient d'être averti par &b{banner}&c. Raison : &6{reason}"
+    ip-was-unbanned: "&f&a{ip}&f has been unbanned by &a{banner}&f."
+    player-warnings-cleared: "&a{banner}&f cleared &a{name}&f's warnings."
+    unwarn-success: "&6[OctoWarn] &b{banner}&c vient de retirer un avertissement a &b{name}&c." 
+    
+error:
+    no-player-given: "&7[OctoBan] &cMerci de rentrez le pseudonyme du joueur a bannir"
+    no-permission: "&e[&7Octonia&e] &cVous ne pouvez pas utilisez cette commande."
+    no-ip-known: "&cThat player has no IP history!"
+    no-ipban-found: "&cAucun bannissement pour l'IP &a{ip}&f."
+    no-ban-found: "&7[OctoBan] &eAucun &cbannissement &en'a ete trouver pour &b{name}&f."
+    no-mute-found: "&a{name}&c n est pas mute."
+    no-dupeip-duplicates: "&fNo duplicates!"
+    no-history: "&fNo history."
+    no-warnings: "&a{name}&c has no warnings to their name."
+    
+    unknown-player: "&cNo player found: &a{name}&f"
+    player-already-banned: "&7[&cOctonia&7] &7est deja &cbanni pour voir plus de details faites &4/checkban &b<Pseudo>."
+    ip-already-banned: "&cThat IP is already banned."
+    
+    
+    tempban-shorter-than-last: "&cVous ne pouvez pas bannir moins longtemps que ce que le joueur est deja!"
+    tempipban-shorter-than-last: "&cThat IP has a tempban which will last longer than the one you supplied!"
+    tempmute-shorter-than-last: "&cThat player already has a mute which lasts longer than the one you tried to give."
+
+    

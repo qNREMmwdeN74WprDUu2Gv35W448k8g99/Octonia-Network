@@ -1,0 +1,38 @@
+timestamps:
+  login: 1455550361267
+  logout: 1455550436785
+  kits:
+    bouffe: 1455019655882
+    octonien: 1454944683913
+    decouverte: 1455211124273
+  lastteleport: 1455213315382
+  lastheal: 1455213601988
+  mute: 0
+ipAddress: 87.90.238.228
+lastlocation:
+  world: world
+  x: -33.45869219700387
+  y: 26.0
+  z: -140.49003560320878
+  yaw: -72.56604
+  pitch: 0.65969735
+logoutlocation:
+  world: world
+  x: 153.0739724811809
+  y: 5.0
+  z: 4344.55417074275
+  yaw: 150.20874
+  pitch: 47.63457
+socialspy: false
+homes:
+  home:
+    world: world
+    x: -2569.968672772084
+    y: 9.0
+    z: 5113.4659876436335
+    yaw: 41.447998
+    pitch: 8.638134
+money: '6.0'
+muted: false
+ignore:
+- joaoandre1630

@@ -1,0 +1,58 @@
+timestamps:
+  login: 1457210483123
+  logout: 1456651139587
+  kits:
+    heros: 1456577338824
+    bouffe: 1455637488055
+    octonien: 1454881740907
+    druide: 1456577341181
+    chevalier: 1455463723799
+    xp: 1456577319880
+    construction: 1455297955575
+  lastteleport: 1456650700300
+  lastheal: 1456234559814
+  mute: 0
+ipAddress: 82.227.68.179
+lastlocation:
+  world: world
+  x: 8137.209182321252
+  y: 6.0
+  z: -5512.136024767981
+  yaw: -119.400604
+  pitch: 13.199872
+logoutlocation:
+  world: world
+  x: -1575.6643848392364
+  y: 20.0
+  z: 3626.13821390759
+  yaw: -8.556274
+  pitch: 16.499958
+socialspy: false
+homes:
+  ap:
+    world: world
+    x: -243.53258993415866
+    y: 48.0
+    z: -284.21764160544535
+    yaw: 8.026286
+    pitch: 10.800038
+  bp:
+    world: world
+    x: -1581.2182306585719
+    y: 5.0
+    z: 3613.03336977391
+    yaw: 219.12392
+    pitch: 13.650134
+  messa:
+    world: world
+    x: -1592.2815530758885
+    y: 91.0
+    z: 3517.9615460002738
+    yaw: 98.30075
+    pitch: 6.7450213
+muted: false
+ban:
+  reason: 'Banni : 10min SPam'
+  timeout: 0
+money: '1340.000'
+uuid: 195cc088-6ad4-384a-9243-a33d1aa45ff3

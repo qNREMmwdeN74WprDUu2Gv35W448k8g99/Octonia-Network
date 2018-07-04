@@ -1,0 +1,33 @@
+timestamps:
+  login: 1455722608099
+  kits:
+    bouffe: 1455721411769
+    octonien: 1455720058316
+  logout: 1455725185974
+  lastteleport: 1455725128771
+ipAddress: 91.179.58.56
+lastlocation:
+  world: world
+  x: -10.073755482652683
+  y: 187.0
+  z: 66.50741957449395
+  yaw: -358.98242
+  pitch: 53.399956
+homes:
+  home:
+    world: world
+    x: -7188.140578785221
+    y: 90.16659142092402
+    z: -419.6317978684359
+    yaw: -166.73108
+    pitch: 72.899994
+logoutlocation:
+  world: world
+  x: 9.053068455137478
+  y: 189.0
+  z: 3.647286990418569
+  yaw: -176.73303
+  pitch: -11.620401
+ignore:
+- khadgar
+- dleon

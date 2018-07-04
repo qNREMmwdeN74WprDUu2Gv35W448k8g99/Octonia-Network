@@ -1,0 +1,41 @@
+timestamps:
+  login: 1455043788149
+  logout: 1455044074069
+  kits:
+    bouffe: 1455039105700
+    octonien: 1455036286257
+    chevalier: 1455036022522
+  lastteleport: 1455043541913
+  mute: 0
+  lastheal: 1454968937082
+ipAddress: 91.176.61.247
+lastlocation:
+  world: world
+  x: 4362.656576003401
+  y: 6.0
+  z: -314.97451609637574
+  yaw: -82.42168
+  pitch: 22.65
+logoutlocation:
+  world: world
+  x: 2.2044120293873064
+  y: 190.875
+  z: 2.563642994388612
+  yaw: -7.251831
+  pitch: 27.68029
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 4354.030237974453
+    y: 6.0
+    z: -315.794951806042
+    yaw: -273.3717
+    pitch: 14.047951
+muted: false
+money: '3046.5'
+ignore:
+- nulafifa
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 1455044157723

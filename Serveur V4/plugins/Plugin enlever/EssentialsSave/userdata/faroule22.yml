@@ -1,0 +1,28 @@
+uuid: ceae780f-1398-39d7-9d60-90816506c8d8
+timestamps:
+  login: 1455924283496
+  logout: 1455926076934
+  lastteleport: 1455925689852
+ipAddress: 77.200.15.182
+lastlocation:
+  world: world
+  x: 45.30000001192092
+  y: 33.5
+  z: -43.55795525475607
+  yaw: -111.33295
+  pitch: 66.30001
+homes:
+  home:
+    world: world
+    x: -106.11536462554564
+    y: 64.0
+    z: 263.8238708544694
+    yaw: 329.21692
+    pitch: 40.129585
+logoutlocation:
+  world: world
+  x: 1.5037754616747396
+  y: 190.5
+  z: -0.3439432665928403
+  yaw: -236.5831
+  pitch: 47.1796

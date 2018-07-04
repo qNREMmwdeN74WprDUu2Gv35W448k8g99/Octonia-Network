@@ -1,0 +1,82 @@
+timestamps:
+  login: 1457265664088
+  kits:
+    minerais: 1457256997400
+    bouffe: 1457270205389
+    heros: 1457256969249
+    octonien: 1457256967004
+    druide: 1457257000199
+    chevalier: 1457256963685
+    destruction: 1457256994300
+    xp: 1457256976031
+    decouverte: 1457257004047
+    construction: 1457256988602
+    legendaire: 1457256973530
+    golden: 1457256978693
+  lastteleport: 1457271317003
+  logout: 1457271436594
+  lastheal: 1457271414594
+  mute: 0
+ipAddress: 92.92.210.181
+lastlocation:
+  world: world
+  x: 6475.106987668357
+  y: 72.0
+  z: -603.6027766846124
+  yaw: -76.52838
+  pitch: 30.773312
+homes:
+  caca:
+    world: world
+    x: 1828.2797639558762
+    y: 250.0
+    z: -5710.906187383056
+    yaw: 269.15634
+    pitch: 17.486595
+  bas:
+    world: world
+    x: 2921.574999988079
+    y: 6.3139158647050255
+    z: -63.39981444976185
+    yaw: 7.258662
+    pitch: 56.849957
+  mimi:
+    world: world
+    x: 5821.4613922858325
+    y: 5.0
+    z: 3000.659907295129
+    yaw: -185.10558
+    pitch: 9.037575
+  poul:
+    world: world
+    x: 3856.308967433081
+    y: 5.0
+    z: -655.6999999880791
+    yaw: -150.00684
+    pitch: 28.37201
+  bob:
+    world: world
+    x: -1098.177763397416
+    y: 5.0
+    z: -9237.446042982523
+    yaw: -138.69258
+    pitch: 14.625222
+  titi:
+    world: world
+    x: -796.6999999880791
+    y: 5.0
+    z: -9451.977900300804
+    yaw: -0.32754517
+    pitch: 15.427716
+logoutlocation:
+  world: world
+  x: -1087.3932012488078
+  y: 27.0
+  z: -9242.69353198745
+  yaw: -244.19765
+  pitch: 43.10912
+money: '2.6'
+uuid: d192a192-0fb2-39a3-aba4-280d751a89dd
+ignore:
+- mrkayle
+muted: false

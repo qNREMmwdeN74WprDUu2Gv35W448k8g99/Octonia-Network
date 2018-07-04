@@ -1,0 +1,35 @@
+uuid: 6541d731-80ef-31c4-8317-179e061bc1a7
+timestamps:
+  login: 1456154164478
+  kits:
+    bouffe: 1456148565921
+    octonien: 1456154351234
+  lastteleport: 1456154251941
+  logout: 1456154471359
+  lastheal: 1456148578787
+ipAddress: 78.243.249.147
+lastlocation:
+  world: world
+  x: 1717.2063177802654
+  y: 34.0
+  z: -1658.0368338391543
+  yaw: 86.18693
+  pitch: -9.53845
+homes:
+  home:
+    world: world
+    x: 3114.9977209899666
+    y: 19.0
+    z: 1552.963304517563
+    yaw: -182.61057
+    pitch: 88.06702
+logoutlocation:
+  world: world
+  x: 1715.816695629632
+  y: 6.0
+  z: -1655.0831005376876
+  yaw: 222.62796
+  pitch: 18.891663
+ignore:
+- mr_biscote
+money: '10.5'

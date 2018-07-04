@@ -1,0 +1,65 @@
+socialspy: false
+timestamps:
+  login: 1457124307207
+  logout: 1457125463596
+  kits:
+    minerais: 1457124396214
+    bouffe: 1457125094875
+    heros: 1456668860326
+    octonien: 1456226087451
+    druide: 1456668717033
+    chevalier: 1456668872163
+    decouverte: 1457124469210
+    xp: 1456668687587
+    legendaire: 1457125079599
+    golden: 1457124384748
+  lastteleport: 1457125105084
+  lastheal: 1457124885969
+  mute: 0
+ipAddress: 90.14.224.161
+lastlocation:
+  world: world
+  x: 23.66265111810913
+  y: 24.121600046157845
+  z: -20.63870196429994
+  yaw: -168.639
+  pitch: 29.469408
+logoutlocation:
+  world: world
+  x: -0.006097698277512387
+  y: 189.4807108763317
+  z: 4.492727941899705
+  yaw: -358.45096
+  pitch: 2.9978225
+homes:
+  pillage:
+    world: world
+    x: -4232.038522415149
+    y: 23.0
+    z: 8344.678392108264
+    yaw: 214.21208
+    pitch: 10.050002
+  p4:
+    world: world
+    x: 3374.3194094400883
+    y: 56.0
+    z: -8384.699999988079
+    yaw: -35.85418
+    pitch: -58.200027
+  bp3:
+    world: world
+    x: -5205.350393881757
+    y: 27.0
+    z: 7901.401707050574
+    yaw: -122.61337
+    pitch: 26.24998
+muted: false
+money: '155.08'
+ignore:
+- alyrr
+- millardm
+- iziazox
+- thomas0185
+- mat67000
+- thekiller8357
+uuid: 705e6ee7-b34c-3de9-90f1-5b4a600cfb54

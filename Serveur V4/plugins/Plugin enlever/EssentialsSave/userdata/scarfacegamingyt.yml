@@ -1,0 +1,44 @@
+uuid: f3f3b2fd-33c5-3246-92bf-35bf25dd213c
+timestamps:
+  login: 1457285454567
+  kits:
+    bouffe: 1457203854496
+    heros: 1457271978016
+    octonien: 1457204635048
+    chevalier: 1457271974834
+    decouverte: 1457272034849
+    legendaire: 1457271986150
+  lastteleport: 1457286350880
+  logout: 1457286364386
+  lastheal: 1457286214576
+ipAddress: 88.137.196.226
+lastlocation:
+  world: world
+  x: -7220.977553789951
+  y: 22.0
+  z: 6595.8200282668095
+  yaw: 39.62561
+  pitch: 2.507903
+homes:
+  futurpopo:
+    world: world
+    x: -7157.5
+    y: 5.0
+    z: 5186.5
+    yaw: 86.82574
+    pitch: 31.089344
+  farm:
+    world: world
+    x: -2649.300000011921
+    y: 6.0
+    z: 2901.300000011921
+    yaw: -295.79572
+    pitch: 30.08768
+logoutlocation:
+  world: world
+  x: 0.4991621649824083
+  y: 190.5
+  z: 0.5195820853114128
+  yaw: -355.90594
+  pitch: 17.254808
+money: '1597.0'

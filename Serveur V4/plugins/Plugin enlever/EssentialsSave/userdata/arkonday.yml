@@ -1,0 +1,54 @@
+uuid: bc04a0fc-3d73-3149-8d39-f5aa8f75fff0
+timestamps:
+  login: 1457308914891
+  kits:
+    heros: 1457306018975
+    minerais: 1457303157024
+    bouffe: 1457309797730
+    octonien: 1457301535649
+    chevalier: 1457291881488
+    decouverte: 1457311854271
+    xp: 1457305444456
+    construction: 1457301473536
+    legendaire: 1457303115471
+    alchimiste: 1457302621700
+  logout: 1457312223311
+  lastteleport: 1457312130524
+  lastheal: 1457311906071
+ipAddress: 77.145.167.73
+lastlocation:
+  world: world
+  x: -3774.642257237867
+  y: 64.0
+  z: -2532.179573762096
+  yaw: 123.451294
+  pitch: 13.500048
+logoutlocation:
+  world: world
+  x: -0.260880460710486
+  y: 190.5
+  z: 1.4372738540408352
+  yaw: -99.40088
+  pitch: 9.897823
+homes:
+  home:
+    world: world
+    x: -6539.549708601448
+    y: 5.0
+    z: -372.30000001192093
+    yaw: 95.10693
+    pitch: 33.000084
+  sky:
+    world: world
+    x: -3770.28088782885
+    y: 244.875
+    z: -2542.520696534251
+    yaw: 102.90231
+    pitch: 67.049904
+  lavabase:
+    world: world
+    x: -4982.5
+    y: 5.0
+    z: -1962.5
+    yaw: 284.7092
+    pitch: 1.9495746

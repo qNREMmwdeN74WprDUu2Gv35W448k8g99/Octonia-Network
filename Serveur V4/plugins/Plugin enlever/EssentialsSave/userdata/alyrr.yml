@@ -1,0 +1,42 @@
+socialspy: false
+timestamps:
+  login: 1457293467272
+  lastteleport: 1457293594229
+  kits:
+    bouffe: 1457167750468
+    octonien: 1457287473048
+    chevalier: 1457286871360
+    decouverte: 1457293528411
+  logout: 1457293734153
+  lastheal: 1457022097503
+  mute: 0
+ipAddress: 82.122.38.134
+lastlocation:
+  world: world
+  x: -136.48645009596063
+  y: 64.0
+  z: -298.8648732278396
+  yaw: -351.63092
+  pitch: 10.650002
+homes:
+  home:
+    world: world
+    x: 8088.4974142307265
+    y: 251.875
+    z: 1642.7622575746923
+    yaw: 92.36567
+    pitch: 12.750019
+logoutlocation:
+  world: world
+  x: 8121.572263750767
+  y: 72.0
+  z: 1622.8403119330992
+  yaw: -206.28394
+  pitch: -7.349959
+money: '11.3'
+ignore:
+- khadgar
+- dleon
+- teteline
+muted: false
+uuid: 3c626663-3bef-3a84-9793-4afc3f84d66c

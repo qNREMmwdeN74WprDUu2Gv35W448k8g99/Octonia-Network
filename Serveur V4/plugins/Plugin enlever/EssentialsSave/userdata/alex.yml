@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1457292863005
+  kits:
+    bouffe: 1457277422182
+    octonien: 1457260952441
+  lastteleport: 1457202597307
+  logout: 1457293146960
+  mute: 0
+  jail: 1457364639715
+ipAddress: 86.253.174.173
+lastlocation:
+  world: world
+  x: 15.50538454111655
+  y: 189.0
+  z: 7.49462645596419
+  yaw: -270.27625
+  pitch: 0.43238744
+logoutlocation:
+  world: world
+  x: 15.290770517092913
+  y: 190.0
+  z: 6.862500011920928
+  yaw: -333.87646
+  pitch: 22.332401
+homes:
+  home:
+    world: world
+    x: 2641.699999988079
+    y: 54.12160004615784
+    z: 1606.5
+    yaw: 102.53326
+    pitch: 33.08727
+ignore:
+- elumix
+money: '0.0'
+uuid: bf20048c-a55a-322c-a100-5493e7b87286
+muted: false
+jailed: true
+jail: prison1

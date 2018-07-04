@@ -1,0 +1,80 @@
+timestamps:
+  login: 1457272084804
+  kits:
+    heros: 1457269946537
+    bouffe: 1457208033035
+    octonien: 1457206777759
+    druide: 1457205946827
+    chevalier: 1457202860069
+    xp: 1457268345729
+    decouverte: 1457208028683
+    construction: 1457206688090
+    legendaire: 1457268091341
+    golden: 1457267562924
+  logout: 1457270598199
+  lastteleport: 1457270296853
+  lastheal: 1457269866009
+  mute: 0
+ipAddress: 81.57.146.126
+lastlocation:
+  world: world
+  x: 7340.5
+  y: 249.875
+  z: 1235.5
+  yaw: 158.53625
+  pitch: 29.592562
+logoutlocation:
+  world: world
+  x: 6963.5
+  y: 50.0
+  z: 4660.5
+  yaw: 136.43152
+  pitch: 9.650357
+homes:
+  tpkill:
+    world: world
+    x: 7744.846124888159
+    y: 61.0
+    z: 149.54751939331666
+    yaw: 34.583492
+    pitch: 33.595688
+  r:
+    world: world
+    x: -641.5
+    y: 70.0
+    z: -5620.5
+    yaw: -292.5883
+    pitch: 32.039204
+  dedans:
+    world: world
+    x: 2914.6480160247447
+    y: 59.0
+    z: -55.23449871240214
+    yaw: -93.073135
+    pitch: 14.385427
+  r2:
+    world: world
+    x: 7435.5
+    y: 14.0
+    z: 226.5
+    yaw: 170.42593
+    pitch: -5.1091638
+  futurbp:
+    world: world
+    x: 6980.249716332209
+    y: 70.0
+    z: 4651.493118974256
+    yaw: 71.939
+    pitch: -16.616333
+  sky:
+    world: world
+    x: 7340.305260016816
+    y: 249.875
+    z: 1238.7339597824064
+    yaw: 114.74063
+    pitch: 29.178747
+uuid: a50e1033-4cbe-34da-9b95-7d92151b5abe
+money: '2359.75'
+muted: false
+ignore:
+- mrpoky

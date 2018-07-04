@@ -1,0 +1,74 @@
+timestamps:
+  login: 1457286524734
+  kits:
+    bouffe: 1456761694807
+    heros: 1455975005640
+    octonien: 1455974723764
+    chevalier: 1455722952712
+    decouverte: 1457287415024
+    legendaire: 1457039947869
+  lastteleport: 1457287292975
+  logout: 1457287456810
+  lastheal: 1456067475223
+  jail: 0
+ipAddress: 78.225.143.15
+lastlocation:
+  world: world
+  x: 3218.493404574902
+  y: 34.0
+  z: -9425.08377962472
+  yaw: -21.005066
+  pitch: 39.80571
+logoutlocation:
+  world: world
+  x: 3208.3603759631405
+  y: 6.0
+  z: -9401.125742600163
+  yaw: 75.46075
+  pitch: 11.6224375
+homes:
+  home:
+    world: world
+    x: 2112.8116387292175
+    y: 11.0
+    z: -9728.952261003795
+    yaw: 163.78445
+    pitch: 53.496723
+  surface:
+    world: world
+    x: 3865.3830651965654
+    y: 59.0
+    z: -8997.324918650444
+    yaw: -194.6814
+    pitch: 34.74904
+  virtuoze:
+    world: world
+    x: 2238.5
+    y: 20.5
+    z: -9037.5
+    yaw: 90.160904
+    pitch: 45.98456
+  etage:
+    world: world
+    x: 3856.0907653392487
+    y: 95.0
+    z: -9009.531747232033
+    yaw: -359.41907
+    pitch: 24.04094
+  newlegend:
+    world: world
+    x: 2604.4127294162026
+    y: 43.0
+    z: 1543.300000011921
+    yaw: -359.84314
+    pitch: 28.697712
+  virtuoze2:
+    world: world
+    x: 1651.008925621424
+    y: 65.0
+    z: -9684.408387020141
+    yaw: 86.87995
+    pitch: 32.011215
+money: '3802.50'
+uuid: 6468c4fd-04fc-3339-a2df-02463bdc2031
+jailed: false

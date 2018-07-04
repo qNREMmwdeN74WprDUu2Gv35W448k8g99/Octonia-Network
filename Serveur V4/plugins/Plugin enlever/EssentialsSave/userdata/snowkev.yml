@@ -1,0 +1,32 @@
+uuid: caf78626-a046-314b-856f-a7272f5b3637
+timestamps:
+  login: 1456676603480
+  kits:
+    bouffe: 1456676925405
+    octonien: 1456676931406
+  logout: 1456677189461
+  lastteleport: 1456621193692
+  lastheal: 1456621245456
+ipAddress: 93.11.110.9
+lastlocation:
+  world: world
+  x: -151.309331986465
+  y: 30.0
+  z: -0.3000000119209312
+  yaw: 20.598213
+  pitch: 12.447838
+logoutlocation:
+  world: world
+  x: -55.60164030765936
+  y: 187.0
+  z: -14.48909338032404
+  yaw: -98.96753
+  pitch: 13.697912
+homes:
+  home:
+    world: world
+    x: 558.5
+    y: 8.0
+    z: -4937.5
+    yaw: 3.9445622
+    pitch: 24.749983

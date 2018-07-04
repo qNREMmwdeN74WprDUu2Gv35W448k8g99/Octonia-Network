@@ -1,0 +1,39 @@
+timestamps:
+  login: 1457335445309
+  logout: 1457335566674
+  kits:
+    bouffe: 1457288373726
+    octonien: 1457288362407
+    decouverte: 1457294843261
+    xp: 1457335472712
+  lastteleport: 1457298041133
+  lastheal: 1457297878506
+  jail: 0
+ipAddress: 212.198.130.37
+lastlocation:
+  world: world
+  x: 7275.66383281087
+  y: 253.875
+  z: 1442.0256207252414
+  yaw: -355.95752
+  pitch: 5.856682
+logoutlocation:
+  world: world
+  x: 10.592574153325454
+  y: 189.0
+  z: -5.898258156748716
+  yaw: -165.02715
+  pitch: 1.4003086
+homes:
+  home:
+    world: world
+    x: 7276.762499988079
+    y: 253.875
+    z: 1439.237500011921
+    yaw: -318.50708
+    pitch: -1.6930164
+uuid: fa66489e-2552-32bf-9456-6d6777f3bd56
+money: '3567.00'
+ignore:
+- theo974
+jailed: false

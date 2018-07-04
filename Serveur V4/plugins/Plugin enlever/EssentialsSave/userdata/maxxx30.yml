@@ -1,0 +1,41 @@
+timestamps:
+  login: 1456615290150
+  kits:
+    bouffe: 1456591783927
+    octonien: 1456453247266
+    decouverte: 1456591721150
+  lastteleport: 1456605687072
+  logout: 1456615622978
+  mute: 0
+  jail: 0
+  lastheal: 1456520449667
+ipAddress: 92.93.49.228
+lastlocation:
+  world: world
+  x: -1454.6465898309023
+  y: 61.0
+  z: -1707.8406427908099
+  yaw: 172.26172
+  pitch: 38.09981
+logoutlocation:
+  world: world
+  x: -1436.4883929173445
+  y: 61.0
+  z: -1698.089821096516
+  yaw: -35.786842
+  pitch: 12.000008
+uuid: 3e93af7a-2ec6-32bc-a3ff-b442f3edb076
+homes:
+  home:
+    world: world
+    x: -3079.5
+    y: 253.875
+    z: -3676.5
+    yaw: -27.45288
+    pitch: 22.049871
+money: '21923.120'
+muted: false
+ban:
+  reason: 'Banni : Oeuf De Creeper Explique toi ts ou forum pour ton unban ^^'
+  timeout: 0
+jailed: false

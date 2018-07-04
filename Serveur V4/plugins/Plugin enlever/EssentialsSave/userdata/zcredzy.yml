@@ -1,0 +1,41 @@
+timestamps:
+  login: 1457294655705
+  kits:
+    bouffe: 1457292428339
+    octonien: 1457292972029
+    xp: 1457285986885
+    decouverte: 1457279206290
+  lastteleport: 1457293082108
+  logout: 1457294742697
+  lastheal: 1457293304458
+  mute: 0
+ipAddress: 86.213.73.69
+lastlocation:
+  world: world
+  x: 277.69999998807907
+  y: 3.0
+  z: -20.69999998807907
+  yaw: -217.66559
+  pitch: -73.21275
+logoutlocation:
+  world: world
+  x: 7428.160090843518
+  y: 5.5
+  z: 199.83398701990473
+  yaw: -261.65088
+  pitch: 23.197287
+homes:
+  home:
+    world: world
+    x: 9148.265637913652
+    y: 45.0
+    z: -3410.231641597322
+    yaw: -191.26688
+    pitch: 15.252907
+money: '31.930'
+ignore:
+- screamyyy
+- xxfire
+- starjek
+uuid: b00c7cf1-e4a4-3fc9-84c0-4324948af83a
+muted: false

@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1456009122548
+  lastteleport: 1456009253205
+  kits:
+    bouffe: 1455637467502
+    octonien: 1455637421213
+    decouverte: 1455711350942
+  logout: 1456009311414
+  lastheal: 1455728758325
+ipAddress: 81.245.27.237
+lastlocation:
+  world: world
+  x: -8084.309089811275
+  y: 8.0
+  z: 1124.3658643643241
+  yaw: -170.49728
+  pitch: 2.8499777
+logoutlocation:
+  world: world
+  x: -8231.5
+  y: 68.74121046598373
+  z: -5238.561856464423
+  yaw: -168.16127
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: -8231.615427491983
+    y: 72.0
+    z: -5237.3980656979675
+    yaw: -161.2613
+    pitch: 33.749996
+money: '623.25'
+ignore:
+- commando50
+- arcaida
+- nana95
+uuid: 27d2f868-f21f-3c68-9081-e1bf679208e1

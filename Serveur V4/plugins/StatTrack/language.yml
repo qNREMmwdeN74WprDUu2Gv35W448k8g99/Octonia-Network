@@ -1,0 +1,7 @@
+COMMAND_USABLE_ONLY_BY_PLAYER: '§cThis command can be executed by player§0!'
+HAVE_NOT_PERMISSION: '§cHave not permission to do that§0!'
+HAVE_NOT_ITEM_IN_MAIN_HAND: '§cHave not item in main hand§0!'
+SUCCESSFULLY_ADDED_STATTRACK: '§aStatTrack system successfully added to your item in main hand§0!'
+SUCCESSFULLY_REMOVED_STATTRACK: '§aStatTrack system successfully removed from your item in main hand§0!'
+ITEM_HAVE_STATTRACK: '§cYour item in main hand have statrack§0!'
+ITEM_HAVE_NOT_STATTRACK: '§cYour item in main hand have not stattrack§0!'

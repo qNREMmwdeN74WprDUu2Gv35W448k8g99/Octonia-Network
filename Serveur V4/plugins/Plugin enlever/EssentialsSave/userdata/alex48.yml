@@ -1,0 +1,60 @@
+timestamps:
+  login: 1456527392450
+  kits:
+    minerais: 1456526431880
+    heros: 1456338615833
+    bouffe: 1456527284980
+    octonien: 1456341739586
+    chevalier: 1456345912006
+    decouverte: 1456341209599
+    xp: 1456332121360
+    legendaire: 1456527282154
+    construction: 1456338636390
+    golden: 1456526437276
+    alchimiste: 1456341774801
+  lastteleport: 1456527174788
+  logout: 1456527487675
+  lastheal: 1456527246718
+  mute: 0
+ipAddress: 81.251.187.154
+lastlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  pille:
+    world: world
+    x: 1871.5175577615282
+    y: 5.0
+    z: -5728.876707359262
+    yaw: -157.17934
+    pitch: 15.951909
+  base:
+    world: world
+    x: 3496.5
+    y: 43.0
+    z: 4328.5
+    yaw: -185.90417
+    pitch: 2.25
+  ap:
+    world: world
+    x: 109.73853056729655
+    y: 64.0
+    z: 285.6907265092437
+    yaw: -248.31496
+    pitch: 11.4000225
+logoutlocation:
+  world: world
+  x: 3188.300000011921
+  y: 49.0
+  z: 4426.699999988079
+  yaw: -113.36063
+  pitch: 20.307726
+money: '12522.00'
+uuid: 4eaac946-ef79-35d5-ae71-42b6926ebcec
+muted: false
+ignore:
+- teteline

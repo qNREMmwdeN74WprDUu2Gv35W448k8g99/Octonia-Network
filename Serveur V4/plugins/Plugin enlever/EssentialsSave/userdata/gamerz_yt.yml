@@ -1,0 +1,50 @@
+socialspy: false
+timestamps:
+  login: 1457269812970
+  kits:
+    bouffe: 1457270436164
+    octonien: 1457188401585
+    chevalier: 1457269822751
+    decouverte: 1457269842039
+  logout: 1457272199523
+  lastteleport: 1457272036803
+  lastheal: 1457271965806
+  mute: 0
+ipAddress: 92.161.21.174
+lastlocation:
+  world: world
+  x: 9801.122596351699
+  y: 72.0
+  z: 1623.1863419349672
+  yaw: -232.60669
+  pitch: 16.40452
+logoutlocation:
+  world: world
+  x: 152.01565976001433
+  y: 7.0
+  z: 284.25004627669927
+  yaw: -242.3733
+  pitch: 52.500786
+money: '4.425'
+homes:
+  heartz:
+    world: world
+    x: 151.37190118556614
+    y: 7.0
+    z: 284.0619497016163
+    yaw: -37.722168
+    pitch: 36.547176
+  p:
+    world: world
+    x: 9803.5
+    y: 62.0
+    z: 1601.5
+    yaw: 263.87567
+    pitch: 23.250025
+uuid: 81b84daf-31c1-32a7-8738-04de6c667b8d
+muted: false
+ignore:
+- spidermatou
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 0

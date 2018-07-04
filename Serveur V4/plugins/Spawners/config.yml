@@ -1,0 +1,132 @@
+# For 1.7 servers and above, choose to use fancy messages or default
+UseFancyMessages: true
+
+# Supported languages are listed in the 'lang' folder. Feel free to add your own!
+language: english
+
+# Command cooldowns
+cooldown:
+  change: 480 # Default = 480 minutes / 8 hours
+  give: 1440 # Default = 1440 minutes / 24 hours
+
+# Possible options: money, exp, free
+costType: free
+
+# Option to disable spawner dropping when broken by a player in creative
+DropInCreative: true
+
+# When a spawner is mined and the player has the right permissions
+# This will be the chance a spawner will drop in percent
+dropChance: 100
+
+# When a spawner is blown up by tnt
+# This will be the chance a spawner will drop in percent
+TntDropChance: 100
+
+# Prevent players to change spawners with a spawn egg
+enableSpawnEgg: true
+
+# Command costs if the costType is not free
+# Enter a number if your players need to pay with money or exp
+cost:
+  change:
+    creeper: 1000
+    skeleton: 1000
+    spider: 1000
+    giant: 1000
+    zombie: 1000
+    slime: 1000
+    ghast: 5000
+    pig_zombie: 1000
+    enderman: 1000
+    cave_spider: 1000
+    silverfish: 1000
+    blaze: 5000
+    magma_cube: 5000
+    ender_dragon: 7777777
+    wither: 666666
+    bat: 500
+    witch: 2500
+    pig: 1000
+    sheep: 1000
+    cow: 1000
+    chicken: 1000
+    squid: 1000
+    wolf: 1000
+    mushroom_cow: 15000
+    snowman: 1000
+    ocelot: 1000
+    iron_golem: 50000
+    horse: 5000
+    villager: 95000
+    rabbit: 1000
+    endermite: 1000
+    guardian: 1000
+  give:
+    creeper: 5000
+    skeleton: 5000
+    spider: 5000
+    giant: 5000
+    zombie: 5000
+    slime: 5000
+    ghast: 10000
+    pig_zombie: 5000
+    enderman: 5000
+    cave_spider: 5000
+    silverfish: 5000
+    blaze: 7500
+    magma_cube: 7500
+    ender_dragon: 7777777
+    wither: 666666
+    bat: 5000
+    witch: 7500
+    pig: 5000
+    sheep: 5000
+    cow: 5000
+    chicken: 5000
+    squid: 5000
+    wolf: 5000
+    mushroom_cow: 20000
+    snowman: 5000
+    ocelot: 5000
+    iron_golem: 50000
+    horse: 10000
+    villager: 100000
+    rabbit: 5000
+    endermite: 5000
+    guardian: 5000
+
+# Whitelist entities which may be spawned
+whitelist:
+  - creeper
+  - skeleton
+  - spider
+  - giant
+  - zombie
+  - slime
+  - ghast
+  - pig_zombie
+  - enderman
+  - cave_spider
+  - silverfish
+  - blaze
+  - magma_cube
+  - ender_dragon
+  - wither
+  - bat
+  - witch
+  - pig
+  - sheep
+  - cow
+  - chicken
+  - squid
+  - wolf
+  - mushroom_cow
+  - snowman
+  - ocelot
+  - iron_golem
+  - horse
+  - villager
+  - rabbit
+  - endermite
+  - guardian

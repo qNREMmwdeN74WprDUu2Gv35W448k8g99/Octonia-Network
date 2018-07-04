@@ -1,0 +1,51 @@
+timestamps:
+  login: 1457288993368
+  kits:
+    heros: 1457181895151
+    bouffe: 1457135062494
+    octonien: 1457181901100
+    chevalier: 1457181884581
+    decouverte: 1457135014319
+    construction: 1457181912080
+    legendaire: 1457181889363
+    alchimiste: 1457181959388
+  lastteleport: 1457290233495
+  logout: 1457290301308
+  mute: 0
+  lastheal: 1457290154223
+  jail: 0
+ipAddress: 81.49.72.203
+lastlocation:
+  world: world
+  x: 3497.782614752264
+  y: 64.0
+  z: 1075.0436519725492
+  yaw: -173.85011
+  pitch: 55.79999
+logoutlocation:
+  world: world
+  x: 7629.699999988079
+  y: 8.0
+  z: 746.2797412227136
+  yaw: -115.967384
+  pitch: 30.870808
+homes:
+  desert:
+    world: world
+    x: 2595.070964581064
+    y: 68.0
+    z: 1327.094662945819
+    yaw: -13.800201
+    pitch: 23.550005
+  mine:
+    world: world
+    x: 6119.517378552002
+    y: 6.0
+    z: 2079.8931401894474
+    yaw: -177.14977
+    pitch: 15.5999975
+socialspy: false
+muted: false
+money: '501.85'
+uuid: 3a008c99-f56c-3f83-ba72-aa95d147be43
+jailed: false

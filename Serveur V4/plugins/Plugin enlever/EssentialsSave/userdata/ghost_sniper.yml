@@ -1,0 +1,30 @@
+uuid: f27ec2a3-cb51-343c-ac60-c572c9382c0d
+timestamps:
+  login: 1456769371426
+  logout: 1456771103138
+  kits:
+    octonien: 1456769511337
+  lastteleport: 1456770458839
+ipAddress: 83.205.169.103
+lastlocation:
+  world: world
+  x: 9209.490219171783
+  y: 73.0
+  z: 359.30000001192093
+  yaw: 249.14789
+  pitch: 7.819068
+logoutlocation:
+  world: world
+  x: 9158.699999988079
+  y: 7.0
+  z: 478.7989413069647
+  yaw: -10.981384
+  pitch: 7.4999986
+homes:
+  home:
+    world: world
+    x: 9766.699999988079
+    y: 23.0
+    z: 122.76975377547706
+    yaw: -197.77919
+    pitch: 21.299929

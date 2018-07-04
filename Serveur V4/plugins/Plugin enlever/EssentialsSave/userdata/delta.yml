@@ -1,0 +1,44 @@
+uuid: 79088514-8e05-347e-bda6-d888f86a4162
+timestamps:
+  login: 1457181007045
+  lastteleport: 1457177144618
+  kits:
+    minerais: 1457175553813
+    bouffe: 1457175843837
+    octonien: 1456353420603
+    xp: 1457175885406
+    legendaire: 1457175592065
+  logout: 1457181016103
+  mute: 0
+  lastheal: 1457175671217
+ipAddress: 82.239.48.204
+lastlocation:
+  world: world
+  x: 6023.208295953688
+  y: 5.0
+  z: -7520.505071802879
+  yaw: 124.54248
+  pitch: 16.836132
+logoutlocation:
+  world: world
+  x: 0.3430258467182357
+  y: 189.0
+  z: 5.9699039129941855
+  yaw: -357.55096
+  pitch: 4.1978226
+muted: false
+homes:
+  home:
+    world: world
+    x: 4612.699999988079
+    y: 51.5
+    z: -4629.886916914827
+    yaw: 79.61772
+    pitch: 17.158913
+  bp:
+    world: world
+    x: 6019.9664920671485
+    y: 5.0
+    z: -7522.843312910556
+    yaw: 123.129074
+    pitch: 11.463281

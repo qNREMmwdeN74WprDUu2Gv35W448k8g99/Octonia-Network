@@ -1,0 +1,50 @@
+# 
+# Set the spawner name and lore
+# placeholders: {player}, {mob}
+AccessTo: 'Masz dostęp do '
+SignCreated: '&eZ powodzeniem stworzono znak'
+SpawnerBroke: '&cSpawner rozpadł się w czasie wydobywania'
+SpawnerChanged: '&eZmieniłeś spanwer na &6{spawner}'
+SpawnerChangedWithMoney: '&eZmieniłeś spawner na &6{spawner}&e za &6${money}'
+SpawnerChangedWithExp: '&eZmieniłeś spawner na &6{spawner}&e za &6{exp} doświadczenia'
+SpawnerGive: '&eOtryzmałeś spawner: &6{spawner}'
+SpawnerGiveWithMoney: '&eKupiłeś &6{spawner}&e spawner za &6${money}'
+SpawnerGiveWithExp: '&eKupiłeś &6{spawner}&e spawner za &6{exp} doświadczenia'
+ReceivedSpawner: '&eOtryzmałeś &6{spawner}&e spawner od gracza &6{player}'
+ProtectedArea: '&cNie możesz zmieniać spawnera w chronionym miejscu'
+NoPlayerFound: '&cNie można znaleść gracza "{player}"'
+NoPermission: '&cNie masz poywolenia aby używać tej komendy'
+NoInvSpace: '&cNie masz miejsca w swoim ekwipunku'
+OnCooldown: '&cMusisz odczekać &e{time}&c zanim możesz użyć tej komendy'
+NotValid: '&cTo nie jest ważny spawner, użyj &n{command}&c aby zobaczyć wszystkie
+  spawnery'
+NoValidBlock: '&cTo nie jest spawner na któro patrzysz'
+NotEnoughMoney: '&cPotrzebujesz ${money} aby tego użyć'
+NotEnoughExp: '&cPotrzebujesz {exp} doświadcyenia aby tego użyć! (missing: {missingExp})'
+Commands:
+  spawner:
+    change:
+      Description: Zmień spawner na który patrzysz
+    give:
+      Description: Daje ci spawner
+    entity:
+      Description: Pokazuje wszystkie jednostki
+    list:
+      Description: Pokazuje wszystkie spawnery
+item:
+  give:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner stowrzony przez {player}'
+  buy:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner kupiony przez {player}'
+  mine:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner zaminowany przez {player}'
+  tnt:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner został zebrany za pomocą TNT'

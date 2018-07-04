@@ -1,0 +1,20 @@
+uuid: ddc10106-2fcc-3a55-a07e-3e2941f75e70
+timestamps:
+  login: 1457191642056
+  lastteleport: 1457192438216
+  logout: 1457192645630
+ipAddress: 176.182.8.158
+lastlocation:
+  world: world
+  x: 49.30000001192093
+  y: 24.0
+  z: 6.499603018031839
+  yaw: -11.650078
+  pitch: 11.097836
+logoutlocation:
+  world: world
+  x: 10.140380451799034
+  y: 35.5
+  z: -6.940182486848448
+  yaw: -304.7514
+  pitch: 31.4978

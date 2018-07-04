@@ -1,0 +1,72 @@
+timestamps:
+  login: 1455905118485
+  kits:
+    bouffe: 1455564087465
+    heros: 1455904548629
+    octonien: 1455808556392
+    chevalier: 1455905283960
+    legendaire: 1455904104855
+  lastteleport: 1455904555079
+  logout: 1455906914665
+  lastheal: 1455906866109
+ipAddress: 95.157.159.102
+lastlocation:
+  world: world
+  x: -41.38217554654697
+  y: 28.419999986886978
+  z: 160.2759206027315
+  yaw: -322.3832
+  pitch: 31.279583
+logoutlocation:
+  world: world
+  x: -664.3000000119209
+  y: 5.0
+  z: -1459.5646535866997
+  yaw: 348.98215
+  pitch: -5.400035
+homes:
+  bp:
+    world: world
+    x: 4048.980587504981
+    y: 155.0
+    z: 425.3318312165728
+    yaw: -148.35428
+    pitch: 46.8
+  lol:
+    world: world
+    x: 4031.7194680855114
+    y: 164.0
+    z: 426.3636879859862
+    yaw: 306.74573
+    pitch: 41.850014
+  base:
+    world: world
+    x: 4067.4943034269218
+    y: 192.0
+    z: 446.3594470074966
+    yaw: 70.332886
+    pitch: 82.380424
+  mrro:
+    world: world
+    x: -3355.4416712482976
+    y: 82.0
+    z: -3564.6822086175093
+    yaw: -193.05844
+    pitch: -89.1
+  tourelle:
+    world: world
+    x: 4026.537885174094
+    y: 80.0
+    z: 431.4887724431632
+    yaw: 34.132935
+    pitch: 90.0
+  spawn:
+    world: world
+    x: 1.5672617541068838
+    y: 189.0
+    z: 9.870449413178552
+    yaw: -97.363
+    pitch: -87.450005
+ignore:
+- itz_wreckled
+uuid: f4c8e2ba-f98a-35e9-99da-4ffde427668f

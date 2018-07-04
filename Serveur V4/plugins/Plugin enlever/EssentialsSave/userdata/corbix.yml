@@ -1,0 +1,29 @@
+uuid: fabd89aa-2b71-3399-ab26-f29c84137165
+timestamps:
+  login: 1457261663944
+  kits:
+    octonien: 1457261682875
+  logout: 1457263203816
+ipAddress: 90.47.162.229
+lastlocation:
+  world: world
+  x: 3.5
+  y: 193.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 2288.576145969444
+    y: 11.0
+    z: -2378.186019624117
+    yaw: 358.6891
+    pitch: 13.939848
+logoutlocation:
+  world: world
+  x: 2379.547353504776
+  y: 11.0
+  z: -2277.300000011921
+  yaw: -182.82002
+  pitch: 38.5854

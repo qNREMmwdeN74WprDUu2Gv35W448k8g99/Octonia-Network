@@ -1,0 +1,83 @@
+timestamps:
+  login: 1457335386108
+  kits:
+    bouffe: 1457334098560
+    heros: 1457334043406
+    octonien: 1457334048307
+    druide: 1457334015607
+    chevalier: 1457334045807
+    destruction: 1457292107635
+    decouverte: 1457334094760
+    xp: 1457334012008
+    legendaire: 1457334041106
+    construction: 1457334102161
+    alchimiste: 1457334079007
+    golden: 1457334017207
+  logout: 1457335816674
+  lastteleport: 1457333985404
+  lastheal: 1457334997810
+  mute: 0
+ipAddress: 80.118.51.225
+lastlocation:
+  world: world
+  x: 4622.948174095036
+  y: 5.0
+  z: -8739.439547844053
+  yaw: -305.1619
+  pitch: 11.1693945
+logoutlocation:
+  world: world
+  x: 3286.0368496975184
+  y: 67.0
+  z: -7800.182165522128
+  yaw: 66.776085
+  pitch: 38.549755
+homes:
+  bp:
+    world: world
+    x: 2361.9224498659128
+    y: 14.0
+    z: -7426.021837370052
+    yaw: 189.8802
+    pitch: 19.499977
+  spawner:
+    world: world
+    x: 4629.989830317941
+    y: 66.0
+    z: -8738.150081545398
+    yaw: -46.67984
+    pitch: 20.099594
+  aide:
+    world: world
+    x: 2411.316125435847
+    y: 250.0
+    z: -7361.550191608545
+    yaw: 359.50894
+    pitch: 16.199665
+  pil:
+    world: world
+    x: 2367.300000011921
+    y: 71.0
+    z: -7457.277975947849
+    yaw: -48.619446
+    pitch: 63.599716
+  messa:
+    world: world
+    x: 4271.763922884267
+    y: 77.0
+    z: -2049.298258367873
+    yaw: 354.51822
+    pitch: 11.249937
+  biome:
+    world: world
+    x: 3284.431938819663
+    y: 68.0
+    z: -7812.314091490661
+    yaw: 42.76581
+    pitch: 9.896814
+muted: false
+money: '17674.5'
+ignore:
+- sentex87
+- xxfire
+uuid: 3892e10e-9f4e-347c-b76c-f05752b6daab

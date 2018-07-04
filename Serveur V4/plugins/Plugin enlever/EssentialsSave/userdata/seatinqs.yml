@@ -1,0 +1,85 @@
+timestamps:
+  login: 1457099159708
+  logout: 1457099478937
+  kits:
+    bouffe: 1457033238466
+    heros: 1457001306049
+    octonien: 1456783765519
+    druide: 1457031370929
+    chevalier: 1457031014536
+    xp: 1457033723103
+    decouverte: 1457031209659
+    legendaire: 1457001303749
+  lastteleport: 1457099248642
+  mute: 0
+  lastheal: 1457099388666
+ipAddress: 88.120.188.95
+lastlocation:
+  world: world
+  x: 6772.166025756585
+  y: 30.0
+  z: -1782.3632489484924
+  yaw: -169.25084
+  pitch: 22.356846
+logoutlocation:
+  world: world
+  x: 6776.978275231974
+  y: 30.0
+  z: -1780.2254190575377
+  yaw: -107.13674
+  pitch: 23.785292
+socialspy: false
+homes:
+  ap:
+    world: world
+    x: 281.05596342344927
+    y: 68.0
+    z: 235.8131153670152
+    yaw: -130.37921
+    pitch: 14.274894
+  base:
+    world: world
+    x: 5810.5
+    y: 5.0
+    z: -885.5
+    yaw: -233.29205
+    pitch: 8.278524
+  bp:
+    world: world
+    x: 5811.5
+    y: 6.0
+    z: -902.5
+    yaw: -14.752686
+    pitch: 33.02267
+  farm:
+    world: world
+    x: 6777.5238763332
+    y: 71.0
+    z: -1777.8541034600025
+    yaw: -294.38522
+    pitch: -27.364784
+  fazd:
+    world: world
+    x: 2203.5
+    y: 29.0
+    z: -9034.5
+    yaw: -351.45874
+    pitch: -6.460216
+  fhome:
+    world: world
+    x: 6775.962345421553
+    y: 29.0
+    z: -1776.3988959240937
+    yaw: 87.90477
+    pitch: 14.614547
+muted: false
+ignore:
+- xrail5
+- ihour
+- poneyalbinosytb
+money: '3030.00'
+godmode: false
+uuid: 6fd66e2d-5eb3-357f-9030-2b7fd9fd4e8f
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

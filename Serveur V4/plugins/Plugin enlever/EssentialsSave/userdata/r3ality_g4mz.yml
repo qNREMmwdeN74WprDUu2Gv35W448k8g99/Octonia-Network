@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1457300310132
+  kits:
+    bouffe: 1457295331920
+    octonien: 1457217327489
+    xp: 1457219027805
+    decouverte: 1457219026406
+  lastteleport: 1457302751319
+  logout: 1457302890011
+  mute: 0
+  lastheal: 1457302684403
+ipAddress: 78.253.179.35
+lastlocation:
+  world: world
+  x: 2161.0929886928716
+  y: 5.0
+  z: 5923.699999988079
+  yaw: 358.23172
+  pitch: 13.425887
+homes:
+  home:
+    world: world
+    x: 3621.0473418138963
+    y: 11.125
+    z: 9186.7711939093
+    yaw: -263.8816
+    pitch: 45.37109
+logoutlocation:
+  world: world
+  x: 3620.589760345184
+  y: 11.0
+  z: 9188.225358608908
+  yaw: -124.41675
+  pitch: -13.21804
+muted: false
+money: '149696.00'
+uuid: e1f536e6-e34b-3a07-9a20-fccc6bed62b2
+ignore:
+- francky

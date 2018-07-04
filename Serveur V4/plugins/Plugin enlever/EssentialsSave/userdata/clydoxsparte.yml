@@ -1,0 +1,38 @@
+socialspy: false
+timestamps:
+  login: 1455809159469
+  lastteleport: 1455570502674
+  kits:
+    bouffe: 1455568044842
+    octonien: 1455568031364
+    decouverte: 1455568040922
+  logout: 1455809178117
+  lastheal: 1455371344026
+ipAddress: 92.161.160.187
+lastlocation:
+  world: world
+  x: 283.77480413975627
+  y: 67.1707870772188
+  z: 39.69999998807907
+  yaw: 88.47757
+  pitch: -5.9038982
+homes:
+  home:
+    world: world
+    x: 265.4981123159391
+    y: 64.0
+    z: 48.38977013712943
+    yaw: 270.86475
+    pitch: 6.299996
+logoutlocation:
+  world: world
+  x: 0.5
+  y: 190.5
+  z: 0.5
+  yaw: -263.26312
+  pitch: 58.05
+money: '802.74'
+ignore:
+- khadgar
+- dleon
+uuid: a003956b-90fb-3dcd-9640-6c51df38f70c

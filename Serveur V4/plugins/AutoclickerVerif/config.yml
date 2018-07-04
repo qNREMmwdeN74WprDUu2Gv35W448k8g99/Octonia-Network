@@ -1,0 +1,6 @@
+SECONDS_BETWEEN_ALERTS: 3
+MAX_CPS: 18
+ALERT_MESSAGE: '&8[&4&lAntiCheat&8]&r &c %username &7 a fait %cps clics (MS: %ms [TPS:
+  %tps])'
+ALERT_PERM: autoclick.alert
+COMMAND_PERM: autoclick.verif

@@ -1,0 +1,33 @@
+uuid: a381fae0-ae3d-3442-96b2-4915c242fd10
+timestamps:
+  login: 1456412583956
+  kits:
+    bouffe: 1456412635154
+    octonien: 1456412626040
+  logout: 1456414206681
+ipAddress: 88.137.195.147
+lastlocation:
+  world: world
+  x: -4.5
+  y: 189.0
+  z: -0.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 890.7567664482143
+    y: 71.0
+    z: 3.101157622671397
+    yaw: -135.63455
+    pitch: 54.567127
+ban:
+  reason: 'Banni : Menace Serveur'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 881.5656662965877
+  y: 72.0
+  z: -3.281556523030563
+  yaw: -222.33258
+  pitch: 76.617134

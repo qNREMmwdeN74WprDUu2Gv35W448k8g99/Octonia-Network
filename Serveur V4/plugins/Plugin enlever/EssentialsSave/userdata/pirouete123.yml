@@ -1,0 +1,24 @@
+uuid: 2af27efc-f88f-3aa0-8e1e-ad996948eac4
+timestamps:
+  login: 1456446307639
+  kits:
+    octonien: 1456446320951
+  logout: 1456446479269
+ipAddress: 45.73.109.184
+lastlocation:
+  world: world
+  x: 2.5
+  y: 191.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: 'Banni : Insulte'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -6.211251584111829
+  y: 22.5
+  z: 18.311364589791474
+  yaw: -269.70764
+  pitch: 8.099997

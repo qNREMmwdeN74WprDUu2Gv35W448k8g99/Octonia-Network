@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1456078771519
+  lastteleport: 1456079109105
+  kits:
+    bouffe: 1455882165362
+    octonien: 1455990124748
+    decouverte: 1455883172281
+  logout: 1456079185375
+  lastheal: 1456079084734
+  mute: 0
+ipAddress: 90.78.75.240
+lastlocation:
+  world: world
+  x: 9881.203826601526
+  y: 25.0
+  z: 361.9394830628475
+  yaw: -117.29623
+  pitch: 36.44755
+homes:
+  home:
+    world: world
+    x: 9881.738212763208
+    y: 24.0
+    z: 362.48973820463334
+    yaw: -262.3462
+    pitch: 1.7975483
+logoutlocation:
+  world: world
+  x: 7920.300000011921
+  y: 58.0
+  z: 2728.300000011921
+  yaw: -81.13504
+  pitch: -3.937231
+money: '900.0'
+ignore:
+- khadgar
+muted: false
+uuid: e84ac7ff-4989-35c9-8b68-3db50e28894c

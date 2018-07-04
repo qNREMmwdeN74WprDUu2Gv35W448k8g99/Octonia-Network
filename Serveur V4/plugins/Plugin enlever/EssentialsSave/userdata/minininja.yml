@@ -1,0 +1,76 @@
+timestamps:
+  login: 1457032252441
+  kits:
+    heros: 1457032505253
+    bouffe: 1456599384850
+    octonien: 1456614160887
+    chevalier: 1456679728829
+    decouverte: 1457032472940
+    legendaire: 1457032486755
+  lastteleport: 1457032428337
+  logout: 1457032520053
+  lastheal: 1456814929488
+  mute: 0
+  jail: 0
+ipAddress: 90.42.126.74
+lastlocation:
+  world: world
+  x: 0.458112889832177
+  y: 189.5
+  z: 3.5878642281648276
+  yaw: -65.35074
+  pitch: 64.34778
+homes:
+  farm:
+    world: world
+    x: -1704.1570033804212
+    y: 12.0
+    z: -856.4124064944883
+    yaw: 65.99963
+    pitch: 23.994162
+  ap:
+    world: world
+    x: -285.69999998807907
+    y: 64.0
+    z: 56.58889276664971
+    yaw: -90.32053
+    pitch: 7.6217027
+  k2:
+    world: world
+    x: -263.848946719331
+    y: 64.0
+    z: 56.15699268915322
+    yaw: 89.37938
+    pitch: 6.8999896
+  home:
+    world: world
+    x: -3897.5
+    y: 11.0
+    z: -3369.5
+    yaw: 12.440096
+    pitch: 18.545399
+logoutlocation:
+  world: world
+  x: -3895.65763901398
+  y: 33.0
+  z: -3368.1646556102173
+  yaw: -281.1103
+  pitch: 38.1
+money: '15461.5'
+ignore:
+- tanguyfun
+- jes2
+- bastaro2006
+- shootime
+- albatroll
+- poissonrouge
+- darkaqua27
+- revyn112
+- meenja84
+- lafritri
+uuid: e250edc1-cf31-37c4-9df0-8eb8e655c16a
+muted: false
+jailed: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

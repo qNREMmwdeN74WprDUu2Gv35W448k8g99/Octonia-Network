@@ -1,0 +1,37 @@
+timestamps:
+  login: 1457288006912
+  kits:
+    bouffe: 1457259171360
+    octonien: 1457258291890
+    decouverte: 1457261347639
+  lastteleport: 1457288661382
+  logout: 1457289005321
+  lastheal: 1456656216374
+ipAddress: 87.89.8.209
+lastlocation:
+  world: world
+  x: -210.30000001192093
+  y: 64.0
+  z: -298.69999998807907
+  yaw: -301.6108
+  pitch: 54.150017
+homes:
+  home:
+    world: world
+    x: -9068.16457992899
+    y: 46.0
+    z: 504.29917029713255
+    yaw: -191.94417
+    pitch: -34.50004
+logoutlocation:
+  world: world
+  x: -9067.561338530442
+  y: 45.875
+  z: 503.30000001192093
+  yaw: -7.0608697
+  pitch: 90.0
+money: '270.5'
+uuid: de85fd78-1eda-3878-9811-3c99d4cb3dbb
+ignore:
+- rk_aydatsu
+- darkez

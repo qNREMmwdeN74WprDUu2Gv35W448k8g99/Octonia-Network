@@ -1,0 +1,58 @@
+uuid: 68e097f3-0a1f-300a-b07c-6e201f9f7e8a
+timestamps:
+  login: 1457276781371
+  logout: 1457278408620
+  kits:
+    minerais: 1457192930310
+    bouffe: 1457192945831
+    heros: 1457264669457
+    octonien: 1457187402759
+    druide: 1457192936120
+    xp: 1457192923124
+    legendaire: 1457188495341
+    alchimiste: 1457188383264
+  lastteleport: 1457278293732
+  jail: 0
+  lastheal: 1457190128214
+ipAddress: 92.133.170.91
+lastlocation:
+  world: world
+  x: 2640.5071441087457
+  y: 53.0
+  z: 1597.3591182309724
+  yaw: -5.385306
+  pitch: -83.17222
+logoutlocation:
+  world: world
+  x: 23.604267021073195
+  y: 191.49064318920142
+  z: -1.955677664896379
+  yaw: 214.81697
+  pitch: -11.57127
+homes:
+  home:
+    world: world
+    x: -263.80684616271327
+    y: 64.0
+    z: 267.0241952851388
+    yaw: -266.11935
+    pitch: -36.541504
+ignore:
+- stilesgaming
+- paulzer
+- spiidie
+- sanorito
+- xxshadow82xx
+- floww7
+- uppolo
+- mousse111
+- zaun_
+- ifizz
+- fifoudu37
+- yoyo68
+- joaoandre1630
+- thomas0185
+- skyflor
+money: '40'
+jailed: false
+godmode: true

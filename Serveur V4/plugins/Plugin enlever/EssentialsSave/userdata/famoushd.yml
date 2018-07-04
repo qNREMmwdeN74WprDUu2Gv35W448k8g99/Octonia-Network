@@ -1,0 +1,51 @@
+timestamps:
+  login: 1456886062566
+  kits:
+    bouffe: 1456883965520
+    octonien: 1456876228520
+    druide: 1456874958900
+    chevalier: 1456874826537
+    decouverte: 1456874867189
+    construction: 1456874847591
+    alchimiste: 1456874895088
+    golden: 1456874876290
+  lastteleport: 1456886174212
+  mute: 1456971410579
+  logout: 1456886261618
+  lastheal: 1456886189017
+ipAddress: 66.130.181.150
+lastlocation:
+  world: world
+  x: 0.18824278306186504
+  y: 190.5
+  z: 2.2882221556143953
+  yaw: -83.85596
+  pitch: 22.130735
+homes:
+  p:
+    world: world
+    x: -3182.324507012861
+    y: 8.0
+    z: -7548.617771328062
+    yaw: -332.22827
+    pitch: -1.9134364
+  p2:
+    world: world
+    x: -6212.876563991266
+    y: 8.0
+    z: -180.22846891377435
+    yaw: -172.49463
+    pitch: 1.4923332
+muted: true
+logoutlocation:
+  world: world
+  x: -6212.773739930868
+  y: 7.875
+  z: -182.34185061348813
+  yaw: -338.52686
+  pitch: 15.207163
+ignore:
+- arkcanardo
+- jackpom10
+money: '4591.60'
+uuid: d69244b3-0bfe-3bc0-87fd-f762277a0f80

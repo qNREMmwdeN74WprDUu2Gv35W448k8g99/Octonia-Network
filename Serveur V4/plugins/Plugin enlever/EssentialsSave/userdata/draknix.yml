@@ -1,0 +1,40 @@
+socialspy: false
+timestamps:
+  login: 1456233579792
+  kits:
+    bouffe: 1456234403848
+    octonien: 1456222979986
+    decouverte: 1456223798537
+  logout: 1456235151925
+  lastteleport: 1456234934528
+  mute: 0
+  lastheal: 1456235119193
+ipAddress: 108.61.123.76
+lastlocation:
+  world: world
+  x: 6133.3919529979985
+  y: 135.0
+  z: -7620.698533890814
+  yaw: -353.5699
+  pitch: 37.649685
+homes:
+  home:
+    world: world
+    x: 6133.084269073933
+    y: 135.0
+    z: -7619.653053428733
+    yaw: -257.86798
+    pitch: -0.010499483
+logoutlocation:
+  world: world
+  x: -169.18324071414193
+  y: 5.0
+  z: 291.6552832376526
+  yaw: -285.16956
+  pitch: 50.100067
+ignore:
+- machine18
+- marius27_
+muted: false
+money: '2068.75'
+uuid: 08e45f45-6e88-3d26-8f37-5992b39ce1ca

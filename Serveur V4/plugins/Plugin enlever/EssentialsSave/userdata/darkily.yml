@@ -1,0 +1,33 @@
+uuid: ded500b3-dcc1-36b2-ad49-0078087cac13
+timestamps:
+  login: 1457088847576
+  kits:
+    bouffe: 1457085902046
+    octonien: 1457086882609
+  logout: 1457090909289
+  lastteleport: 1457090906686
+  lastheal: 1457090686496
+ipAddress: 78.215.180.20
+lastlocation:
+  world: world
+  x: 3382.7059276686805
+  y: 6.0
+  z: -8625.327327442501
+  yaw: -67.19959
+  pitch: 66.90001
+logoutlocation:
+  world: world
+  x: 5043.5
+  y: 21.0
+  z: -7756.5
+  yaw: -59.298473
+  pitch: 37.001923
+homes:
+  home:
+    world: world
+    x: 3383.931177702833
+    y: 5.0
+    z: -8622.511162468036
+    yaw: -228.14969
+    pitch: 8.999993
+money: '1124.00'

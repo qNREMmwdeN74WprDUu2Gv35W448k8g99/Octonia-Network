@@ -1,0 +1,25 @@
+uuid: 6aecac3c-24bd-33f6-8467-bbd07f824224
+timestamps:
+  login: 1455920665231
+  kits:
+    bouffe: 1455921018873
+    octonien: 1455920708768
+  logout: 1455921421020
+ipAddress: 86.253.230.148
+lastlocation:
+  world: world
+  x: 8.5
+  y: 189.0
+  z: -9.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -2.0791895849841677
+  y: 188.0
+  z: 21.518788853896858
+  yaw: -325.3648
+  pitch: 17.054344
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

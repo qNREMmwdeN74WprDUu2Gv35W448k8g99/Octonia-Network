@@ -1,0 +1,34 @@
+timestamps:
+  login: 1455379130392
+  kits:
+    bouffe: 1455374995503
+    octonien: 1455375435824
+  lastteleport: 1455375465448
+  logout: 1455379587152
+  mute: 0
+ipAddress: 88.122.44.100
+lastlocation:
+  world: world
+  x: -6869.339581318762
+  y: 6.0
+  z: 956.4392176156866
+  yaw: -74.995636
+  pitch: 22.799994
+homes:
+  home:
+    world: world
+    x: -3197.5650490115754
+    y: 78.0
+    z: -2504.7759572085056
+    yaw: 0.4494629
+    pitch: 27.00001
+logoutlocation:
+  world: world
+  x: 12.619740053958617
+  y: 189.0
+  z: -12.11219497277267
+  yaw: 102.43698
+  pitch: 12.3306675
+muted: false
+ignore:
+- elixis

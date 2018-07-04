@@ -1,0 +1,42 @@
+timestamps:
+  login: 1457208739929
+  logout: 1457208830276
+  kits:
+    bouffe: 1455640712215
+    octonien: 1455641115787
+    decouverte: 1457208777379
+    xp: 1457208786162
+  lastteleport: 1456605759657
+  mute: 0
+  lastheal: 1456605823285
+ipAddress: 77.152.89.165
+lastlocation:
+  world: world
+  x: -9245.342727333009
+  y: 11.0
+  z: 3792.3993413663597
+  yaw: -337.35028
+  pitch: 7.800151
+logoutlocation:
+  world: world
+  x: -8170.582675463202
+  y: 13.0
+  z: 5730.532369022798
+  yaw: 275.51923
+  pitch: 17.849886
+socialspy: false
+homes:
+  home:
+    world: world
+    x: -7815.505955884224
+    y: 6.0
+    z: -6039.577333404898
+    yaw: -11.397404
+    pitch: 51.056526
+money: '646.25'
+muted: false
+ignore:
+- skylerty
+- phenix2
+- freackyawesome
+uuid: 1ea39abc-70b7-3c30-9b27-3246e925301c

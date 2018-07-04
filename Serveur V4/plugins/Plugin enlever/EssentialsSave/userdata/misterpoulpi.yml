@@ -1,0 +1,34 @@
+uuid: fdda4503-45d2-35df-97fe-fef3419a968d
+timestamps:
+  login: 1456950050515
+  kits:
+    bouffe: 1456587356473
+    octonien: 1456602272113
+    decouverte: 1456951143328
+  logout: 1456951562865
+  lastteleport: 1456951133094
+  lastheal: 1456604053442
+ipAddress: 92.136.147.95
+lastlocation:
+  world: world
+  x: 9064.306218530857
+  y: 64.0
+  z: -1433.9356116115976
+  yaw: -207.02542
+  pitch: 28.350801
+logoutlocation:
+  world: world
+  x: -2536.5445028289646
+  y: 5.0
+  z: -8664.300000011921
+  yaw: -184.42255
+  pitch: 57.450043
+homes:
+  home:
+    world: world
+    x: 2072.5719659716065
+    y: 69.0
+    z: 1728.7832752726815
+    yaw: -165.96214
+    pitch: 14.603808
+money: '2.0'

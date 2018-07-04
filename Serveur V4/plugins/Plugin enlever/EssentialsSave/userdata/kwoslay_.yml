@@ -1,0 +1,75 @@
+uuid: dc7065b4-eac1-3b5c-93ae-a54b88709ef2
+timestamps:
+  login: 1457299829000
+  kits:
+    heros: 1457292382882
+    bouffe: 1457257309627
+    octonien: 1457257344454
+    chevalier: 1457257321306
+    decouverte: 1457300943768
+    legendaire: 1457300904621
+    alchimiste: 1457300985267
+  logout: 1457300997157
+  lastteleport: 1457300706558
+  lastheal: 1457300506316
+ipAddress: 90.66.161.215
+lastlocation:
+  world: world
+  x: 8890.551722238159
+  y: 5.0
+  z: 844.3000000119209
+  yaw: -281.10773
+  pitch: 8.10001
+logoutlocation:
+  world: world
+  x: 7600.254737437703
+  y: 5.0
+  z: -1483.237500011921
+  yaw: -0.82127434
+  pitch: 22.050026
+homes:
+  ap:
+    world: world
+    x: 200.4373893819005
+    y: 64.0
+    z: 284.96302572596545
+    yaw: -174.69968
+    pitch: 58.200024
+  bp:
+    world: world
+    x: 7597.9765512276435
+    y: 5.0
+    z: -1482.7229821543224
+    yaw: 80.77872
+    pitch: 8.850024
+  backap:
+    world: world
+    x: 199.4272230266381
+    y: 64.0
+    z: 252.4312033488115
+    yaw: -358.71188
+    pitch: 6.198123
+  attaque3:
+    world: world
+    x: 283.5048605119892
+    y: 64.0
+    z: 246.23762436791137
+    yaw: 203.75641
+    pitch: 76.2
+  attaque4:
+    world: world
+    x: 93.95924236491403
+    y: 64.0
+    z: 285.69999998807896
+    yaw: 210.55609
+    pitch: 13.949994
+  minerai:
+    world: world
+    x: 8935.302727143047
+    y: 8.0
+    z: 614.3025162876053
+    yaw: 340.1545
+    pitch: 52.650013
+money: '9759.0'
+ignore:
+- zedpik

@@ -1,0 +1,87 @@
+uuid: 644c86ee-dc28-33df-a6ba-0dd38d90e53e
+timestamps:
+  login: 1456933982420
+  kits:
+    heros: 1456925667292
+    bouffe: 1456932101840
+    octonien: 1456918760139
+    chevalier: 1456925631794
+    destruction: 1456932103992
+    decouverte: 1456925533220
+    xp: 1456925561767
+    legendaire: 1456925495379
+    golden: 1456925566100
+    alchimiste: 1456925572716
+  logout: 1456935548983
+  lastteleport: 1456932821802
+  lastheal: 1456935096915
+  mute: 0
+  jail: 0
+ipAddress: 88.177.208.187
+lastlocation:
+  world: world
+  x: -0.2030488165135298
+  y: 190.0
+  z: 2.67064864750348
+  yaw: -232.90096
+  pitch: 27.747822
+homes:
+  bp:
+    world: world
+    x: 6167.785606862765
+    y: 19.0
+    z: 6791.214204192327
+    yaw: 73.21564
+    pitch: 52.95004
+  assaut:
+    world: world
+    x: -8179.168312391011
+    y: 13.0
+    z: 5729.776493488329
+    yaw: 297.81857
+    pitch: 9.95858
+  dessus:
+    world: world
+    x: 6178.859357754761
+    y: 68.0
+    z: 6793.053088484087
+    yaw: 128.26022
+    pitch: 26.54988
+  pille:
+    world: world
+    x: -8627.885469416258
+    y: 68.0
+    z: -4759.300000011921
+    yaw: -164.33904
+    pitch: 7.950052
+  cote:
+    world: world
+    x: 6205.052955410752
+    y: 10.0
+    z: 6817.43612797522
+    yaw: 222.04207
+    pitch: -5.591398
+  cote2:
+    world: world
+    x: 6155.820104654763
+    y: 16.0
+    z: 6834.641547559477
+    yaw: 183.96973
+    pitch: 14.999992
+money: '9354.33035'
+logoutlocation:
+  world: world
+  x: 6167.359736604868
+  y: 5.0
+  z: 6810.699999988079
+  yaw: -230.38977
+  pitch: 21.750134
+ignore:
+- nightmare_camis
+- itszyt
+- istee
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+jailed: false

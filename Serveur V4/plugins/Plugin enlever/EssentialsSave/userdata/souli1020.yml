@@ -1,0 +1,37 @@
+uuid: dda9f641-6535-392a-95d7-c61db3f0539f
+timestamps:
+  login: 1457284218388
+  kits:
+    bouffe: 1457288117578
+    octonien: 1457284234366
+  lastteleport: 1457288906452
+  logout: 1457288965054
+  lastheal: 1457288312469
+  mute: 0
+ipAddress: 109.129.228.71
+lastlocation:
+  world: world
+  x: -2273.284809646262
+  y: 4.0
+  z: -1572.8328174598846
+  yaw: -23.944458
+  pitch: 71.09999
+homes:
+  home:
+    world: world
+    x: -2271.484335646882
+    y: 3.0
+    z: -1571.5358959995715
+    yaw: -268.59265
+    pitch: 50.250008
+logoutlocation:
+  world: world
+  x: 9.492295518072153
+  y: 189.0
+  z: 23.22095633558543
+  yaw: -357.55096
+  pitch: 4.1978226
+ignore:
+- le_gammer_du
+muted: false
+money: '1.0'

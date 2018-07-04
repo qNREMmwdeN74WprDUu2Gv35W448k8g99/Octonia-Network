@@ -1,0 +1,33 @@
+timestamps:
+  login: 1455166286151
+  kits:
+    bouffe: 1455166305853
+    octonien: 1455166301754
+  logout: 1455166578552
+  lastteleport: 1455166334252
+ipAddress: 176.156.67.218
+lastlocation:
+  world: world
+  x: 1868.2125822990026
+  y: 77.0
+  z: -1083.0905834834102
+  yaw: -238.19989
+  pitch: 13.350013
+homes:
+  home:
+    world: world
+    x: 1719.699999988079
+    y: 24.0
+    z: -1374.300000011921
+    yaw: 163.19823
+    pitch: 75.59998
+logoutlocation:
+  world: world
+  x: -0.4053233986792822
+  y: 189.0
+  z: -3.430945347875555
+  yaw: -192.14111
+  pitch: 12.449998
+ban:
+  reason: 'Banni : 10m'
+  timeout: 0

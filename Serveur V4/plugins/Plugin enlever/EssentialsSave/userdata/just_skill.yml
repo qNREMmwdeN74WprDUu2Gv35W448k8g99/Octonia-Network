@@ -1,0 +1,90 @@
+timestamps:
+  login: 1457332809542
+  kits:
+    bouffe: 1457276974483
+    heros: 1457276965031
+    octonien: 1457276952188
+    druide: 1457277038822
+    chevalier: 1457276936850
+    destruction: 1457277035432
+    xp: 1457277009290
+    legendaire: 1457272280869
+    alchimiste: 1457277091917
+    minerais: 1457277156186
+    decouverte: 1457276999593
+    construction: 1457276986251
+    golden: 1457277011394
+  lastteleport: 1457282777978
+  logout: 1457332814145
+  lastheal: 1457282712663
+  mute: 0
+  jail: 1457369205691
+ipAddress: 89.86.215.236
+lastlocation:
+  world: world
+  x: 11.54959116604137
+  y: 189.0
+  z: 15.549218534247775
+  yaw: -226.02032
+  pitch: 1.764717
+homes:
+  sky:
+    world: world
+    x: -8940.5
+    y: 244.90199999809266
+    z: -3309.5
+    yaw: -67.3501
+    pitch: 28.349957
+  scare:
+    world: world
+    x: -279.2690841634193
+    y: 64.0
+    z: 103.12675635984888
+    yaw: -75.955734
+    pitch: 11.811817
+  raiddunnatis:
+    world: world
+    x: 2604.300000011921
+    y: 39.0
+    z: 1599.3630209141422
+    yaw: -82.492294
+    pitch: 44.999966
+  bp:
+    world: world
+    x: -7570.300000011921
+    y: 6.0
+    z: 2423.9975371350256
+    yaw: 89.20077
+    pitch: -1.2000413
+  frero:
+    world: world
+    x: 5205.250718050645
+    y: 14.0
+    z: 2001.8223280851678
+    yaw: -247.63037
+    pitch: 21.06145
+  petitbp:
+    world: world
+    x: 2586.297411121815
+    y: 21.0
+    z: -827.108564834679
+    yaw: -286.84192
+    pitch: 11.549997
+logoutlocation:
+  world: world
+  x: 11.699999988079071
+  y: 189.0
+  z: 15.699999988079071
+  yaw: -238.02034
+  pitch: 32.55
+money: '79.085'
+uuid: b9e28a6d-3af8-33b5-8407-ddd3b92ba54e
+ignore:
+- voxitedu58
+- karmann311
+muted: false
+jailed: true
+jail: prison2
+ban:
+  reason: Banni temporairement du serveur pour 2 secondes.
+  timeout: 0

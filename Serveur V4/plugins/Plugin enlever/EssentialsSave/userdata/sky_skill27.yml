@@ -1,0 +1,36 @@
+timestamps:
+  login: 1455719213254
+  kits:
+    bouffe: 1455717831348
+    octonien: 1455621547102
+    decouverte: 1455717842932
+  lastteleport: 1455719662213
+  lastheal: 1455719847681
+  logout: 1455719882059
+ipAddress: 78.212.190.22
+lastlocation:
+  world: world
+  x: -1.1499652002539882
+  y: 188.0
+  z: 23.806978178082677
+  yaw: -176.34607
+  pitch: 12.349614
+homes:
+  home:
+    world: world
+    x: 5359.04362289189
+    y: 5.0
+    z: -3460.699999988079
+    yaw: -55.056152
+    pitch: 54.524582
+money: '1.95'
+logoutlocation:
+  world: world
+  x: 7008.382755347855
+  y: 20.0
+  z: -1232.9037836413195
+  yaw: -154.97693
+  pitch: 13.08749
+ignore:
+- thekiller1603
+- thekiller2709

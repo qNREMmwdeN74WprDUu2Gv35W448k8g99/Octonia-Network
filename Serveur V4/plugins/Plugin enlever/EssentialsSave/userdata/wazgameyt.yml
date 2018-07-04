@@ -1,0 +1,35 @@
+uuid: 0ffd5e4b-3799-320f-958f-0c2b82421c74
+timestamps:
+  login: 1457303441992
+  logout: 1457306668067
+  kits:
+    bouffe: 1457303896150
+    octonien: 1457303913019
+  lastteleport: 1457306576566
+  lastheal: 1457306128161
+ipAddress: 86.69.124.75
+lastlocation:
+  world: world
+  x: 0.5
+  y: 190.5
+  z: 0.5
+  yaw: -302.91168
+  pitch: 21.823423
+logoutlocation:
+  world: world
+  x: -2150.269735432718
+  y: 26.0
+  z: 425.46065940867544
+  yaw: 243.30766
+  pitch: 24.229227
+ignore:
+- pikmarinedu93
+money: '200.5'
+homes:
+  home:
+    world: world
+    x: -1895.6337320833388
+    y: 5.0
+    z: 374.43424847473165
+    yaw: 90.46054
+    pitch: 21.837648

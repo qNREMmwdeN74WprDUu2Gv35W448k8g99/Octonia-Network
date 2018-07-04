@@ -1,0 +1,13 @@
+'1':
+  Name: token
+  PointsPlugin: MySQL-Tokens
+  Message:
+    NotEnoughPoints: '&cVous n''avez pas assez d''OctoCoins !'
+  Placeholder:
+    DisplayPoints: '%token% Tokens'
+  PointsDisplay:
+    Enabled: false
+    List:
+    - 1000000:6:2:%number% million
+    - 1000:3:2:%number%k
+    - 0:0:0:%number%

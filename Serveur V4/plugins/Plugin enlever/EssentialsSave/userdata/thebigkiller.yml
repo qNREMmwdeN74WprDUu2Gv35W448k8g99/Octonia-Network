@@ -1,0 +1,62 @@
+timestamps:
+  login: 1457293873604
+  kits:
+    bouffe: 1457295513930
+    heros: 1457295515950
+    octonien: 1457285498272
+    chevalier: 1457293933587
+    destruction: 1457293389998
+    decouverte: 1457292061546
+  lastteleport: 1457296920437
+  logout: 1457297114121
+  lastheal: 1457297100490
+  mute: 0
+ipAddress: 81.57.168.55
+lastlocation:
+  world: world
+  x: 3783.291695740846
+  y: 11.0
+  z: -2804.7226079042925
+  yaw: 20.068695
+  pitch: 15.043185
+logoutlocation:
+  world: world
+  x: 260.7046879341099
+  y: 64.0
+  z: -13.488768340218144
+  yaw: 220.06067
+  pitch: 11.781594
+homes:
+  pillage:
+    world: world
+    x: 293.2080726613708
+    y: 64.0
+    z: -179.88805134011545
+    yaw: 226.35669
+    pitch: -1.1715896
+  ap:
+    world: world
+    x: 279.50721081681723
+    y: 68.0
+    z: -119.96426238391557
+    yaw: -262.1494
+    pitch: 39.29042
+  pillage3:
+    world: world
+    x: 3409.5
+    y: 16.0
+    z: -2827.5
+    yaw: -176.28577
+    pitch: 9.243705
+  pillage_:
+    world: world
+    x: 3418.22142185383
+    y: 11.0
+    z: -2825.187140391944
+    yaw: 8.928345
+    pitch: -14.314123
+money: '3989.55'
+uuid: df3996f1-3198-30b1-b583-1134376a028c
+muted: false
+ignore:
+- mr_flux

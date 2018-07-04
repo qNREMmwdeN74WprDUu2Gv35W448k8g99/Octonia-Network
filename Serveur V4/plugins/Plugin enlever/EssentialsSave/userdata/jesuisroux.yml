@@ -1,0 +1,80 @@
+socialspy: false
+timestamps:
+  login: 1455467854824
+  mute: 0
+  kits:
+    heros: 1455435904086
+    bouffe: 1455436016293
+    octonien: 1455324236746
+    chevalier: 1455435091457
+    xp: 1455468601740
+    legendaire: 1455468056698
+    alchimiste: 1455435990587
+  logout: 1455476166898
+  lastteleport: 1455475421197
+  lastheal: 1455476166325
+ipAddress: 78.213.181.61
+lastlocation:
+  world: world
+  x: -7432.128968301056
+  y: 5.943634528189949
+  z: -4386.555905123133
+  yaw: -308.0781
+  pitch: 45.749825
+muted: false
+homes:
+  sable:
+    world: world
+    x: 2107.3679999343094
+    y: 69.0
+    z: 2493.0471181560697
+    yaw: 82.32872
+    pitch: 25.723974
+  bpunclaim:
+    world: world
+    x: 197.3816607262224
+    y: 12.0
+    z: -399.27564463592006
+    yaw: -136.64346
+    pitch: 8.250023
+  qui:
+    world: world
+    x: -8088.384440370383
+    y: 6.0
+    z: -4728.189778464197
+    yaw: -18.92279
+    pitch: 29.70001
+  newbp:
+    world: world
+    x: -7442.106151889691
+    y: 5.0
+    z: -4383.24167085817
+    yaw: 301.17398
+    pitch: 17.850004
+  cata:
+    world: world
+    x: -8217.309375815339
+    y: 64.0
+    z: -3976.8583238990755
+    yaw: 184.7541
+    pitch: 14.999978
+  cpr:
+    world: world
+    x: 416.5425879294048
+    y: 16.0
+    z: 1976.786106971796
+    yaw: -230.9566
+    pitch: 23.50534
+logoutlocation:
+  world: world
+  x: 34.63651336030713
+  y: 64.10408037809304
+  z: 265.37079896373507
+  yaw: 87.64694
+  pitch: 7.104299
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+money: '35.0'
+ignore:
+- hiikawa

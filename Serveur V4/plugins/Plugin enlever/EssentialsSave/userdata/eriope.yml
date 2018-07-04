@@ -1,0 +1,48 @@
+timestamps:
+  login: 1457339793373
+  kits:
+    bouffe: 1457297924291
+    octonien: 1457202943781
+    chevalier: 1457288783026
+    destruction: 1457289177559
+    decouverte: 1457340492383
+    xp: 1457270893987
+  logout: 1457342932012
+  lastteleport: 1457341963548
+  lastheal: 1457343332944
+  mute: 0
+ipAddress: 78.214.236.85
+lastlocation:
+  world: world
+  x: 8873.931378883166
+  y: 20.0
+  z: -4136.57282382755
+  yaw: -62.302155
+  pitch: 3.8556094
+logoutlocation:
+  world: world
+  x: 8874.300000011921
+  y: 20.0
+  z: -4140.664001189892
+  yaw: 315.8179
+  pitch: 24.846535
+homes:
+  home:
+    world: world
+    x: 8677.138920059506
+    y: 70.0
+    z: -3081.300000011921
+    yaw: 5.4851685
+    pitch: 25.608955
+  pillage:
+    world: world
+    x: -280.84055120519383
+    y: 51.0
+    z: 127.6415998633174
+    yaw: 157.61816
+    pitch: -17.496101
+uuid: fb0fbcba-3ed1-3830-a1a3-d9297e3f6375
+money: '2803.84'
+muted: false
+ignore:
+- byayress_

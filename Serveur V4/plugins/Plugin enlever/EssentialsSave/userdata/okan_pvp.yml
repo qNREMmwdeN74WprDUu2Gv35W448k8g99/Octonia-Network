@@ -1,0 +1,53 @@
+timestamps:
+  login: 1456053022705
+  logout: 1456053303878
+  kits:
+    bouffe: 1455350117720
+    heros: 1455475305052
+    octonien: 1454959946095
+    druide: 1455349120859
+    chevalier: 1455472850323
+    legendaire: 1456053211947
+    alchimiste: 1455474127125
+  lastteleport: 1456053144329
+  lastheal: 1456053203290
+  mute: 0
+ipAddress: 82.227.69.244
+lastlocation:
+  world: world
+  x: 7085.3510972193635
+  y: 63.0
+  z: -7047.1495249942045
+  yaw: -271.60632
+  pitch: 21.96366
+logoutlocation:
+  world: world
+  x: 6905.044027943
+  y: 5.0
+  z: -7082.310335940594
+  yaw: 270.05383
+  pitch: 4.0136385
+socialspy: false
+homes:
+  raid:
+    world: world
+    x: 7249.615167691662
+    y: 55.0
+    z: -6850.599568273168
+    yaw: 55.03517
+    pitch: 20.378336
+  b:
+    world: world
+    x: 7084.337118362324
+    y: 56.77979546081397
+    z: -7038.657817308277
+    yaw: 39.333786
+    pitch: 90.0
+muted: false
+money: '9.0'
+ignore:
+- titopvp
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+uuid: 239c91f1-6a85-3b3c-a6f8-07884a014072

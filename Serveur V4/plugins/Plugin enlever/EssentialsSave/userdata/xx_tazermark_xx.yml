@@ -1,0 +1,34 @@
+uuid: e4189fd8-3b4c-332f-ac84-483234475f19
+timestamps:
+  login: 1457290461849
+  kits:
+    bouffe: 1457278800123
+    octonien: 1457284376778
+  logout: 1457290848891
+  lastteleport: 1457290845952
+ipAddress: 82.246.229.99
+lastlocation:
+  world: world
+  x: -6966.5199146809955
+  y: 42.0
+  z: 115.76726771840453
+  yaw: 201.41711
+  pitch: 58.949963
+logoutlocation:
+  world: world
+  x: -6967.5
+  y: 252.875
+  z: 121.5
+  yaw: -330.03278
+  pitch: 35.850025
+homes:
+  home:
+    world: world
+    x: -6967.438878166396
+    y: 252.875
+    z: 121.07086169271737
+    yaw: -330.03278
+    pitch: 35.850025
+ignore:
+- jeff13
+- legeekdu2aytb

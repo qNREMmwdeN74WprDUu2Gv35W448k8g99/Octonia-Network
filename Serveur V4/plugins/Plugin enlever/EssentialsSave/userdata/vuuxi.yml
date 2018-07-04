@@ -1,0 +1,81 @@
+timestamps:
+  login: 1457331195932
+  lastteleport: 1457331577873
+  kits:
+    heros: 1457331396975
+    bouffe: 1457331437576
+    octonien: 1457288392799
+    druide: 1457331507375
+    chevalier: 1457331480276
+    destruction: 1457331429775
+    xp: 1457331360976
+    legendaire: 1457331404976
+    construction: 1457331447775
+    alchimiste: 1457331489676
+    golden: 1457331416774
+  logout: 1457332196626
+  lastheal: 1457332110725
+  mute: 0
+  jail: 0
+ipAddress: 86.253.174.173
+lastlocation:
+  world: world
+  x: 35.50094296380345
+  y: 189.0
+  z: 8.076382780499415
+  yaw: -63.55081
+  pitch: 10.947829
+logoutlocation:
+  world: world
+  x: 2642.9224052888558
+  y: 53.0
+  z: 1597.1487142757057
+  yaw: -190.4856
+  pitch: 9.604521
+homes:
+  bp:
+    world: world
+    x: 2633.699999988079
+    y: 38.599222318424026
+    z: 1599.7303708142206
+    yaw: 276.29996
+    pitch: 37.65001
+  ap2:
+    world: world
+    x: -142.65290909251055
+    y: 61.0
+    z: 277.7605971243664
+    yaw: -177.21054
+    pitch: 25.050049
+  glk:
+    world: world
+    x: 2727.5656594240245
+    y: 24.0
+    z: 1224.735128249883
+    yaw: 353.33484
+    pitch: -17.392363
+  farm:
+    world: world
+    x: 2634.391561715483
+    y: 53.73584067272827
+    z: 1593.300000011921
+    yaw: 2.1144714
+    pitch: 36.75449
+  base:
+    world: world
+    x: 2615.463268063014
+    y: 74.0
+    z: 1592.64579367909
+    yaw: 40.609825
+    pitch: 18.79915
+  bite:
+    world: world
+    x: -286.3005586614348
+    y: 64.0
+    z: -294.7969414539122
+    yaw: 282.65204
+    pitch: 19.15827
+uuid: 90f9c722-b2c5-3ddd-b503-47848164ad64
+money: '57.0'
+muted: false
+jailed: false

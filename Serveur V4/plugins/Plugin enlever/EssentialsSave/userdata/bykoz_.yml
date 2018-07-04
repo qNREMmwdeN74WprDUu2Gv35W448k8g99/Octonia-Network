@@ -1,0 +1,44 @@
+socialspy: false
+timestamps:
+  login: 1455287086453
+  kits:
+    bouffe: 1455202624345
+    octonien: 1455287261212
+  lastteleport: 1455287653140
+  logout: 1455287725705
+  mute: 0
+ipAddress: 92.94.151.246
+lastlocation:
+  world: world
+  x: -8781.94549926872
+  y: 32.0
+  z: -4749.738893442627
+  yaw: -90.57751
+  pitch: 43.200005
+homes:
+  home:
+    world: world
+    x: -8774.723817539962
+    y: 46.0
+    z: -4745.262068495861
+    yaw: -198.86987
+    pitch: 17.700018
+logoutlocation:
+  world: world
+  x: -6.546336500127505
+  y: 189.0
+  z: -8.323436708541454
+  yaw: -22.640472
+  pitch: 26.999989
+muted: false
+money: '32481.0'
+ignore:
+- ninjeurs
+- hyperiontv_
+- xtr3mpvp
+- kayzer95
+- zombies428
+- lezond34
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 1455287818728

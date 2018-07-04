@@ -1,0 +1,36 @@
+timestamps:
+  login: 1457094075522
+  logout: 1457094567962
+  lastteleport: 1457094090622
+  mute: 0
+  kits:
+    destruction: 1456953985657
+    legendaire: 1455830910402
+  lastheal: 1456954067902
+  jail: 0
+ipAddress: 78.200.48.51
+lastlocation:
+  world: world
+  x: -3914.699999988079
+  y: 74.0
+  z: -714.6595753429223
+  yaw: -278.15952
+  pitch: 41.99987
+logoutlocation:
+  world: world
+  x: 16.510034003437745
+  y: 188.0
+  z: 25.706461356669497
+  yaw: -18.999023
+  pitch: 43.197807
+muted: false
+uuid: a2580b75-f725-34c9-b0c0-b8e751fe9fc0
+jailed: false
+homes:
+  raid:
+    world: world
+    x: -3881.587419368149
+    y: 72.0
+    z: -755.6519214960595
+    yaw: -194.46863
+    pitch: 39.599995

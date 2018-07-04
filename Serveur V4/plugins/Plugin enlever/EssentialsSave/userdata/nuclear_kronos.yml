@@ -1,0 +1,79 @@
+uuid: 271d5faa-4555-3b87-8be8-0fa5300b2a5e
+timestamps:
+  login: 1457288336781
+  kits:
+    heros: 1457289226103
+    bouffe: 1457289459446
+    octonien: 1456938544070
+    chevalier: 1457289239547
+    decouverte: 1457289161284
+    legendaire: 1457289206154
+  logout: 1457294128381
+  lastheal: 1457293925063
+  lastteleport: 1457293755514
+  mute: 0
+  jail: 0
+ipAddress: 86.228.196.123
+lastlocation:
+  world: world
+  x: 1.7296301324143508
+  y: 190.5
+  z: 1.1334307099592167
+  yaw: -48.250935
+  pitch: 46.94781
+homes:
+  sky:
+    world: world
+    x: 2026.6216062017181
+    y: 245.875
+    z: -8014.804985137011
+    yaw: -256.53308
+    pitch: 29.550018
+  mycelium:
+    world: world
+    x: 2254.0684588416116
+    y: 65.0
+    z: -7473.104846132466
+    yaw: -85.79918
+    pitch: -5.4000077
+  cannaweed:
+    world: world
+    x: 9283.036377405202
+    y: 24.0
+    z: -2985.414521104002
+    yaw: -10.015259
+    pitch: 88.19997
+  bp:
+    world: world
+    x: 2324.766060675839
+    y: 5.5
+    z: -8710.34145114258
+    yaw: -5.5702076
+    pitch: 10.194689
+  home:
+    world: world
+    x: 7564.5
+    y: 6.0
+    z: -1669.5
+    yaw: 10.888722
+    pitch: 2.7000723
+  berzerk:
+    world: world
+    x: 6846.8477778862725
+    y: 139.0
+    z: 6039.159791261362
+    yaw: -329.9429
+    pitch: 22.65
+money: '65511.410'
+logoutlocation:
+  world: world
+  x: 2333.787105540888
+  y: 17.0
+  z: -8708.703656160844
+  yaw: -260.79834
+  pitch: 12.899984
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+jailed: false

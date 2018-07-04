@@ -1,0 +1,43 @@
+timestamps:
+  login: 1456489388100
+  lastteleport: 1456490129638
+  kits:
+    bouffe: 1456406769199
+    octonien: 1456489924531
+    decouverte: 1456401247153
+  logout: 1456490177824
+  lastheal: 1456422880245
+  mute: 0
+  jail: 0
+ipAddress: 82.236.104.77
+lastlocation:
+  world: world
+  x: -13.658069055932614
+  y: 26.0
+  z: 86.69999998807907
+  yaw: 42.398357
+  pitch: -59.403442
+homes:
+  home:
+    world: world
+    x: 3664.4181404102046
+    y: 64.0
+    z: 2783.4475606411074
+    yaw: 192.01625
+    pitch: 19.662386
+logoutlocation:
+  world: world
+  x: 0.7563011314856651
+  y: 189.0
+  z: -7.431776662980661
+  yaw: -328.1891
+  pitch: 25.309866
+money: '10.67'
+uuid: a3974233-6d74-384f-9f7c-d807ea33da96
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+jailed: false
+ignore:
+- mrinferno

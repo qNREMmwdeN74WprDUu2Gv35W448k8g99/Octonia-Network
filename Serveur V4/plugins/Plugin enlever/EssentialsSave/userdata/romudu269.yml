@@ -1,0 +1,65 @@
+timestamps:
+  login: 1457305713463
+  kits:
+    heros: 1457296347854
+    bouffe: 1457302347901
+    octonien: 1457296345778
+    chevalier: 1457296342873
+    xp: 1457296294613
+    decouverte: 1457301746323
+    legendaire: 1457305798672
+    golden: 1457296292410
+  logout: 1457308323097
+  lastteleport: 1457308156947
+  lastheal: 1457308153752
+  mute: 0
+ipAddress: 92.139.233.6
+lastlocation:
+  world: world
+  x: -3068.703045341985
+  y: 80.0
+  z: -3547.6954353633337
+  yaw: 3.7544599
+  pitch: 46.320644
+logoutlocation:
+  world: world
+  x: 3181.95266685703
+  y: 39.0
+  z: 2369.6001859873536
+  yaw: -66.10962
+  pitch: 75.96772
+homes:
+  bp:
+    world: world
+    x: 1193.7368113855505
+    y: 55.0
+    z: -672.938722555102
+    yaw: 64.694824
+    pitch: 32.32566
+  sucre:
+    world: world
+    x: 2905.300000011921
+    y: 56.0
+    z: -54.30000001192093
+    yaw: -133.7243
+    pitch: 45.95384
+  ap:
+    world: world
+    x: 3186.2302367657207
+    y: 48.0
+    z: 2383.699999988079
+    yaw: 20.248901
+    pitch: 31.394777
+  farm:
+    world: world
+    x: -1348.2441752537804
+    y: 31.0
+    z: -1833.5206535189457
+    yaw: -17.618652
+    pitch: 22.915379
+money: '166.73'
+uuid: ed258ed0-c992-3220-9a27-965a07bdc9ec
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 5 jours.
+  timeout: 0

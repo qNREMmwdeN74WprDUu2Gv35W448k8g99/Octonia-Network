@@ -1,0 +1,61 @@
+uuid: 22a1fe35-d907-3374-aa03-a627766f3749
+timestamps:
+  login: 1457281109818
+  kits:
+    heros: 1457272370001
+    bouffe: 1457284570572
+    octonien: 1457277374595
+    chevalier: 1457277066833
+    decouverte: 1457281119200
+  lastteleport: 1457285959319
+  logout: 1457288555306
+  lastheal: 1457288465970
+  mute: 0
+ipAddress: 88.185.147.162
+lastlocation:
+  world: world
+  x: 75.32355916850416
+  y: 187.0
+  z: -3.6070494745589454
+  yaw: -258.8316
+  pitch: 28.913868
+homes:
+  ap:
+    world: world
+    x: 216.04119721302246
+    y: 90.0
+    z: 279.7547271932087
+    yaw: -182.22917
+    pitch: 14.550002
+  p:
+    world: world
+    x: 2705.744200437172
+    y: 62.0
+    z: 7917.714348698518
+    yaw: -20.27169
+    pitch: -2.2619824
+  home:
+    world: world
+    x: 6505.5
+    y: 64.0
+    z: -7579.5
+    yaw: 165.14886
+    pitch: 14.249974
+  sky:
+    world: world
+    x: -6969.709354195467
+    y: 252.875
+    z: 121.13815271014926
+    yaw: -96.48288
+    pitch: 12.000032
+logoutlocation:
+  world: world
+  x: 1390.1274755407076
+  y: 54.5
+  z: 9508.091100641937
+  yaw: 313.05176
+  pitch: -48.899986
+money: '2265.00'
+muted: false
+ignore:
+- gameuronli

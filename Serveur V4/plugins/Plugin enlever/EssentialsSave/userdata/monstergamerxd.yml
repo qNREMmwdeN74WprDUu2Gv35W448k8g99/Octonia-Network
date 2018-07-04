@@ -1,0 +1,31 @@
+uuid: ffbcc30a-6333-332f-9a4f-23dd8775c95b
+timestamps:
+  login: 1457264203425
+  kits:
+    bouffe: 1457264546572
+    octonien: 1457262687287
+  lastteleport: 1457264286667
+  logout: 1457264176303
+ipAddress: 88.164.69.187
+lastlocation:
+  world: world
+  x: 273.61584042867844
+  y: 5.0
+  z: -633.0595592249958
+  yaw: 183.65921
+  pitch: 22.499168
+homes:
+  home:
+    world: world
+    x: 275.2265664189237
+    y: 6.0
+    z: -627.6999999880791
+    yaw: 145.57568
+    pitch: 15.910293
+logoutlocation:
+  world: world
+  x: 274.2201745661652
+  y: 5.0
+  z: -631.3000000119209
+  yaw: -144.73157
+  pitch: 47.66874

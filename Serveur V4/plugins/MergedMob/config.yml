@@ -1,0 +1,157 @@
+# This is a template config file
+# define your parameter and its value like:
+Messages:
+  ErrorMsg : "&c[OctoStack] : Some error occured."
+
+HelpMessages:
+  banner:
+    msg: "=== &e[&aOctoStack Commands List (%version%)&e] &r==="  
+  help:
+    msg: "&a/mergedmob help : displays this help menu."
+  reload:
+    msg: "&a/mergedmob reload : reloads config file."
+    permission: "mergedmob.reload"
+  debug:
+    msg: "&a/mergedmob debug <true|false> : turn on / off the debug mode."
+    permission: "mergedmob.debug"
+
+MergeCheckInterval: 1      #in second.
+
+NumberRegex: "([0-9]+)(x)"     #this corresponds to %number%X in DisplayFormat
+DisplayFormat: "&a%number%x"
+
+# limit merge to spawner mobs
+MergeOnlySpawnerMobs: false
+
+# whether villager zombies should be merged
+MergeVillagerZombie: false
+MergeBabyZombie: false
+
+# whether mobs with different equipments should get merged or not
+MergeEquipped: true
+
+# whether baby mobs get merged with the normal mob.
+MergeBabyAnimal: true
+
+# for merge_type,
+# AVERAGE : merged mob's health would be the average of all merged mobs
+# MINIMUM : merged mob's health would be the minimum health of all merged mobs
+# MAXIMUM : merged mob's health woudl be the maxinum health of all merged mobs
+# FULL : merged mob's health would be always full.
+DefaultMergeType: MINIMUM
+
+#
+# if the cause of mob death was one of reason listed beloe
+# only one mob in the merged mob will be killed.
+# all other cause will kill entire merged mobs.
+# followings are the cause of damae you can specify
+#
+# BLOCK_EXPLOSION : Damage caused by being in the area when a block explodes.
+# CONTACT : Damage caused when an entity contacts a block such as a Cactus.
+# CUSTOM : Custom damage.
+# DROWNING : Damage caused by running out of air while in water
+# ENTITY_ATTACK : Damage caused when an entity attacks another entity.
+# ENTITY_EXPLOSION : Damage caused by being in the area when an entity, such as a Creeper, explodes.
+# FALL : Damage caused when an entity falls a distance greater than 3 blocks
+# FALLING_BLOCK Damage caused by being hit by a falling block which deals damage
+# FIRE : Damage caused by direct exposure to fire
+# FIRE_TICK : Damage caused due to burns caused by fire
+# LAVA : Damage caused by direct exposure to lava
+# LIGHTNING : Damage caused by being struck by lightning
+# MAGIC : Damage caused by being hit by a damage potion or spell
+# MELTING : Damage caused due to a snowman melting
+# POISON : Damage caused due to an ongoing poison effect
+# PROJECTILE : Damage caused when attacked by a projectile.
+# STARVATION : Damage caused by starving due to having an empty hunger bar
+# SUFFOCATION : Damage caused by being put in a block
+# SUICIDE : Damage caused by committing suicide using the command "/kill"
+# THORNS : Damage caused in retaliation to another attack by the Thorns enchantment.
+# VOID : Damage caused by falling into the void
+# WITHER : Damage caused by Wither potion effect
+CauseToKillOne:
+  - ENTITY_ATTACK
+  - PROJECTILE
+  - FIRE
+
+# if this option is true, the plugin will attempt to kill all merged mobs
+# when the mergedmob is killed.
+EnableKillAll: false
+
+# if thie option is true, the drops from kill all will be randomized.
+# if it's false, drops will be simply multiplied by the merged count.
+RandomizeKillAllDrops: true
+
+# Chicken Egg Drop Randomisor
+# if one egg is dropped, the percentage represented by the following rate
+# would also drop eggs.
+# num_of_egg = merged_count * EggDropRate * random (0.0 - 1.0);
+EggDropRate: 0.5
+
+#
+# Sheep related
+# if MergeSheard: true, shearing will drop wool * merged count
+MergeSheared: false
+MergeColored: false
+
+#
+# Mobs with armors/weapons
+# if MergeEquipped is false, mobs with different armors/weapons won't get merged.
+MergeEquipped: true
+
+# merging will be disabled in the world listed here.
+#DisabledWorlds:
+#  - plotworld
+
+#
+Mobs:
+  CHICKEN:
+    radius: 10
+    leave_pair: true
+    merge_type: AVERAGE
+  COW:
+    radius: 10
+    leave_pair: true
+  PIG:
+    alias: "&dPiggy!"
+    radius: 10
+    leave_pair: true
+  SHEEP:
+    radius: 10
+    leave_pair: true
+  WOLF:
+    radius: 10
+    leave_pair: true
+  BLAZE:
+    radius: 10
+  SKELETON:
+    radius: 10
+    merge_type: MAXIMUM
+  ZOMBIE:
+    radius: 10
+    merge_type: MAXIMUM
+  SPIDER:
+    radius: 10
+  CAVE_SPIDER:
+    radius: 10
+  CREEPER:
+    radius: 10
+  ENDERMAN:
+    radius: 10
+  GHAST:
+    radius: 10
+  GUARDIAN:
+    radius: 10
+  IRON_GOLEM:
+    radius: 10
+  SLIME:
+    radius: 10
+  WITCH:
+    radius: 10
+  MUTANT:
+    radius: 10
+  PIG_ZOMBIE:
+    radius: 10
+  GOULE:
+    radius: 10
+  HELL_SOUL:
+    radius: 10

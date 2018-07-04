@@ -1,0 +1,29 @@
+uuid: 6706ea6a-0650-383f-81d8-830884bab9f3
+timestamps:
+  login: 1456317225740
+  kits:
+    bouffe: 1456248075674
+    octonien: 1456248071157
+  logout: 1456317265243
+  lastteleport: 1456055726918
+  mute: 0
+ipAddress: 78.126.36.77
+lastlocation:
+  world: world
+  x: -2.5674761930049694
+  y: 190.0
+  z: -0.6742410508147245
+  yaw: -147.85376
+  pitch: 33.115116
+logoutlocation:
+  world: world
+  x: 1694.1658644068395
+  y: 5.0
+  z: 1610.099162408613
+  yaw: 100.04148
+  pitch: 33.37398
+muted: false
+money: '92.0'
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 1456320867738

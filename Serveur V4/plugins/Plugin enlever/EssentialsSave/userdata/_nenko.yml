@@ -1,0 +1,27 @@
+socialspy: false
+timestamps:
+  login: 1457213657080
+  kits:
+    bouffe: 1454856072594
+    octonien: 1457213688120
+  logout: 1457214024720
+  lastteleport: 1454857073822
+ipAddress: 90.113.224.221
+lastlocation:
+  world: world
+  x: -3.793063693664548
+  y: 173.0
+  z: -0.7499408770107389
+  yaw: -237.15
+  pitch: 30.750002
+ban:
+  reason: 'Banni : Insulte privé'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -0.55096436
+  pitch: 2.847823
+uuid: 18532b6c-6e51-351f-905a-b3ee019fab70

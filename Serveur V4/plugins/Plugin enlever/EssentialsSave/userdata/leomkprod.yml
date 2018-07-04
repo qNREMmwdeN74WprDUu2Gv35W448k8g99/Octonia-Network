@@ -1,0 +1,66 @@
+timestamps:
+  login: 1457295792942
+  kits:
+    minerais: 1457294607729
+    bouffe: 1457177502295
+    heros: 1457177290194
+    octonien: 1457177375304
+    druide: 1457177635141
+    chevalier: 1457177492483
+    destruction: 1457177601705
+    decouverte: 1457177545439
+    construction: 1457294588773
+    alchimiste: 1457177524951
+  logout: 1457295953244
+  lastteleport: 1457295894919
+  lastheal: 1457179887670
+  mute: 0
+ipAddress: 78.197.19.53
+lastlocation:
+  world: world
+  x: -4479.847873385591
+  y: 11.0
+  z: -8403.437485181224
+  yaw: -183.55334
+  pitch: 66.26294
+logoutlocation:
+  world: world
+  x: -4481.2347725176405
+  y: 5.0
+  z: -8396.300000011921
+  yaw: 207.6354
+  pitch: -10.023454
+homes:
+  pillage:
+    world: world
+    x: 3355.6368797031464
+    y: 11.0
+    z: -2222.9265637516473
+    yaw: 224.48293
+    pitch: 22.799667
+  bp:
+    world: world
+    x: -3652.60950533186
+    y: 6.0
+    z: -9126.270583196629
+    yaw: 165.57907
+    pitch: 19.800009
+  sky:
+    world: world
+    x: -5584.652814830653
+    y: 13.0
+    z: -7551.098750830996
+    yaw: 3.9451625
+    pitch: 14.294326
+  ap:
+    world: world
+    x: -5565.692377142135
+    y: 9.0
+    z: -7558.795276666036
+    yaw: -96.96414
+    pitch: 12.624409
+money: '26.0'
+uuid: 3fc0e1a3-738c-3cd0-bb69-1cbcdad8174e
+muted: false
+ignore:
+- shane

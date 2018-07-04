@@ -1,0 +1,42 @@
+socialspy: false
+timestamps:
+  login: 1455195419940
+  lastteleport: 1455195743740
+  logout: 1455195851147
+  kits:
+    bouffe: 1454962478177
+    octonien: 1455192500832
+    decouverte: 1455142911637
+    xp: 1455144850645
+  lastheal: 1455195730982
+ipAddress: 90.19.228.251
+lastlocation:
+  world: world
+  x: 3561.4644672403647
+  y: 67.0
+  z: 9286.80741399098
+  yaw: 328.1599
+  pitch: 0.6785422
+logoutlocation:
+  world: world
+  x: 3550.216538689077
+  y: 6.5
+  z: 9308.473695186642
+  yaw: 0.7895069
+  pitch: 47.25012
+homes:
+  home:
+    world: world
+    x: 0.37624796716696113
+    y: 195.0
+    z: 1.074999988079071
+    yaw: -259.21866
+    pitch: 24.526093
+ignore:
+- kyzerpvp
+- asukan_mpg
+- soprano
+money: '425770.0'
+ban:
+  reason: 'Banni : wasstrue'
+  timeout: 0

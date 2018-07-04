@@ -1,0 +1,39 @@
+uuid: 2dbc8025-ec9e-3899-bb9f-a3121692a9f5
+timestamps:
+  login: 1457295767538
+  kits:
+    bouffe: 1457294011840
+    octonien: 1457278446272
+    decouverte: 1457293862329
+  logout: 1457295875599
+  lastteleport: 1457294601729
+  lastheal: 1457295787882
+  mute: 0
+ipAddress: 82.125.80.233
+lastlocation:
+  world: world
+  x: 45.31886489608774
+  y: 190.0
+  z: 18.41364349578405
+  yaw: -87.95703
+  pitch: 5.2463446
+homes:
+  home:
+    world: world
+    x: 5813.758366762073
+    y: 5.0
+    z: 3004.042302945002
+    yaw: 223.98587
+    pitch: 15.447614
+logoutlocation:
+  world: world
+  x: 7462.685859407418
+  y: 66.0
+  z: 901.8541745177438
+  yaw: -205.59526
+  pitch: 2.5585458
+money: '7.01'
+muted: true
+ignore:
+- pawn
+- legeekdu2aytb

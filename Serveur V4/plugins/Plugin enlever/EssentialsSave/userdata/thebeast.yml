@@ -1,0 +1,35 @@
+timestamps:
+  login: 1456624665822
+  lastteleport: 1456624927509
+  logout: 1456624931308
+  kits:
+    bouffe: 1456624035214
+    octonien: 1455840562087
+ipAddress: 24.202.156.83
+lastlocation:
+  world: world
+  x: 576.5240118662829
+  y: 76.0
+  z: -7405.76471128769
+  yaw: -280.64944
+  pitch: 15.600006
+logoutlocation:
+  world: world
+  x: -468.87439927179594
+  y: 43.2220717128302
+  z: -9502.762499988079
+  yaw: -160.42754
+  pitch: 5.100058
+homes:
+  home:
+    world: world
+    x: -470.4429863262382
+    y: 43.0
+    z: -9502.459957167708
+    yaw: -201.07756
+    pitch: 47.400063
+uuid: 85e1d8a7-a00c-37da-8b96-f9cd5471e63f
+money: '678.0'
+ban:
+  reason: 'Banni : j''ai rep a ta question'
+  timeout: 0

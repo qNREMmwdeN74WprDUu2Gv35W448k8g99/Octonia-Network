@@ -1,0 +1,37 @@
+timestamps:
+  login: 1457106861522
+  kits:
+    bouffe: 1455892371577
+    octonien: 1457096698525
+  lastteleport: 1457108871061
+  logout: 1457108928443
+  lastheal: 1457108688472
+  jail: 0
+ipAddress: 83.155.61.204
+lastlocation:
+  world: world
+  x: 4168.363537067376
+  y: 6.0
+  z: -7694.357133646316
+  yaw: -270.16214
+  pitch: -9.899895
+homes:
+  home:
+    world: world
+    x: 4170.327939698408
+    y: 5.0
+    z: -7691.42504304134
+    yaw: 15.887787
+    pitch: 9.600115
+logoutlocation:
+  world: world
+  x: 0.010639816678168601
+  y: 190.5
+  z: 2.2099737161592103
+  yaw: -171.85107
+  pitch: -1.6521746
+uuid: dfb62d1c-a491-317a-a855-21a4c1d76c15
+money: '3026.0'
+jailed: false
+ignore:
+- skylax

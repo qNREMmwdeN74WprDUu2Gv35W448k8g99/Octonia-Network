@@ -1,0 +1,43 @@
+# Everything in this configuration file works just like every BossShopPro shop.
+# More information can be found here: https://www.spigotmc.org/wiki/bossshoppro-configuration/
+# The menu will automatically be filled with all items contained in the related kit. These items can be seen but not taken by the player.
+# By default players can use the 'Activate' icon to execute the kit command, if they own the kit. Else they will see the 'NotOwned' icon telling information
+# about how to purchase kits.
+ShopName: 'KitPreview_%kitname%'
+DisplayName: '&6&l%kitname%'
+shop:
+  Activate:
+    MenuItem:
+    - lore:&7Clique pour afficher les details#&7du &c&oKit &l%kitname%
+    - name:&7[o] &6&l%kitname% &a[swords]
+    - amount:1
+    - type:COINS
+    RewardType: shop
+    Reward: boutiquekit%kitname%
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  NotOwned:
+    MenuItem:
+    - lore:&7Clique pour afficher les details#&7du &c&oKit &l%kitname%
+    - name:&7[o] &6&l%kitname% &a[swords]
+    - amount:1
+    - type:COINS
+    RewardType: shop
+    Reward: boutiquekit%kitname%
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  Back:
+    MenuItem:
+    - name:&cRetour
+    - amount:1
+    - type:BLOCK_INVISIBLE
+    RewardType: SHOP
+    Reward: boutiquekit
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

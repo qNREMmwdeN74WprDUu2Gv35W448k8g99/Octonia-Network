@@ -1,0 +1,37 @@
+[
+  {
+    "ip": "79.141.163.7",
+    "created": "2016-03-18 17:37:25 +0100",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Le marteau du bannissement a frappé !"
+  },
+  {
+    "ip": "90.33.160.146",
+    "created": "2016-03-17 23:17:48 +0100",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Le marteau du bannissement a frappé !"
+  },
+  {
+    "ip": "185.156.173.61",
+    "created": "2017-07-10 16:59:32 +0200",
+    "source": "Razor",
+    "expires": "forever",
+    "reason": "Le marteau du bannissement a frappé !"
+  },
+  {
+    "ip": "185.94.189.136",
+    "created": "2017-07-10 16:24:46 +0200",
+    "source": "Razor",
+    "expires": "forever",
+    "reason": "Le marteau du bannissement a frappé !"
+  },
+  {
+    "ip": "90.47.234.65",
+    "created": "2016-04-13 19:38:57 +0200",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Le marteau du bannissement a frappé !"
+  }
+]

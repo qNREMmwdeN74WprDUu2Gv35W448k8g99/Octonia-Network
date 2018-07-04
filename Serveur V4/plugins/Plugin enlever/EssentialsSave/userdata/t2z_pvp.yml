@@ -1,0 +1,55 @@
+timestamps:
+  login: 1456852081118
+  kits:
+    bouffe: 1456849966985
+    octonien: 1456852336503
+    chevalier: 1456852300298
+    xp: 1456852349278
+    decouverte: 1456849895396
+    golden: 1456852376647
+  lastteleport: 1456852811886
+  logout: 1456853077438
+  lastheal: 1456850182915
+  jail: 0
+  mute: 0
+ipAddress: 31.32.185.147
+lastlocation:
+  world: world
+  x: 1.1159799622091056
+  y: 190.5
+  z: 2.037730941747475
+  yaw: -73.151855
+  pitch: 43.49998
+homes:
+  chambre:
+    world: world
+    x: 3946.300000011921
+    y: 11.0
+    z: -1844.699999988079
+    yaw: 357.01556
+    pitch: 20.099976
+  ap:
+    world: world
+    x: -285.69999998807907
+    y: 64.0
+    z: 275.69999998807907
+    yaw: 232.14265
+    pitch: 40.949986
+logoutlocation:
+  world: world
+  x: 5.292234575160213
+  y: 189.0
+  z: -0.814519606406559
+  yaw: -128.65149
+  pitch: 39.147793
+money: '9315.00'
+ignore:
+- thomas0185
+- f1skill
+- max78jb
+jailed: false
+muted: false
+uuid: 43f2f3b9-9aa0-3e6e-ae1a-05a0a5a2a381
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

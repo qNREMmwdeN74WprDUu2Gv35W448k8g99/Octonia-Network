@@ -1,0 +1,34 @@
+# ClearChat! Version: 3.0.0 By Phil14052
+Debugmode: false
+login:
+  clearOnLogin: false
+  permission:
+    needPermission: true
+    permission: clearchat.custom.joinclear
+  lines: 100
+  message:
+    withMessage: true
+    message: '&3Your chat was cleared automatically on join.'
+clear:
+  global:
+    lines: 100
+    ingammeplayersonly: true
+  personal:
+    lines: 100
+  autoclear:
+    enabled: false
+    lines: 100
+    time:
+      hours: 0
+      minutes: 5
+      seconds: 0
+    ingammeplayersonly: true
+    message:
+      withMessage: true
+      message: '&8The chat was cleared automatically.'
+other:
+  helpmenu:
+    needpermission: true
+    permission: clearchat.custom.help
+  infomenu:
+    convertToClearCommand: false

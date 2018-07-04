@@ -1,0 +1,39 @@
+uuid: 1b459179-59c9-3b28-a234-09881a54d4e7
+timestamps:
+  login: 1457292801725
+  kits:
+    bouffe: 1457175022101
+    octonien: 1457267414173
+    xp: 1457262902807
+    decouverte: 1457263079630
+  lastteleport: 1457292833125
+  logout: 1457292971528
+  lastheal: 1457264219071
+  mute: 0
+ipAddress: 77.128.102.92
+lastlocation:
+  world: world
+  x: -2.949999988079071
+  y: 191.0
+  z: 2.8910440503194947
+  yaw: -309.53174
+  pitch: 31.305431
+logoutlocation:
+  world: world
+  x: 2591.699999988079
+  y: 55.0
+  z: -9620.195606912239
+  yaw: -78.98981
+  pitch: 26.372845
+homes:
+  home:
+    world: world
+    x: 2594.7051231915375
+    y: 75.0
+    z: -9592.877151751289
+    yaw: -342.503
+    pitch: 24.45465
+money: '11168.25'
+muted: false
+ignore:
+- nana95

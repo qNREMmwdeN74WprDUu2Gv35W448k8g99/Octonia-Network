@@ -1,0 +1,131 @@
+# Full plugin documentation:
+# dev.bukkit.org/bukkit-plugins/random_box/pages/main/documentation/
+
+boxName: '&6Sword Box'
+
+boxItem: REDORITE_SWORD
+
+lore:
+- '&eUne boite unique..'
+- '&eDes Items Rares..'
+- '&7--------------'
+- 'items 0 &7%ordinal%. &ex%amount% %name%'
+- '&7--------------'
+- '&bBoite Rare'
+
+checkPermission: false
+
+openWhenClicked: true
+
+addGlow: true
+
+unstackable: true
+
+gui:
+  enabled: true
+  rolling:
+  - {delay: 1, iterations: 50}
+  - {delay: 2, iterations: 20}
+  - {delay: 3, iterations: 10}
+  - {delay: 4, iterations: 5}
+  window:
+    type: CHEST
+    format:
+    - '@@@@#@@@@'
+    - 'abcdEfghi'
+    - '@@@@#@@@@'
+    fillers:
+      '@':
+        item: {id: 160, data: 15, delay: 20}
+        onStop:
+          item: {id: 0}
+      '#':
+        animated:
+        - {id: 160, data: 4, delay: 10}
+        - {id: 160, data: 5, delay: 10}
+
+effects:
+  open:
+    firework:
+      type: BALL_LARGE
+      colors: ['#FF0000', '#00FF00', 'BLUE']
+      fadeColors: ['GRAY', 'BLACK']
+      flicker: false
+      trail: false
+      power: 1
+    sound:
+      sound: CHEST_OPEN
+      volume: 1.0
+      pitch: 1.0
+    broadcast: '&eLe joueur &6%player% &eouvre &6Une Sword Box &e!'
+  move:
+    sound: {sound: CLICK}
+  drop:
+    sound: {sound: ANVIL_LAND}
+    firework:
+      type: STAR
+      colors: ['RED']
+  close:
+    sound: {sound: CHEST_CLOSE}
+
+itemsToSelectCount: 1
+
+items:
+  item1:
+    item: OCTORITE_SWORD
+    data: 0
+    amount: 1
+    name: '&cOctorite sword'
+    lore:
+    - '&7This sword dropped'
+    - '&7from a box.'
+    enchants:
+      sharpness: 8
+      unbreaking: 5
+      fire: 4
+      knockback: 2
+    dropEffect:
+      firework:
+        type: BALL_LARGE
+        colors: ['RED', 'ORANGE']
+        fadeColors: ['GRAY']
+        power: 0
+      sound: {sound: EXPLODE}
+    chance: 2
+  item2:
+    item: IRON_SWORD
+    amount: 1
+    name: '&6Iron sword'
+    enchants:
+      sharpness: 5
+      unbreaking: 3
+      knockback: 2
+    chance: 3
+  item3:
+    item: STONE_SWORD
+    amount: 1
+    name: '&eStone sword'
+    enchants:
+      sharpness: 3
+      unbreaking: 3
+      knockback: 2
+    chance: 4
+  item4:
+    item: BOW
+    amount: 1
+    name: '&eBow'
+    enchants:
+      power: 3
+      unbreaking: 3
+      infinity: 1
+    chance: 6
+  item5:
+    item: GOLDEN_APPLE
+    name: '&rGolden apple'
+    dontAssignName: true
+    amount: 1-8
+    chance: 8
+  item6:
+    box: 9901
+    name: '&eBonus Box'
+    chance: 2

@@ -1,0 +1,71 @@
+timestamps:
+  login: 1457332775841
+  kits:
+    heros: 1457332820345
+    bouffe: 1457332835044
+    octonien: 1457199860143
+    chevalier: 1457292131633
+    decouverte: 1457332806044
+    legendaire: 1457332814644
+  logout: 1457332861644
+  lastteleport: 1457332805241
+  lastheal: 1457294160667
+  mute: 0
+  jail: 0
+ipAddress: 80.11.104.125
+lastlocation:
+  world: world
+  x: -279.608472220139
+  y: 64.0
+  z: -60.15418134258043
+  yaw: -181.5981
+  pitch: 3.419527
+homes:
+  r:
+    world: world
+    x: 9710.051617045998
+    y: 40.0
+    z: 177.27848856887945
+    yaw: -268.26526
+    pitch: 14.100011
+  ap:
+    world: world
+    x: -284.347767643426
+    y: 64.0
+    z: 10.948906955142583
+    yaw: -224.88844
+    pitch: 43.350002
+  potion:
+    world: world
+    x: 9279.5
+    y: 220.0
+    z: -296.5
+    yaw: 32.425415
+    pitch: 22.146975
+  bp2:
+    world: world
+    x: 9090.603245736596
+    y: 10.0
+    z: -2304.5321164283605
+    yaw: 210.42767
+    pitch: 73.79997
+  toit:
+    world: world
+    x: 9070.33807848645
+    y: 152.0
+    z: -2317.487844747159
+    yaw: 69.13696
+    pitch: 36.300007
+logoutlocation:
+  world: world
+  x: 9086.574999988079
+  y: 5.0
+  z: -2304.4879648457827
+  yaw: 281.3777
+  pitch: 21.599966
+muted: false
+money: '5767.21'
+uuid: da37c428-c618-32f8-a159-a65b180b9d9a
+ignore:
+- loisorouge
+jailed: false

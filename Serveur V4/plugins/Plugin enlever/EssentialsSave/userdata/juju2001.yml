@@ -1,0 +1,85 @@
+timestamps:
+  login: 1457309481026
+  kits:
+    bouffe: 1457042968222
+    heros: 1457012772309
+    octonien: 1457114551401
+    chevalier: 1457288393850
+    destruction: 1457288535437
+    decouverte: 1457114812224
+    xp: 1457052153877
+    legendaire: 1457011700041
+    construction: 1457116528055
+    golden: 1457276689009
+  lastteleport: 1457291398040
+  logout: 1457309565633
+  lastheal: 1457291193007
+  mute: 0
+  jail: 0
+ipAddress: 31.39.248.130
+lastlocation:
+  world: world
+  x: 6721.8532375804425
+  y: 53.0
+  z: 6042.84078351133
+  yaw: -162.7666
+  pitch: 39.717873
+homes:
+  r:
+    world: world
+    x: 9883.182561865273
+    y: 68.0
+    z: 730.8948907262527
+    yaw: 277.46664
+    pitch: 8.223897
+  b:
+    world: world
+    x: 289.6367915863466
+    y: 5.0
+    z: -1451.459527482104
+    yaw: -55.157368
+    pitch: 6.4423604
+  s:
+    world: world
+    x: -5715.479671197267
+    y: 66.0
+    z: -5331.587607378307
+    yaw: -115.21256
+    pitch: 61.499992
+  r5:
+    world: world
+    x: -5281.5
+    y: 65.0
+    z: 7954.5
+    yaw: -2.549908
+    pitch: 29.658812
+  f:
+    world: world
+    x: 3122.9366200976265
+    y: 19.0
+    z: 1552.3326478710198
+    yaw: 87.31939
+    pitch: 29.33077
+  r2:
+    world: world
+    x: -8822.5
+    y: 10.0
+    z: 4611.5
+    yaw: -5.898834
+    pitch: 27.600008
+money: '175788.030'
+logoutlocation:
+  world: world
+  x: -16.699999988079075
+  y: 208.0
+  z: 37.35174418412306
+  yaw: -267.12714
+  pitch: 34.500034
+uuid: 2337c9cf-deb1-398d-a9aa-3ae2e3d6440e
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 0
+jailed: false
+ignore:
+- ks_destiny

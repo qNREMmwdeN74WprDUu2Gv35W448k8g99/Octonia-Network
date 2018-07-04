@@ -1,0 +1,67 @@
+timestamps:
+  login: 1457291105571
+  logout: 1457294366535
+  kits:
+    heros: 1457256725885
+    bouffe: 1457293777453
+    octonien: 1457285941860
+    druide: 1457281547743
+    chevalier: 1457256703536
+    decouverte: 1457281233482
+    construction: 1457281634524
+    golden: 1457281244373
+    alchimiste: 1457281583502
+  lastteleport: 1457294026026
+  lastheal: 1457271178227
+  mute: 0
+ipAddress: 88.181.72.142
+lastlocation:
+  world: world
+  x: -1573.4319187523006
+  y: 14.0
+  z: 3616.342795350018
+  yaw: -222.90773
+  pitch: 11.10004
+logoutlocation:
+  world: world
+  x: 8106.550537720073
+  y: 6.0
+  z: -5511.413184398436
+  yaw: -333.9425
+  pitch: 32.82929
+socialspy: false
+homes:
+  sable:
+    world: world
+    x: 614.9903027167186
+    y: 63.0
+    z: 1868.5083130544
+    yaw: 3.0817523
+    pitch: 20.550024
+  lol:
+    world: world
+    x: 8107.617953504742
+    y: 6.0
+    z: -5509.3385242621725
+    yaw: 114.58694
+    pitch: 25.179817
+  ap:
+    world: world
+    x: 8125.692949370277
+    y: 120.0
+    z: -5519.3305429416305
+    yaw: 357.70187
+    pitch: 75.000084
+  red:
+    world: world
+    x: 717.6161166131305
+    y: 5.0
+    z: 5804.300000011921
+    yaw: -84.14859
+    pitch: 39.749893
+money: '11.19'
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 2 secondes.
+  timeout: 0
+uuid: 5d6ee74b-3b4d-335b-81d1-feaf36dace37

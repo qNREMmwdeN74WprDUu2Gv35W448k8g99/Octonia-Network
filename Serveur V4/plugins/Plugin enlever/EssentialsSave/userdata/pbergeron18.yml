@@ -1,0 +1,71 @@
+socialspy: false
+timestamps:
+  login: 1457286142724
+  logout: 1457288028657
+  lastteleport: 1457287715852
+  kits:
+    heros: 1456268051058
+    bouffe: 1457287955980
+    octonien: 1456278161360
+    chevalier: 1456268061558
+    decouverte: 1456268082232
+    xp: 1457286742836
+    construction: 1457286758460
+    legendaire: 1457286731604
+    golden: 1457286748715
+  lastheal: 1457287240917
+ipAddress: 24.201.154.96
+lastlocation:
+  world: world
+  x: -59.448005571281186
+  y: 6.0
+  z: -277.0741370724442
+  yaw: -53.949898
+  pitch: 20.25006
+logoutlocation:
+  world: world
+  x: 1974.699999988079
+  y: 66.0
+  z: -2804.699999988079
+  yaw: 178.56927
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: 1918.5
+    y: 77.0
+    z: -2846.5
+    yaw: -25.58395
+    pitch: 31.97113
+  mine:
+    world: world
+    x: -718.508429935217
+    y: 5.0
+    z: -1351.8510627136768
+    yaw: 0.8994405
+    pitch: 22.500414
+  pipi:
+    world: world
+    x: -1317.6267284573237
+    y: 86.0
+    z: -2347.503668162594
+    yaw: -73.97635
+    pitch: 37.049995
+  jteniketamere:
+    world: world
+    x: 1918.5
+    y: 77.0
+    z: -2846.5
+    yaw: -25.58395
+    pitch: 31.97113
+  bp:
+    world: world
+    x: 1939.1883847335348
+    y: 73.5
+    z: -2798.0576752660927
+    yaw: -72.076294
+    pitch: 36.150005
+money: '115.145'
+uuid: 41040d33-4ba7-3190-81cb-9a82cd743e04
+ignore:
+- xx_gaming_xx

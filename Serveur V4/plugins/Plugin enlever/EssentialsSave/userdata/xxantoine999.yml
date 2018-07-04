@@ -1,0 +1,51 @@
+timestamps:
+  login: 1457280647759
+  kits:
+    bouffe: 1457262704997
+    octonien: 1457281795333
+    chevalier: 1457276768911
+    destruction: 1457276799840
+    decouverte: 1457276809169
+    golden: 1457276790514
+  lastteleport: 1457284122614
+  lastheal: 1457284345366
+  logout: 1457284705775
+  mute: 0
+ipAddress: 81.245.27.70
+lastlocation:
+  world: world
+  x: 3422.6378236984892
+  y: 16.0
+  z: -2829.3601799849
+  yaw: -180.55151
+  pitch: 18.599998
+homes:
+  bp:
+    world: world
+    x: -4684.065563146972
+    y: 64.0
+    z: 1961.7155683087908
+    yaw: -5.7074504
+    pitch: 4.7119126
+  farm:
+    world: world
+    x: 3475.300000011921
+    y: 64.0
+    z: -2835.300000011921
+    yaw: -145.229
+    pitch: 21.139256
+money: '17170.500'
+logoutlocation:
+  world: world
+  x: 3417.4846154914485
+  y: 5.0
+  z: -2827.928347735271
+  yaw: 0.64837646
+  pitch: 1.6475927
+uuid: e4c71107-baa6-3639-b1dc-d4dbd066d110
+ignore:
+- ineaks
+- jackietelephone
+- felix_68
+- vivic63
+muted: false

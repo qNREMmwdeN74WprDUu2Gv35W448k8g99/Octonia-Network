@@ -1,0 +1,38 @@
+timestamps:
+  login: 1457278673521
+  kits:
+    bouffe: 1457277892148
+    octonien: 1457272212821
+    decouverte: 1457272078128
+  logout: 1457278751100
+  lastteleport: 1457278741941
+  mute: 0
+  lastheal: 1457278257693
+ipAddress: 81.50.10.216
+lastlocation:
+  world: world
+  x: -3013.9550562140644
+  y: 20.0
+  z: -5843.071443008253
+  yaw: -90.18732
+  pitch: 20.250008
+logoutlocation:
+  world: world
+  x: 0.4237570217810571
+  y: 189.0
+  z: 4.959618128442216
+  yaw: -357.55096
+  pitch: 4.1978226
+homes:
+  home:
+    world: world
+    x: -2542.699999988079
+    y: 6.0
+    z: -2622.6691185085733
+    yaw: -14.314351
+    pitch: 23.40007
+muted: false
+uuid: fd44ad56-a9c8-359a-8409-71d7919cfe2c
+money: '343.6000000000006'
+ignore:
+- theo974

@@ -1,0 +1,69 @@
+uuid: d10b4431-e2e3-3704-b44f-b83419af8c8d
+timestamps:
+  login: 1457260300769
+  kits:
+    minerais: 1457032976722
+    heros: 1457259826488
+    bouffe: 1457258012359
+    octonien: 1457023801388
+    chevalier: 1457259989414
+    xp: 1457103753081
+    decouverte: 1457258553511
+    construction: 1457023911137
+    legendaire: 1457257972671
+    golden: 1457257984207
+    alchimiste: 1457257999832
+  lastteleport: 1457260897339
+  logout: 1457261085879
+  mute: 0
+  lastheal: 1457260746571
+  jail: 0
+ipAddress: 81.64.89.100
+lastlocation:
+  world: world
+  x: 282.69999998807907
+  y: 64.86767856251416
+  z: -207.30000001192093
+  yaw: 53.00003
+  pitch: 67.55495
+homes:
+  farm:
+    world: world
+    x: -2410.1304894537343
+    y: 131.0
+    z: 5144.116982155897
+    yaw: -11.408633
+    pitch: 29.98378
+  pillage_:
+    world: world
+    x: 2425.300000011921
+    y: 8.0
+    z: 1317.956739546048
+    yaw: 120.61765
+    pitch: -17.834034
+  pvp:
+    world: world
+    x: 6.942764192969718
+    y: 158.0
+    z: 3.6999999880790706
+    yaw: 233.14417
+    pitch: 46.57364
+  kill:
+    world: world
+    x: 98.5
+    y: 64.0
+    z: 283.5
+    yaw: 80.457184
+    pitch: 13.049993
+logoutlocation:
+  world: world
+  x: 1.8867117255945909
+  y: 189.0
+  z: 4.300000011920931
+  yaw: -195.26184
+  pitch: 29.570536
+muted: false
+jailed: false
+money: '1037.0'
+ignore:
+- byayress_

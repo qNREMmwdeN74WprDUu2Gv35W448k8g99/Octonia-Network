@@ -1,0 +1,76 @@
+socialspy: false
+timestamps:
+  login: 1457072979529
+  kits:
+    bouffe: 1457033879215
+    heros: 1457073015033
+    octonien: 1457025568423
+    chevalier: 1457025547336
+    decouverte: 1457025679233
+  lastteleport: 1457073911333
+  logout: 1457074468825
+  mute: 0
+  lastheal: 1457074194736
+  jail: 0
+ipAddress: 81.245.27.70
+lastlocation:
+  world: world
+  x: 1875.6750620417297
+  y: 5.0
+  z: -5724.799768649094
+  yaw: 3.8815544
+  pitch: 35.274906
+homes:
+  nbp:
+    world: world
+    x: 7897.809906565399
+    y: 40.0
+    z: -6102.441232558072
+    yaw: -179.81679
+    pitch: 87.45013
+  farm:
+    world: world
+    x: 1877.7998112224084
+    y: 5.0
+    z: -5732.445869873605
+    yaw: 29.451172
+    pitch: -7.799982
+  ap:
+    world: world
+    x: 81.88670154082222
+    y: 64.0
+    z: 262.5619755107116
+    yaw: 93.04404
+    pitch: -2.4841669
+  nfhome:
+    world: world
+    x: 8931.279123529279
+    y: 63.0
+    z: -4429.182257886409
+    yaw: 179.24937
+    pitch: 22.800005
+muted: false
+logoutlocation:
+  world: world
+  x: 3195.699999988079
+  y: 6.0
+  z: 6114.109394271258
+  yaw: 230.34009
+  pitch: 12.000001
+money: '1176.030'
+ignore:
+- crazywolf
+- pokestar04
+- dday663
+- elixis
+- alexandre
+- wabidoulelapin
+- francis1314
+- lenainvnr
+- minisurf3
+- cawito
+ban:
+  reason: 'Banni : [HACK]'
+  timeout: 0
+jailed: false
+uuid: fcafff01-ac25-36d2-b6bc-479088f48418

@@ -1,0 +1,37 @@
+uuid: 55725714-37a7-3c84-9eac-e011fd5c3435
+timestamps:
+  login: 1456521112730
+  lastteleport: 1456521656711
+  kits:
+    bouffe: 1456411010554
+    octonien: 1456346944823
+    decouverte: 1456410822703
+  logout: 1456521675369
+  lastheal: 1456403963427
+ipAddress: 84.103.25.58
+lastlocation:
+  world: world
+  x: -8848.300000011921
+  y: 12.0
+  z: 4638.676896626562
+  yaw: -183.04724
+  pitch: 35.249996
+logoutlocation:
+  world: world
+  x: -9915.167111687932
+  y: 13.0
+  z: 1078.88988360434
+  yaw: -233.55
+  pitch: 1.9500326
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: -8813.846697123927
+    y: 11.0
+    z: 4620.537463947836
+    yaw: -12.634155
+    pitch: 32.55006
+ignore:
+- gtr10
+- vulcoz

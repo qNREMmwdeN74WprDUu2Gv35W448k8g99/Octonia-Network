@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1456651119577
+  kits:
+    bouffe: 1456579930470
+    octonien: 1456649895359
+  lastteleport: 1456651611029
+  logout: 1456652064183
+  lastheal: 1456651348868
+  jail: 0
+ipAddress: 84.103.25.58
+lastlocation:
+  world: world
+  x: -1.0316224433052585
+  y: 190.5
+  z: 1.9655341111644806
+  yaw: -327.55096
+  pitch: 30.597822
+homes:
+  home:
+    world: world
+    x: -1773.5
+    y: 55.0
+    z: -1941.5
+    yaw: -43.048065
+    pitch: 1.1999892
+logoutlocation:
+  world: world
+  x: 0.01824782120930235
+  y: 190.5
+  z: 0.3461496600293048
+  yaw: -4.6010437
+  pitch: 12.8978195
+uuid: 450d8799-3ce3-35c0-a461-58d939247e86
+money: '102.0'
+ignore:
+- king_rusch
+- timensium
+jailed: false

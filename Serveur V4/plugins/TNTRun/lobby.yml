@@ -1,0 +1,9 @@
+lobby:
+  world: world_the_end
+  vector:
+    ==: Vector
+    x: 3009.518857830062
+    y: 67.0
+    z: 3019.274581231877
+  yaw: 111.76269
+  pitch: 74.69994

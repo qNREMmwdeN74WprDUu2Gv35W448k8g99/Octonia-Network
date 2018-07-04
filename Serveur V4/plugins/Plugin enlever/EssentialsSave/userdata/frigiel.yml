@@ -1,0 +1,24 @@
+ban:
+  reason: 'Banni : Bisous'
+  timeout: 0
+uuid: f224e4d0-dabe-3126-9ee6-e07087f2c3f7
+timestamps:
+  login: 1456392968202
+  kits:
+    octonien: 1456393012391
+  logout: 1456393014795
+ipAddress: 83.113.235.35
+lastlocation:
+  world: world
+  x: -3.5
+  y: 189.0
+  z: -3.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 0.7248762204377034
+  y: 189.0
+  z: 7.47105053298938
+  yaw: -347.7492
+  pitch: 49.55774

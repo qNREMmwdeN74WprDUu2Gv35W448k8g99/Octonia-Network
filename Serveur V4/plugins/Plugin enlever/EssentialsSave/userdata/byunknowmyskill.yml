@@ -1,0 +1,56 @@
+socialspy: false
+timestamps:
+  login: 1455993263858
+  kits:
+    bouffe: 1454777855046
+    heros: 1455443232993
+    octonien: 1455443266147
+    druide: 1455993975154
+    chevalier: 1455443252346
+    destruction: 1455363650246
+    xp: 1455993325315
+    legendaire: 1455993327621
+    alchimiste: 1455641017520
+    minerais: 1455993382194
+    decouverte: 1455993793034
+    construction: 1455444698788
+    golden: 1455641030856
+  lastteleport: 1455995689980
+  logout: 1455995737802
+  lastheal: 1455364606282
+ipAddress: 90.61.6.75
+lastlocation:
+  world: world
+  x: -3054.699999988079
+  y: 5.0
+  z: 1958.4043551714253
+  yaw: -56.862732
+  pitch: 14.262515
+logoutlocation:
+  world: world
+  x: -4766.965745806611
+  y: 61.125
+  z: -5299.205745418643
+  yaw: -101.240234
+  pitch: 14.539507
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+homes:
+  bp:
+    world: world
+    x: -4765.912683276667
+    y: 66.0
+    z: -5296.300000011921
+    yaw: 23.003235
+    pitch: 2.6257298
+  bp2:
+    world: world
+    x: -3053.442404796116
+    y: 6.0
+    z: 1957.5262154974555
+    yaw: -277.01794
+    pitch: -0.20421554
+ignore:
+- khadgar
+uuid: 12149ef4-75fd-3ce1-a518-5014d29411e1

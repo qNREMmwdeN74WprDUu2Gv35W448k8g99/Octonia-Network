@@ -1,0 +1,84 @@
+socialspy: false
+timestamps:
+  login: 1457299839057
+  kits:
+    heros: 1457296595703
+    bouffe: 1457302070541
+    octonien: 1457268244898
+    chevalier: 1457299207420
+    destruction: 1457302074241
+    decouverte: 1457293613797
+    legendaire: 1457293581905
+  lastteleport: 1457301972231
+  logout: 1457302079934
+  lastheal: 1457302047743
+  jail: 0
+  mute: 0
+ipAddress: 77.148.193.59
+lastlocation:
+  world: world
+  x: 4304.997110342489
+  y: 5.0
+  z: 5251.783059811435
+  yaw: -238.00891
+  pitch: -11.7510605
+homes:
+  cacache:
+    world: world
+    x: -160.4407654248499
+    y: 33.875
+    z: -17.55171552353459
+    yaw: 176.74382
+    pitch: 89.44423
+  pillage:
+    world: world
+    x: 3181.3967340949957
+    y: 7.0
+    z: 309.30000001192093
+    yaw: 42.025055
+    pitch: 74.7163
+  pillage5:
+    world: world
+    x: 1799.9544961349497
+    y: 17.0
+    z: -4084.822638710714
+    yaw: -178.31325
+    pitch: 25.218767
+  bp:
+    world: world
+    x: 4304.790575222408
+    y: 5.0
+    z: 5247.341654100323
+    yaw: -59.112465
+    pitch: 20.4503
+  xp:
+    world: world
+    x: 5454.6068873524255
+    y: 11.0
+    z: 6299.335447436779
+    yaw: 283.60034
+    pitch: 28.327263
+  pillage47:
+    world: world
+    x: 5117.5
+    y: 65.0
+    z: 7225.5
+    yaw: -99.52849
+    pitch: 60.31235
+logoutlocation:
+  world: world
+  x: -7726.699999988079
+  y: 4.0
+  z: -1494.546740555715
+  yaw: -336.66763
+  pitch: 43.998043
+money: '956.10'
+uuid: 307ee1f4-eb76-3675-b696-95a65ed80994
+jailed: false
+ignore:
+- buitou
+- destructeur23
+- destructeur555
+- skisophrene12
+- fallohio
+muted: false

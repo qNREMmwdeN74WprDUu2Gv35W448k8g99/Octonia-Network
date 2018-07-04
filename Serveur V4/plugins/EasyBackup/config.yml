@@ -1,0 +1,12 @@
+autoBackup: true
+backupDelayInHours: 6
+maxBackupsBeforeErase: 5
+lastBackup: 1517569342154
+debug: false
+name: backup_%time%
+exemptFolders:
+- home/factions/./plugins/PlayerTahgs/Hashtags
+- plugins/PlayerTahgs/Hashtags
+- example/folder
+- example/file.yml
+saveFolder: plugins/EasyBackup/Backups

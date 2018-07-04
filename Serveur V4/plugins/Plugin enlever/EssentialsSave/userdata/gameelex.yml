@@ -1,0 +1,37 @@
+timestamps:
+  login: 1457276491472
+  kits:
+    bouffe: 1457194753557
+    octonien: 1457181071266
+    decouverte: 1457198040264
+  logout: 1457276598777
+  lastteleport: 1457276548956
+  lastheal: 1457276498322
+ipAddress: 93.21.35.247
+lastlocation:
+  world: world
+  x: -3004.2714175563046
+  y: 5.0
+  z: -5915.7916657907235
+  yaw: -211.33392
+  pitch: -20.699932
+homes:
+  home:
+    world: world
+    x: -2024.7017826269853
+    y: 254.0
+    z: -3922.6572334668535
+    yaw: 28.722311
+    pitch: 44.79968
+logoutlocation:
+  world: world
+  x: -622.6999999880791
+  y: 8.0
+  z: -5580.525337599328
+  yaw: 261.98868
+  pitch: 3.6000276
+ignore:
+- frenchpotskill
+- nightsander
+money: '4280.0'
+uuid: 94547ae9-62ef-35c5-8a8a-c19412e95882

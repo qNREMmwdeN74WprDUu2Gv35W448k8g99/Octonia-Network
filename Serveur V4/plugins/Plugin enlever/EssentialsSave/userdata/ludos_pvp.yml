@@ -1,0 +1,20 @@
+uuid: c025bade-1bfb-318b-9a0e-0fdd371af646
+timestamps:
+  login: 1456591227726
+  lastteleport: 1456591298694
+  logout: 1456591976307
+ipAddress: 80.201.70.106
+lastlocation:
+  world: world
+  x: 44.69999998807907
+  y: 188.0
+  z: 17.699999988079067
+  yaw: -88.00122
+  pitch: 6.147822
+logoutlocation:
+  world: world
+  x: -5201.642872079271
+  y: 27.0
+  z: 7904.874758329592
+  yaw: 119.6448
+  pitch: 27.106424

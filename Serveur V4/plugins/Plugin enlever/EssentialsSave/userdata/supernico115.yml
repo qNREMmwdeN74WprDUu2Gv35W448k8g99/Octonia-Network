@@ -1,0 +1,84 @@
+timestamps:
+  login: 1456343372713
+  logout: 1456343671345
+  kits:
+    bouffe: 1456081515810
+    heros: 1456244748899
+    octonien: 1456244742264
+    druide: 1456244821508
+    chevalier: 1456244737886
+    destruction: 1456244817866
+    xp: 1456244792975
+    decouverte: 1456339695885
+    construction: 1456244785411
+    legendaire: 1456339362349
+    alchimiste: 1456340489818
+    golden: 1456244813106
+  lastteleport: 1456340692513
+  mute: 0
+  lastheal: 1456340323460
+ipAddress: 91.178.175.127
+lastlocation:
+  world: world
+  x: -163.6993196741238
+  y: 28.0
+  z: -16.52336008908712
+  yaw: -122.1902
+  pitch: 16.542252
+logoutlocation:
+  world: world
+  x: -4.652662332118728
+  y: 191.1707870772188
+  z: -7.06219334917597
+  yaw: -136.75809
+  pitch: 86.9114
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 5205.051489758985
+    y: 14.0
+    z: 2000.1398415185602
+    yaw: 137.21803
+    pitch: 10.699014
+  abc:
+    world: world
+    x: 8477.699999988079
+    y: 52.0
+    z: 4093.257232981791
+    yaw: -237.42583
+    pitch: -0.18033087
+  new:
+    world: world
+    x: -70.63867922182665
+    y: 4.0
+    z: -310.53304735300827
+    yaw: 252.3357
+    pitch: 31.23386
+  loin:
+    world: world
+    x: 7415.44391792921
+    y: 71.0
+    z: -1148.8361760211621
+    yaw: 197.36897
+    pitch: 9.029451
+  aps:
+    world: world
+    x: -55.660248504252635
+    y: 64.0
+    z: -266.5931139541839
+    yaw: 180.44847
+    pitch: -18.12831
+  aps2:
+    world: world
+    x: 52.393860774203326
+    y: 5.0
+    z: 276.30000001192093
+    yaw: 177.69312
+    pitch: -19.602282
+muted: false
+money: '30494.83'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+uuid: 648190b5-4187-389c-88b1-e0172693d972

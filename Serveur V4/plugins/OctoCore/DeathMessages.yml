@@ -1,0 +1,19 @@
+# 
+#    ____       _         _____              
+#   / __ \     | |       / ____|              
+#  | |  | | ___| |_ ___ | |     ___  _ __ ___
+#  | |  | |/ __| __/ _ \| |    / _ \| '__/ _ \
+#  | |__| | (__| || (_) | |___| (_) | | |  __/
+#   \____/ \___|\__\___/ \_____\___/|_|  \___|
+# 
+# 
+# *
+# *
+# * Par: CharpenteDocile
+# * Description: Liste des messages pour les morts.
+# * Pour OctoCore version: Bêta
+# *********************************************/		
+
+Messages:
+- '     &4{killer} &ra explosé &2{kill}&r.'
+- '     &4{killer}&r a massacré &2{kill}&r.'

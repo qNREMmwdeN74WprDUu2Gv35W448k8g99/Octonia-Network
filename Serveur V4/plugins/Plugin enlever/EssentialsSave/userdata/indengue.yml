@@ -1,0 +1,22 @@
+timestamps:
+  login: 1455364496982
+  kits:
+    octonien: 1455364524061
+  logout: 1455365367648
+ipAddress: 78.243.213.6
+lastlocation:
+  world: world
+  x: 8.5
+  y: 189.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+ignore:
+- khadgar
+logoutlocation:
+  world: world
+  x: 1991.9114937162392
+  y: 23.0
+  z: -1890.0348413850531
+  yaw: 199.91386
+  pitch: 39.176968

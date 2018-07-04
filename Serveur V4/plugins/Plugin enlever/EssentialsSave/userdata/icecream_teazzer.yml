@@ -1,0 +1,39 @@
+timestamps:
+  login: 1457089248480
+  kits:
+    bouffe: 1457015810443
+    octonien: 1456652859417
+    decouverte: 1457015800836
+  logout: 1457089469425
+  lastteleport: 1457089370611
+  lastheal: 1457017512684
+  mute: 1457093028771
+ipAddress: 88.181.75.133
+lastlocation:
+  world: world
+  x: -30.6371319277373
+  y: 188.0
+  z: -4.709722990378859
+  yaw: -169.90121
+  pitch: -0.1522222
+logoutlocation:
+  world: world
+  x: -1574.2438563160154
+  y: 6.0
+  z: 3624.67169620302
+  yaw: 347.84177
+  pitch: 36.300114
+homes:
+  home:
+    world: world
+    x: 8100.616635771625
+    y: 24.0
+    z: -5491.31155404297
+    yaw: 257.57776
+    pitch: -9.749989
+money: '36.015'
+uuid: c99d1ee3-b1ff-399d-b1d5-f7480b3a3bb8
+muted: true
+ban:
+  reason: 'Banni : 1H insulte modo ban 1H'
+  timeout: 0

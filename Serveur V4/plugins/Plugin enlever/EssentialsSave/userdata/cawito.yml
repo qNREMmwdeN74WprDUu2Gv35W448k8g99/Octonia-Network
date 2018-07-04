@@ -1,0 +1,41 @@
+uuid: 2c9e7058-5a2e-352b-a438-187acdad8200
+timestamps:
+  login: 1457278069060
+  kits:
+    bouffe: 1457269566939
+    octonien: 1457218485397
+    decouverte: 1457278359232
+  logout: 1457279607929
+  lastteleport: 1457279462230
+  mute: 0
+  lastheal: 1457279168202
+  jail: 0
+ipAddress: 93.3.224.112
+lastlocation:
+  world: world
+  x: 255.69999998807907
+  y: 63.75464876358212
+  z: 353.30000001192093
+  yaw: 48.910614
+  pitch: 19.873629
+logoutlocation:
+  world: world
+  x: 1881.699999988079
+  y: 69.5
+  z: -5728.6894934759885
+  yaw: 47.902283
+  pitch: 8.035883
+homes:
+  home:
+    world: world
+    x: 1873.1554406123562
+    y: 64.0
+    z: -5735.361275829822
+    yaw: -75.09866
+    pitch: 28.285767
+money: '503.0'
+muted: false
+ignore:
+- iiswizz
+- yvainedwarf
+jailed: false

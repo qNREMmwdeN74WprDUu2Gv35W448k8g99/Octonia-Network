@@ -1,0 +1,12 @@
+blocked_cmds:
+- ems
+- saveandkick
+- emssaveandkick
+- remove
+- /ems
+- export
+- tr
+- /tr
+- give
+- kits
+- roulette

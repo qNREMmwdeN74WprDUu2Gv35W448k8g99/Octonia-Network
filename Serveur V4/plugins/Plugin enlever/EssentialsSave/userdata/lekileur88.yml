@@ -1,0 +1,64 @@
+uuid: d53d8c53-782a-300f-9e21-39078bb88df1
+timestamps:
+  login: 1457264611138
+  lastteleport: 1457211399040
+  kits:
+    bouffe: 1457197392027
+    octonien: 1457196549300
+    druide: 1457189644024
+    chevalier: 1457189588035
+    decouverte: 1457189620280
+    construction: 1457188801961
+    golden: 1457189765987
+    alchimiste: 1457189543329
+  logout: 1457264800045
+  mute: 0
+  lastheal: 1457211567585
+ipAddress: 90.26.126.109
+lastlocation:
+  world: world
+  x: -768.892539171888
+  y: 6.0
+  z: -3797.699999988079
+  yaw: -87.26253
+  pitch: -42.680805
+logoutlocation:
+  world: world
+  x: -764.4384062698743
+  y: 41.0
+  z: -3804.436188409627
+  yaw: -225.7668
+  pitch: 34.19999
+homes:
+  jkquip_temabase:
+    world: world
+    x: -773.3000000119209
+    y: 49.0
+    z: -3817.7035796300956
+    yaw: -9.692181
+    pitch: 83.40004
+  farm:
+    world: world
+    x: 7663.422514281218
+    y: 54.0
+    z: 2117.3642554660805
+    yaw: -11.134848
+    pitch: 6.873135
+  raid_:
+    world: world
+    x: 7644.283851348012
+    y: 64.0
+    z: 2146.556255439168
+    yaw: 358.66632
+    pitch: 8.100039
+  kfc:
+    world: world
+    x: -786.6999999880791
+    y: 23.0
+    z: -3810.4837045278773
+    yaw: 285.56317
+    pitch: 13.799984
+money: '50.0'
+ignore:
+- xalaco
+muted: false

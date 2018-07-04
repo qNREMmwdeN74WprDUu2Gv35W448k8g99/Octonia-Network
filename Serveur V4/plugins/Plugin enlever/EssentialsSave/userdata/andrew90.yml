@@ -1,0 +1,21 @@
+uuid: 86bec859-c2f0-3fdf-8008-0a29483ff90a
+timestamps:
+  login: 1456176911701
+  kits:
+    octonien: 1456176564714
+  logout: 1456177379459
+ipAddress: 81.220.248.5
+lastlocation:
+  world: world
+  x: -0.5
+  y: 190.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -7.1852184139830575
+  y: 189.0
+  z: 10.166532720391665
+  yaw: 277.1508
+  pitch: -14.700004

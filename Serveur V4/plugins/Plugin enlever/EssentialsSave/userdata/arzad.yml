@@ -1,0 +1,21 @@
+uuid: bcbedd51-e9be-3e69-b8b3-570c1605a73e
+timestamps:
+  login: 1456506074601
+  kits:
+    octonien: 1456506146906
+  logout: 1456506434423
+ipAddress: 86.204.154.188
+lastlocation:
+  world: world
+  x: 3.5
+  y: 187.0
+  z: -4.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -75.98409525503098
+  y: 83.0
+  z: 421.69999998807907
+  yaw: 8.775024
+  pitch: 22.80001

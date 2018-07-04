@@ -1,0 +1,45 @@
+timestamps:
+  login: 1457272408845
+  kits:
+    heros: 1457265625007
+    bouffe: 1457195553803
+    octonien: 1457159301846
+    chevalier: 1457265638118
+    legendaire: 1457265483664
+  logout: 1457270222195
+  lastteleport: 1457269333376
+  lastheal: 1457269803337
+ipAddress: 90.10.79.63
+lastlocation:
+  world: world
+  x: -277.435757993051
+  y: 6.0
+  z: 227.63669573853852
+  yaw: 184.83856
+  pitch: 71.05363
+homes:
+  home:
+    world: world
+    x: -7032.858908680396
+    y: 5.0
+    z: 6952.64723972573
+    yaw: 92.59568
+    pitch: 30.02019
+  ap:
+    world: world
+    x: -281.25373185861076
+    y: 64.0
+    z: 235.155884663559
+    yaw: 251.47186
+    pitch: 29.893969
+logoutlocation:
+  world: world
+  x: -281.69999998807907
+  y: 57.5
+  z: 230.84633170303152
+  yaw: 99.806274
+  pitch: -0.4171866
+uuid: 084d56ea-c499-3106-ac9c-a8dc3078511f
+money: '97.0'
+ignore:
+- variax976

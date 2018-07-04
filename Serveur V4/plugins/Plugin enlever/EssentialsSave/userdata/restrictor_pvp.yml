@@ -1,0 +1,37 @@
+timestamps:
+  login: 1456505608584
+  kits:
+    bouffe: 1456505619618
+    octonien: 1456247316966
+  logout: 1456505783810
+  lastteleport: 1456505648626
+ipAddress: 88.169.45.46
+lastlocation:
+  world: world
+  x: 0.5322126906474562
+  y: 189.0
+  z: -3.955235661451902
+  yaw: -2.374115
+  pitch: -2.4344535
+homes:
+  home:
+    world: world
+    x: 5973.715974303439
+    y: 254.0
+    z: 2132.4651315908227
+    yaw: 55.867496
+    pitch: 23.978588
+logoutlocation:
+  world: world
+  x: 47.60607585191899
+  y: 202.0
+  z: -27.265096546601207
+  yaw: 268.03094
+  pitch: 58.111874
+uuid: 82d88830-ca4f-3a4d-b5a3-84973c8ee76b
+ignore:
+- diepix
+ban:
+  reason: 'Banni : 1h'
+  timeout: 0
+money: '1.0'

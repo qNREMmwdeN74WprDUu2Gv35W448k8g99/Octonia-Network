@@ -1,0 +1,76 @@
+timestamps:
+  login: 1457030459103
+  kits:
+    bouffe: 1456593616965
+    heros: 1456770499236
+    minerais: 1456766348063
+    octonien: 1456673173040
+    chevalier: 1456673166080
+    xp: 1456768175157
+    legendaire: 1456688847281
+    construction: 1456767251369
+  logout: 1457030575779
+  lastteleport: 1457030487627
+  lastheal: 1456853689687
+ipAddress: 81.246.157.41
+lastlocation:
+  world: world
+  x: 6127.5
+  y: 23.0
+  z: 4880.5
+  yaw: 74.54965
+  pitch: 18.599993
+homes:
+  ap:
+    world: world
+    x: 87.30000001192093
+    y: 64.0
+    z: -293.69999998807907
+    yaw: 158.29503
+    pitch: 21.150032
+  bukket:
+    world: world
+    x: 5461.441992317794
+    y: 72.0
+    z: 1662.3944317160424
+    yaw: -40.29178
+    pitch: 17.700006
+  apfac:
+    world: world
+    x: -29.69999998807907
+    y: 64.0
+    z: 285.69999998807907
+    yaw: -172.60336
+    pitch: 46.04999
+  home:
+    world: world
+    x: 87.30000001192093
+    y: 64.0
+    z: -293.69999998807907
+    yaw: 159.79501
+    pitch: 17.85003
+  farm:
+    world: world
+    x: 8245.5
+    y: 36.0
+    z: 3641.5
+    yaw: 16.420715
+    pitch: 31.500032
+  bp:
+    world: world
+    x: 6127.5
+    y: 23.0
+    z: 4880.5
+    yaw: 355.4997
+    pitch: 44.69999
+ignore:
+- just_skill
+logoutlocation:
+  world: world
+  x: 8244.519893535691
+  y: 35.0
+  z: 3639.577860153406
+  yaw: -2.2229774
+  pitch: 16.199968
+money: '163.00'
+uuid: a99738e6-0541-3e7f-9c02-7daae1db196e

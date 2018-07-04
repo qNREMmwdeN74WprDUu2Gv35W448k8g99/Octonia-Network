@@ -1,0 +1,82 @@
+socialspy: false
+timestamps:
+  login: 1457342532349
+  kits:
+    bouffe: 1457260684470
+    heros: 1457282395781
+    octonien: 1457110102432
+    chevalier: 1457282401784
+    decouverte: 1457282103702
+    xp: 1457282386072
+    legendaire: 1457282381557
+    alchimiste: 1457282156377
+  lastteleport: 1457343331440
+  logout: 1457342929512
+  lastheal: 1457342685455
+  jail: 0
+  mute: 0
+ipAddress: 109.132.229.169
+lastlocation:
+  world: world
+  x: -3851.699999988079
+  y: 90.0
+  z: -758.2527549951789
+  yaw: -71.40304
+  pitch: -12.661044
+logoutlocation:
+  world: world
+  x: -3844.3662421942636
+  y: 93.75
+  z: -755.8513664288482
+  yaw: -350.50195
+  pitch: 46.226173
+homes:
+  home:
+    world: world
+    x: 6837.5
+    y: 7.0
+    z: 6026.5
+    yaw: 251.56972
+    pitch: 5.0596366
+  bp:
+    world: world
+    x: 2373.300000011921
+    y: 14.0
+    z: -7424.699999988079
+    yaw: -71.390594
+    pitch: 37.21728
+  enemy:
+    world: world
+    x: 4635.062470441877
+    y: 9.0
+    z: -8699.351205128192
+    yaw: 200.1955
+    pitch: 39.5528
+  ap:
+    world: world
+    x: -8.859809842197873
+    y: 64.0
+    z: -263.21948496721194
+    yaw: 185.21912
+    pitch: 14.7965355
+  enemy2:
+    world: world
+    x: 6843.340153893887
+    y: 101.0
+    z: 6046.699999988079
+    yaw: -144.19296
+    pitch: 7.9901395
+  enemy3:
+    world: world
+    x: 3858.3498479035816
+    y: 18.0
+    z: -8999.796437424038
+    yaw: -230.18138
+    pitch: -17.59912
+money: '56389.000000008'
+uuid: b5a2a2bd-f06b-39e3-bee1-1883c2f617cb
+jailed: false
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 0

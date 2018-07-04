@@ -1,0 +1,77 @@
+socialspy: false
+timestamps:
+  login: 1457276372035
+  kits:
+    bouffe: 1457285424343
+    heros: 1457280598756
+    octonien: 1457194612404
+    chevalier: 1457280583252
+    destruction: 1457280494877
+    decouverte: 1457280619211
+    legendaire: 1457280516525
+    alchimiste: 1457280458072
+    golden: 1457280507997
+  logout: 1457286248754
+  lastteleport: 1457286177818
+  lastheal: 1457283681134
+  mute: 0
+ipAddress: 92.145.161.183
+lastlocation:
+  world: world
+  x: -187.80449787789078
+  y: 26.0
+  z: -82.30840624824036
+  yaw: -155.30771
+  pitch: -34.050026
+logoutlocation:
+  world: world
+  x: -6741.581862294605
+  y: 6.0
+  z: -2179.503777105036
+  yaw: -313.25433
+  pitch: 12.599733
+homes:
+  xp:
+    world: world
+    x: 3595.300000011921
+    y: 27.875
+    z: 3450.1619183849107
+    yaw: 90.36542
+    pitch: 10.04841
+  sky:
+    world: world
+    x: 1618.061839646354
+    y: 254.875
+    z: -2879.3055059793737
+    yaw: -0.44739246
+    pitch: 50.699898
+  pill:
+    world: world
+    x: 355.9825598342002
+    y: 20.0
+    z: -4457.410233982319
+    yaw: -83.1882
+    pitch: 26.85001
+  farm:
+    world: world
+    x: 2273.8492768701713
+    y: 63.0
+    z: 3364.102602750409
+    yaw: -4.248864
+    pitch: 12.14998
+  ap:
+    world: world
+    x: 152.08470732027016
+    y: 64.0
+    z: 267.3461980938048
+    yaw: 0.5449547
+    pitch: 0.75008273
+uuid: 89264d08-29af-32a5-83a3-9e0596efdede
+money: '23550.10'
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+muted: false
+ignore:
+- loisorouge
+- daros18

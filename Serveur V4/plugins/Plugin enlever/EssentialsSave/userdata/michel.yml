@@ -1,0 +1,33 @@
+uuid: f6bc206f-8714-3822-9a5f-b96e63c8ddf3
+timestamps:
+  login: 1457086779847
+  logout: 1457089151710
+  lastteleport: 1457088178122
+  kits:
+    bouffe: 1457087950355
+ipAddress: 78.122.172.249
+lastlocation:
+  world: world
+  x: 2058.379290130227
+  y: 95.0
+  z: -1397.1713841799542
+  yaw: 148.18848
+  pitch: -74.13854
+homes:
+  home:
+    world: world
+    x: 9815.63931990535
+    y: 35.0
+    z: 470.14094689456584
+    yaw: 180.11734
+    pitch: 21.89992
+logoutlocation:
+  world: world
+  x: 3.206414783251289
+  y: 189.0
+  z: -13.172374980404223
+  yaw: 276.93457
+  pitch: 16.800058
+ban:
+  reason: 'Banni : Demande de ban (Double compte)'
+  timeout: 0

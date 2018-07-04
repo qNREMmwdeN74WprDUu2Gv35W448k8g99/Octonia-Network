@@ -1,0 +1,22 @@
+uuid: ca5aa654-b96e-3bc3-97d9-93e0d10dd672
+timestamps:
+  login: 1456392756272
+  logout: 1456392769576
+ipAddress: 83.113.235.35
+lastlocation:
+  world: world
+  x: 2.5
+  y: 190.0
+  z: -0.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: 'Banni : Instant BAN'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -3.2850758607953243
+  y: 190.0
+  z: 0.5126387334894389
+  yaw: -151.39915
+  pitch: 10.107735

@@ -1,0 +1,39 @@
+socialspy: false
+timestamps:
+  login: 1456570402075
+  kits:
+    bouffe: 1456570470404
+    octonien: 1456566402488
+    decouverte: 1456568586090
+  lastteleport: 1456571304044
+  logout: 1456571943748
+  lastheal: 1456571370215
+ipAddress: 78.241.235.44
+lastlocation:
+  world: world
+  x: 1.4649214905365833
+  y: 190.5
+  z: 1.523718999289939
+  yaw: -164.50098
+  pitch: 31.497818
+homes:
+  home:
+    world: world
+    x: -9970.300000011921
+    y: 28.0
+    z: -106.0652249780567
+    yaw: -42.749775
+    pitch: 23.099976
+logoutlocation:
+  world: world
+  x: 13.836844985065719
+  y: 189.0
+  z: -16.98111261271091
+  yaw: 13.248901
+  pitch: -0.449999
+money: '6237.0'
+ignore:
+- khadgar
+- perealban
+- saint_valentin
+uuid: 1631dd14-bcb3-31b2-8329-293df57a7ccc

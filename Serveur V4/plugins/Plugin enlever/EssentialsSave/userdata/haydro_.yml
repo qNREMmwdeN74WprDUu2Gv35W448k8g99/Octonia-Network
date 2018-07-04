@@ -1,0 +1,43 @@
+timestamps:
+  login: 1455042591977
+  kits:
+    octonien: 1454933979202
+    druide: 1454940326046
+    chevalier: 1454936399717
+    decouverte: 1454938287960
+    construction: 1454939676068
+    alchimiste: 1454940354394
+    golden: 1454940317529
+  logout: 1455042752605
+  lastteleport: 1455042610876
+  lastheal: 1455042715783
+ipAddress: 88.166.118.39
+lastlocation:
+  world: world
+  x: 14.559060425734582
+  y: 189.0
+  z: -28.30000001192093
+  yaw: -304.40652
+  pitch: 0.64913505
+logoutlocation:
+  world: world
+  x: 2020.2425016566226
+  y: 66.125
+  z: -941.1374999880791
+  yaw: -2.4750042
+  pitch: 9.299992
+homes:
+  sky1:
+    world: world
+    x: 2167.67695698785
+    y: 88.0
+    z: -879.595913283699
+    yaw: -194.02454
+    pitch: 32.409683
+  sky2:
+    world: world
+    x: 2175.453587191949
+    y: 255.0
+    z: -876.4357461239122
+    yaw: -145.2749
+    pitch: 83.700005

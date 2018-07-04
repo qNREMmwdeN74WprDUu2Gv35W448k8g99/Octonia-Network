@@ -1,0 +1,42 @@
+timestamps:
+  login: 1457103398298
+  logout: 1457103436071
+  kits:
+    bouffe: 1456430877845
+    octonien: 1456430805403
+    decouverte: 1456430848292
+  mute: 0
+  lastteleport: 1456581997688
+  lastheal: 1456431072131
+ipAddress: 77.153.40.108
+lastlocation:
+  world: world
+  x: 4635.395600426354
+  y: 5.0
+  z: 1351.699999988079
+  yaw: -180.2779
+  pitch: 3.266841
+logoutlocation:
+  world: world
+  x: 17.40898337434589
+  y: 189.0
+  z: 2.415549981425967
+  yaw: -115.06717
+  pitch: 34.739464
+socialspy: false
+muted: false
+homes:
+  home:
+    world: world
+    x: 4574.5
+    y: 240.875
+    z: 1425.5
+    yaw: -155.31918
+    pitch: 87.53948
+ban:
+  reason: Banni temporairement du serveur pour 1 heure.
+  timeout: 0
+money: '35.505'
+ignore:
+- shadowtrolleur
+uuid: dcf6dae2-0ea5-3acd-ba09-b6ad4a324775

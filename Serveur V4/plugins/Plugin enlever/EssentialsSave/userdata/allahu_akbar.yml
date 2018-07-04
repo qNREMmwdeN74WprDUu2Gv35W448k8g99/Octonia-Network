@@ -1,0 +1,27 @@
+uuid: 0ec476c4-4ab2-34e4-920a-b813df6c0f79
+timestamps:
+  login: 1457259391270
+  mute: 1457268862111
+  logout: 1457259790649
+  jail: 1457276377052
+ipAddress: 79.141.163.20
+lastlocation:
+  world: world
+  x: 15.50538454111655
+  y: 189.0
+  z: 7.49462645596419
+  yaw: -270.27625
+  pitch: 0.43238744
+muted: true
+jailed: true
+jail: prison1
+logoutlocation:
+  world: world
+  x: -46.24127867617254
+  y: 31.753199980521202
+  z: 202.69999998807907
+  yaw: 346.52246
+  pitch: 27.149994
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

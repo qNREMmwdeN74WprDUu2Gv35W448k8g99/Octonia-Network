@@ -1,0 +1,65 @@
+socialspy: false
+timestamps:
+  login: 1456773997404
+  kits:
+    bouffe: 1456771496437
+    heros: 1456774843548
+    octonien: 1456763315780
+    chevalier: 1456750519421
+    legendaire: 1456771448944
+  lastteleport: 1456776934113
+  logout: 1456777178611
+  lastheal: 1456776932439
+  mute: 0
+ipAddress: 109.14.6.139
+lastlocation:
+  world: world
+  x: 8906.107188753418
+  y: 65.0
+  z: 92.67629404551802
+  yaw: 274.9939
+  pitch: 34.729828
+logoutlocation:
+  world: world
+  x: 9811.156309154034
+  y: 254.0
+  z: 1585.2754086536852
+  yaw: 198.51376
+  pitch: 27.643484
+ban:
+  timeout: 0
+homes:
+  base:
+    world: world
+    x: 2551.5
+    y: 254.0
+    z: 2014.5
+    yaw: -213.51761
+    pitch: 29.041054
+  farm:
+    world: world
+    x: -4339.929658688765
+    y: 7.0
+    z: -3776.0760475440925
+    yaw: -116.02838
+    pitch: 30.297459
+  piage:
+    world: world
+    x: 7684.200017712574
+    y: 64.0
+    z: 2194.8847566513546
+    yaw: 164.27368
+    pitch: -1.8344884
+  futurbase:
+    world: world
+    x: 8906.107188753418
+    y: 65.0
+    z: 92.67629404551802
+    yaw: 276.719
+    pitch: 20.912315
+uuid: 094b4083-3ead-3d0b-8655-5ddd6f64f52e
+ignore:
+- pierrick
+- lucas1879
+money: '391.0'
+muted: false

@@ -1,0 +1,50 @@
+timestamps:
+  login: 1455272372140
+  kits:
+    bouffe: 1455219716784
+    octonien: 1455273142611
+    druide: 1455219572846
+    chevalier: 1455272391623
+    decouverte: 1455219614403
+    construction: 1455219590930
+    golden: 1455219607309
+    alchimiste: 1455272711184
+  logout: 1455273185915
+  lastteleport: 1455273164787
+  lastheal: 1455272751446
+  mute: 0
+ipAddress: 90.33.150.253
+lastlocation:
+  world: world
+  x: -1.6502883722899893
+  y: 189.0
+  z: -7.436456226721288
+  yaw: -330.4331
+  pitch: 30.599905
+logoutlocation:
+  world: world
+  x: -8.730743613764783
+  y: 189.0
+  z: -6.16263960347851
+  yaw: -314.84048
+  pitch: 26.400002
+homes:
+  xp:
+    world: world
+    x: 9321.446075663685
+    y: 24.0
+    z: 57.44436298815617
+    yaw: -45.339294
+    pitch: 23.699976
+  bank:
+    world: world
+    x: 9527.699999988079
+    y: 4.0
+    z: 2794.699999988079
+    yaw: 139.44962
+    pitch: 31.499994
+ignore:
+- titopvp
+- bilal77
+muted: false
+money: '20.0'

@@ -1,0 +1,33 @@
+uuid: 332e649b-3a51-3987-b617-4af3667296fc
+timestamps:
+  login: 1457016783221
+  lastteleport: 1456419948504
+  kits:
+    bouffe: 1456406825462
+    octonien: 1457016801301
+  logout: 1457016830529
+ipAddress: 82.250.83.171
+lastlocation:
+  world: world
+  x: 9381.318350818072
+  y: 12.0
+  z: 2330.7824964755378
+  yaw: -247.2197
+  pitch: -34.463524
+homes:
+  home:
+    world: world
+    x: 9871.5
+    y: 25.0
+    z: 368.5
+    yaw: 90.57361
+    pitch: -35.700012
+logoutlocation:
+  world: world
+  x: 9389.160347552805
+  y: 12.0
+  z: 2331.5962470608824
+  yaw: -19.477411
+  pitch: -1.2435962
+ignore:
+- darkaqua27

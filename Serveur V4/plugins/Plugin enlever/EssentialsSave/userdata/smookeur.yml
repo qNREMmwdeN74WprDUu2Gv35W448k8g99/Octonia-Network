@@ -1,0 +1,85 @@
+timestamps:
+  login: 1457301638395
+  logout: 1457306550570
+  kits:
+    heros: 1457305025482
+    bouffe: 1457265377706
+    octonien: 1457218712460
+    chevalier: 1457305072325
+    decouverte: 1457305046425
+    xp: 1457303025686
+    legendaire: 1457304988185
+    construction: 1457303103383
+  lastteleport: 1457306466466
+  lastheal: 1457305790672
+  mute: 0
+  jail: 0
+ipAddress: 85.201.172.164
+lastlocation:
+  world: world
+  x: -1712.1247644804916
+  y: 64.0
+  z: -5202.443301751168
+  yaw: 76.480804
+  pitch: 30.684889
+logoutlocation:
+  world: world
+  x: -3854.99104722901
+  y: 104.0
+  z: -756.6456589826178
+  yaw: -315.36084
+  pitch: 9.970083
+socialspy: false
+homes:
+  s:
+    world: world
+    x: -1725.0395041610411
+    y: 253.875
+    z: -5210.03383642675
+    yaw: -166.36926
+    pitch: 21.522736
+  xp2:
+    world: world
+    x: 3346.294850025899
+    y: 56.0
+    z: -8783.212843912992
+    yaw: 71.39609
+    pitch: -13.816997
+  bp:
+    world: world
+    x: 2374.4551252103865
+    y: 18.0
+    z: -7423.229361508556
+    yaw: 91.430084
+    pitch: 42.709595
+  sable:
+    world: world
+    x: 2365.5330440360276
+    y: 52.0
+    z: -7408.399767529161
+    yaw: 274.02435
+    pitch: 18.255945
+  mine:
+    world: world
+    x: -4824.245131909164
+    y: 5.0
+    z: 1900.6250482082205
+    yaw: 265.3872
+    pitch: 18.256145
+  ez:
+    world: world
+    x: -3836.035696208679
+    y: 104.0
+    z: -765.3630369809251
+    yaw: -176.21782
+    pitch: 22.954754
+ignore:
+- aaaa
+- hugo2105
+money: '1233.5'
+muted: false
+jailed: false
+uuid: 8f9fe526-30f4-36eb-b18b-d002be744ddc
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0

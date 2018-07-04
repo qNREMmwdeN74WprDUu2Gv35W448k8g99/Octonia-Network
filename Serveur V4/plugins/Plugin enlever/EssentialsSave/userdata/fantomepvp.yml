@@ -1,0 +1,32 @@
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+timestamps:
+  login: 1455400389127
+  kits:
+    octonien: 1455400612362
+  lastteleport: 1455401222092
+  logout: 1455401470306
+ipAddress: 89.156.254.62
+lastlocation:
+  world: world
+  x: 2980.6852653393917
+  y: 21.0
+  z: -2727.0853219016954
+  yaw: -237.49248
+  pitch: 4.3260307
+homes:
+  home:
+    world: world
+    x: 2980.6852653393917
+    y: 21.0
+    z: -2727.0853219016954
+    yaw: -237.49248
+    pitch: 4.3260307
+logoutlocation:
+  world: world
+  x: -2.9499999880790715
+  y: 191.0
+  z: -1.6212805249450235
+  yaw: -358.36246
+  pitch: 18.180696

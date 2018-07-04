@@ -1,0 +1,36 @@
+uuid: 7510eb62-e83a-3db4-a987-5bfc5294cbb9
+timestamps:
+  login: 1457131828679
+  kits:
+    bouffe: 1457130215375
+    octonien: 1457119549078
+    decouverte: 1457119530977
+  lastteleport: 1457132842067
+  logout: 1457133016479
+  lastheal: 1457132734037
+ipAddress: 173.206.20.3
+lastlocation:
+  world: world
+  x: 21.2419715323389
+  y: 28.0
+  z: 181.6999999880791
+  yaw: 152.42993
+  pitch: 42.073067
+homes:
+  home:
+    world: world
+    x: 2645.154547833257
+    y: 15.0
+    z: -9622.300000011921
+    yaw: 173.60724
+    pitch: 50.881104
+logoutlocation:
+  world: world
+  x: 2650.51923252638
+  y: 15.3125
+  z: -9621.574999988079
+  yaw: 72.02637
+  pitch: 90.0
+money: '1732.840'
+ignore:
+- ghost_fighter_

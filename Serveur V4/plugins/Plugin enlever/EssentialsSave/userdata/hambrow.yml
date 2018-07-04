@@ -1,0 +1,27 @@
+uuid: fbf90258-e9c3-387a-9998-e99d0b27d7d0
+timestamps:
+  login: 1457217864516
+  kits:
+    octonien: 1457214670774
+  logout: 1457218497001
+  mute: 0
+  lastteleport: 1457217224941
+  jail: 1457254150448
+ipAddress: 83.204.252.227
+lastlocation:
+  world: world
+  x: 0.9639277068216736
+  y: 176.0
+  z: 0.8531364221124531
+  yaw: -223.56458
+  pitch: 32.150845
+muted: false
+logoutlocation:
+  world: world
+  x: 15.699999988079071
+  y: 189.0
+  z: 7.6999999880790675
+  yaw: -226.41132
+  pitch: 26.055973
+jailed: true
+jail: prison1

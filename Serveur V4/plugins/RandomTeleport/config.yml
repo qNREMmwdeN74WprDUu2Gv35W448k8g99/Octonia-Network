@@ -1,0 +1,15 @@
+# Triggered when you use /rtp without any additional paramters
+# Just write your command as you would use it ingame here
+# Don't use the -p parameter, this will get added automaticly with the senders name/the specified playername
+presets:
+   default: "/rtp 100 1000 -f"
+# add more to use /rtp <rtpname>, player needs "randomteleport.presets.<rtpname>"
+#   <rtpname>: "/rtp 1 2"
+   warzone: "rtp 3000 5000 -c 7200"
+
+msg:
+   search: "&6[OctoTP] Recherche d'une zone sure"
+   teleport: "&6[OctoTP] Teleportation réussie !"
+   error:
+      location: "&4Error: &c[OctoTP] impossible de trouver une zone sure!"
+      cooldown: "&cVous devez attendre {cooldown_text}avant de vous reteleporter!"

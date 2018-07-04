@@ -1,0 +1,84 @@
+timestamps:
+  login: 1457333214695
+  logout: 1457333371654
+  kits:
+    minerais: 1457333306498
+    heros: 1457333309099
+    bouffe: 1457293328170
+    octonien: 1457286422446
+    druide: 1457333298899
+    chevalier: 1457333311754
+    destruction: 1457333296998
+    decouverte: 1457293250422
+    construction: 1457333285898
+    legendaire: 1457333303098
+    golden: 1457333368754
+    alchimiste: 1457333293398
+  lastteleport: 1457294190984
+  lastheal: 1457293966594
+ipAddress: 82.232.80.115
+lastlocation:
+  world: world
+  x: -786.9621328788942
+  y: 16.0
+  z: -3790.4206430268846
+  yaw: 90.62894
+  pitch: 30.653345
+logoutlocation:
+  world: world
+  x: -6893.532806871633
+  y: 5.0
+  z: -5581.388570201709
+  yaw: -297.0329
+  pitch: 30.75001
+socialspy: false
+homes:
+  sky:
+    world: world
+    x: -5961.746178184731
+    y: 238.875
+    z: -7296.72439265285
+    yaw: -156.05637
+    pitch: 63.299934
+  pillage:
+    world: world
+    x: 864.2836830626098
+    y: 33.0
+    z: 8625.04316031043
+    yaw: 279.84396
+    pitch: -4.0500717
+  hbp:
+    world: world
+    x: -6894.64383837332
+    y: 59.0
+    z: -5568.499912789052
+    yaw: -268.60455
+    pitch: 5.959338
+  pillage2:
+    world: world
+    x: -7636.793160924063
+    y: 64.0
+    z: -4734.714442586866
+    yaw: -16.025599
+    pitch: 16.241037
+  lel:
+    world: world
+    x: 2837.5
+    y: 32.0
+    z: 4442.5
+    yaw: 311.3853
+    pitch: 14.203165
+  lel2:
+    world: world
+    x: -788.6999999880791
+    y: 4.0
+    z: -3787.300000011921
+    yaw: 204.90295
+    pitch: 10.499933
+money: '4948.865'
+ignore:
+- vengeur62
+- kesky_
+- killer312
+- gwaeric
+uuid: 06f0e008-2722-3762-80b7-d9ba227c2590

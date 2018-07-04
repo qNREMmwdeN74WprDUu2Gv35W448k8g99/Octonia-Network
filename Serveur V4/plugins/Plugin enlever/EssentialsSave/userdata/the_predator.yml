@@ -1,0 +1,31 @@
+uuid: ec15acac-3819-3977-9026-82ecb9446ed5
+timestamps:
+  login: 1457289255849
+  kits:
+    bouffe: 1457290002544
+    octonien: 1457289996280
+  lastteleport: 1457289968077
+  logout: 1457290202977
+ipAddress: 84.99.56.195
+lastlocation:
+  world: world
+  x: 3426.300000011921
+  y: 67.0
+  z: -1679.9226015976083
+  yaw: 106.122345
+  pitch: 67.049995
+homes:
+  home:
+    world: world
+    x: 3426.762499988079
+    y: 67.0
+    z: -1680.48044765112
+    yaw: -0.37761068
+    pitch: 29.060404
+logoutlocation:
+  world: world
+  x: 3419.4691797996456
+  y: 5.0
+  z: -1344.1653330030176
+  yaw: -13.985051
+  pitch: 31.64999

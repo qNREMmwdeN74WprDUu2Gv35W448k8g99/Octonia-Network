@@ -1,0 +1,38 @@
+timestamps:
+  login: 1457300651747
+  kits:
+    bouffe: 1457297426964
+    octonien: 1457290569709
+    decouverte: 1457290585375
+  lastteleport: 1457301698115
+  logout: 1457301699917
+  lastheal: 1457301464536
+  mute: 0
+ipAddress: 77.129.79.251
+lastlocation:
+  world: world
+  x: -6113.242114555363
+  y: 253.875
+  z: -1111.3161223884617
+  yaw: 185.8357
+  pitch: -14.343754
+homes:
+  home:
+    world: world
+    x: -6114.38647188596
+    y: 253.875
+    z: -1111.7144295440366
+    yaw: 222.43565
+    pitch: 45.656223
+logoutlocation:
+  world: world
+  x: 0.6259084021045973
+  y: 189.0
+  z: 4.962877933373856
+  yaw: -26.050995
+  pitch: 11.397823
+money: '2097.900'
+uuid: 8a31521f-8d33-3a28-abd2-14631bff13b5
+ignore:
+- neozpvp
+muted: false

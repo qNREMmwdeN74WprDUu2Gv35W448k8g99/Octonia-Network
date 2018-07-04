@@ -1,0 +1,25 @@
+timestamps:
+  login: 1455116158836
+  logout: 1455116901835
+  kits:
+    bouffe: 1454963511068
+    octonien: 1455116849296
+    chevalier: 1455116301556
+    alchimiste: 1454970820255
+  lastheal: 1455116189262
+  lastteleport: 1454972118163
+ipAddress: 90.55.162.18
+lastlocation:
+  world: world
+  x: -8766.440558748596
+  y: 65.0
+  z: -4774.68697123054
+  yaw: -273.97168
+  pitch: 24.82934
+logoutlocation:
+  world: world
+  x: -8778.699999988079
+  y: 82.0
+  z: -4751.0203502470495
+  yaw: -46.229248
+  pitch: 17.320889

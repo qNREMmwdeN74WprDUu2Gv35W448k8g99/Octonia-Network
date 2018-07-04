@@ -1,0 +1,33 @@
+socialspy: false
+timestamps:
+  login: 1454803742758
+  kits:
+    octonien: 1454803028143
+  logout: 1454803919677
+  lastteleport: 1454803873958
+ipAddress: 66.131.158.195
+lastlocation:
+  world: world
+  x: 301.42274640967827
+  y: 5.0
+  z: 1431.033290775609
+  yaw: -215.03114
+  pitch: 13.650006
+logoutlocation:
+  world: world
+  x: -9.136911379086811
+  y: 189.0
+  z: -8.71284440069006
+  yaw: -313.19052
+  pitch: 23.699875
+homes:
+  home:
+    world: world
+    x: 301.42274640967827
+    y: 5.0
+    z: 1431.033290775609
+    yaw: -345.3812
+    pitch: 42.000004
+ban:
+  reason: 'Banni : Fake'
+  timeout: 0

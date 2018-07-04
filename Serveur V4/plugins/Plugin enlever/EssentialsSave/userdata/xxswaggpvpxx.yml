@@ -1,0 +1,36 @@
+timestamps:
+  login: 1457290289113
+  kits:
+    bouffe: 1457261951927
+    octonien: 1457262856880
+    decouverte: 1457283976862
+  logout: 1457290687268
+  lastteleport: 1457290557751
+  lastheal: 1457290679306
+ipAddress: 86.228.14.43
+lastlocation:
+  world: world
+  x: -5059.747303986782
+  y: 64.0
+  z: 376.62053577160367
+  yaw: -76.20799
+  pitch: -3.5999875
+homes:
+  home:
+    world: world
+    x: -5050.472442672638
+    y: 68.0
+    z: 367.6278416685448
+    yaw: 6.2917786
+    pitch: 60.899994
+logoutlocation:
+  world: world
+  x: -5004.274707319737
+  y: 51.0
+  z: 392.04214434128806
+  yaw: 172.78583
+  pitch: 16.64998
+money: '6828.0'
+uuid: 9d9054d7-1609-3462-834b-2902913f01e8
+ignore:
+- songoku

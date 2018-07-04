@@ -1,0 +1,49 @@
+# Translation made by CloudeLecaw
+AccessTo: 'Sie haben Zugang zu '
+SignCreated: '&eEin Schild wurde erstellt.'
+SpawnerBroke: '&cDas spawner brach wile versucht, es abbauen.'
+SpawnerChanged: '&eDer Spawner ist nun ein &6{spawner}&e spawner.'
+SpawnerChangedWithMoney: '&eDer Spawner ist nun ein &6{spawner}&e spawner fuer &6${money}.'
+SpawnerChangedWithExp: '&eDer Spawner ist nun ein &6{spawner}&e spawner fuer &6{exp}
+  exp.'
+SpawnerGive: '&eDu hast einen &6{spawner} spawner &eerhalten.'
+SpawnerGiveWithMoney: '&eDu hast einen &6{spawner} spawner &efuer &6${money} &egekauft.'
+SpawnerGiveWithExp: '&eDu hast einen &6{spawner} spawner &efuer &6${exp} exp &egekauft.'
+ReceivedSpawner: '&eSie erhielt eine &6{spawner}&e von &6{player}'
+ProtectedArea: '&eDu kannst keine Spawner in einer geschuetzen Region aendern.'
+NoPlayerFound: '&cSpieler "{player}" konnte nicht gefunden werden'
+NoPermission: '&eDu hast keine Berechtigung diesen Befehl zu benutzen.'
+NoInvSpace: '&eDu hast keinen Platz in deinem Inventar.'
+OnCooldown: '&eDu musst &6{time} &ewarten eh du diesen Befehl nutzen kannst.'
+NotValid: '&eDiesen Spawnertypen gibt es nicht. Nutze &6{command} &eum alle verfuegbaren
+  Spawner zu sehen.'
+NoValidBlock: '&eDer Block auf den du schaust ist kein Spawner.'
+NotEnoughMoney: '&eDu brauchst &6${money} &eum dies zu benutzen.'
+NotEnoughExp: '&eDu brauchst &6{exp} exp &eum dies zu benutzen.'
+Commands:
+  spawner:
+    change:
+      Description: Aendert den Spawner den du betrachtest
+    give:
+      Description: Gibt dir einen Spawner
+    entity:
+      Description: Listet alle Lebensarten
+    list:
+      Description: Eine Liste der spawners
+item:
+  give:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner erstellt von {player}'
+  buy:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner indem gekauft {player}'
+  mine:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner durch abgebaut {player}'
+  tnt:
+    displayName: '&a{mob} spawner'
+    lore:
+    - '&4Spawner erstellt von TNT'

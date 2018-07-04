@@ -1,0 +1,35 @@
+uuid: bd2d3596-c865-392a-94de-b4935b77c3c4
+timestamps:
+  login: 1456654126589
+  kits:
+    bouffe: 1456495244589
+    octonien: 1456495192631
+  logout: 1456658103525
+  lastteleport: 1456657585661
+ipAddress: 93.14.152.233
+lastlocation:
+  world: world
+  x: 8347.937948948796
+  y: 77.0
+  z: 4767.398782456228
+  yaw: -359.20193
+  pitch: -1.6653477
+logoutlocation:
+  world: world
+  x: 5.604920742713742
+  y: 189.0
+  z: 0.6851567608144538
+  yaw: -290.5459
+  pitch: 8.250011
+homes:
+  home:
+    world: world
+    x: 8604.805779891467
+    y: 65.0
+    z: 4721.305809989183
+    yaw: -271.93536
+    pitch: 8.823999
+money: '5104.87'
+ban:
+  reason: Banni temporairement du serveur pour 2 jours.
+  timeout: 1456839963519

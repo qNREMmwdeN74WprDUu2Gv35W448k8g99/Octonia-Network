@@ -1,0 +1,37 @@
+timestamps:
+  login: 1457265403340
+  logout: 1457271607546
+  kits:
+    bouffe: 1457271414635
+    octonien: 1457261444628
+    decouverte: 1457261450593
+  lastteleport: 1457272228623
+  lastheal: 1457271845151
+ipAddress: 109.30.236.211
+lastlocation:
+  world: world
+  x: -4125.002590372293
+  y: 56.0
+  z: -4743.699999988079
+  yaw: -44.86139
+  pitch: -4.200004
+logoutlocation:
+  world: world
+  x: -4125.261576792425
+  y: 57.0
+  z: -4723.583917118519
+  yaw: -90.47009
+  pitch: 30.600044
+homes:
+  home:
+    world: world
+    x: -4118.996495535133
+    y: 45.0
+    z: -4730.906648858907
+    yaw: -115.36182
+    pitch: -5.2500324
+ignore:
+- sosofb
+- wayzzi
+money: '30.50'
+uuid: 869151b9-c5a0-3ee7-a42f-05e3a6496a77

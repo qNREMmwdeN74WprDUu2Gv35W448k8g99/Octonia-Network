@@ -1,0 +1,25 @@
+uuid: bcd7ea06-bf87-3339-89e0-0fd22785eb6f
+timestamps:
+  login: 1456845098617
+  logout: 1456845311652
+  lastteleport: 1456845224959
+  kits:
+    octonien: 1456845122113
+ipAddress: 81.251.90.106
+lastlocation:
+  world: world
+  x: -3432.5824257988547
+  y: 12.0
+  z: 9308.490090890338
+  yaw: -150.263
+  pitch: 25.349802
+logoutlocation:
+  world: world
+  x: -0.8870007710076949
+  y: 188.0
+  z: 22.345052619701562
+  yaw: -52.880615
+  pitch: 9.468519
+ban:
+  reason: 'Banni : Double Compte'
+  timeout: 0

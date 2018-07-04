@@ -1,0 +1,36 @@
+uuid: 7cb5cd26-e199-381c-b3c1-beda58248d25
+timestamps:
+  login: 1456516762522
+  kits:
+    bouffe: 1456516841313
+    octonien: 1456505504671
+  lastteleport: 1456519221478
+  logout: 1456519241041
+  mute: 1456522825263
+ipAddress: 81.50.186.114
+lastlocation:
+  world: world
+  x: -3352.6836396514645
+  y: 9.0
+  z: 1206.7274100377442
+  yaw: 338.6631
+  pitch: 32.89589
+homes:
+  home:
+    world: world
+    x: -3320.303625159279
+    y: 5.0
+    z: 1191.6147128572907
+    yaw: 22.82856
+    pitch: -0.88481987
+logoutlocation:
+  world: world
+  x: 60.94776227137687
+  y: 25.00133597911215
+  z: -61.23462525181734
+  yaw: -173.5195
+  pitch: -1.9708416
+muted: true
+ban:
+  reason: 'Banni : A+ dans l''autobus'
+  timeout: 0

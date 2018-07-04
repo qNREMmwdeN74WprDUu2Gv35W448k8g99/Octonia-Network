@@ -1,0 +1,26 @@
+Prefix: '&4&l[&6OctoBox&4&l]&7'
+INVALID-CMD: Command not found.
+NO-PERMISSION: Vous n\'avez pas la permission.
+NO-CRATEKEYS-CONFIG: Cannot find cratekeys config file!
+SUCCESS-CONVERT: CrateKeys config converted to Crates. Now you must go setup the materials and names for the GUI.
+INVALID-USAGE: That is not the right usage.
+NOT-A-CRATE: Ceci n\'est pas une caisse.
+INVALID-PLAYER: Player must be online.
+SUCCESS-CRATE: You must now place down the case to register it as a crate.
+INVALID-AMOUNT: Amount must be an interger.
+SUCCESS-KEY: Vous avez desormais %amount% clef de caisses %crate%.
+RELOADING: Reloading Plugin...
+RELOAD-COMPLETE: Reload Complete. Took %ms%ms.
+ALREADY-OPENING: Veuillez attendre que la caisse ne soit plus utilisee
+OPEN-WITHOUT-KEY: Vous devez avoir une clef de caisse %crate% pour ouvrir cette caisse.
+SAVED-TO-CONFIG: You have placed a %crate% Crate, Saving to config.
+SNEAK-TO-DESTROY: Vous devez sneak pour dÃ©truire cette caisse.
+DELETED-FROM-CONFIG: You have destoryed a Crate, Deleting from config.
+INVALID-MATERIAL: That material does not exist.
+INVALID-STRING: That was not a valid string.
+SUCCESS-SETITEM: You set the prizeitem for %crate%.
+SUCCESS-SETBLOCKTYPE: You set the blocktype for %crate%.
+CANNOT-PLACE-KEY: You can not place a %crate% key here!
+KEY-IN-INVENTORY: You may not have a key in your inventory to open this.
+OPEN-WHEN-CREATIVE: You may not be in creative mode when opening this crate.
+ADMIN-ERROR-WHILE-OPENING: There seems to be an error with the items in this crate please check the config.

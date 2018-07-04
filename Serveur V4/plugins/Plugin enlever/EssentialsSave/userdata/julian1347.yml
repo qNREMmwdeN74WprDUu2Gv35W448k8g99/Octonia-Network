@@ -1,0 +1,40 @@
+timestamps:
+  login: 1455570069052
+  logout: 1455571718332
+  kits:
+    bouffe: 1455462495146
+    octonien: 1455570826865
+    decouverte: 1455570833581
+  lastteleport: 1455570864557
+  lastheal: 1455570841125
+  mute: 0
+ipAddress: 216.46.35.67
+lastlocation:
+  world: world
+  x: -56.70267943852267
+  y: 45.0
+  z: -92.45947580676955
+  yaw: 55.35589
+  pitch: -3.1111674
+logoutlocation:
+  world: world
+  x: -8.580335137211648
+  y: 189.0
+  z: -7.393326167320812
+  yaw: -274.1267
+  pitch: 21.3773
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 5609.328837318346
+    y: 87.0
+    z: 1525.300000011921
+    yaw: -265.78238
+    pitch: 48.09196
+money: '296.35'
+muted: false
+ignore:
+- thekiller2709
+- al4xandr3
+- liegeoisromain

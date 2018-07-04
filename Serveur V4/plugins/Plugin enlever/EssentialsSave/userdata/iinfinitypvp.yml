@@ -1,0 +1,83 @@
+timestamps:
+  login: 1457258843171
+  kits:
+    heros: 1457260961809
+    bouffe: 1457022534992
+    octonien: 1456922222805
+    druide: 1456918661544
+    chevalier: 1457196766070
+    destruction: 1457193538990
+    xp: 1457261150547
+    decouverte: 1457260081543
+    legendaire: 1457259024910
+    construction: 1457213794471
+    golden: 1457259957222
+    alchimiste: 1457259685605
+  lastteleport: 1457261000244
+  logout: 1457261591923
+  lastheal: 1457261283514
+  mute: 0
+ipAddress: 176.145.248.132
+lastlocation:
+  world: world
+  x: 5.890280652098833
+  y: 189.0
+  z: 1.424539160666311
+  yaw: -112.1028
+  pitch: 36.08316
+money: '44.425'
+logoutlocation:
+  world: world
+  x: -5417.472565348971
+  y: 72.0
+  z: -4774.2797118848675
+  yaw: 339.156
+  pitch: 30.211645
+homes:
+  bp:
+    world: world
+    x: -5416.847217416906
+    y: 43.0
+    z: -4776.855225340676
+    yaw: 24.18982
+    pitch: 10.350004
+  farmebp:
+    world: world
+    x: -5415.184210960121
+    y: 72.0
+    z: -4771.300000011921
+    yaw: 193.15825
+    pitch: 46.8
+  enormebase:
+    world: world
+    x: -2495.77995211266
+    y: 65.0
+    z: -2527.699999988079
+    yaw: -213.37988
+    pitch: 12.750024
+  raid:
+    world: world
+    x: -8319.563014944379
+    y: 10.0
+    z: -2835.1021707374466
+    yaw: -170.91132
+    pitch: 18.838797
+  hcaerutheure:
+    world: world
+    x: -5424.402934491314
+    y: 165.0
+    z: -4775.433806335263
+    yaw: 194.18568
+    pitch: 35.07686
+  baseraid:
+    world: world
+    x: -9968.204775040595
+    y: 7.0
+    z: -510.77195571817606
+    yaw: -292.32553
+    pitch: 16.365509
+uuid: 08f3a4ae-b685-3baf-999b-4d1c624cc4b8
+muted: false
+ignore:
+- i_weats
+- keesame

@@ -1,0 +1,68 @@
+uuid: a63e4bcd-61d8-346c-9f2f-79740ad9bb52
+timestamps:
+  login: 1457289499320
+  kits:
+    heros: 1457191401199
+    bouffe: 1457203883408
+    octonien: 1457194754499
+    druide: 1457193114976
+    chevalier: 1457203865727
+    decouverte: 1457203895158
+    legendaire: 1457203833242
+  lastteleport: 1457203746877
+  logout: 1457289511648
+  lastheal: 1457200457869
+  mute: 0
+ipAddress: 78.236.123.25
+lastlocation:
+  world: world
+  x: -8.927665080934815
+  y: 188.5
+  z: 14.366393867933542
+  yaw: -339.55112
+  pitch: 7.6478176
+logoutlocation:
+  world: world
+  x: -4698.69039511509
+  y: 12.875
+  z: -4856.512969746328
+  yaw: -215.24915
+  pitch: 39.30009
+homes:
+  minage:
+    world: world
+    x: -7027.971685559894
+    y: 5.0
+    z: -6196.342135134246
+    yaw: 304.13464
+    pitch: 22.500004
+  spawner:
+    world: world
+    x: -7030.5
+    y: 18.0
+    z: -6120.5
+    yaw: 60.532513
+    pitch: 25.500002
+  home:
+    world: world
+    x: -4698.085754775682
+    y: 12.0
+    z: -4855.759422203709
+    yaw: -157.20007
+    pitch: 21.000025
+  sable:
+    world: world
+    x: 775.3665695618467
+    y: 67.0
+    z: 302.8284583372
+    yaw: -204.93332
+    pitch: 9.750007
+  mlg:
+    world: world
+    x: 8.30000001192093
+    y: 68.0
+    z: 633.8290048465734
+    yaw: 171.82452
+    pitch: 9.450034
+money: '4857.0'
+muted: false

@@ -1,0 +1,46 @@
+uuid: 11fff350-2ef3-373d-a992-fbada1469af7
+timestamps:
+  login: 1457192254145
+  lastteleport: 1457176224449
+  lastheal: 1456844913507
+  kits:
+    bouffe: 1457176357653
+    heros: 1456844551954
+    octonien: 1456844482835
+    druide: 1456845100417
+    chevalier: 1456844511595
+    destruction: 1456844953822
+    xp: 1456844991101
+    legendaire: 1457176241468
+    alchimiste: 1456844972032
+    minerais: 1456845045038
+    decouverte: 1456845012632
+    construction: 1456845028898
+    golden: 1456845001636
+  logout: 1457192660186
+ipAddress: 92.155.157.9
+lastlocation:
+  world: world
+  x: -15.825011961738888
+  y: 188.0
+  z: 51.10607317371345
+  yaw: -343.42282
+  pitch: 8.996085
+homes:
+  bp:
+    world: world
+    x: 3928.443265562466
+    y: 5.0
+    z: -3919.4836309179814
+    yaw: -179.61238
+    pitch: 1.2321959
+logoutlocation:
+  world: world
+  x: 2324.0686800892113
+  y: 5.0
+  z: -8695.912984319744
+  yaw: -150.64885
+  pitch: 5.763774
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

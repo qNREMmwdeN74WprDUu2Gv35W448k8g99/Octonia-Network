@@ -1,0 +1,41 @@
+socialspy: false
+timestamps:
+  login: 1457288828958
+  logout: 1457289473812
+  kits:
+    bouffe: 1457288844520
+    octonien: 1457277219652
+    druide: 1457279627257
+    xp: 1457176146023
+    decouverte: 1457277258494
+  lastteleport: 1457289374030
+  lastheal: 1457288201076
+  mute: 0
+ipAddress: 178.194.191.19
+lastlocation:
+  world: world
+  x: 13.563981973226998
+  y: 189.0
+  z: 14.323007581344982
+  yaw: -228.85103
+  pitch: 14.399991
+logoutlocation:
+  world: world
+  x: 0.35811648536765245
+  y: 188.0
+  z: 20.883001661603032
+  yaw: -347.80096
+  pitch: 1.6478226
+homes:
+  home:
+    world: world
+    x: 3580.5
+    y: 18.0
+    z: 2915.5
+    yaw: 1.9187012
+    pitch: 5.249995
+money: '18.25'
+uuid: 351ac6d4-9ea5-37ea-8e2d-0aaf45bdf6f8
+muted: false
+ignore:
+- impraks

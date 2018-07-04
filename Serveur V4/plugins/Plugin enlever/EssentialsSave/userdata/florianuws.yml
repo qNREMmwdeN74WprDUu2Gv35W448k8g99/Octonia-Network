@@ -1,0 +1,47 @@
+socialspy: false
+timestamps:
+  login: 1457297084153
+  kits:
+    bouffe: 1457297263312
+    minerais: 1457286061728
+    octonien: 1457128653168
+    druide: 1457298983422
+    chevalier: 1456846857615
+    decouverte: 1457127010527
+    xp: 1457286046750
+    legendaire: 1457292146695
+    golden: 1457286056978
+  logout: 1457299607834
+  lastteleport: 1457292548715
+  lastheal: 1457128338115
+  mute: 0
+ipAddress: 84.72.141.65
+lastlocation:
+  world: world
+  x: 58.524594047222955
+  y: 199.0
+  z: 41.08817461995788
+  yaw: -103.3009
+  pitch: 36.597836
+logoutlocation:
+  world: world
+  x: -691.8832438050347
+  y: 34.0
+  z: -630.3000000119209
+  yaw: 125.656494
+  pitch: 24.149994
+homes:
+  home:
+    world: world
+    x: 1387.0649578148752
+    y: 13.0
+    z: -1155.6338648546698
+    yaw: -142.06323
+    pitch: 16.949997
+money: '184.900'
+uuid: a5875fd3-0b77-3c45-9152-247363ca96a0
+ignore:
+- gtr10
+- phantye
+- darkaqua28
+muted: false

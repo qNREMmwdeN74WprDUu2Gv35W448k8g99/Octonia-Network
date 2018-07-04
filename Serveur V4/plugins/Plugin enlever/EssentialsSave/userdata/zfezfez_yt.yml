@@ -1,0 +1,36 @@
+uuid: b14caa5f-bdcb-3784-8cc9-801c745d2333
+timestamps:
+  login: 1456928017592
+  kits:
+    bouffe: 1456784664815
+    octonien: 1456928487357
+    decouverte: 1456687764729
+  lastteleport: 1456870007522
+  logout: 1456928834875
+  lastheal: 1456687183468
+ipAddress: 95.175.166.169
+lastlocation:
+  world: world
+  x: -3206.9620541202275
+  y: 62.0
+  z: 2516.6435086287493
+  yaw: -126.719574
+  pitch: 10.1524105
+logoutlocation:
+  world: world
+  x: -2049.546083233817
+  y: 29.0
+  z: 8112.24751143786
+  yaw: -180.62317
+  pitch: 23.046652
+homes:
+  home:
+    world: world
+    x: -3213.323642656545
+    y: 253.875
+    z: 2528.3842905568185
+    yaw: -353.31934
+    pitch: 76.79795
+money: '17989.030'
+ignore:
+- galaxy13craft

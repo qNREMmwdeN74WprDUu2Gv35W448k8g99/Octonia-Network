@@ -1,0 +1,62 @@
+timestamps:
+  login: 1457286294675
+  kits:
+    bouffe: 1456987319879
+    heros: 1457027750488
+    octonien: 1457022496619
+    chevalier: 1456987419879
+    decouverte: 1457039719069
+    construction: 1457199998546
+    alchimiste: 1457025219944
+    golden: 1457025215311
+  lastteleport: 1457290079129
+  logout: 1457290096933
+  lastheal: 1457287769532
+ipAddress: 86.213.243.248
+lastlocation:
+  world: world
+  x: -20.68949179747142
+  y: 199.0
+  z: -44.17557837209037
+  yaw: -115.151245
+  pitch: 11.547789
+homes:
+  ap:
+    world: world
+    x: 4047.2506219767047
+    y: 22.0
+    z: -8701.251532015373
+    yaw: -43.63501
+    pitch: -18.300003
+  pillage:
+    world: world
+    x: 362.22512728388085
+    y: 4.875
+    z: -4457.5411241881575
+    yaw: -258.91223
+    pitch: 90.0
+  bp:
+    world: world
+    x: 3209.5266596600263
+    y: 6.0
+    z: -9406.613840007169
+    yaw: -2.4244194
+    pitch: 55.049965
+  farm:
+    world: world
+    x: 4049.6538722563514
+    y: 5.0
+    z: -8695.30523867214
+    yaw: -43.931328
+    pitch: 11.850019
+logoutlocation:
+  world: world
+  x: 4047.8754326777143
+  y: 5.0
+  z: -8704.812147845238
+  yaw: -47.831726
+  pitch: 30.300026
+money: '1633.94'
+ignore:
+- zeyphereyt
+uuid: 79eff1d3-948f-3d2a-915b-b4afb9ad4c5d

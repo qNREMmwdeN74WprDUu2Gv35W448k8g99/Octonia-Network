@@ -1,0 +1,24 @@
+timestamps:
+  login: 1455472499981
+  kits:
+    octonien: 1455472556084
+  lastteleport: 1455472570050
+  logout: 1455472615989
+ipAddress: 185.93.181.87
+lastlocation:
+  world: world
+  x: -13.00162926544169
+  y: 189.0
+  z: -10.824999988079071
+  yaw: -295.66968
+  pitch: 30.309626
+ban:
+  reason: Banni temporairement du serveur pour 45 minutes.
+  timeout: 1455475316863
+logoutlocation:
+  world: world
+  x: 4372.300000011921
+  y: 28.0
+  z: 5837.381090017712
+  yaw: 87.14728
+  pitch: 16.295622

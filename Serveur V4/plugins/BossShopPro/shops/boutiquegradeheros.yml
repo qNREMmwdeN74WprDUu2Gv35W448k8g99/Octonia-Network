@@ -1,0 +1,421 @@
+ShopName: boutiquegradeheros
+DisplayName: '&5&oGrade Heros &4&l[right]'
+signs:
+  text: '[boutiquegradeheros]'
+  NeedPermissionToCreateSign: true
+InventorySize: 54
+shop:
+  glassrouge1:
+    MenuItem:
+    - type:ANDESITE_HELMET
+    - amount:1
+    - enchantment:PROTECTION_ENVIRONMENTAL#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glassnoir8:
+    MenuItem:
+    - type:GOLDEN_APPLE
+    - amount:2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glassrouge9:
+    MenuItem:
+    - type:FALL_POTION
+    - amount:1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glassnoir10:
+    MenuItem:
+    - type:EXTANE_CHESTPLATE
+    - amount:1
+    - enchantment:PROTECTION_ENVIRONMENTAL#1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  glassrouge11:
+    MenuItem:
+    - type:ANDESITE_SWORD
+    - amount:1
+    - enchantment:DAMAGE_ALL#2
+    - durability:14
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  boutiquegradechevalier12:
+    MenuItem:
+    - type:ANDESITE_PICKAXE
+    - amount:1
+    - enchantment:DIG_SPEED#1
+    RewardType: NOTHING
+    Reward: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  glassnoir13:
+    MenuItem:
+    - type:ANDESITE_AXE
+    - amount:1
+    - enchantment:DIG_SPEED#1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 13
+  boutiquegradeheros14:
+    MenuItem:
+    - type:ANDESITE_SPADE
+    - amount:1
+    - enchantment:DIG_SPEED#1
+    RewardType: NOTHING
+    Reward: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 14
+  glassrouge17:
+    MenuItem:
+    - type:COOKED_BEEF
+    - amount:32
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 17
+  glassnoir18:
+    MenuItem:
+    - type:POTION_MILK
+    - amount:1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18
+  glassrouge19:
+    MenuItem:
+    - type:EXTANE_LEGGINGS
+    - amount:1
+    - enchantment:PROTECTION_ENVIRONMENTAL#1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 19
+  glassnoir20:
+    MenuItem:
+    - type:COBALT_BOW
+    - amount:1
+    - enchantment:ARROW_DAMAGE#1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 20
+  glassrouge27:
+    MenuItem:
+    - type:CANDY
+    - amount:1
+    - durability:1
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 27
+  glassnoir28:
+    MenuItem:
+    - type:ANDESITE_BOOTS
+    - amount:1
+    - enchantment:PROTECTION_ENVIRONMENTAL#2
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 28
+  glassrouge29:
+    MenuItem:
+    - type:ARROW
+    - amount:64
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 29
+  glassnoir30:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 30
+  glassnoir31:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 31
+  glassnoir32:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 32
+  glassnoir33:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 33
+  glassnoir34:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 34
+  glassnoir37:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glassnoir38:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 38
+  glassnoir39:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 39
+  confirmer40:
+    MenuItem:
+    - lore1:&7Avec ce grade vous obtenez[colon]
+    - lore2:&7 + Ce grade &c&lpour toute la version
+    - lore3:&7 + Les kits Chevalier+Heros
+    - lore4:&7 + La commande /feed
+    - lore5:&7&m----------------------------
+    - lore6:&cRequis[colon] &7400 &cOctoCoins
+    - lore7:&aVous avez[colon] &7%token% &aOctoCoins
+    - lore8:&7&m----------------------------
+    - lore9:&aClique pour Confirmer
+    - name:&7[o] &5&lConfirmer Achat ?
+    - amount:1
+    - type:COINS
+    PriceType: token
+    Price: 400
+    RewardType: command
+    Reward:
+    - broadcast &cLe joueur &7%player%&c a acheté le grade &cHeros &7!
+    - token take %player% 400
+    - pex user %player% group set Heros
+    Message: '&6Merci d''avoir acheté le grade Heros !'
+    ExtraPermission: ''
+    InventoryLocation: 40
+  glassnoir41:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 41
+  confirmer42:
+    MenuItem:
+    - name:&cRetour
+    - amount:1
+    - type:BLOCK_INVISIBLE
+    RewardType: shop
+    Reward: boutiquegrade
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 42
+  glassnoir43:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 43
+  glassnoir44:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 44
+  glassnoir45:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  glassnoir46:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  glassnoir47:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 47
+  glassnoir48:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 48
+  glassnoir49:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  glassnoir50:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  glassnoir51:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glassnoir52:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 52
+  glassnoir53:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 53
+  glassnoir54:
+    MenuItem:
+    - name:&7&l[warn]
+    - amount:1
+    - type:STAINED_GLASS_PANE
+    - durability:15
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

@@ -1,0 +1,80 @@
+timestamps:
+  login: 1456931532056
+  logout: 1456932250927
+  lastteleport: 1456932052532
+  kits:
+    bouffe: 1456662171397
+    heros: 1456052288349
+    minerais: 1456931648921
+    octonien: 1455727382271
+    chevalier: 1456052300872
+    construction: 1456932150605
+    legendaire: 1456931757048
+    alchimiste: 1456318575820
+    golden: 1456931683284
+  lastheal: 1456931950333
+  mute: 0
+  jail: 0
+ipAddress: 90.40.172.228
+lastlocation:
+  world: world
+  x: 10.65367527744656
+  y: 189.0
+  z: -10.431427081902235
+  yaw: 20.448929
+  pitch: -9.752196
+logoutlocation:
+  world: world
+  x: 856.6119051656756
+  y: 34.0
+  z: 8628.180661395145
+  yaw: 141.11961
+  pitch: 27.75047
+socialspy: false
+homes:
+  mine:
+    world: world
+    x: -1349.4518570934704
+    y: 4.0
+    z: -2615.3479605095836
+    yaw: -94.199585
+    pitch: 11.100482
+  cpv:
+    world: world
+    x: 219.5124572229106
+    y: 4.0
+    z: 7201.427598985105
+    yaw: -107.77605
+    pitch: 35.249996
+  ap:
+    world: world
+    x: 2991.699999988079
+    y: 4.875
+    z: 182.30000001192093
+    yaw: 44.54779
+    pitch: 42.749985
+  natur:
+    world: world
+    x: -227.63695639595417
+    y: 67.0
+    z: 5993.08160553898
+    yaw: 172.56952
+    pitch: 24.900002
+  spawner:
+    world: world
+    x: 507.7143814970188
+    y: 62.391953591213365
+    z: 8321.631041913144
+    yaw: 203.32486
+    pitch: 45.300102
+  sucre:
+    world: world
+    x: -898.1865399890487
+    y: 68.0
+    z: -7339.699999988079
+    yaw: 2.80182
+    pitch: 27.899931
+money: '15511.0'
+uuid: 0e4ca4ae-b039-31b0-a740-24b7d1c73251
+jailed: false
+muted: false

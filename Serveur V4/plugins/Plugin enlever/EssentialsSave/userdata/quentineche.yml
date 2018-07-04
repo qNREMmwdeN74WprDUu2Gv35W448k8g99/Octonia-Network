@@ -1,0 +1,74 @@
+socialspy: false
+timestamps:
+  login: 1456349571246
+  lastteleport: 1456349383393
+  kits:
+    heros: 1456349178935
+    bouffe: 1455478076022
+    octonien: 1456349347274
+    chevalier: 1456349339432
+    legendaire: 1456349053238
+  logout: 1456349613728
+  lastheal: 1455478767927
+ipAddress: 88.137.103.28
+lastlocation:
+  world: world
+  x: -122.36368700550032
+  y: 34.0
+  z: 134.1667189518605
+  yaw: 286.49054
+  pitch: -3.4626393
+homes:
+  home:
+    world: world
+    x: -7446.333815454703
+    y: 9.0
+    z: -4398.148723426381
+    yaw: 286.1393
+    pitch: 11.868004
+  obsi:
+    world: world
+    x: -8170.699999988079
+    y: 6.0
+    z: -4818.9456167048875
+    yaw: 243.06805
+    pitch: 33.24326
+  dongeon:
+    world: world
+    x: -8122.51184735769
+    y: 73.0
+    z: -5281.756049234962
+    yaw: 190.6753
+    pitch: 24.188044
+  barriere:
+    world: world
+    x: -8735.300000011921
+    y: 64.0
+    z: -4698.774897712218
+    yaw: 145.45598
+    pitch: 17.073223
+  fhome:
+    world: world
+    x: -8778.699999988079
+    y: 170.0
+    z: -4763.699999988079
+    yaw: 325.08798
+    pitch: 1.7117308
+  bro:
+    world: world
+    x: -9984.843068206073
+    y: 6.0
+    z: -362.0567537400602
+    yaw: -42.626656
+    pitch: -6.562762
+logoutlocation:
+  world: world
+  x: -24.1402439453379
+  y: 199.0
+  z: 22.978372060067667
+  yaw: -134.11868
+  pitch: 34.338455
+money: '7204.25'
+ignore:
+- kilasti
+uuid: 9f71fc53-eaba-3f7d-96d3-9df9f5a9caf1

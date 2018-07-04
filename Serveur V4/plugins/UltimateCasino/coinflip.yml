@@ -1,0 +1,27 @@
+tax: 5.0
+minimum-bet: 1.0
+coinflip-choose-winner-title: '&8&lCoinflip VS %opponent%'
+coinflip-games-available-title: '&8&lCoinflip Games'
+messages:
+  winning-message: '&6You won a Coinflip against &e%name% &6and won &e%winning%&6!'
+  winning-message-tax: '&6You won a Coinflip against &e%name% &6worth &e%winning%
+    &6and won &e%tax%&6!'
+  losing-message: '&6You lost a Coinflip against &e%name% &6and lost &e%bets%&6.'
+  invalid-amount: '&cError: Invalid amount.'
+  bet-not-greater-than-minimum: '&cError: Bet provided is not greater than the minimum
+    bet (%minimum%).'
+  bet-not-lower-than-maximum-money: '&cError: Bet provided is not lower than the maximum
+    money you can have (%max-money%).'
+  insufficient-funds: '&cError: You have insufficient funds to place this bet.'
+  cant-make-new-game: '&cError: Please wait until your current game has been completed
+    before making a new one.'
+  bet-not-greater-than-zero: '&cError: Bet provided is not greater than 0.'
+  not-heads-or-tails: '&cError: The argument provided was not heads or tails.'
+  cant-play-against-self: '&cError: You cannot play against yourself.'
+  cant-play-funds: '&cError: You have insufficient funds to go against this person.'
+  created-game: '&6You have created a game of Coinflip with a bet of &e%bets%&6!'
+  game-already-played: '&cError: This game is already in progress.'
+  removed-game: '&6You have successfully removed &e%name% Coinflip &6game!'
+  removed-all-games: '&6You have successfully removed &eall Coinflip &6games!'
+  no-game-to-remove: '&cError: There was no Coinflip game created by that user!'
+  no-games-to-remove: '&cError: There are no Coinflip games to remove!'

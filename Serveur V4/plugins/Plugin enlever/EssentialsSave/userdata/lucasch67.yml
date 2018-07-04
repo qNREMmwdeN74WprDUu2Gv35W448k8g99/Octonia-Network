@@ -1,0 +1,26 @@
+uuid: 9f335466-4d20-3678-aa64-9ed2606e86e7
+timestamps:
+  login: 1456923077553
+  logout: 1456924015913
+  kits:
+    bouffe: 1456918250810
+    octonien: 1456923251742
+  lastteleport: 1456919844009
+ipAddress: 81.51.239.152
+lastlocation:
+  world: world
+  x: -3.1607433796872337
+  y: 176.5
+  z: -1.6392150307594475
+  yaw: -65.20129
+  pitch: 38.699986
+logoutlocation:
+  world: world
+  x: 1.9139138812537713
+  y: 190.875
+  z: -1.01049606221604
+  yaw: -150.2507
+  pitch: 86.55
+ignore:
+- itz_wombocombo
+money: '50.75'

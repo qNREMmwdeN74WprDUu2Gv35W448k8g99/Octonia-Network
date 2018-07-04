@@ -1,0 +1,8 @@
+Settings:
+  MySQL:
+    Enable: false
+    Hostname: Hostname
+    Port: '25555'
+    Database: Database
+    Username: root
+    Password: ''

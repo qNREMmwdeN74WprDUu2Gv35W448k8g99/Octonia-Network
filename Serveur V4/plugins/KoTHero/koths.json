@@ -1,0 +1,50 @@
+[
+  {
+    "lastWinner": {
+      "uniqueId": "c498a0fd-d42e-30be-a02e-cc5d2db97ab6",
+      "capperType": "player"
+    },
+    "name": "Chateau",
+    "areas": [
+      {
+        "loc2": {
+          "world": "world",
+          "x": 19783,
+          "y": 128,
+          "z": 19808
+        },
+        "loc1": {
+          "world": "world",
+          "x": 19779,
+          "y": 126,
+          "z": 19804
+        },
+        "name": "Chateau"
+      }
+    ]
+  },
+  {
+    "lastWinner": {
+      "uniqueId": "81b3cefa-4cc3-393d-a832-561217fecf7c",
+      "capperType": "player"
+    },
+    "name": "Cimetiere",
+    "areas": [
+      {
+        "loc2": {
+          "world": "world",
+          "x": -19671,
+          "y": 73,
+          "z": -14808
+        },
+        "loc1": {
+          "world": "world",
+          "x": -19675,
+          "y": 71,
+          "z": -14812
+        },
+        "name": "Cimetiere"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+uuid: 8f659ab3-4e8e-3330-9ee0-1308afebef49
+timestamps:
+  login: 1456946933520
+  kits:
+    bouffe: 1456682167395
+    octonien: 1456681308804
+    decouverte: 1456900204301
+    xp: 1456900188906
+    construction: 1456900186200
+    golden: 1456900194800
+  logout: 1456948335955
+  lastteleport: 1456948323626
+  lastheal: 1456947829190
+ipAddress: 2.9.199.161
+lastlocation:
+  world: world
+  x: -6550.5
+  y: 11.0
+  z: 6823.5
+  yaw: 205.20926
+  pitch: -17.758564
+money: '23174.55'
+logoutlocation:
+  world: world
+  x: 5219.566064988368
+  y: 12.0
+  z: -3450.4896186645965
+  yaw: -96.71953
+  pitch: 41.53497
+homes:
+  home:
+    world: world
+    x: -6550.031072092896
+    y: 11.0
+    z: 6823.935643116267
+    yaw: 269.2857
+    pitch: 24.590115
+ignore:
+- ktndu77
+- isrozen
+- diepix

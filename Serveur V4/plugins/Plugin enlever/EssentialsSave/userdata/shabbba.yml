@@ -1,0 +1,35 @@
+uuid: 3ea83682-91a6-35eb-9c0a-b88a12f8b65d
+timestamps:
+  login: 1456227650766
+  lastteleport: 1456228637437
+  kits:
+    bouffe: 1456188045248
+    octonien: 1456171692128
+  logout: 1456228643961
+ipAddress: 176.190.71.45
+lastlocation:
+  world: world
+  x: 6013.667472713849
+  y: 5.0
+  z: -7523.508232143649
+  yaw: 145.76392
+  pitch: 18.111095
+logoutlocation:
+  world: world
+  x: -3.4419528960662786
+  y: 189.0
+  z: 7.923636135380416
+  yaw: -161.0622
+  pitch: 11.314627
+homes:
+  home:
+    world: world
+    x: 1768.5
+    y: 250.875
+    z: -8759.5
+    yaw: 39.48524
+    pitch: 53.43257
+money: '787.0'
+ban:
+  reason: 'Banni : Au Revoir [Give]'
+  timeout: 0

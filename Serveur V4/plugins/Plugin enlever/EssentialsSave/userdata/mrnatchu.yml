@@ -1,0 +1,40 @@
+timestamps:
+  login: 1457299838738
+  kits:
+    bouffe: 1457300107652
+    octonien: 1457294739354
+    destruction: 1457299372774
+    decouverte: 1457299232827
+    alchimiste: 1457300145038
+  lastteleport: 1457302073631
+  logout: 1457302074936
+  lastheal: 1457302064242
+  mute: 0
+ipAddress: 109.219.185.48
+lastlocation:
+  world: world
+  x: -7717.91517097384
+  y: 17.0
+  z: -1499.1411709857719
+  yaw: 178.23413
+  pitch: -7.2733083
+homes:
+  home:
+    world: world
+    x: 4301.594613162243
+    y: 5.0
+    z: 5250.14470263874
+    yaw: 86.18268
+    pitch: 11.715826
+logoutlocation:
+  world: world
+  x: 4301.5
+  y: 5.0
+  z: 5250.5
+  yaw: 86.18268
+  pitch: 11.715826
+money: '41599.550'
+uuid: f1f86658-8bf9-3d96-8e3c-fd781f0959b1
+muted: false
+ignore:
+- spouky

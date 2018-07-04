@@ -1,0 +1,36 @@
+timestamps:
+  login: 1455107503287
+  lastteleport: 1455108295203
+  kits:
+    bouffe: 1455104340302
+    octonien: 1455104320506
+  lastheal: 1455108079747
+  logout: 1455108409905
+  mute: 1455110200729
+ipAddress: 92.158.4.131
+lastlocation:
+  world: world
+  x: -3636.647895565646
+  y: 5.0
+  z: -10.247449248729529
+  yaw: -198.72375
+  pitch: 22.79998
+logoutlocation:
+  world: world
+  x: -8887.699999988079
+  y: 82.0
+  z: -482.30000001192093
+  yaw: -187.8584
+  pitch: 60.599995
+homes:
+  home:
+    world: world
+    x: -8246.810917889597
+    y: 70.0
+    z: -58.45305546166554
+    yaw: 197.19641
+    pitch: 11.249996
+muted: true
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

@@ -1,0 +1,43 @@
+world: world_the_end
+p1:
+  ==: Vector
+  x: 2968.0
+  y: 26.0
+  z: 3010.0
+p2:
+  ==: Vector
+  x: 3030.0
+  y: 76.0
+  z: 3072.0
+gameleveldestroydelay: 8
+loselevel:
+  p1:
+    ==: Vector
+    x: 2968.0
+    y: 26.0
+    z: 3010.0
+  p2:
+    ==: Vector
+    x: 3030.0
+    y: 76.0
+    z: 3072.0
+spawnpoint:
+  ==: Vector
+  x: 2986.489412086214
+  y: 67.0
+  z: 3024.8515007630663
+spectatorspawn:
+  ==: Vector
+  x: 2987.4460638122355
+  y: 67.0
+  z: 3025.6689745303206
+maxPlayers: 150
+minPlayers: 10
+votePercent: 0.75
+timelimit: 100
+countdown: 5
+teleportto: LOBBY
+damageenabled: 'NO'
+reward:
+  money: 0
+  items: []

@@ -1,0 +1,34 @@
+uuid: 5da6762b-c00e-3d7f-b4a0-f8b3f4cbaaf8
+timestamps:
+  login: 1456482587748
+  lastteleport: 1456483066887
+  kits:
+    bouffe: 1456482432953
+    octonien: 1456482883575
+  logout: 1456483072855
+ipAddress: 194.187.249.43
+lastlocation:
+  world: world
+  x: -8227.815084757363
+  y: 78.0
+  z: -3090.0431210262623
+  yaw: -92.64316
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: -8234.5
+    y: 253.90199999809266
+    z: -3088.5
+    yaw: -91.742905
+    pitch: 70.20001
+logoutlocation:
+  world: world
+  x: -8232.881860145486
+  y: 254.875
+  z: -3089.0776757541043
+  yaw: -21.392925
+  pitch: 45.59997
+ban:
+  reason: 'Banni : va cheat ailleur fdp'
+  timeout: 0

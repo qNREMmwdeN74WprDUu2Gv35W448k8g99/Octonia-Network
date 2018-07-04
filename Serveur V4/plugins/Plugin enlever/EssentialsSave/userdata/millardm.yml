@@ -1,0 +1,80 @@
+socialspy: false
+timestamps:
+  login: 1456007560807
+  kits:
+    heros: 1456005394963
+    bouffe: 1456005402570
+    octonien: 1455983899962
+    druide: 1456001819666
+    chevalier: 1456001843699
+    xp: 1456001807299
+    decouverte: 1455998204408
+    legendaire: 1455998211777
+  lastteleport: 1456007654423
+  logout: 1456007660905
+  lastheal: 1456004167721
+ipAddress: 78.116.70.196
+lastlocation:
+  world: world
+  x: -4463.5
+  y: 6.875
+  z: -2621.5
+  yaw: -263.55054
+  pitch: 49.35
+homes:
+  raid:
+    world: world
+    x: -4062.337024274778
+    y: 6.0
+    z: -5022.370313260391
+    yaw: 332.18567
+    pitch: 10.350051
+  bp:
+    world: world
+    x: 5199.657756276695
+    y: 14.0
+    z: 2001.422943663982
+    yaw: -258.4183
+    pitch: 9.749967
+  pnj:
+    world: world
+    x: -1029.6855046762855
+    y: 33.0
+    z: -8266.958521065448
+    yaw: 5.580261
+    pitch: 11.70002
+  xp:
+    world: world
+    x: -6041.502562765746
+    y: 25.0
+    z: -1353.699999988079
+    yaw: -188.39908
+    pitch: -44.54997
+  bp1:
+    world: world
+    x: -4462.114149273918
+    y: 6.0
+    z: -2621.4822441845604
+    yaw: -266.25055
+    pitch: 26.399996
+  raid1:
+    world: world
+    x: 8422.5
+    y: 6.0
+    z: -1065.5
+    yaw: -7.7722473
+    pitch: 26.549976
+logoutlocation:
+  world: world
+  x: -6042.1686589549745
+  y: 25.0
+  z: -1354.5186347252425
+  yaw: -33.748962
+  pitch: -3.4499784
+money: '0.0'
+ignore:
+- navol
+uuid: 2859e672-2490-3be7-a4a0-176cc0a6f1f3
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

@@ -1,0 +1,86 @@
+socialspy: false
+timestamps:
+  login: 1456940879476
+  kits:
+    heros: 1456588063200
+    bouffe: 1456261154517
+    octonien: 1456088519213
+    druide: 1456588040542
+    chevalier: 1456588108593
+    xp: 1456588052583
+    decouverte: 1456588018038
+    legendaire: 1456587041837
+  lastteleport: 1456941453817
+  logout: 1456941516237
+  lastheal: 1456941272538
+ipAddress: 109.128.119.188
+lastlocation:
+  world: world
+  x: 1874.300000011921
+  y: 4.875
+  z: -5733.699999988079
+  yaw: 231.93616
+  pitch: 16.104563
+homes:
+  ap:
+    world: world
+    x: -280.5307826547764
+    y: 64.0
+    z: -212.66685282907784
+    yaw: -1.4575337
+    pitch: 19.871582
+  bp:
+    world: world
+    x: 9170.5
+    y: 5.0
+    z: 980.5
+    yaw: 347.34668
+    pitch: 17.852652
+  pratistt:
+    world: world
+    x: 8244.26612846074
+    y: 35.0
+    z: 3640.9158494856392
+    yaw: -73.00762
+    pitch: 26.864458
+  recherche:
+    world: world
+    x: 2226.361883121364
+    y: 72.0
+    z: -3632.300000011921
+    yaw: 73.397675
+    pitch: 20.236734
+  pillage:
+    world: world
+    x: 2546.1811275984046
+    y: 4.0
+    z: 6473.699999988079
+    yaw: 240.88055
+    pitch: 24.503077
+  realymb:
+    world: world
+    x: 1949.6277378540237
+    y: 73.0
+    z: -2756.0745549277544
+    yaw: -338.95395
+    pitch: 9.012072
+logoutlocation:
+  world: world
+  x: 9171.008408517258
+  y: 5.0
+  z: 980.5712373739641
+  yaw: 78.422485
+  pitch: 33.61865
+money: '199939.5'
+ignore:
+- el3ctro_choc
+- helboy76
+- m0nst3rkill
+- draze
+- xriderzix
+- tintinspartiate
+- warkix
+- t2z_pvp
+- karmann311
+- coco02
+uuid: 18804e16-d8c6-3a71-8c58-7e2895acd6ce

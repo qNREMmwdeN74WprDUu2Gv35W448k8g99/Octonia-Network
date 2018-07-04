@@ -1,0 +1,85 @@
+uuid: d9d42b80-a49f-3f33-beec-5d1332a5948b
+timestamps:
+  login: 1457277941450
+  logout: 1457292091192
+  lastteleport: 1457292065609
+  kits:
+    heros: 1457259902292
+    bouffe: 1457288632492
+    octonien: 1457023492260
+    druide: 1457286474188
+    chevalier: 1457283914387
+    destruction: 1457285304860
+    decouverte: 1457283778521
+    legendaire: 1457281543965
+    construction: 1457279843390
+    alchimiste: 1457283757171
+    golden: 1457292080165
+  lastheal: 1457290800460
+  mute: 0
+ipAddress: 78.235.34.89
+lastlocation:
+  world: world
+  x: 5176.63047404149
+  y: 5.0
+  z: 5986.251883186419
+  yaw: -258.32727
+  pitch: 13.2457695
+logoutlocation:
+  world: world
+  x: 5169.860611340059
+  y: 51.5
+  z: 5356.201897858055
+  yaw: 232.53938
+  pitch: -40.172413
+homes:
+  baseperso:
+    world: world
+    x: 5169.53117759877
+    y: 54.0
+    z: 5359.432484261993
+    yaw: 50.91958
+    pitch: 90.0
+  farm:
+    world: world
+    x: 7619.064461722289
+    y: 4.0
+    z: -1769.261918211516
+    yaw: 150.85501
+    pitch: 20.801184
+  bp:
+    world: world
+    x: 5178.5
+    y: 5.0
+    z: 5992.5
+    yaw: -205.84389
+    pitch: 14.051438
+  eclipse:
+    world: world
+    x: 5526.5
+    y: 64.0
+    z: 4654.5
+    yaw: -282.98468
+    pitch: 8.656759
+  b:
+    world: world
+    x: 6740.387333133757
+    y: 59.0
+    z: 6028.301996924216
+    yaw: 358.14398
+    pitch: 78.2603
+  pvp:
+    world: world
+    x: 3572.5
+    y: 18.0
+    z: 2919.5
+    yaw: 302.3576
+    pitch: 19.791615
+money: '6494.1134111111111111111111'
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 2 heures.
+  timeout: 0
+ignore:
+- wastrixe
+- dread2minecraft

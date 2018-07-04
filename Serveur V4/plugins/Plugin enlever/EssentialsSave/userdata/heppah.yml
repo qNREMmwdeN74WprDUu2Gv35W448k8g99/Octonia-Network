@@ -1,0 +1,45 @@
+uuid: bd3f88f6-08ee-39b3-96cd-d484fec22b96
+timestamps:
+  login: 1457292938730
+  kits:
+    bouffe: 1457292001796
+    octonien: 1457294481993
+    druide: 1457181201681
+    chevalier: 1457291676628
+    decouverte: 1457293008095
+  lastteleport: 1457294444208
+  logout: 1457295412487
+  lastheal: 1457295195843
+ipAddress: 86.233.182.12
+lastlocation:
+  world: world
+  x: -6173.425000011921
+  y: 69.0
+  z: 7700.699999988079
+  yaw: 115.8613
+  pitch: -8.250002
+homes:
+  farm:
+    world: world
+    x: 7629.8729163875905
+    y: 4.0
+    z: -1771.512637020426
+    yaw: 65.85443
+    pitch: 19.350023
+  sky:
+    world: world
+    x: -2473.5
+    y: 253.90199999809266
+    z: -354.5
+    yaw: 344.57782
+    pitch: 33.299995
+logoutlocation:
+  world: world
+  x: -6178.508593738079
+  y: 75.0
+  z: 7701.381798480518
+  yaw: -303.86224
+  pitch: 4.950016
+money: '0.00'
+ignore:
+- splash99

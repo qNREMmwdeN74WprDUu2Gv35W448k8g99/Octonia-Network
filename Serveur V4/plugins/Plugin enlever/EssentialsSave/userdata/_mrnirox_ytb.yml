@@ -1,0 +1,34 @@
+uuid: 8fc2a835-2a49-35ef-9b32-364fa89c9511
+timestamps:
+  login: 1457207046947
+  kits:
+    bouffe: 1457107851064
+    octonien: 1457207098175
+  lastteleport: 1457107993472
+  logout: 1457207363998
+ipAddress: 83.153.97.50
+lastlocation:
+  world: world
+  x: 3078.764247325071
+  y: 49.0
+  z: 2111.699999988079
+  yaw: 93.45007
+  pitch: -2.2499747
+homes:
+  home:
+    world: world
+    x: 1892.8065644806184
+    y: 199.875
+    z: -2604.762499988079
+    yaw: 114.90262
+    pitch: 32.399998
+logoutlocation:
+  world: world
+  x: -1481.3424116890847
+  y: 80.0
+  z: -2214.4504398374
+  yaw: -255.45508
+  pitch: 30.599997
+ignore:
+- vaillasse
+- agoniel

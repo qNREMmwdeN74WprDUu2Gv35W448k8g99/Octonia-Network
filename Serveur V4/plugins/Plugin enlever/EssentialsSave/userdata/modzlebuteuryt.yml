@@ -1,0 +1,30 @@
+socialspy: false
+timestamps:
+  login: 1455459706227
+  kits:
+    bouffe: 1455459736736
+    octonien: 1455459732473
+    decouverte: 1455459721742
+  lastteleport: 1455461118796
+  logout: 1455461426814
+  lastheal: 1455460138828
+ipAddress: 62.197.98.88
+lastlocation:
+  world: world
+  x: -2377.205575185351
+  y: 66.0
+  z: -3992.2777467763067
+  yaw: -202.65
+  pitch: 23.10002
+homes: {}
+logoutlocation:
+  world: world
+  x: 4191.419176471914
+  y: 5.0
+  z: -491.75804506056534
+  yaw: 186.97853
+  pitch: 13.35002
+ignore:
+- realitycarnage
+- khadgar
+money: '17.0'

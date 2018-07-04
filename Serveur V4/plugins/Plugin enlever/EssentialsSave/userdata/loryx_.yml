@@ -1,0 +1,72 @@
+timestamps:
+  login: 1457286770770
+  logout: 1457287071753
+  kits:
+    heros: 1457271846022
+    bouffe: 1457284661036
+    octonien: 1457262618733
+    chevalier: 1457271867015
+    decouverte: 1457271786133
+    legendaire: 1457271790861
+    golden: 1457271862069
+  lastteleport: 1457285169561
+  lastheal: 1457285234400
+  mute: 0
+ipAddress: 90.0.235.167
+lastlocation:
+  world: world
+  x: 42.30043286354339
+  y: 45.014276328434995
+  z: -146.69999998807907
+  yaw: -177.69391
+  pitch: -19.950031
+logoutlocation:
+  world: world
+  x: -6735.300000011921
+  y: 7.0
+  z: -2174.300000011921
+  yaw: 323.0473
+  pitch: -72.15
+socialspy: false
+money: '26949.05'
+homes:
+  sky2:
+    world: world
+    x: 3629.2716759152527
+    y: 248.875
+    z: -4654.573902555439
+    yaw: -1.4086602
+    pitch: 85.04995
+  cas:
+    world: world
+    x: 2284.699999988079
+    y: 73.96636804164123
+    z: 3388.5693297629155
+    yaw: -270.51868
+    pitch: -1.2000334
+  ap:
+    world: world
+    x: 152.04272459346834
+    y: 64.0
+    z: 284.2358149443318
+    yaw: -181.15643
+    pitch: -0.46448237
+  champi:
+    world: world
+    x: -2701.4457267794387
+    y: 79.0
+    z: -2542.002693821953
+    yaw: 240.15009
+    pitch: 50.399986
+  sable:
+    world: world
+    x: -4113.758429167852
+    y: 65.0
+    z: -4397.119328427505
+    yaw: -65.16873
+    pitch: 13.6499815
+muted: false
+uuid: 830bed2f-75db-3dab-992e-32d017dbdb2a
+ignore:
+- conola2
+- slendershow

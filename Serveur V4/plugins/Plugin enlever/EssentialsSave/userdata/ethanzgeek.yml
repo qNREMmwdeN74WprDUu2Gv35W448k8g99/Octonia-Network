@@ -1,0 +1,37 @@
+uuid: a8677fd8-fc19-37e5-8c3d-f15e9792dad7
+timestamps:
+  login: 1457291421115
+  kits:
+    bouffe: 1457291506339
+    octonien: 1457269882633
+    decouverte: 1457291516114
+  logout: 1457291983389
+  lastteleport: 1457291608767
+  lastheal: 1457276944837
+ipAddress: 86.242.239.22
+lastlocation:
+  world: world
+  x: 2846.227018086603
+  y: 249.875
+  z: 6955.920423687093
+  yaw: -260.21558
+  pitch: 6.546671
+logoutlocation:
+  world: world
+  x: -7925.185908028429
+  y: 5.0
+  z: -437.540949038747
+  yaw: 111.44842
+  pitch: 14.390998
+homes:
+  home:
+    world: world
+    x: 2846.400642376386
+    y: 249.875
+    z: 6952.560711870541
+    yaw: -44.93921
+    pitch: 71.309204
+money: '13635.75'
+ignore:
+- alexlem464
+- masterfight63

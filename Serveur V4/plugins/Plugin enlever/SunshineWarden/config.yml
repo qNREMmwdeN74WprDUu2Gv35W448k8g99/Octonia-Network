@@ -1,0 +1,16 @@
+DisableMods:
+  Zombe: false
+  CJB: false
+  ReiMiniMap: false
+  MinecraftAutoMap: false
+  SmartMoving: false
+ForceField: ''
+AntiKnockBack: ''
+Reach: ''
+FastBow: ''
+Climb: ''
+Nuker: ''
+NoFall: ''
+Fly: ''
+SpeedHack: ''
+FastFall: ''

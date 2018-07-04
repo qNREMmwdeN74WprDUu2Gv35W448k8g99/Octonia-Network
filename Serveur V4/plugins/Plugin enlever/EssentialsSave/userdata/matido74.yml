@@ -1,0 +1,37 @@
+uuid: 312131a7-1856-32a7-8b7f-f563fcd44d2c
+timestamps:
+  login: 1457200801518
+  lastteleport: 1457201063412
+  kits:
+    bouffe: 1456601522492
+    octonien: 1456601447636
+  logout: 1457201116621
+  mute: 0
+  lastheal: 1456608575606
+ipAddress: 78.198.224.69
+lastlocation:
+  world: world
+  x: 15.885111619103807
+  y: 189.0
+  z: -2.858273434883158
+  yaw: 92.59955
+  pitch: 20.847902
+homes:
+  home:
+    world: world
+    x: -2954.5
+    y: 75.0
+    z: -9502.5
+    yaw: 44.674137
+    pitch: 37.950012
+logoutlocation:
+  world: world
+  x: -9472.300000011921
+  y: 6.0
+  z: -2813.699999988079
+  yaw: 52.224823
+  pitch: 7.799948
+muted: false
+money: '142.0'
+ignore:
+- itz_guyz

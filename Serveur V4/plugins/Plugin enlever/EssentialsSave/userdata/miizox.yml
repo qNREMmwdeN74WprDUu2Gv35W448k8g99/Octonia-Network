@@ -1,0 +1,70 @@
+socialspy: false
+timestamps:
+  login: 1456073574801
+  kits:
+    bouffe: 1455445517464
+    heros: 1456073617541
+    octonien: 1455360186935
+    chevalier: 1455359415045
+    legendaire: 1456073610038
+  logout: 1456073928118
+  lastteleport: 1456073886220
+  mute: 0
+  lastheal: 1455445599277
+ipAddress: 86.216.49.166
+lastlocation:
+  world: world
+  x: 5662.53303943617
+  y: 64.0
+  z: 158.23757307019642
+  yaw: -323.03357
+  pitch: -5.6435328
+homes:
+  bp:
+    world: world
+    x: 5656.564188141614
+    y: 64.0
+    z: 168.76836099923514
+    yaw: -181.39888
+    pitch: 9.323331
+  base:
+    world: world
+    x: -8214.984280740067
+    y: 64.0
+    z: -3975.661656179045
+    yaw: 359.44608
+    pitch: 6.537128
+  pillage:
+    world: world
+    x: 1793.300000011921
+    y: 60.0
+    z: -1394.300000011921
+    yaw: 236.62311
+    pitch: 19.032103
+  bp2:
+    world: world
+    x: 6127.224907419828
+    y: 63.0
+    z: 6757.331163461973
+    yaw: 22.247072
+    pitch: 19.388838
+  pillage2:
+    world: world
+    x: -8251.574064577828
+    y: 10.0
+    z: -3791.6638573631976
+    yaw: 85.42053
+    pitch: 10.105155
+muted: false
+logoutlocation:
+  world: world
+  x: -285.37996194094467
+  y: 64.0
+  z: 136.56812271143536
+  yaw: 275.97427
+  pitch: 27.003372
+money: '3873.25'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0
+uuid: b770e080-f638-3aee-b954-84d2d95500bd

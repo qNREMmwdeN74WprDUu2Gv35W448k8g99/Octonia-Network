@@ -1,0 +1,9335 @@
+spawners:
+  '1':
+    player: loc
+    type: 54
+    loc: 'null'
+    inMap: false
+  '2':
+    player: an0m4llytv
+    type: 54
+    loc: 'null'
+  '3':
+    player: an0m4lly
+    type: 57
+    loc: 'null'
+  '4':
+    player: an0m4lly
+    type: 51
+    loc: 'null'
+  '5':
+    player: an0m4lly
+    type: 99
+    loc: 'null'
+  '6':
+    player: '{player}'
+    type: 95
+    loc: 'null'
+  '7':
+    player: an0m4lly
+    type: 95
+    loc: 'null'
+  '8':
+    player: an0m4lly
+    type: 92
+    loc: 'null'
+  '9':
+    player: chronoethernal
+    type: 99
+    loc: world,10197.0,25.0,7996.0
+    inMap: true
+  '10':
+    player: chronoethernal
+    type: 99
+    loc: world,10197.0,26.0,7996.0
+    inMap: true
+  '11':
+    player: chronoethernal
+    type: 99
+    loc: world,10194.0,25.0,7993.0
+    inMap: true
+  '12':
+    player: chronoethernal
+    type: 99
+    loc: world,10194.0,26.0,7993.0
+    inMap: true
+  '13':
+    player: paul15440
+    type: 54
+    loc: world,8238.0,28.0,-4754.0
+    inMap: true
+  '14':
+    player: ziphale
+    type: 57
+    loc: world,-12640.0,26.0,15452.0
+    inMap: true
+  '15':
+    player: ziphale
+    type: 57
+    loc: world,-12637.0,26.0,15452.0
+    inMap: true
+  '16':
+    player: ziphale
+    type: 57
+    loc: world,-12634.0,26.0,15452.0
+    inMap: true
+  '17':
+    player: ziphale
+    type: 57
+    loc: world,-12640.0,26.0,15449.0
+    inMap: true
+  '18':
+    player: fighter62
+    type: 57
+    loc: world,12165.0,55.0,8085.0
+    inMap: true
+  '19':
+    player: fighter62
+    type: 57
+    loc: world,12168.0,55.0,8086.0
+    inMap: true
+  '20':
+    player: fighter62
+    type: 57
+    loc: world,12168.0,55.0,8093.0
+    inMap: true
+  '21':
+    player: fighter62
+    type: 57
+    loc: world,12165.0,55.0,8089.0
+    inMap: true
+  '22':
+    player: camocamo
+    type: 54
+    loc: world,-12052.0,16.0,-10304.0
+    inMap: true
+  '23':
+    player: leminecraftien80
+    type: 57
+    loc: world,-12634.0,26.0,15446.0
+    inMap: true
+  '24':
+    player: leminecraftien80
+    type: 57
+    loc: world,-12631.0,26.0,15449.0
+    inMap: true
+  '25':
+    player: leminecraftien80
+    type: 57
+    loc: world,-12631.0,26.0,15446.0
+    inMap: true
+  '26':
+    player: lakitaw
+    type: 57
+    loc: world,14104.0,68.0,15469.0
+    inMap: true
+  '27':
+    player: razor
+    type: 107
+    loc: 'null'
+  '28':
+    player: razor
+    type: 99
+    loc: 'null'
+  '29':
+    player: razor
+    type: 57
+    loc: world,371.0,64.0,-582.0
+    inMap: true
+  '30':
+    player: an0m4lly
+    type: 54
+    loc: 'null'
+  '31':
+    player: an0m4lly
+    type: 57
+    loc: 'null'
+  '32':
+    player: an0m4lly
+    type: 51
+    loc: 'null'
+  '33':
+    player: virocl
+    type: 57
+    loc: world,8305.0,16.0,15303.0
+    inMap: true
+  '34':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,47.0,4425.0
+    inMap: true
+  '35':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,51.0,4425.0
+    inMap: true
+  '36':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,49.0,4429.0
+    inMap: true
+  '37':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,50.0,4429.0
+    inMap: true
+  '38':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,49.0,4429.0
+    inMap: true
+  '39':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,50.0,4429.0
+    inMap: true
+  '40':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,51.0,4429.0
+    inMap: true
+  '41':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,51.0,4429.0
+    inMap: true
+  '42':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,52.0,4429.0
+    inMap: true
+  '43':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,53.0,4429.0
+    inMap: true
+  '44':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,53.0,4429.0
+    inMap: true
+  '45':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,52.0,4425.0
+    inMap: true
+  '46':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,51.0,4425.0
+    inMap: true
+  '47':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,52.0,4429.0
+    inMap: true
+  '48':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,52.0,4425.0
+    inMap: true
+  '49':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,53.0,4425.0
+    inMap: true
+  '50':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,53.0,4425.0
+    inMap: true
+  '51':
+    player: shouteur
+    type: 57
+    loc: world,-10356.0,51.0,4433.0
+    inMap: true
+  '52':
+    player: shouteur
+    type: 57
+    loc: world,-10356.0,52.0,4433.0
+    inMap: true
+  '53':
+    player: shouteur
+    type: 57
+    loc: world,-10356.0,53.0,4433.0
+    inMap: true
+  '54':
+    player: shouteur
+    type: 57
+    loc: world,-10356.0,54.0,4433.0
+    inMap: true
+  '55':
+    player: shouteur
+    type: 57
+    loc: world,-10357.0,54.0,4429.0
+    inMap: true
+  '56':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,51.0,4433.0
+    inMap: true
+  '57':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,52.0,4433.0
+    inMap: true
+  '58':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,53.0,4433.0
+    inMap: true
+  '59':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,54.0,4433.0
+    inMap: true
+  '60':
+    player: shouteur
+    type: 57
+    loc: world,-10353.0,55.0,4433.0
+    inMap: true
+  '61':
+    player: shouteur
+    type: 57
+    loc: world,-10356.0,55.0,4433.0
+    inMap: true
+  '62':
+    player: zighapvp
+    type: 92
+    loc: world,5208.0,116.0,-15452.0
+    inMap: true
+  '63':
+    player: bboy124
+    type: 51
+    loc: world,19974.0,46.0,17973.0
+    inMap: true
+  '64':
+    player: bboy124
+    type: 51
+    loc: world,19974.0,46.0,17975.0
+    inMap: true
+  '65':
+    player: bboy124
+    type: 51
+    loc: world,19974.0,46.0,17977.0
+    inMap: true
+  '66':
+    player: bboy124
+    type: 51
+    loc: world,19974.0,45.0,17975.0
+    inMap: true
+  '67':
+    player: brookdu81
+    type: 54
+    loc: world,9363.0,22.0,17701.0
+    inMap: true
+  '68':
+    player: brookdu81
+    type: 54
+    loc: world,9363.0,22.0,17703.0
+    inMap: true
+  '69':
+    player: brookdu81
+    type: 54
+    loc: world,9360.0,22.0,17703.0
+    inMap: true
+  '70':
+    player: brookdu81
+    type: 54
+    loc: world,9360.0,22.0,17701.0
+    inMap: true
+  '71':
+    player: brookdu81
+    type: 54
+    loc: world,9360.0,22.0,17699.0
+    inMap: true
+  '72':
+    player: blackwhite010
+    type: 57
+    loc: world,12738.0,16.0,-18436.0
+    inMap: true
+  '73':
+    player: blackwhite010
+    type: 57
+    loc: world,12738.0,14.0,-18436.0
+    inMap: true
+  '74':
+    player: yolodu13
+    type: 57
+    loc: world,-19987.0,29.0,19990.0
+    inMap: true
+  '75':
+    player: yolodu13
+    type: 57
+    loc: world,-19990.0,29.0,19987.0
+    inMap: true
+  '76':
+    player: yolodu13
+    type: 57
+    loc: world,-19990.0,29.0,19993.0
+    inMap: true
+  '77':
+    player: yolodu13
+    type: 57
+    loc: world,-19990.0,30.0,19990.0
+    inMap: true
+  '78':
+    player: yolodu13
+    type: 57
+    loc: world,-19990.0,29.0,19990.0
+    inMap: true
+  '79':
+    player: yolodu13
+    type: 57
+    loc: world,-19993.0,30.0,19990.0
+    inMap: true
+  '80':
+    player: yolodu13
+    type: 57
+    loc: world,-15189.0,97.0,15732.0
+    inMap: true
+  '81':
+    player: tinmar
+    type: 57
+    loc: world,18452.0,41.0,14649.0
+    inMap: true
+  '82':
+    player: tinmar
+    type: 57
+    loc: world,18452.0,40.0,14649.0
+    inMap: true
+  '83':
+    player: tinmar
+    type: 57
+    loc: world,18452.0,39.0,14649.0
+    inMap: true
+  '84':
+    player: tinmar
+    type: 57
+    loc: world,18452.0,38.0,14649.0
+    inMap: true
+  '85':
+    player: tinmar
+    type: 57
+    loc: world,18448.0,41.0,14649.0
+    inMap: true
+  '86':
+    player: tinmar
+    type: 57
+    loc: world,18448.0,40.0,14649.0
+    inMap: true
+  '87':
+    player: tinmar
+    type: 57
+    loc: world,18448.0,39.0,14649.0
+    inMap: true
+  '88':
+    player: totosam17
+    type: 57
+    loc: world,12732.0,16.0,-18445.0
+    inMap: true
+  '89':
+    player: totosam17
+    type: 57
+    loc: world,12734.0,14.0,-18442.0
+    inMap: true
+  '90':
+    player: pandaworld
+    type: 57
+    loc: world,16887.0,14.0,15175.0
+    inMap: true
+  '91':
+    player: pandaworld
+    type: 92
+    loc: world,-10468.0,14.0,14247.0
+    inMap: true
+  '92':
+    player: bboy124
+    type: 57
+    loc: world,19978.0,45.0,17960.0
+    inMap: true
+  '93':
+    player: bboy124
+    type: 57
+    loc: world,19978.0,45.0,17963.0
+    inMap: true
+  '94':
+    player: sylvain12
+    type: 57
+    loc: world,-19987.0,29.0,19987.0
+    inMap: true
+  '95':
+    player: sylvain12
+    type: 57
+    loc: world,-19990.0,30.0,19987.0
+    inMap: true
+  '96':
+    player: sylvain12
+    type: 57
+    loc: world,-19987.0,30.0,19987.0
+    inMap: true
+  '97':
+    player: sylvain12
+    type: 57
+    loc: world,-19993.0,29.0,19993.0
+    inMap: true
+  '98':
+    player: sylvain12
+    type: 57
+    loc: world,-19993.0,29.0,19990.0
+    inMap: true
+  '99':
+    player: sylvain12
+    type: 57
+    loc: world,-19990.0,30.0,19993.0
+    inMap: true
+  '100':
+    player: sylvain12
+    type: 57
+    loc: world,-19987.0,29.0,19993.0
+    inMap: true
+  '101':
+    player: sylvain12
+    type: 57
+    loc: world,-19987.0,30.0,19993.0
+    inMap: true
+  '102':
+    player: sylvain12
+    type: 57
+    loc: world,-19987.0,30.0,19990.0
+    inMap: true
+  '103':
+    player: karibo127
+    type: 57
+    loc: world,6464.0,72.0,-16433.0
+    inMap: true
+  '104':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,16.0,-18433.0
+    inMap: true
+  '105':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,15.0,-18433.0
+    inMap: true
+  '106':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,15.0,-18436.0
+    inMap: true
+  '107':
+    player: shouteur
+    type: 92
+    loc: world,-10371.0,40.0,4445.0
+    inMap: true
+  '108':
+    player: shouteur
+    type: 92
+    loc: world,-10368.0,40.0,4443.0
+    inMap: true
+  '109':
+    player: shouteur
+    type: 92
+    loc: world,-10371.0,40.0,4443.0
+    inMap: true
+  '110':
+    player: shouteur
+    type: 92
+    loc: world,-10371.0,40.0,4441.0
+    inMap: true
+  '111':
+    player: zzmatthgaming
+    type: 99
+    loc: world,-2539.0,39.0,5913.0
+    inMap: true
+  '112':
+    player: zzmatthgaming
+    type: 57
+    loc: world,-16842.0,16.0,-7020.0
+    inMap: true
+  '113':
+    player: monstergamex7
+    type: 57
+    loc: world,5879.0,78.0,10680.0
+    inMap: true
+  '114':
+    player: monstergamex7
+    type: 57
+    loc: world,5876.0,78.0,10680.0
+    inMap: true
+  '115':
+    player: chasseurdu57400
+    type: 54
+    loc: world,5879.0,78.0,10676.0
+    inMap: true
+  '116':
+    player: fiask0
+    type: 57
+    loc: world,18480.0,41.0,15809.0
+    inMap: true
+  '117':
+    player: fiask0
+    type: 57
+    loc: world,18480.0,40.0,15809.0
+    inMap: true
+  '118':
+    player: fiask0
+    type: 57
+    loc: world,18477.0,41.0,15809.0
+    inMap: true
+  '119':
+    player: eggsplosion
+    type: 99
+    loc: world,-14820.0,46.0,8083.0
+    inMap: true
+  '120':
+    player: eggsplosion
+    type: 57
+    loc: world,-15059.0,27.0,8839.0
+    inMap: true
+  '121':
+    player: eggsplosion
+    type: 92
+    loc: world,-15080.0,5.0,8861.0
+    inMap: true
+  '122':
+    player: eggsplosion
+    type: 99
+    loc: world,-14827.0,46.0,8087.0
+    inMap: true
+  '123':
+    player: eggsplosion
+    type: 99
+    loc: world,-14827.0,46.0,8090.0
+    inMap: true
+  '124':
+    player: eggsplosion
+    type: 99
+    loc: world,-14827.0,47.0,8087.0
+    inMap: true
+  '125':
+    player: eggsplosion
+    type: 99
+    loc: world,-14824.0,46.0,8087.0
+    inMap: true
+  '126':
+    player: bboy124
+    type: 57
+    loc: world,19976.0,45.0,17961.0
+    inMap: true
+  '127':
+    player: bboy124
+    type: 57
+    loc: world,19975.0,45.0,17963.0
+    inMap: true
+  '128':
+    player: brookdu81
+    type: 92
+    loc: world,9360.0,6.0,17695.0
+    inMap: true
+  '129':
+    player: zighapvp
+    type: 51
+    loc: world,5209.0,116.0,-15452.0
+    inMap: true
+  '130':
+    player: osmanlitorunu
+    type: 92
+    loc: world,13795.0,16.0,-17140.0
+    inMap: true
+  '131':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,16.0,-18436.0
+    inMap: true
+  '132':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,17.0,-18436.0
+    inMap: true
+  '133':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,17.0,-18433.0
+    inMap: true
+  '134':
+    player: karibo127
+    type: 57
+    loc: world,12727.0,15.0,-18440.0
+    inMap: true
+  '135':
+    player: _theodu13_
+    type: 92
+    loc: world,18448.0,40.0,14643.0
+    inMap: true
+  '136':
+    player: _theodu13_
+    type: 92
+    loc: world,18448.0,39.0,14643.0
+    inMap: true
+  '137':
+    player: _theodu13_
+    type: 92
+    loc: world,18448.0,41.0,14643.0
+    inMap: true
+  '138':
+    player: _theodu13_
+    type: 92
+    loc: world,16337.0,77.0,-4859.0
+    inMap: true
+  '139':
+    player: justmyskill
+    type: 92
+    loc: world,-10520.0,4.0,-1815.0
+    inMap: true
+  '140':
+    player: _theodu13_
+    type: 57
+    loc: world,18456.0,40.0,14640.0
+    inMap: true
+  '141':
+    player: _theodu13_
+    type: 57
+    loc: world,18456.0,41.0,14640.0
+    inMap: true
+  '142':
+    player: _theodu13_
+    type: 57
+    loc: world,18456.0,39.0,14640.0
+    inMap: true
+  '143':
+    player: justmyskill
+    type: 57
+    loc: world,-10527.0,6.0,-1817.0
+    inMap: true
+  '144':
+    player: _theodu13_
+    type: 57
+    loc: world,18456.0,39.0,14643.0
+    inMap: true
+  '145':
+    player: _theodu13_
+    type: 57
+    loc: world,18456.0,41.0,14643.0
+    inMap: true
+  '146':
+    player: _theodu13_
+    type: 57
+    loc: world,18456.0,40.0,14643.0
+    inMap: true
+  '147':
+    player: _theodu13_
+    type: 57
+    loc: world,18452.0,39.0,14643.0
+    inMap: true
+  '148':
+    player: _theodu13_
+    type: 57
+    loc: world,18452.0,40.0,14643.0
+    inMap: true
+  '149':
+    player: _theodu13_
+    type: 57
+    loc: world,18452.0,41.0,14643.0
+    inMap: true
+  '150':
+    player: _theodu13_
+    type: 57
+    loc: world,18452.0,39.0,14640.0
+    inMap: true
+  '151':
+    player: _theodu13_
+    type: 57
+    loc: world,18452.0,40.0,14640.0
+    inMap: true
+  '152':
+    player: _theodu13_
+    type: 57
+    loc: world,18452.0,41.0,14640.0
+    inMap: true
+  '153':
+    player: _theodu13_
+    type: 57
+    loc: world,18448.0,39.0,14640.0
+    inMap: true
+  '154':
+    player: _theodu13_
+    type: 57
+    loc: world,18448.0,40.0,14640.0
+    inMap: true
+  '155':
+    player: _theodu13_
+    type: 57
+    loc: world,18448.0,41.0,14640.0
+    inMap: true
+  '156':
+    player: pandaworld
+    type: 92
+    loc: world,-10467.0,4.0,14251.0
+    inMap: true
+  '157':
+    player: pandaworld
+    type: 92
+    loc: world,-3175.0,116.0,-4887.0
+    inMap: true
+  '158':
+    player: pandaworld
+    type: 92
+    loc: world,7577.0,5.0,-545.0
+    inMap: true
+  '159':
+    player: pandaworld
+    type: 92
+    loc: world,7586.0,6.0,-540.0
+    inMap: true
+  '160':
+    player: pandaworld
+    type: 57
+    loc: world,16884.0,14.0,15176.0
+    inMap: true
+  '161':
+    player: pandaworld
+    type: 57
+    loc: world,-10286.0,75.0,15293.0
+    inMap: true
+  '162':
+    player: pandaworld
+    type: 57
+    loc: world,16882.0,14.0,15176.0
+    inMap: true
+  '163':
+    player: pandaworld
+    type: 57
+    loc: world,16881.0,16.0,15172.0
+    inMap: true
+  '164':
+    player: pandaworld
+    type: 57
+    loc: world,16881.0,14.0,15172.0
+    inMap: true
+  '165':
+    player: pandaworld
+    type: 57
+    loc: world,16884.0,16.0,15172.0
+    inMap: true
+  '166':
+    player: netyy
+    type: 51
+    loc: world,-7375.0,50.0,-15030.0
+    inMap: true
+  '167':
+    player: netyy
+    type: 51
+    loc: world,-7375.0,51.0,-15030.0
+    inMap: true
+  '168':
+    player: netyy
+    type: 51
+    loc: world,-7372.0,50.0,-15030.0
+    inMap: true
+  '169':
+    player: netyy
+    type: 51
+    loc: world,-7372.0,51.0,-15030.0
+    inMap: true
+  '170':
+    player: netyy
+    type: 51
+    loc: world,7741.0,126.0,-5910.0
+    inMap: true
+  '171':
+    player: netyy
+    type: 51
+    loc: world,-7375.0,50.0,-15033.0
+    inMap: true
+  '172':
+    player: netyy
+    type: 51
+    loc: world,-7372.0,50.0,-15033.0
+    inMap: true
+  '173':
+    player: karibo127
+    type: 51
+    loc: world,12727.0,16.0,-18440.0
+    inMap: true
+  '174':
+    player: karibo127
+    type: 51
+    loc: world,12727.0,17.0,-18440.0
+    inMap: true
+  '175':
+    player: karibo127
+    type: 51
+    loc: world,12727.0,15.0,-18444.0
+    inMap: true
+  '176':
+    player: karibo127
+    type: 51
+    loc: world,12727.0,16.0,-18444.0
+    inMap: true
+  '177':
+    player: sniperdu30
+    type: 57
+    loc: world,-12549.0,72.0,14974.0
+    inMap: true
+  '178':
+    player: sniperdu30
+    type: 54
+    loc: world,-12549.0,73.0,14974.0
+    inMap: true
+  '179':
+    player: qcoxe
+    type: 107
+    loc: world,-7013.0,17.0,13543.0
+    inMap: true
+  '180':
+    player: qcoxe
+    type: 107
+    loc: world,-7013.0,17.0,13542.0
+    inMap: true
+  '181':
+    player: eragon951
+    type: 57
+    loc: world,-14077.0,37.0,-9127.0
+    inMap: true
+  '182':
+    player: eragon951
+    type: 57
+    loc: world,-14079.0,37.0,-9127.0
+    inMap: true
+  '183':
+    player: eragon951
+    type: 99
+    loc: world,-18811.0,71.0,-12916.0
+    inMap: true
+  '184':
+    player: eragon951
+    type: 92
+    loc: world,-18817.0,62.0,-12946.0
+    inMap: true
+  '185':
+    player: eragon951
+    type: 57
+    loc: world,-14075.0,37.0,-9127.0
+    inMap: true
+  '186':
+    player: eragon951
+    type: 57
+    loc: world,-14075.0,37.0,-9129.0
+    inMap: true
+  '187':
+    player: eragon951
+    type: 57
+    loc: world,-14077.0,37.0,-9129.0
+    inMap: true
+  '188':
+    player: eragon951
+    type: 57
+    loc: world,-14079.0,37.0,-9129.0
+    inMap: true
+  '189':
+    player: eragon951
+    type: 51
+    loc: world,-14079.0,37.0,-9131.0
+    inMap: true
+  '190':
+    player: bboy124
+    type: 51
+    loc: world,19974.0,45.0,17973.0
+    inMap: true
+  '191':
+    player: bboy124
+    type: 51
+    loc: world,19974.0,45.0,17977.0
+    inMap: true
+  '192':
+    player: bboy124
+    type: 51
+    loc: world,19977.0,46.0,17977.0
+    inMap: true
+  '193':
+    player: bboy124
+    type: 51
+    loc: world,19977.0,46.0,17975.0
+    inMap: true
+  '194':
+    player: cactus
+    type: 99
+    loc: world,-231.0,73.0,6599.0
+    inMap: true
+  '195':
+    player: cactus
+    type: 99
+    loc: world,-231.0,74.0,6599.0
+    inMap: true
+  '196':
+    player: cactus
+    type: 99
+    loc: world,-231.0,72.0,6599.0
+    inMap: true
+  '197':
+    player: cactus
+    type: 57
+    loc: world,-203.0,82.0,6571.0
+    inMap: true
+  '198':
+    player: cactus
+    type: 57
+    loc: world,-207.0,82.0,6574.0
+    inMap: true
+  '199':
+    player: twixy
+    type: 92
+    loc: world,9282.0,80.0,-9869.0
+    inMap: true
+  '200':
+    player: baobab
+    type: 99
+    loc: world,1946.0,10.0,-1439.0
+    inMap: true
+  '201':
+    player: virocl
+    type: 57
+    loc: world,8308.0,16.0,15303.0
+    inMap: true
+  '202':
+    player: virocl
+    type: 57
+    loc: world,8311.0,16.0,15303.0
+    inMap: true
+  '203':
+    player: virocl
+    type: 57
+    loc: world,8314.0,16.0,15303.0
+    inMap: true
+  '204':
+    player: virocl
+    type: 57
+    loc: world,8314.0,16.0,15306.0
+    inMap: true
+  '205':
+    player: virocl
+    type: 57
+    loc: world,8311.0,16.0,15306.0
+    inMap: true
+  '206':
+    player: virocl
+    type: 57
+    loc: world,8308.0,16.0,15306.0
+    inMap: true
+  '207':
+    player: virocl
+    type: 57
+    loc: world,8305.0,16.0,15306.0
+    inMap: true
+  '208':
+    player: keke91270
+    type: 51
+    loc: world,14204.0,10.0,-19108.0
+    inMap: true
+  '209':
+    player: jeremylol88
+    type: 51
+    loc: world,-7906.0,72.0,531.0
+    inMap: true
+  '210':
+    player: jeremylol88
+    type: 51
+    loc: world,-7907.0,72.0,531.0
+    inMap: true
+  '211':
+    player: jeremylol88
+    type: 51
+    loc: world,-7908.0,72.0,531.0
+    inMap: true
+  '212':
+    player: jeremylol88
+    type: 51
+    loc: world,-7909.0,72.0,531.0
+    inMap: true
+  '213':
+    player: sqkaa_
+    type: 57
+    loc: world,-19992.0,18.0,-15981.0
+    inMap: true
+  '214':
+    player: bboy124
+    type: 92
+    loc: world,19979.0,36.0,17960.0
+    inMap: true
+  '215':
+    player: bboy124
+    type: 92
+    loc: world,19983.0,36.0,17960.0
+    inMap: true
+  '216':
+    player: alexnorette
+    type: 51
+    loc: world,-4279.0,41.0,4583.0
+    inMap: true
+  '217':
+    player: alexnorette
+    type: 51
+    loc: world,-4282.0,41.0,4581.0
+    inMap: true
+  '218':
+    player: alexnorette
+    type: 92
+    loc: world,-4282.0,23.0,4623.0
+    inMap: true
+  '219':
+    player: alexnorette
+    type: 51
+    loc: world,-4280.0,41.0,4581.0
+    inMap: true
+  '220':
+    player: thechickenp0wer
+    type: 92
+    loc: world,11237.0,5.0,-11000.0
+    inMap: true
+  '221':
+    player: bboy124
+    type: 92
+    loc: world,19976.0,36.0,17962.0
+    inMap: true
+  '222':
+    player: bboy124
+    type: 92
+    loc: world,19977.0,36.0,17965.0
+    inMap: true
+  '223':
+    player: netyy
+    type: 92
+    loc: world,-7355.0,63.0,-15047.0
+    inMap: true
+  '224':
+    player: netyy
+    type: 92
+    loc: world,-7352.0,63.0,-15047.0
+    inMap: true
+  '225':
+    player: pingouincraft
+    type: 92
+    loc: world,441.0,41.0,-263.0
+    inMap: true
+  '226':
+    player: _arcike_
+    type: 99
+    loc: world,421.0,52.0,-262.0
+    inMap: true
+  '227':
+    player: fiask0
+    type: 57
+    loc: world,18477.0,40.0,15809.0
+    inMap: true
+  '228':
+    player: fiask0
+    type: 57
+    loc: world,18480.0,41.0,15806.0
+    inMap: true
+  '229':
+    player: fiask0
+    type: 57
+    loc: world,18480.0,40.0,15806.0
+    inMap: true
+  '230':
+    player: _guigui_
+    type: 51
+    loc: world,12827.0,6.0,-7844.0
+    inMap: true
+  '231':
+    player: whiskass
+    type: 57
+    loc: world,1769.0,16.0,12151.0
+    inMap: true
+  '232':
+    player: whiskass
+    type: 57
+    loc: world,1769.0,17.0,12151.0
+    inMap: true
+  '233':
+    player: whiskass
+    type: 57
+    loc: world,1771.0,16.0,12151.0
+    inMap: true
+  '234':
+    player: whiskass
+    type: 57
+    loc: world,1771.0,17.0,12151.0
+    inMap: true
+  '235':
+    player: tigerprime07
+    type: 57
+    loc: world,1767.0,17.0,12147.0
+    inMap: true
+  '236':
+    player: tigerprime07
+    type: 107
+    loc: world,1767.0,10.0,12137.0
+    inMap: true
+  '237':
+    player: _blitz_hugo
+    type: 92
+    loc: world,-11498.0,13.0,6865.0
+    inMap: true
+  '238':
+    player: tigerprime07
+    type: 107
+    loc: world,1770.0,10.0,12137.0
+    inMap: true
+  '239':
+    player: tigerprime07
+    type: 51
+    loc: world,18477.0,40.0,15803.0
+    inMap: true
+  '240':
+    player: tigerprime07
+    type: 51
+    loc: world,18480.0,41.0,15803.0
+    inMap: true
+  '241':
+    player: tigerprime07
+    type: 51
+    loc: world,18477.0,41.0,15803.0
+    inMap: true
+  '242':
+    player: tigerprime07
+    type: 51
+    loc: world,18474.0,40.0,15803.0
+    inMap: true
+  '243':
+    player: tigerprime07
+    type: 51
+    loc: world,18474.0,41.0,15803.0
+    inMap: true
+  '244':
+    player: deeprodole
+    type: 92
+    loc: world,-10368.0,40.0,4445.0
+    inMap: true
+  '245':
+    player: eazyo
+    type: 107
+    loc: world,7139.0,14.0,-8525.0
+    inMap: true
+  '246':
+    player: eazyo
+    type: 107
+    loc: world,7134.0,14.0,-8521.0
+    inMap: true
+  '247':
+    player: ew3l
+    type: 51
+    loc: world,11128.0,43.0,-11719.0
+    inMap: true
+  '248':
+    player: ew3l
+    type: 51
+    loc: world,11128.0,44.0,-11719.0
+    inMap: true
+  '249':
+    player: ew3l
+    type: 51
+    loc: world,11128.0,42.0,-11719.0
+    inMap: true
+  '250':
+    player: ew3l
+    type: 51
+    loc: world,11128.0,41.0,-11719.0
+    inMap: true
+  '251':
+    player: ew3l
+    type: 51
+    loc: world,11125.0,44.0,-11716.0
+    inMap: true
+  '252':
+    player: ew3l
+    type: 51
+    loc: world,11125.0,41.0,-11716.0
+    inMap: true
+  '253':
+    player: ew3l
+    type: 51
+    loc: world,11125.0,42.0,-11716.0
+    inMap: true
+  '254':
+    player: ew3l
+    type: 51
+    loc: world,11125.0,44.0,-11711.0
+    inMap: true
+  '255':
+    player: ew3l
+    type: 51
+    loc: world,11125.0,42.0,-11711.0
+    inMap: true
+  '256':
+    player: ew3l
+    type: 51
+    loc: world,11129.0,42.0,-11711.0
+    inMap: true
+  '257':
+    player: shqpeztamere
+    type: 51
+    loc: world,12739.0,13.0,-18438.0
+    inMap: true
+  '258':
+    player: shqpeztamere
+    type: 51
+    loc: world,12741.0,16.0,-18440.0
+    inMap: true
+  '259':
+    player: shqpeztamere
+    type: 51
+    loc: world,12741.0,15.0,-18440.0
+    inMap: true
+  '260':
+    player: shqpeztamere
+    type: 51
+    loc: world,12741.0,14.0,-18440.0
+    inMap: true
+  '261':
+    player: whiskass
+    type: 107
+    loc: world,1770.0,11.0,12140.0
+    inMap: true
+  '262':
+    player: whiskass
+    type: 107
+    loc: world,1767.0,11.0,12140.0
+    inMap: true
+  '263':
+    player: whiskass
+    type: 57
+    loc: world,1771.0,16.0,12149.0
+    inMap: true
+  '264':
+    player: whiskass
+    type: 57
+    loc: world,1771.0,17.0,12149.0
+    inMap: true
+  '265':
+    player: whiskass
+    type: 51
+    loc: world,18477.0,43.0,15800.0
+    inMap: true
+  '266':
+    player: whiskass
+    type: 51
+    loc: world,1769.0,16.0,12147.0
+    inMap: true
+  '267':
+    player: whiskass
+    type: 51
+    loc: world,1769.0,17.0,12147.0
+    inMap: true
+  '268':
+    player: whiskass
+    type: 51
+    loc: world,1767.0,16.0,12147.0
+    inMap: true
+  '269':
+    player: fiask0
+    type: 57
+    loc: world,18477.0,41.0,15806.0
+    inMap: true
+  '270':
+    player: fiask0
+    type: 57
+    loc: world,18474.0,40.0,15809.0
+    inMap: true
+  '271':
+    player: fiask0
+    type: 57
+    loc: world,18474.0,41.0,15809.0
+    inMap: true
+  '272':
+    player: fiask0
+    type: 57
+    loc: world,18480.0,40.0,15803.0
+    inMap: true
+  '273':
+    player: hurricanetiger
+    type: 57
+    loc: world,18480.0,40.0,15800.0
+    inMap: true
+  '274':
+    player: hurricanetiger
+    type: 57
+    loc: world,18480.0,41.0,15800.0
+    inMap: true
+  '275':
+    player: hurricanetiger
+    type: 57
+    loc: world,18474.0,40.0,15800.0
+    inMap: true
+  '276':
+    player: tigerprime07
+    type: 107
+    loc: world,1767.0,10.0,12134.0
+    inMap: true
+  '277':
+    player: hurricanetiger
+    type: 57
+    loc: world,18474.0,41.0,15800.0
+    inMap: true
+  '278':
+    player: hurricanetiger
+    type: 57
+    loc: world,18477.0,40.0,15800.0
+    inMap: true
+  '279':
+    player: hurricanetiger
+    type: 57
+    loc: world,18477.0,41.0,15800.0
+    inMap: true
+  '280':
+    player: hurricanetiger
+    type: 57
+    loc: world,18474.0,40.0,15806.0
+    inMap: true
+  '281':
+    player: hurricanetiger
+    type: 57
+    loc: world,18474.0,41.0,15806.0
+    inMap: true
+  '282':
+    player: hurricanetiger
+    type: 57
+    loc: world,18480.0,40.0,15803.0
+    inMap: true
+  '283':
+    player: hurricanetiger
+    type: 57
+    loc: world,18477.0,40.0,15806.0
+    inMap: true
+  '284':
+    player: bananepomme
+    type: 51
+    loc: world,8074.0,16.0,-9984.0
+    inMap: true
+  '285':
+    player: bananepomme
+    type: 51
+    loc: world,8072.0,16.0,-9983.0
+    inMap: true
+  '286':
+    player: smatemm
+    type: 51
+    loc: world,-18232.0,58.0,15115.0
+    inMap: true
+  '287':
+    player: atsuky
+    type: 51
+    loc: world,-10364.0,48.0,4425.0
+    inMap: true
+  '288':
+    player: snowy
+    type: 51
+    loc: world,-4074.0,65.0,4495.0
+    inMap: true
+  '289':
+    player: _zwiiko_
+    type: 51
+    loc: world,9354.0,21.0,17691.0
+    inMap: true
+  '290':
+    player: _zwiiko_
+    type: 51
+    loc: world,9356.0,22.0,17691.0
+    inMap: true
+  '291':
+    player: _zwiiko_
+    type: 51
+    loc: world,9356.0,21.0,17691.0
+    inMap: true
+  '292':
+    player: empereur300
+    type: 51
+    loc: world,-16963.0,75.0,-35.0
+    inMap: true
+  '293':
+    player: bananna_yt
+    type: 51
+    loc: world,8308.0,15.0,15303.0
+    inMap: true
+  '294':
+    player: bananna_yt
+    type: 51
+    loc: world,8308.0,13.0,15303.0
+    inMap: true
+  '295':
+    player: bananna_yt
+    type: 51
+    loc: world,8305.0,15.0,15303.0
+    inMap: true
+  '296':
+    player: bananna_yt
+    type: 92
+    loc: world,15604.0,220.0,14900.0
+    inMap: true
+  '297':
+    player: bananna_yt
+    type: 92
+    loc: world,15603.0,220.0,14901.0
+    inMap: true
+  '298':
+    player: bananna_yt
+    type: 51
+    loc: world,8305.0,14.0,15303.0
+    inMap: true
+  '299':
+    player: axurit902
+    type: 51
+    loc: world,-2472.0,14.0,4086.0
+    inMap: true
+  '300':
+    player: bananna_yt
+    type: 51
+    loc: world,8305.0,15.0,15306.0
+    inMap: true
+  '301':
+    player: le0_86
+    type: 54
+    loc: world,15965.0,68.0,-5736.0
+    inMap: true
+  '302':
+    player: idreyzen
+    type: 57
+    loc: world,12737.0,13.0,-18439.0
+    inMap: true
+  '303':
+    player: idreyzen
+    type: 57
+    loc: world,12739.0,14.0,-18440.0
+    inMap: true
+  '304':
+    player: idreyzen
+    type: 57
+    loc: world,12739.0,13.0,-18440.0
+    inMap: true
+  '305':
+    player: eragon951
+    type: 99
+    loc: world,-18811.0,71.0,-12915.0
+    inMap: true
+  '306':
+    player: eragon951
+    type: 99
+    loc: world,-18811.0,71.0,-12914.0
+    inMap: true
+  '307':
+    player: eragon951
+    type: 51
+    loc: world,-14075.0,37.0,-9131.0
+    inMap: true
+  '308':
+    player: ew3l
+    type: 51
+    loc: world,11129.0,41.0,-11711.0
+    inMap: true
+  '309':
+    player: ew3l
+    type: 51
+    loc: world,11129.0,44.0,-11711.0
+    inMap: true
+  '310':
+    player: dropzzz_pvp
+    type: 57
+    loc: world,-14684.0,16.0,13035.0
+    inMap: true
+  '311':
+    player: dropzzz_pvp
+    type: 57
+    loc: world,-14677.0,15.0,13035.0
+    inMap: true
+  '312':
+    player: qcoxe
+    type: 107
+    loc: world,-7013.0,17.0,13541.0
+    inMap: true
+  '313':
+    player: qcoxe
+    type: 107
+    loc: world,-7013.0,17.0,13540.0
+    inMap: true
+  '314':
+    player: onlybedotecombo
+    type: 51
+    loc: 'null'
+  '315':
+    player: onlybedotecombo
+    type: 51
+    loc: 'null'
+  '316':
+    player: onlybedotecombo
+    type: 51
+    loc: 'null'
+  '317':
+    player: _zwiiko_
+    type: 51
+    loc: world,9356.0,20.0,17691.0
+    inMap: true
+  '318':
+    player: _zwiiko_
+    type: 51
+    loc: world,9358.0,23.0,17692.0
+    inMap: true
+  '319':
+    player: _zwiiko_
+    type: 51
+    loc: world,9361.0,21.0,17692.0
+    inMap: true
+  '320':
+    player: oow_ll
+    type: 51
+    loc: world,11186.0,62.0,3514.0
+    inMap: true
+  '321':
+    player: oow_ll
+    type: 51
+    loc: world,11186.0,61.0,3514.0
+    inMap: true
+  '322':
+    player: _zwiiko_
+    type: 51
+    loc: world,9355.0,22.0,17691.0
+    inMap: true
+  '323':
+    player: _zwiiko_
+    type: 51
+    loc: world,9355.0,20.0,17691.0
+    inMap: true
+  '324':
+    player: _zwiiko_
+    type: 51
+    loc: world,-15165.0,62.0,801.0
+    inMap: true
+  '325':
+    player: _zwiiko_
+    type: 51
+    loc: world,-15165.0,63.0,801.0
+    inMap: true
+  '326':
+    player: aztronix
+    type: 107
+    loc: world,-1460.0,4.0,-7091.0
+    inMap: true
+  '327':
+    player: paul15440
+    type: 57
+    loc: world,8238.0,28.0,-4751.0
+    inMap: true
+  '328':
+    player: paul15440
+    type: 57
+    loc: world,8237.0,28.0,-4747.0
+    inMap: true
+  '329':
+    player: paul15440
+    type: 57
+    loc: world,8241.0,28.0,-4751.0
+    inMap: true
+  '330':
+    player: paul15440
+    type: 57
+    loc: world,8241.0,28.0,-4747.0
+    inMap: true
+  '331':
+    player: paul15440
+    type: 57
+    loc: world,8241.0,28.0,-4754.0
+    inMap: true
+  '332':
+    player: paul15440
+    type: 57
+    loc: world,8242.0,28.0,-4758.0
+    inMap: true
+  '333':
+    player: floutiz_z
+    type: 51
+    loc: world,-15016.0,64.0,4087.0
+    inMap: true
+  '334':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14813.0,35.0,8128.0
+    inMap: true
+  '335':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14816.0,35.0,8128.0
+    inMap: true
+  '336':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14819.0,35.0,8128.0
+    inMap: true
+  '337':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14822.0,35.0,8128.0
+    inMap: true
+  '338':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14822.0,36.0,8128.0
+    inMap: true
+  '339':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14816.0,36.0,8128.0
+    inMap: true
+  '340':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14819.0,36.0,8128.0
+    inMap: true
+  '341':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14813.0,36.0,8128.0
+    inMap: true
+  '342':
+    player: thechickenp0wer
+    type: 92
+    loc: world,11239.0,5.0,-11002.0
+    inMap: true
+  '343':
+    player: _zwiiko_
+    type: 92
+    loc: world,8917.0,52.0,-3722.0
+    inMap: true
+  '344':
+    player: xxvoltirxx
+    type: 57
+    loc: world,-16837.0,16.0,-7014.0
+    inMap: true
+  '345':
+    player: xxvoltirxx
+    type: 57
+    loc: world,-16837.0,17.0,-7014.0
+    inMap: true
+  '346':
+    player: xxvoltirxx
+    type: 57
+    loc: world,-16837.0,18.0,-7014.0
+    inMap: true
+  '347':
+    player: xxvoltirxx
+    type: 57
+    loc: world,-16837.0,15.0,-7014.0
+    inMap: true
+  '348':
+    player: bluesuryoutube
+    type: 51
+    loc: world,7919.0,65.0,751.0
+    inMap: true
+  '349':
+    player: imperator122
+    type: 51
+    loc: world,-10808.0,75.0,-15212.0
+    inMap: true
+  '350':
+    player: imperator122
+    type: 51
+    loc: world,-10808.0,76.0,-15212.0
+    inMap: true
+  '351':
+    player: imperator122
+    type: 51
+    loc: world,-10808.0,77.0,-15212.0
+    inMap: true
+  '352':
+    player: imperator122
+    type: 51
+    loc: world,-10812.0,77.0,-15212.0
+    inMap: true
+  '353':
+    player: imperator122
+    type: 51
+    loc: world,-10812.0,76.0,-15212.0
+    inMap: true
+  '354':
+    player: craziix_eu
+    type: 57
+    loc: world,15127.0,69.0,19857.0
+    inMap: true
+  '355':
+    player: craziix_eu
+    type: 57
+    loc: world,15123.0,69.0,19857.0
+    inMap: true
+  '356':
+    player: craziix_eu
+    type: 57
+    loc: world,15119.0,69.0,19857.0
+    inMap: true
+  '357':
+    player: craziix_eu
+    type: 57
+    loc: world,15119.0,69.0,19852.0
+    inMap: true
+  '358':
+    player: yolopvp
+    type: 51
+    loc: world,-18006.0,4.0,-15230.0
+    inMap: true
+  '359':
+    player: tigerprime07
+    type: 107
+    loc: world,1770.0,10.0,12134.0
+    inMap: true
+  '360':
+    player: karibo127
+    type: 92
+    loc: world,-4130.0,62.0,-3375.0
+    inMap: true
+  '361':
+    player: karibo127
+    type: 92
+    loc: world,-4130.0,62.0,-3373.0
+    inMap: true
+  '362':
+    player: zrk_warthog
+    type: 54
+    loc: world,-17882.0,51.0,-10358.0
+    inMap: true
+  '363':
+    player: black_shadow
+    type: 57
+    loc: world,-16057.0,38.0,9508.0
+    inMap: true
+  '364':
+    player: black_shadow
+    type: 57
+    loc: world,-16057.0,39.0,9508.0
+    inMap: true
+  '365':
+    player: black_shadow
+    type: 51
+    loc: world,-16057.0,40.0,9508.0
+    inMap: true
+  '366':
+    player: shiiq271
+    type: 57
+    loc: world,11179.0,62.0,3501.0
+    inMap: true
+  '367':
+    player: shiiq271
+    type: 57
+    loc: world,11179.0,61.0,3501.0
+    inMap: true
+  '368':
+    player: darkraft
+    type: 57
+    loc: world,11303.0,30.0,-9269.0
+    inMap: true
+  '369':
+    player: darkraft
+    type: 57
+    loc: world,11300.0,30.0,-9269.0
+    inMap: true
+  '370':
+    player: darkraft
+    type: 57
+    loc: world,11300.0,30.0,-9272.0
+    inMap: true
+  '371':
+    player: darkraft
+    type: 57
+    loc: world,11309.0,30.0,-9275.0
+    inMap: true
+  '372':
+    player: darkraft
+    type: 57
+    loc: world,11300.0,30.0,-9275.0
+    inMap: true
+  '373':
+    player: darkraft
+    type: 57
+    loc: world,11303.0,29.0,-9272.0
+    inMap: true
+  '374':
+    player: ryvalke
+    type: 107
+    loc: world,-14313.0,4.0,13800.0
+    inMap: true
+  '375':
+    player: eragon951
+    type: 99
+    loc: world,-18810.0,71.0,-12914.0
+    inMap: true
+  '376':
+    player: eragon951
+    type: 57
+    loc: world,-14077.0,37.0,-9131.0
+    inMap: true
+  '377':
+    player: multifir42
+    type: 107
+    loc: world,-14317.0,33.0,13812.0
+    inMap: true
+  '378':
+    player: tinmar
+    type: 92
+    loc: world,18450.0,29.0,14651.0
+    inMap: true
+  '379':
+    player: mai1905
+    type: 51
+    loc: world,-12606.0,14.0,4651.0
+    inMap: true
+  '380':
+    player: mai1905
+    type: 51
+    loc: world,-12612.0,14.0,4651.0
+    inMap: true
+  '381':
+    player: mai1905
+    type: 92
+    loc: world,-12614.0,12.0,4660.0
+    inMap: true
+  '382':
+    player: absol022
+    type: 51
+    loc: world,-1809.0,66.0,-15891.0
+    inMap: true
+  '383':
+    player: absol022
+    type: 51
+    loc: world,-1811.0,66.0,-15892.0
+    inMap: true
+  '384':
+    player: absol022
+    type: 51
+    loc: world,-1807.0,66.0,-15892.0
+    inMap: true
+  '385':
+    player: tibs
+    type: 51
+    loc: world,-2475.0,14.0,4083.0
+    inMap: true
+  '386':
+    player: wolfyx_yt
+    type: 54
+    loc: world,-2374.0,36.0,-8290.0
+    inMap: true
+  '387':
+    player: shiiq271
+    type: 92
+    loc: world,-437.0,31.0,-421.0
+    inMap: true
+  '388':
+    player: amine
+    type: 99
+    loc: world,7039.0,15.0,-9029.0
+    inMap: true
+  '389':
+    player: amine
+    type: 99
+    loc: world,7041.0,15.0,-9027.0
+    inMap: true
+  '390':
+    player: amine
+    type: 99
+    loc: world,7041.0,14.0,-9027.0
+    inMap: true
+  '391':
+    player: amine
+    type: 99
+    loc: world,7042.0,15.0,-9029.0
+    inMap: true
+  '392':
+    player: amine
+    type: 99
+    loc: world,7039.0,14.0,-9029.0
+    inMap: true
+  '393':
+    player: amine
+    type: 99
+    loc: world,7042.0,14.0,-9029.0
+    inMap: true
+  '394':
+    player: amine
+    type: 54
+    loc: world,11451.0,6.0,-4149.0
+    inMap: true
+  '395':
+    player: amine
+    type: 54
+    loc: world,11451.0,6.0,-4154.0
+    inMap: true
+  '396':
+    player: davlow_
+    type: 57
+    loc: world,-19919.0,17.0,-6134.0
+    inMap: true
+  '397':
+    player: davlow_
+    type: 57
+    loc: world,-19918.0,18.0,-6132.0
+    inMap: true
+  '398':
+    player: davlow_
+    type: 51
+    loc: world,-19920.0,17.0,-6133.0
+    inMap: true
+  '399':
+    player: imkoozen
+    type: 57
+    loc: world,11181.0,62.0,3499.0
+    inMap: true
+  '400':
+    player: flawz
+    type: 107
+    loc: world,-11706.0,4.0,9819.0
+    inMap: true
+  '401':
+    player: flawz
+    type: 107
+    loc: world,-11704.0,4.0,9823.0
+    inMap: true
+  '402':
+    player: ytbibossyt
+    type: 51
+    loc: world,12736.0,15.0,-18437.0
+    inMap: true
+  '403':
+    player: ytbibossyt
+    type: 92
+    loc: world,17017.0,28.0,-14797.0
+    inMap: true
+  '404':
+    player: khorio
+    type: 54
+    loc: world,14259.0,25.0,7752.0
+    inMap: true
+  '405':
+    player: khorio
+    type: 54
+    loc: world,14259.0,26.0,7752.0
+    inMap: true
+  '406':
+    player: khorio
+    type: 54
+    loc: world,14259.0,25.0,7749.0
+    inMap: true
+  '407':
+    player: davlow_
+    type: 57
+    loc: world,-19919.0,17.0,-6133.0
+    inMap: true
+  '408':
+    player: twixy
+    type: 107
+    loc: world,8079.0,6.0,-10000.0
+    inMap: true
+  '409':
+    player: twixy
+    type: 51
+    loc: world,8069.0,16.0,-9983.0
+    inMap: true
+  '410':
+    player: twixy
+    type: 51
+    loc: world,8075.0,16.0,-9983.0
+    inMap: true
+  '411':
+    player: xxsubxx
+    type: 51
+    loc: world,18459.0,30.0,14652.0
+    inMap: true
+  '412':
+    player: xxsubxx
+    type: 51
+    loc: world,18459.0,31.0,14652.0
+    inMap: true
+  '413':
+    player: amirdenain
+    type: 51
+    loc: world,14249.0,22.0,16217.0
+    inMap: true
+  '414':
+    player: amirdenain
+    type: 51
+    loc: world,14249.0,23.0,16217.0
+    inMap: true
+  '415':
+    player: amirdenain
+    type: 51
+    loc: world,14249.0,22.0,16216.0
+    inMap: true
+  '416':
+    player: amirdenain
+    type: 51
+    loc: world,14249.0,23.0,16216.0
+    inMap: true
+  '417':
+    player: atsuky
+    type: 57
+    loc: world,-10357.0,48.0,4425.0
+    inMap: true
+  '418':
+    player: atsuky
+    type: 57
+    loc: world,-10357.0,47.0,4425.0
+    inMap: true
+  '419':
+    player: atsuky
+    type: 57
+    loc: world,-10353.0,50.0,4429.0
+    inMap: true
+  '420':
+    player: atsuky
+    type: 57
+    loc: world,-10353.0,49.0,4429.0
+    inMap: true
+  '421':
+    player: atsuky
+    type: 57
+    loc: world,-10357.0,50.0,4429.0
+    inMap: true
+  '422':
+    player: 1chunks_
+    type: 51
+    loc: world,16992.0,14.0,8672.0
+    inMap: true
+  '423':
+    player: stickyjulio
+    type: 51
+    loc: 'null'
+  '424':
+    player: stickyjulio
+    type: 51
+    loc: 'null'
+  '425':
+    player: stickyjulio
+    type: 51
+    loc: 'null'
+  '426':
+    player: stickyjulio
+    type: 51
+    loc: 'null'
+  '427':
+    player: stickyjulio
+    type: 51
+    loc: 'null'
+  '428':
+    player: _topui_
+    type: 99
+    loc: world,-11231.0,46.0,15517.0
+    inMap: true
+  '429':
+    player: _topui_
+    type: 99
+    loc: world,-11230.0,46.0,15519.0
+    inMap: true
+  '430':
+    player: _topui_
+    type: 99
+    loc: world,-11233.0,46.0,15520.0
+    inMap: true
+  '431':
+    player: _topui_
+    type: 99
+    loc: world,-11235.0,46.0,15518.0
+    inMap: true
+  '432':
+    player: _topui_
+    type: 99
+    loc: world,-11236.0,46.0,15521.0
+    inMap: true
+  '433':
+    player: _topui_
+    type: 99
+    loc: world,-11237.0,46.0,15517.0
+    inMap: true
+  '434':
+    player: _topui_
+    type: 99
+    loc: world,-11233.0,46.0,15516.0
+    inMap: true
+  '435':
+    player: _topui_
+    type: 57
+    loc: world,12739.0,14.0,-18438.0
+    inMap: true
+  '436':
+    player: _topui_
+    type: 57
+    loc: world,12739.0,15.0,-18438.0
+    inMap: true
+  '437':
+    player: darkraft
+    type: 92
+    loc: world,11299.0,20.0,-9268.0
+    inMap: true
+  '438':
+    player: darkraft
+    type: 92
+    loc: world,11299.0,20.0,-9275.0
+    inMap: true
+  '439':
+    player: darkraft
+    type: 92
+    loc: world,11299.0,20.0,-9273.0
+    inMap: true
+  '440':
+    player: darkraft
+    type: 92
+    loc: world,11299.0,20.0,-9270.0
+    inMap: true
+  '441':
+    player: darkraft
+    type: 92
+    loc: world,11301.0,20.0,-9275.0
+    inMap: true
+  '442':
+    player: rayzfire
+    type: 51
+    loc: world,-18811.0,62.0,-12937.0
+    inMap: true
+  '443':
+    player: rayzfire
+    type: 51
+    loc: world,-18804.0,62.0,-12948.0
+    inMap: true
+  '444':
+    player: rayzfire
+    type: 51
+    loc: world,-18806.0,62.0,-12948.0
+    inMap: true
+  '445':
+    player: rayzfire
+    type: 51
+    loc: world,-18805.0,62.0,-12946.0
+    inMap: true
+  '446':
+    player: lakitaw
+    type: 57
+    loc: world,16138.0,21.0,-262.0
+    inMap: true
+  '447':
+    player: lakitaw
+    type: 57
+    loc: world,16135.0,21.0,-262.0
+    inMap: true
+  '448':
+    player: lakitaw
+    type: 57
+    loc: world,16135.0,21.0,-265.0
+    inMap: true
+  '449':
+    player: blackwhite010
+    type: 57
+    loc: world,12738.0,15.0,-18436.0
+    inMap: true
+  '450':
+    player: blackwhite010
+    type: 57
+    loc: world,12736.0,16.0,-18437.0
+    inMap: true
+  '451':
+    player: pepsicoca
+    type: 51
+    loc: world,-10361.0,50.0,4425.0
+    inMap: true
+  '452':
+    player: pepsicoca
+    type: 51
+    loc: world,-10364.0,47.0,4433.0
+    inMap: true
+  '453':
+    player: pepsicoca
+    type: 51
+    loc: world,-16165.0,18.0,-19809.0
+    inMap: true
+  '454':
+    player: pepsicoca
+    type: 51
+    loc: world,-10364.0,48.0,4433.0
+    inMap: true
+  '455':
+    player: fallohio
+    type: 107
+    loc: 'null'
+  '456':
+    player: fallohio
+    type: 107
+    loc: 'null'
+  '457':
+    player: fallohio
+    type: 107
+    loc: 'null'
+  '458':
+    player: fallohio
+    type: 107
+    loc: 'null'
+  '459':
+    player: fallohio
+    type: 51
+    loc: 'null'
+  '460':
+    player: fallohio
+    type: 51
+    loc: 'null'
+  '461':
+    player: fallohio
+    type: 51
+    loc: 'null'
+  '462':
+    player: fallohio
+    type: 51
+    loc: 'null'
+  '463':
+    player: fallohio
+    type: 51
+    loc: 'null'
+  '464':
+    player: elumix
+    type: 51
+    loc: world,-3001.0,26.0,-12998.0
+    inMap: true
+  '465':
+    player: shqpeztamere
+    type: 51
+    loc: world,12741.0,16.0,-18437.0
+    inMap: true
+  '466':
+    player: shqpeztamere
+    type: 51
+    loc: world,12741.0,15.0,-18437.0
+    inMap: true
+  '467':
+    player: shqpeztamere
+    type: 51
+    loc: world,12741.0,14.0,-18437.0
+    inMap: true
+  '468':
+    player: empereur300
+    type: 51
+    loc: world,-16963.0,76.0,-35.0
+    inMap: true
+  '469':
+    player: empereur300
+    type: 51
+    loc: world,-16965.0,75.0,-35.0
+    inMap: true
+  '470':
+    player: empereur300
+    type: 51
+    loc: world,-16965.0,76.0,-35.0
+    inMap: true
+  '471':
+    player: empereur300
+    type: 51
+    loc: world,-16963.0,75.0,-37.0
+    inMap: true
+  '472':
+    player: ignir
+    type: 51
+    loc: world,-5882.0,19.0,9268.0
+    inMap: true
+  '473':
+    player: mrkebab
+    type: 51
+    loc: world,11811.0,82.0,-2795.0
+    inMap: true
+  '474':
+    player: sk_akirt
+    type: 51
+    loc: world,422.0,34.0,-427.0
+    inMap: true
+  '475':
+    player: sk_akirt
+    type: 51
+    loc: world,419.0,34.0,-427.0
+    inMap: true
+  '476':
+    player: azizlapoite
+    type: 57
+    loc: world,15840.0,53.0,16568.0
+    inMap: true
+  '477':
+    player: azizlapoite
+    type: 57
+    loc: world,15840.0,52.0,16568.0
+    inMap: true
+  '478':
+    player: azizlapoite
+    type: 92
+    loc: world,15865.0,67.0,16574.0
+    inMap: true
+  '479':
+    player: mire
+    type: 57
+    loc: world,-3004.0,27.0,-12995.0
+    inMap: true
+  '480':
+    player: ayken
+    type: 57
+    loc: world,19681.0,57.0,13184.0
+    inMap: true
+  '481':
+    player: zrk_warthog
+    type: 99
+    loc: world,-17873.0,63.0,-10357.0
+    inMap: true
+  '482':
+    player: zrk_warthog
+    type: 99
+    loc: world,-17873.0,63.0,-10360.0
+    inMap: true
+  '483':
+    player: zrk_warthog
+    type: 92
+    loc: world,-12023.0,5.0,-3844.0
+    inMap: true
+  '484':
+    player: zrk_warthog
+    type: 92
+    loc: world,-12022.0,5.0,-3846.0
+    inMap: true
+  '485':
+    player: sunsteal_
+    type: 92
+    loc: world,-1837.0,90.0,-13046.0
+    inMap: true
+  '486':
+    player: aleksei
+    type: 51
+    loc: world,-16764.0,65.0,223.0
+    inMap: true
+  '487':
+    player: qcoxe
+    type: 107
+    loc: world,-7013.0,17.0,13539.0
+    inMap: true
+  '488':
+    player: qcoxe
+    type: 107
+    loc: world,-7013.0,17.0,13538.0
+    inMap: true
+  '489':
+    player: qcoxe
+    type: 107
+    loc: world,-7020.0,17.0,13543.0
+    inMap: true
+  '490':
+    player: qcoxe
+    type: 107
+    loc: world,-7020.0,17.0,13542.0
+    inMap: true
+  '491':
+    player: qcoxe
+    type: 107
+    loc: world,-7020.0,17.0,13541.0
+    inMap: true
+  '492':
+    player: zrk_warthog
+    type: 99
+    loc: world,-17873.0,62.0,-10357.0
+    inMap: true
+  '493':
+    player: zrk_warthog
+    type: 99
+    loc: world,-17873.0,62.0,-10360.0
+    inMap: true
+  '494':
+    player: zrk_warthog
+    type: 57
+    loc: world,-17880.0,51.0,-10356.0
+    inMap: true
+  '495':
+    player: zrk_warthog
+    type: 57
+    loc: world,-17879.0,51.0,-10356.0
+    inMap: true
+  '496':
+    player: zrk_warthog
+    type: 57
+    loc: world,-17882.0,51.0,-10359.0
+    inMap: true
+  '497':
+    player: zrk_warthog
+    type: 57
+    loc: world,-17880.0,50.0,-10356.0
+    inMap: true
+  '498':
+    player: zrk_warthog
+    type: 92
+    loc: world,-12023.0,5.0,-3847.0
+    inMap: true
+  '499':
+    player: zrk_warthog
+    type: 57
+    loc: world,-17879.0,50.0,-10356.0
+    inMap: true
+  '500':
+    player: totosam17
+    type: 57
+    loc: world,12732.0,15.0,-18442.0
+    inMap: true
+  '501':
+    player: totosam17
+    type: 57
+    loc: world,12732.0,14.0,-18442.0
+    inMap: true
+  '502':
+    player: totosam17
+    type: 57
+    loc: world,12732.0,15.0,-18445.0
+    inMap: true
+  '503':
+    player: totosam17
+    type: 57
+    loc: world,12732.0,14.0,-18445.0
+    inMap: true
+  '504':
+    player: minethuglife
+    type: 51
+    loc: world,9367.0,20.0,17692.0
+    inMap: true
+  '505':
+    player: minethuglife
+    type: 51
+    loc: world,9364.0,21.0,17692.0
+    inMap: true
+  '506':
+    player: agoniel
+    type: 107
+    loc: world,-5060.0,19.0,-16066.0
+    inMap: true
+  '507':
+    player: agoniel
+    type: 107
+    loc: world,-5065.0,19.0,-16074.0
+    inMap: true
+  '508':
+    player: agoniel
+    type: 107
+    loc: world,-5055.0,19.0,-16072.0
+    inMap: true
+  '509':
+    player: agoniel
+    type: 51
+    loc: world,69.0,25.0,-19532.0
+    inMap: true
+  '510':
+    player: agoniel
+    type: 51
+    loc: world,69.0,23.0,-19532.0
+    inMap: true
+  '511':
+    player: agoniel
+    type: 51
+    loc: world,69.0,25.0,-19529.0
+    inMap: true
+  '512':
+    player: agoniel
+    type: 51
+    loc: world,69.0,23.0,-19529.0
+    inMap: true
+  '513':
+    player: agoniel
+    type: 51
+    loc: world,69.0,25.0,-19526.0
+    inMap: true
+  '514':
+    player: agoniel
+    type: 51
+    loc: world,69.0,23.0,-19526.0
+    inMap: true
+  '515':
+    player: agoniel
+    type: 51
+    loc: world,72.0,25.0,-19523.0
+    inMap: true
+  '516':
+    player: agoniel
+    type: 51
+    loc: world,74.0,25.0,-19526.0
+    inMap: true
+  '517':
+    player: agoniel
+    type: 51
+    loc: world,74.0,23.0,-19526.0
+    inMap: true
+  '518':
+    player: agoniel
+    type: 51
+    loc: world,74.0,25.0,-19529.0
+    inMap: true
+  '519':
+    player: agoniel
+    type: 51
+    loc: world,74.0,23.0,-19529.0
+    inMap: true
+  '520':
+    player: agoniel
+    type: 51
+    loc: world,74.0,25.0,-19532.0
+    inMap: true
+  '521':
+    player: agoniel
+    type: 51
+    loc: world,74.0,23.0,-19532.0
+    inMap: true
+  '522':
+    player: agoniel
+    type: 51
+    loc: world,71.0,25.0,-19534.0
+    inMap: true
+  '523':
+    player: ludo63
+    type: 107
+    loc: world,1521.0,138.0,-11503.0
+    inMap: true
+  '524':
+    player: agoniel
+    type: 92
+    loc: world,-5062.0,10.0,-16051.0
+    inMap: true
+  '525':
+    player: agoniel
+    type: 92
+    loc: world,-5064.0,10.0,-16051.0
+    inMap: true
+  '526':
+    player: agoniel
+    type: 92
+    loc: world,-5064.0,10.0,-16041.0
+    inMap: true
+  '527':
+    player: agoniel
+    type: 92
+    loc: world,-5063.0,10.0,-16041.0
+    inMap: true
+  '528':
+    player: agoniel
+    type: 92
+    loc: world,-5062.0,10.0,-16041.0
+    inMap: true
+  '529':
+    player: agoniel
+    type: 92
+    loc: world,-5063.0,10.0,-16051.0
+    inMap: true
+  '530':
+    player: ludo63
+    type: 51
+    loc: world,1496.0,147.0,-11506.0
+    inMap: true
+  '531':
+    player: ludo63
+    type: 51
+    loc: world,1492.0,147.0,-11506.0
+    inMap: true
+  '532':
+    player: infinity_du59
+    type: 51
+    loc: world,-2873.0,17.0,15082.0
+    inMap: true
+  '533':
+    player: infinity_du59
+    type: 51
+    loc: world,-2873.0,16.0,15082.0
+    inMap: true
+  '534':
+    player: infinity_du59
+    type: 51
+    loc: world,-2873.0,15.0,15082.0
+    inMap: true
+  '535':
+    player: infinity_du59
+    type: 51
+    loc: world,-2876.0,15.0,15079.0
+    inMap: true
+  '536':
+    player: agoniel
+    type: 99
+    loc: world,-5070.0,33.0,-16089.0
+    inMap: true
+  '537':
+    player: drakoz_
+    type: 51
+    loc: world,2139.0,17.0,15108.0
+    inMap: true
+  '538':
+    player: crafteam4
+    type: 51
+    loc: world,-11486.0,74.0,12235.0
+    inMap: true
+  '539':
+    player: crafteam4
+    type: 51
+    loc: world,-11486.0,74.0,12229.0
+    inMap: true
+  '540':
+    player: crafteam4
+    type: 51
+    loc: world,-11483.0,74.0,12228.0
+    inMap: true
+  '541':
+    player: louno34
+    type: 57
+    loc: world,-12512.0,13.0,-18317.0
+    inMap: true
+  '542':
+    player: louno34
+    type: 57
+    loc: world,-12512.0,12.0,-18317.0
+    inMap: true
+  '543':
+    player: louno34
+    type: 57
+    loc: world,-12512.0,14.0,-18314.0
+    inMap: true
+  '544':
+    player: louno34
+    type: 57
+    loc: world,-12512.0,13.0,-18314.0
+    inMap: true
+  '545':
+    player: louno34
+    type: 57
+    loc: world,-12512.0,12.0,-18314.0
+    inMap: true
+  '546':
+    player: louno34
+    type: 57
+    loc: world,-12518.0,14.0,-18314.0
+    inMap: true
+  '547':
+    player: louno34
+    type: 57
+    loc: world,-12518.0,13.0,-18314.0
+    inMap: true
+  '548':
+    player: louno34
+    type: 57
+    loc: world,-12518.0,12.0,-18314.0
+    inMap: true
+  '549':
+    player: antmaniii
+    type: 57
+    loc: world,-1490.0,10.0,10116.0
+    inMap: true
+  '550':
+    player: antmaniii
+    type: 92
+    loc: world,-16546.0,88.0,19728.0
+    inMap: true
+  '551':
+    player: variax
+    type: 51
+    loc: world,-11342.0,37.0,16831.0
+    inMap: true
+  '552':
+    player: popeye
+    type: 57
+    loc: world,-11691.0,24.0,8410.0
+    inMap: true
+  '553':
+    player: popeye
+    type: 57
+    loc: world,-11691.0,23.0,8410.0
+    inMap: true
+  '554':
+    player: popeye
+    type: 57
+    loc: world,-11691.0,22.0,8410.0
+    inMap: true
+  '555':
+    player: popeye
+    type: 57
+    loc: world,-11691.0,24.0,8405.0
+    inMap: true
+  '556':
+    player: popeye
+    type: 57
+    loc: world,-11691.0,23.0,8405.0
+    inMap: true
+  '557':
+    player: popeye
+    type: 57
+    loc: world,-11691.0,22.0,8405.0
+    inMap: true
+  '558':
+    player: popeye
+    type: 57
+    loc: world,-11686.0,22.0,8410.0
+    inMap: true
+  '559':
+    player: popeye
+    type: 57
+    loc: world,-11686.0,23.0,8410.0
+    inMap: true
+  '560':
+    player: kayzer95
+    type: 57
+    loc: world,-4419.0,240.0,-4644.0
+    inMap: true
+  '561':
+    player: kayzer95
+    type: 57
+    loc: world,-4420.0,240.0,-4644.0
+    inMap: true
+  '562':
+    player: kayzer95
+    type: 57
+    loc: world,-4421.0,240.0,-4644.0
+    inMap: true
+  '563':
+    player: kayzer95
+    type: 57
+    loc: world,-4422.0,240.0,-4644.0
+    inMap: true
+  '564':
+    player: kayzer95
+    type: 57
+    loc: world,-4423.0,240.0,-4644.0
+    inMap: true
+  '565':
+    player: kayzer95
+    type: 57
+    loc: world,-4424.0,240.0,-4644.0
+    inMap: true
+  '566':
+    player: zaikiiii
+    type: 57
+    loc: world,-11482.0,57.0,10233.0
+    inMap: true
+  '567':
+    player: zaikiiii
+    type: 57
+    loc: world,-11482.0,57.0,10235.0
+    inMap: true
+  '568':
+    player: kayzer95
+    type: 92
+    loc: world,-4425.0,240.0,-4644.0
+    inMap: true
+  '569':
+    player: zaikiiii
+    type: 99
+    loc: world,-8992.0,5.0,18640.0
+    inMap: true
+  '570':
+    player: cocacola62410
+    type: 57
+    loc: world,15845.0,53.0,16572.0
+    inMap: true
+  '571':
+    player: cocacola62410
+    type: 57
+    loc: world,15845.0,52.0,16572.0
+    inMap: true
+  '572':
+    player: pepedjo
+    type: 92
+    loc: world,17849.0,5.0,207.0
+    inMap: true
+  '573':
+    player: pepedjo
+    type: 92
+    loc: world,8619.0,18.0,17847.0
+    inMap: true
+  '574':
+    player: trisky333
+    type: 92
+    loc: world,8622.0,18.0,17844.0
+    inMap: true
+  '575':
+    player: nobodykinghd
+    type: 107
+    loc: world,-287.0,36.0,448.0
+    inMap: true
+  '576':
+    player: qcoxe
+    type: 107
+    loc: world,-7020.0,17.0,13540.0
+    inMap: true
+  '577':
+    player: qcoxe
+    type: 107
+    loc: world,-7020.0,17.0,13539.0
+    inMap: true
+  '578':
+    player: qcoxe
+    type: 107
+    loc: world,-7020.0,17.0,13538.0
+    inMap: true
+  '579':
+    player: qcoxe
+    type: 107
+    loc: world,-7016.0,17.0,13543.0
+    inMap: true
+  '580':
+    player: mrtutux
+    type: 107
+    loc: world,-11430.0,19.0,18130.0
+    inMap: true
+  '581':
+    player: boblatebi
+    type: 57
+    loc: world,-17872.0,82.0,564.0
+    inMap: true
+  '582':
+    player: boblatebi
+    type: 57
+    loc: world,-17871.0,82.0,567.0
+    inMap: true
+  '583':
+    player: boblatebi
+    type: 57
+    loc: world,-17874.0,82.0,561.0
+    inMap: true
+  '584':
+    player: boblatebi
+    type: 57
+    loc: world,-17868.0,82.0,566.0
+    inMap: true
+  '585':
+    player: neeptune
+    type: 107
+    loc: world,16044.0,4.0,1711.0
+    inMap: true
+  '586':
+    player: tomcase14
+    type: 51
+    loc: world,5652.0,15.0,16104.0
+    inMap: true
+  '587':
+    player: molotof
+    type: 51
+    loc: world,-14687.0,5.0,13036.0
+    inMap: true
+  '588':
+    player: tinmar
+    type: 57
+    loc: world,18448.0,38.0,14649.0
+    inMap: true
+  '589':
+    player: zykoyt
+    type: 92
+    loc: world,-11490.0,15.0,5043.0
+    inMap: true
+  '590':
+    player: empereur300
+    type: 51
+    loc: world,-16963.0,76.0,-37.0
+    inMap: true
+  '591':
+    player: empereur300
+    type: 51
+    loc: world,-16965.0,75.0,-37.0
+    inMap: true
+  '592':
+    player: empereur300
+    type: 51
+    loc: world,-16965.0,76.0,-37.0
+    inMap: true
+  '593':
+    player: empereur300
+    type: 51
+    loc: world,-16964.0,75.0,-36.0
+    inMap: true
+  '594':
+    player: ludo63
+    type: 107
+    loc: world,1521.0,138.0,-11498.0
+    inMap: true
+  '595':
+    player: ludo63
+    type: 107
+    loc: world,1521.0,138.0,-11508.0
+    inMap: true
+  '596':
+    player: twixy
+    type: 51
+    loc: world,8069.0,15.0,-9983.0
+    inMap: true
+  '597':
+    player: boblatebi
+    type: 57
+    loc: world,-17869.0,82.0,563.0
+    inMap: true
+  '598':
+    player: boblatebi
+    type: 57
+    loc: world,-17869.0,82.0,560.0
+    inMap: true
+  '599':
+    player: crafteam4
+    type: 92
+    loc: world,-11479.0,60.0,12233.0
+    inMap: true
+  '600':
+    player: pepedjo
+    type: 51
+    loc: world,8619.0,18.0,17838.0
+    inMap: true
+  '601':
+    player: pepedjo
+    type: 51
+    loc: world,8622.0,18.0,17838.0
+    inMap: true
+  '602':
+    player: pepedjo
+    type: 51
+    loc: world,8616.0,18.0,17841.0
+    inMap: true
+  '603':
+    player: gameurs71
+    type: 107
+    loc: world,-16056.0,44.0,9511.0
+    inMap: true
+  '604':
+    player: bboy124
+    type: 57
+    loc: world,19975.0,45.0,17959.0
+    inMap: true
+  '605':
+    player: bboy124
+    type: 92
+    loc: world,19979.0,37.0,17960.0
+    inMap: true
+  '606':
+    player: bboy124
+    type: 92
+    loc: world,-19691.0,66.0,-15020.0
+    inMap: true
+  '607':
+    player: tackteek
+    type: 51
+    loc: world,17299.0,17.0,2125.0
+    inMap: true
+  '608':
+    player: tackteek
+    type: 51
+    loc: world,17293.0,17.0,2125.0
+    inMap: true
+  '609':
+    player: tackteek
+    type: 51
+    loc: world,17293.0,17.0,2129.0
+    inMap: true
+  '610':
+    player: tackteek
+    type: 51
+    loc: world,17296.0,17.0,2129.0
+    inMap: true
+  '611':
+    player: lebabeur
+    type: 51
+    loc: world,-7714.0,38.0,-11542.0
+    inMap: true
+  '612':
+    player: lebabeur
+    type: 51
+    loc: world,-7714.0,38.0,-11543.0
+    inMap: true
+  '613':
+    player: infinity_du59
+    type: 51
+    loc: world,-2876.0,16.0,15079.0
+    inMap: true
+  '614':
+    player: infinity_du59
+    type: 51
+    loc: world,-2876.0,17.0,15082.0
+    inMap: true
+  '615':
+    player: infinity_du59
+    type: 51
+    loc: world,-2876.0,16.0,15082.0
+    inMap: true
+  '616':
+    player: infinity_du59
+    type: 51
+    loc: world,-2876.0,15.0,15082.0
+    inMap: true
+  '617':
+    player: evorke_
+    type: 51
+    loc: world,5451.0,18.0,13934.0
+    inMap: true
+  '618':
+    player: nagol_yt
+    type: 51
+    loc: world,8238.0,29.0,-4758.0
+    inMap: true
+  '619':
+    player: nagol_yt
+    type: 51
+    loc: world,8242.0,29.0,-4758.0
+    inMap: true
+  '620':
+    player: blockkar
+    type: 51
+    loc: world,12732.0,14.0,-18440.0
+    inMap: true
+  '621':
+    player: blockkar
+    type: 51
+    loc: world,12732.0,15.0,-18440.0
+    inMap: true
+  '622':
+    player: blockkar
+    type: 51
+    loc: world,12732.0,16.0,-18440.0
+    inMap: true
+  '623':
+    player: thechickenpower
+    type: 51
+    loc: world,11238.0,26.0,-11003.0
+    inMap: true
+  '624':
+    player: dododu73300
+    type: 92
+    loc: world,-7740.0,8.0,12936.0
+    inMap: true
+  '625':
+    player: dododu73300
+    type: 92
+    loc: world,-7408.0,13.0,-4564.0
+    inMap: true
+  '626':
+    player: chickenwiiings
+    type: 107
+    loc: world,16044.0,4.0,1709.0
+    inMap: true
+  '627':
+    player: chickenwiiings
+    type: 107
+    loc: world,16044.0,4.0,1713.0
+    inMap: true
+  '628':
+    player: chickenwiiings
+    type: 92
+    loc: world,13535.0,6.0,437.0
+    inMap: true
+  '629':
+    player: stazwitch
+    type: 51
+    loc: world,-7714.0,38.0,-11544.0
+    inMap: true
+  '630':
+    player: chasseurdu57400
+    type: 92
+    loc: world,5875.0,67.0,10681.0
+    inMap: true
+  '631':
+    player: boblatebi
+    type: 107
+    loc: world,-17866.0,102.0,563.0
+    inMap: true
+  '632':
+    player: boblatebi
+    type: 107
+    loc: world,-17865.0,102.0,562.0
+    inMap: true
+  '633':
+    player: cocacola62
+    type: 92
+    loc: world,-3846.0,63.0,3380.0
+    inMap: true
+  '634':
+    player: prestoweed
+    type: 54
+    loc: world,-15962.0,16.0,-11574.0
+    inMap: true
+  '635':
+    player: zozodu14
+    type: 57
+    loc: world,-14816.0,35.0,8118.0
+    inMap: true
+  '636':
+    player: shyfr3ezy
+    type: 54
+    loc: world,-10295.0,74.0,15273.0
+    inMap: true
+  '637':
+    player: flo_wey
+    type: 57
+    loc: world,16984.0,15.0,8663.0
+    inMap: true
+  '638':
+    player: flo_wey
+    type: 57
+    loc: world,16984.0,14.0,8663.0
+    inMap: true
+  '639':
+    player: rayzfire
+    type: 51
+    loc: world,-18803.0,62.0,-12945.0
+    inMap: true
+  '640':
+    player: rayzfire
+    type: 51
+    loc: world,-18802.0,62.0,-12947.0
+    inMap: true
+  '641':
+    player: rayzfire
+    type: 51
+    loc: world,-18803.0,62.0,-12950.0
+    inMap: true
+  '642':
+    player: rayzfire
+    type: 51
+    loc: world,-18801.0,62.0,-12949.0
+    inMap: true
+  '643':
+    player: rayzfire
+    type: 51
+    loc: world,-18807.0,62.0,-12946.0
+    inMap: true
+  '644':
+    player: rayzfire
+    type: 92
+    loc: world,-18808.0,62.0,-12949.0
+    inMap: true
+  '645':
+    player: neyron
+    type: 57
+    loc: world,18474.0,39.0,14632.0
+    inMap: true
+  '646':
+    player: gameurdumsk
+    type: 92
+    loc: world,14050.0,7.0,15675.0
+    inMap: true
+  '647':
+    player: shyfr3ezy
+    type: 51
+    loc: world,-10289.0,74.0,15270.0
+    inMap: true
+  '648':
+    player: shyfr3ezy
+    type: 51
+    loc: world,-10295.0,74.0,15267.0
+    inMap: true
+  '649':
+    player: shyfr3ezy
+    type: 51
+    loc: world,-10295.0,74.0,15270.0
+    inMap: true
+  '650':
+    player: shyfr3ezy
+    type: 92
+    loc: world,15314.0,76.0,9014.0
+    inMap: true
+  '651':
+    player: ytbibossyt
+    type: 107
+    loc: world,12738.0,46.0,-18441.0
+    inMap: true
+  '652':
+    player: ytbibossyt
+    type: 57
+    loc: world,12736.0,13.0,-18437.0
+    inMap: true
+  '653':
+    player: ytbibossyt
+    type: 57
+    loc: world,-12056.0,17.0,-10311.0
+    inMap: true
+  '654':
+    player: ytbibossyt
+    type: 54
+    loc: world,3673.0,40.0,2955.0
+    inMap: true
+  '655':
+    player: ytbibossyt
+    type: 107
+    loc: world,12738.0,46.0,-18445.0
+    inMap: true
+  '656':
+    player: ytbibossyt
+    type: 57
+    loc: world,12740.0,13.0,-18444.0
+    inMap: true
+  '657':
+    player: azmak
+    type: 51
+    loc: world,16329.0,16.0,-3126.0
+    inMap: true
+  '658':
+    player: azmak
+    type: 51
+    loc: world,16329.0,15.0,-3126.0
+    inMap: true
+  '659':
+    player: azmak
+    type: 51
+    loc: world,16329.0,16.0,-3128.0
+    inMap: true
+  '660':
+    player: azmak
+    type: 51
+    loc: world,16329.0,15.0,-3128.0
+    inMap: true
+  '661':
+    player: lakitaw
+    type: 57
+    loc: world,16138.0,22.0,-262.0
+    inMap: true
+  '662':
+    player: lakitaw
+    type: 57
+    loc: world,16135.0,22.0,-262.0
+    inMap: true
+  '663':
+    player: trisky333
+    type: 99
+    loc: world,12469.0,9.0,13803.0
+    inMap: true
+  '664':
+    player: pepedjo
+    type: 99
+    loc: world,18712.0,80.0,19959.0
+    inMap: true
+  '665':
+    player: pepsicoca
+    type: 51
+    loc: world,-10364.0,49.0,4433.0
+    inMap: true
+  '666':
+    player: pepsicoca
+    type: 51
+    loc: world,-10361.0,50.0,4433.0
+    inMap: true
+  '667':
+    player: pepsicoca
+    type: 51
+    loc: world,-10364.0,50.0,4433.0
+    inMap: true
+  '668':
+    player: pepsicoca
+    type: 51
+    loc: world,-10365.0,50.0,4429.0
+    inMap: true
+  '669':
+    player: soty_
+    type: 54
+    loc: 'null'
+  '670':
+    player: soty_
+    type: 57
+    loc: 'null'
+  '671':
+    player: th3ndr4l
+    type: 57
+    loc: world,14046.0,16.0,16778.0
+    inMap: true
+  '672':
+    player: th3ndr4l
+    type: 57
+    loc: world,14044.0,16.0,16778.0
+    inMap: true
+  '673':
+    player: th3ndr4l
+    type: 57
+    loc: world,14042.0,16.0,16778.0
+    inMap: true
+  '674':
+    player: th3ndr4l
+    type: 57
+    loc: world,14044.0,16.0,16781.0
+    inMap: true
+  '675':
+    player: th3ndr4l
+    type: 57
+    loc: world,14042.0,16.0,16781.0
+    inMap: true
+  '676':
+    player: tomcase14
+    type: 57
+    loc: world,14049.0,4.0,16775.0
+    inMap: true
+  '677':
+    player: tomcase14
+    type: 57
+    loc: world,14049.0,4.0,16776.0
+    inMap: true
+  '678':
+    player: tomcase14
+    type: 57
+    loc: world,14048.0,4.0,16775.0
+    inMap: true
+  '679':
+    player: tomcase14
+    type: 57
+    loc: world,14048.0,4.0,16777.0
+    inMap: true
+  '680':
+    player: tomcase14
+    type: 57
+    loc: world,14049.0,4.0,16777.0
+    inMap: true
+  '681':
+    player: trisky333
+    type: 99
+    loc: world,12468.0,9.0,13803.0
+    inMap: true
+  '682':
+    player: zozodu14
+    type: 57
+    loc: world,-14819.0,35.0,8118.0
+    inMap: true
+  '683':
+    player: zozodu14
+    type: 57
+    loc: world,-14822.0,35.0,8118.0
+    inMap: true
+  '684':
+    player: zozodu14
+    type: 57
+    loc: world,-14816.0,36.0,8118.0
+    inMap: true
+  '685':
+    player: zozodu14
+    type: 57
+    loc: world,-14813.0,35.0,8118.0
+    inMap: true
+  '686':
+    player: zozodu14
+    type: 57
+    loc: world,-14818.0,35.0,8118.0
+    inMap: true
+  '687':
+    player: lepaysandu14
+    type: 57
+    loc: world,16628.0,30.0,19513.0
+    inMap: true
+  '688':
+    player: lepaysandu14
+    type: 57
+    loc: world,16628.0,31.0,19513.0
+    inMap: true
+  '689':
+    player: lepaysandu14
+    type: 57
+    loc: world,16628.0,29.0,19519.0
+    inMap: true
+  '690':
+    player: lepaysandu14
+    type: 57
+    loc: world,16627.0,31.0,19517.0
+    inMap: true
+  '691':
+    player: lepaysandu14
+    type: 57
+    loc: world,16628.0,29.0,19519.0
+    inMap: true
+  '692':
+    player: fabio
+    type: 51
+    loc: world,18474.0,39.0,14626.0
+    inMap: true
+  '693':
+    player: fabio
+    type: 51
+    loc: world,18474.0,40.0,14626.0
+    inMap: true
+  '694':
+    player: fabio
+    type: 51
+    loc: world,18474.0,41.0,14626.0
+    inMap: true
+  '695':
+    player: fabio
+    type: 51
+    loc: world,18471.0,41.0,14629.0
+    inMap: true
+  '696':
+    player: azsud
+    type: 51
+    loc: world,-14873.0,15.0,-3736.0
+    inMap: true
+  '697':
+    player: azsud
+    type: 92
+    loc: world,-14873.0,18.0,-3737.0
+    inMap: true
+  '698':
+    player: satan
+    type: 51
+    loc: world,-18799.0,62.0,-12946.0
+    inMap: true
+  '699':
+    player: jeteezennikeaire
+    type: 57
+    loc: world,18480.0,43.0,15800.0
+    inMap: true
+  '700':
+    player: jeteezennikeaire
+    type: 57
+    loc: world,18480.0,42.0,15800.0
+    inMap: true
+  '701':
+    player: _coco_
+    type: 51
+    loc: world,-5181.0,14.0,14110.0
+    inMap: true
+  '702':
+    player: val__l
+    type: 51
+    loc: world,-5189.0,14.0,14111.0
+    inMap: true
+  '703':
+    player: bolgom
+    type: 51
+    loc: world,1994.0,21.0,-14027.0
+    inMap: true
+  '704':
+    player: bolgom
+    type: 51
+    loc: world,1995.0,21.0,-14027.0
+    inMap: true
+  '705':
+    player: bolgom
+    type: 51
+    loc: world,1995.0,20.0,-14027.0
+    inMap: true
+  '706':
+    player: bolgom
+    type: 51
+    loc: world,1994.0,20.0,-14027.0
+    inMap: true
+  '707':
+    player: whiskass
+    type: 57
+    loc: world,1767.0,16.0,12149.0
+    inMap: true
+  '708':
+    player: whiskass
+    type: 57
+    loc: world,1767.0,17.0,12149.0
+    inMap: true
+  '709':
+    player: whiskass
+    type: 57
+    loc: world,1769.0,16.0,12149.0
+    inMap: true
+  '710':
+    player: whiskass
+    type: 57
+    loc: world,1769.0,17.0,12149.0
+    inMap: true
+  '711':
+    player: whiskass
+    type: 57
+    loc: world,1767.0,16.0,12145.0
+    inMap: true
+  '712':
+    player: whiskass
+    type: 57
+    loc: world,1767.0,17.0,12145.0
+    inMap: true
+  '713':
+    player: whiskass
+    type: 57
+    loc: world,1767.0,17.0,12151.0
+    inMap: true
+  '714':
+    player: whiskass
+    type: 57
+    loc: world,1767.0,16.0,12151.0
+    inMap: true
+  '715':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,17.0,12151.0
+    inMap: true
+  '716':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,16.0,12151.0
+    inMap: true
+  '717':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,17.0,12149.0
+    inMap: true
+  '718':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,16.0,12149.0
+    inMap: true
+  '719':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,16.0,12147.0
+    inMap: true
+  '720':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,17.0,12147.0
+    inMap: true
+  '721':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,16.0,12145.0
+    inMap: true
+  '722':
+    player: whiskass
+    type: 57
+    loc: world,1765.0,17.0,12145.0
+    inMap: true
+  '723':
+    player: lebidou365
+    type: 57
+    loc: world,12173.0,54.0,8082.0
+    inMap: true
+  '724':
+    player: wolfyx_yt
+    type: 54
+    loc: world,-2374.0,36.0,-8289.0
+    inMap: true
+  '725':
+    player: keen0x
+    type: 51
+    loc: world,-10361.0,50.0,4429.0
+    inMap: true
+  '726':
+    player: pepsicoca
+    type: 51
+    loc: world,-16169.0,17.0,-19805.0
+    inMap: true
+  '727':
+    player: pepsicoca
+    type: 51
+    loc: world,-10361.0,49.0,4425.0
+    inMap: true
+  '728':
+    player: pepsicoca
+    type: 51
+    loc: world,-10361.0,48.0,4425.0
+    inMap: true
+  '729':
+    player: pepsicoca
+    type: 51
+    loc: world,-10361.0,47.0,4425.0
+    inMap: true
+  '730':
+    player: keen0x
+    type: 51
+    loc: world,-10361.0,48.0,4429.0
+    inMap: true
+  '731':
+    player: keen0x
+    type: 51
+    loc: world,-10361.0,49.0,4429.0
+    inMap: true
+  '732':
+    player: sqkaa_
+    type: 99
+    loc: world,-18008.0,13.0,7726.0
+    inMap: true
+  '733':
+    player: creatiive68
+    type: 57
+    loc: world,8245.0,28.0,-4754.0
+    inMap: true
+  '734':
+    player: creatiive68
+    type: 57
+    loc: world,8245.0,28.0,-4750.0
+    inMap: true
+  '735':
+    player: creatiive68
+    type: 57
+    loc: world,8245.0,28.0,-4747.0
+    inMap: true
+  '736':
+    player: creatiive68
+    type: 57
+    loc: world,8245.0,28.0,-4758.0
+    inMap: true
+  '737':
+    player: lushen
+    type: 51
+    loc: world,18448.0,41.0,14652.0
+    inMap: true
+  '738':
+    player: nico1111
+    type: 57
+    loc: world,12176.0,54.0,8090.0
+    inMap: true
+  '739':
+    player: nico1111
+    type: 57
+    loc: world,12176.0,53.0,8090.0
+    inMap: true
+  '740':
+    player: remil
+    type: 107
+    loc: 'null'
+  '741':
+    player: remil
+    type: 107
+    loc: 'null'
+  '742':
+    player: remil
+    type: 107
+    loc: world,17474.0,66.0,19220.0
+    inMap: true
+  '743':
+    player: remil
+    type: 107
+    loc: 'null'
+  '744':
+    player: remil
+    type: 107
+    loc: 'null'
+  '745':
+    player: remil
+    type: 107
+    loc: 'null'
+  '746':
+    player: remil
+    type: 107
+    loc: 'null'
+  '747':
+    player: remil
+    type: 107
+    loc: 'null'
+  '748':
+    player: remil
+    type: 107
+    loc: world,17478.0,66.0,19220.0
+    inMap: true
+  '749':
+    player: remil
+    type: 107
+    loc: 'null'
+  '750':
+    player: remil
+    type: 107
+    loc: 'null'
+  '751':
+    player: remil
+    type: 107
+    loc: 'null'
+  '752':
+    player: remil
+    type: 107
+    loc: world,17476.0,66.0,19220.0
+    inMap: true
+  '753':
+    player: x_refser_x
+    type: 57
+    loc: world,19997.0,27.0,4942.0
+    inMap: true
+  '754':
+    player: x_refser_x
+    type: 57
+    loc: world,19996.0,27.0,4942.0
+    inMap: true
+  '755':
+    player: cerialekiller
+    type: 57
+    loc: world,14544.0,21.0,16524.0
+    inMap: true
+  '756':
+    player: cerialekiller
+    type: 92
+    loc: world,-12887.0,20.0,16745.0
+    inMap: true
+  '757':
+    player: cerialekiller
+    type: 92
+    loc: world,-12892.0,20.0,16750.0
+    inMap: true
+  '758':
+    player: gameurs71
+    type: 92
+    loc: world,-16053.0,29.0,9508.0
+    inMap: true
+  '759':
+    player: gameurs71
+    type: 92
+    loc: world,-16053.0,29.0,9515.0
+    inMap: true
+  '760':
+    player: gameurs71
+    type: 92
+    loc: world,-16060.0,29.0,9515.0
+    inMap: true
+  '761':
+    player: gameurs71
+    type: 92
+    loc: world,-16060.0,29.0,9508.0
+    inMap: true
+  '762':
+    player: elfideltia
+    type: 99
+    loc: world,-13371.0,64.0,4571.0
+    inMap: true
+  '763':
+    player: elfideltia
+    type: 99
+    loc: world,-13371.0,65.0,4571.0
+    inMap: true
+  '764':
+    player: elfideltia
+    type: 57
+    loc: world,-10357.0,50.0,4425.0
+    inMap: true
+  '765':
+    player: elfideltia
+    type: 57
+    loc: world,-10357.0,49.0,4425.0
+    inMap: true
+  '766':
+    player: elfideltia
+    type: 51
+    loc: world,-10365.0,47.0,4429.0
+    inMap: true
+  '767':
+    player: elfideltia
+    type: 51
+    loc: world,-10364.0,47.0,4425.0
+    inMap: true
+  '768':
+    player: fabio
+    type: 51
+    loc: world,18471.0,41.0,14626.0
+    inMap: true
+  '769':
+    player: fabio
+    type: 51
+    loc: world,18471.0,40.0,14626.0
+    inMap: true
+  '770':
+    player: fabio
+    type: 51
+    loc: world,18474.0,41.0,14629.0
+    inMap: true
+  '771':
+    player: icesword
+    type: 51
+    loc: world,13332.0,75.0,-15923.0
+    inMap: true
+  '772':
+    player: icesword
+    type: 51
+    loc: world,13332.0,74.0,-15923.0
+    inMap: true
+  '773':
+    player: ptirem
+    type: 57
+    loc: world,19677.0,75.0,-12160.0
+    inMap: true
+  '774':
+    player: ptirem
+    type: 51
+    loc: world,19675.0,75.0,-12160.0
+    inMap: true
+  '775':
+    player: iswizzi
+    type: 51
+    loc: world,16322.0,19.0,-3127.0
+    inMap: true
+  '776':
+    player: iswizzi
+    type: 51
+    loc: world,16322.0,18.0,-3127.0
+    inMap: true
+  '777':
+    player: iswizzi
+    type: 51
+    loc: world,16323.0,18.0,-3134.0
+    inMap: true
+  '778':
+    player: iswizzi
+    type: 51
+    loc: world,16323.0,17.0,-3134.0
+    inMap: true
+  '779':
+    player: iswizzi
+    type: 51
+    loc: world,16322.0,16.0,-3127.0
+    inMap: true
+  '780':
+    player: iswizzi
+    type: 51
+    loc: world,16322.0,17.0,-3127.0
+    inMap: true
+  '781':
+    player: alzarolle
+    type: 57
+    loc: world,-15916.0,62.0,-4266.0
+    inMap: true
+  '782':
+    player: alzarolle
+    type: 57
+    loc: world,-15916.0,62.0,-4264.0
+    inMap: true
+  '783':
+    player: sponeta69
+    type: 54
+    loc: world,-8726.0,9.0,-5732.0
+    inMap: true
+  '784':
+    player: kawayx_
+    type: 51
+    loc: world,12823.0,15.0,-7855.0
+    inMap: true
+  '785':
+    player: ryvalke
+    type: 51
+    loc: world,-14322.0,13.0,13804.0
+    inMap: true
+  '786':
+    player: ryvalke
+    type: 51
+    loc: world,-14322.0,14.0,13804.0
+    inMap: true
+  '787':
+    player: ryvalke
+    type: 51
+    loc: world,-14319.0,13.0,13804.0
+    inMap: true
+  '788':
+    player: ryvalke
+    type: 51
+    loc: world,-14319.0,14.0,13804.0
+    inMap: true
+  '789':
+    player: ryvalke
+    type: 51
+    loc: world,-14319.0,13.0,13800.0
+    inMap: true
+  '790':
+    player: ryvalke
+    type: 51
+    loc: world,-14319.0,14.0,13800.0
+    inMap: true
+  '791':
+    player: ryvalke
+    type: 51
+    loc: world,-14322.0,14.0,13800.0
+    inMap: true
+  '792':
+    player: ryvalke
+    type: 51
+    loc: world,-14322.0,13.0,13800.0
+    inMap: true
+  '793':
+    player: bueno_pvp
+    type: 107
+    loc: world,-14522.0,76.0,-11891.0
+    inMap: true
+  '794':
+    player: kawayx_
+    type: 51
+    loc: world,12828.0,15.0,-7851.0
+    inMap: true
+  '795':
+    player: kawayx_
+    type: 51
+    loc: world,12823.0,15.0,-7851.0
+    inMap: true
+  '796':
+    player: kawayx_
+    type: 51
+    loc: world,12828.0,15.0,-7855.0
+    inMap: true
+  '797':
+    player: lakitaw
+    type: 57
+    loc: world,16135.0,22.0,-265.0
+    inMap: true
+  '798':
+    player: lakitaw
+    type: 57
+    loc: world,16138.0,22.0,-265.0
+    inMap: true
+  '799':
+    player: keen0x
+    type: 51
+    loc: world,-10365.0,49.0,4429.0
+    inMap: true
+  '800':
+    player: keen0x
+    type: 51
+    loc: world,-10365.0,48.0,4429.0
+    inMap: true
+  '801':
+    player: keen0x
+    type: 51
+    loc: world,-10364.0,50.0,4425.0
+    inMap: true
+  '802':
+    player: keen0x
+    type: 51
+    loc: world,-10364.0,49.0,4425.0
+    inMap: true
+  '803':
+    player: craziix_eu
+    type: 57
+    loc: world,15123.0,69.0,19852.0
+    inMap: true
+  '804':
+    player: craziix_eu
+    type: 57
+    loc: world,15127.0,69.0,19852.0
+    inMap: true
+  '805':
+    player: jojo251
+    type: 51
+    loc: world,1991.0,20.0,-14027.0
+    inMap: true
+  '806':
+    player: jojo251
+    type: 51
+    loc: world,1995.0,21.0,-14024.0
+    inMap: true
+  '807':
+    player: soty_
+    type: 57
+    loc: 'null'
+  '808':
+    player: wherewolf
+    type: 57
+    loc: 'null'
+  '809':
+    player: werewolf
+    type: 57
+    loc: 'null'
+  '810':
+    player: soty_
+    type: 107
+    loc: 'null'
+  '811':
+    player: soty_
+    type: 99
+    loc: 'null'
+  '812':
+    player: elfideltia
+    type: 57
+    loc: world,-10353.0,50.0,4425.0
+    inMap: true
+  '813':
+    player: elfideltia
+    type: 57
+    loc: world,-10353.0,49.0,4425.0
+    inMap: true
+  '814':
+    player: elfideltia
+    type: 57
+    loc: world,-10353.0,48.0,4425.0
+    inMap: true
+  '815':
+    player: elfideltia
+    type: 57
+    loc: world,-10353.0,47.0,4425.0
+    inMap: true
+  '816':
+    player: elfideltia
+    type: 107
+    loc: world,-10377.0,47.0,4433.0
+    inMap: true
+  '817':
+    player: elfideltia
+    type: 99
+    loc: world,-13371.0,66.0,4571.0
+    inMap: true
+  '818':
+    player: elfideltia
+    type: 99
+    loc: world,-13371.0,63.0,4571.0
+    inMap: true
+  '819':
+    player: elfideltia
+    type: 107
+    loc: world,-10380.0,47.0,4433.0
+    inMap: true
+  '820':
+    player: reborncreep
+    type: 51
+    loc: world,18468.0,41.0,14629.0
+    inMap: true
+  '821':
+    player: thomas62200
+    type: 92
+    loc: world,12735.0,9.0,-18432.0
+    inMap: true
+  '822':
+    player: thomas62200
+    type: 51
+    loc: world,-14686.0,17.0,13031.0
+    inMap: true
+  '823':
+    player: by_nooze
+    type: 51
+    loc: world,19444.0,73.0,11620.0
+    inMap: true
+  '824':
+    player: by_nooze
+    type: 51
+    loc: world,19445.0,73.0,11618.0
+    inMap: true
+  '825':
+    player: zriman35
+    type: 54
+    loc: world,14257.0,25.0,7752.0
+    inMap: true
+  '826':
+    player: zriman35
+    type: 54
+    loc: world,14257.0,26.0,7749.0
+    inMap: true
+  '827':
+    player: zriman35
+    type: 54
+    loc: world,14259.0,27.0,7749.0
+    inMap: true
+  '828':
+    player: xxsubxx
+    type: 51
+    loc: world,18459.0,32.0,14652.0
+    inMap: true
+  '829':
+    player: xxsubxx
+    type: 51
+    loc: world,18459.0,33.0,14652.0
+    inMap: true
+  '830':
+    player: xxsubxx
+    type: 51
+    loc: world,18458.0,30.0,14653.0
+    inMap: true
+  '831':
+    player: xxsubxx
+    type: 51
+    loc: world,18458.0,31.0,14653.0
+    inMap: true
+  '832':
+    player: xxsubxx
+    type: 51
+    loc: world,18458.0,33.0,14653.0
+    inMap: true
+  '833':
+    player: xxsubxx
+    type: 51
+    loc: world,18458.0,32.0,14653.0
+    inMap: true
+  '834':
+    player: xxsubxx
+    type: 51
+    loc: world,18457.0,33.0,14654.0
+    inMap: true
+  '835':
+    player: hkz_skillon
+    type: 57
+    loc: world,12736.0,13.0,-18444.0
+    inMap: true
+  '836':
+    player: hkz_skillon
+    type: 57
+    loc: world,12736.0,14.0,-18444.0
+    inMap: true
+  '837':
+    player: hkz_skillon
+    type: 57
+    loc: world,12736.0,15.0,-18444.0
+    inMap: true
+  '838':
+    player: hkz_skillon
+    type: 57
+    loc: world,12737.0,14.0,-18442.0
+    inMap: true
+  '839':
+    player: zowire
+    type: 107
+    loc: world,-10629.0,68.0,11586.0
+    inMap: true
+  '840':
+    player: khoruxia
+    type: 51
+    loc: world,14256.0,24.0,7742.0
+    inMap: true
+  '841':
+    player: destroyer_s_34
+    type: 57
+    loc: world,-12892.0,20.0,16745.0
+    inMap: true
+  '842':
+    player: mrtutux
+    type: 51
+    loc: world,-11430.0,18.0,18130.0
+    inMap: true
+  '843':
+    player: mrtutux
+    type: 51
+    loc: world,-11430.0,18.0,18132.0
+    inMap: true
+  '844':
+    player: mrtutux
+    type: 51
+    loc: world,-11419.0,18.0,18130.0
+    inMap: true
+  '845':
+    player: mrtutux
+    type: 51
+    loc: world,-11419.0,18.0,18132.0
+    inMap: true
+  '846':
+    player: monkey_royale33
+    type: 107
+    loc: world,3756.0,70.0,-3706.0
+    inMap: true
+  '847':
+    player: fusionix_game
+    type: 57
+    loc: world,-19996.0,15.0,11588.0
+    inMap: true
+  '848':
+    player: oow_ll
+    type: 57
+    loc: world,-16580.0,48.0,-18969.0
+    inMap: true
+  '849':
+    player: oow_ll
+    type: 57
+    loc: world,-16580.0,47.0,-18969.0
+    inMap: true
+  '850':
+    player: llushy
+    type: 51
+    loc: world,14548.0,18.0,16518.0
+    inMap: true
+  '851':
+    player: jojo251
+    type: 51
+    loc: world,1995.0,20.0,-14024.0
+    inMap: true
+  '852':
+    player: keke91270
+    type: 99
+    loc: world,14205.0,10.0,-19109.0
+    inMap: true
+  '853':
+    player: keke91270
+    type: 57
+    loc: world,14204.0,10.0,-19110.0
+    inMap: true
+  '854':
+    player: keke91270
+    type: 51
+    loc: world,14203.0,10.0,-19109.0
+    inMap: true
+  '855':
+    player: malouf
+    type: 107
+    loc: world,-14018.0,76.0,10300.0
+    inMap: true
+  '856':
+    player: sponeta69
+    type: 54
+    loc: world,-8726.0,8.0,-5732.0
+    inMap: true
+  '857':
+    player: _topui_
+    type: 57
+    loc: world,12739.0,16.0,-18438.0
+    inMap: true
+  '858':
+    player: xcasing
+    type: 92
+    loc: world,8619.0,18.0,17841.0
+    inMap: true
+  '859':
+    player: nastu2727
+    type: 51
+    loc: world,-7020.0,7.0,13541.0
+    inMap: true
+  '860':
+    player: _theodu13_
+    type: 51
+    loc: world,18474.0,39.0,14629.0
+    inMap: true
+  '861':
+    player: _theodu13_
+    type: 51
+    loc: world,18474.0,40.0,14629.0
+    inMap: true
+  '862':
+    player: lpz_kinder
+    type: 57
+    loc: world,-12053.0,18.0,-10312.0
+    inMap: true
+  '863':
+    player: lpz_kinder
+    type: 57
+    loc: world,-12053.0,17.0,-10312.0
+    inMap: true
+  '864':
+    player: jejeleboss
+    type: 57
+    loc: world,3594.0,55.0,3364.0
+    inMap: true
+  '865':
+    player: ludo63
+    type: 57
+    loc: world,1500.0,147.0,-11506.0
+    inMap: true
+  '866':
+    player: racaille76
+    type: 57
+    loc: world,19445.0,27.0,-1610.0
+    inMap: true
+  '867':
+    player: racaille76
+    type: 57
+    loc: world,19444.0,27.0,-1604.0
+    inMap: true
+  '868':
+    player: racaille76
+    type: 57
+    loc: world,19449.0,27.0,-1605.0
+    inMap: true
+  '869':
+    player: racaille76
+    type: 57
+    loc: world,19452.0,27.0,-1611.0
+    inMap: true
+  '870':
+    player: racaille76
+    type: 99
+    loc: world,19449.0,15.0,-1609.0
+    inMap: true
+  '871':
+    player: racaille76
+    type: 99
+    loc: world,19444.0,15.0,-1611.0
+    inMap: true
+  '872':
+    player: racaille76
+    type: 107
+    loc: world,19437.0,11.0,-1600.0
+    inMap: true
+  '873':
+    player: racaille76
+    type: 92
+    loc: world,19451.0,6.0,-1606.0
+    inMap: true
+  '874':
+    player: sponeta69
+    type: 54
+    loc: world,-8726.0,7.0,-5732.0
+    inMap: true
+  '875':
+    player: catwater
+    type: 107
+    loc: world,-8806.0,7.0,236.0
+    inMap: true
+  '876':
+    player: poneydesardeurs
+    type: 51
+    loc: world,8526.0,13.0,-5881.0
+    inMap: true
+  '877':
+    player: poneydesardeurs
+    type: 51
+    loc: world,8526.0,13.0,-5876.0
+    inMap: true
+  '878':
+    player: poneydesardeurs
+    type: 51
+    loc: world,8531.0,13.0,-5876.0
+    inMap: true
+  '879':
+    player: poneydesardeurs
+    type: 51
+    loc: world,8531.0,13.0,-5881.0
+    inMap: true
+  '880':
+    player: leminecraftien80
+    type: 57
+    loc: world,-12634.0,26.0,15449.0
+    inMap: true
+  '881':
+    player: leminecraftien80
+    type: 57
+    loc: world,-12628.0,26.0,15449.0
+    inMap: true
+  '882':
+    player: xlprovodka
+    type: 57
+    loc: world,14787.0,71.0,-6332.0
+    inMap: true
+  '883':
+    player: xlprovodka
+    type: 57
+    loc: world,14783.0,71.0,-6332.0
+    inMap: true
+  '884':
+    player: xlprovodka
+    type: 57
+    loc: world,14779.0,71.0,-6332.0
+    inMap: true
+  '885':
+    player: xlprovodka
+    type: 57
+    loc: world,14781.0,71.0,-6329.0
+    inMap: true
+  '886':
+    player: xlprovodka
+    type: 57
+    loc: world,14785.0,71.0,-6329.0
+    inMap: true
+  '887':
+    player: xlprovodka
+    type: 51
+    loc: world,14787.0,71.0,-6336.0
+    inMap: true
+  '888':
+    player: xlprovodka
+    type: 51
+    loc: world,14787.0,71.0,-6340.0
+    inMap: true
+  '889':
+    player: xlprovodka
+    type: 51
+    loc: world,14783.0,71.0,-6340.0
+    inMap: true
+  '890':
+    player: xlprovodka
+    type: 51
+    loc: world,14779.0,71.0,-6336.0
+    inMap: true
+  '891':
+    player: xlprovodka
+    type: 51
+    loc: world,14779.0,71.0,-6340.0
+    inMap: true
+  '892':
+    player: zeus_monkey
+    type: 51
+    loc: world,8309.0,15.0,15306.0
+    inMap: true
+  '893':
+    player: zeus_monkey
+    type: 51
+    loc: world,8309.0,14.0,15306.0
+    inMap: true
+  '894':
+    player: zeus_monkey
+    type: 51
+    loc: world,8311.0,14.0,15306.0
+    inMap: true
+  '895':
+    player: zeus_monkey
+    type: 51
+    loc: world,8311.0,15.0,15306.0
+    inMap: true
+  '896':
+    player: monkey_royale33
+    type: 92
+    loc: world,3757.0,70.0,-3706.0
+    inMap: true
+  '897':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14822.0,36.0,8125.0
+    inMap: true
+  '898':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14822.0,35.0,8125.0
+    inMap: true
+  '899':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14819.0,35.0,8125.0
+    inMap: true
+  '900':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14819.0,36.0,8125.0
+    inMap: true
+  '901':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14816.0,35.0,8125.0
+    inMap: true
+  '902':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14816.0,36.0,8125.0
+    inMap: true
+  '903':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14813.0,35.0,8125.0
+    inMap: true
+  '904':
+    player: algorskis_yt
+    type: 51
+    loc: world,-14813.0,36.0,8125.0
+    inMap: true
+  '905':
+    player: blackghost
+    type: 57
+    loc: world,16614.0,20.0,19666.0
+    inMap: true
+  '906':
+    player: blackghost
+    type: 57
+    loc: world,16616.0,20.0,19666.0
+    inMap: true
+  '907':
+    player: sosfight
+    type: 54
+    loc: world,3673.0,41.0,2955.0
+    inMap: true
+  '908':
+    player: sosfight
+    type: 51
+    loc: world,12741.0,13.0,-18440.0
+    inMap: true
+  '909':
+    player: blacorino
+    type: 92
+    loc: world,-1502.0,13.0,10117.0
+    inMap: true
+  '910':
+    player: troll666
+    type: 92
+    loc: world,-12759.0,65.0,1890.0
+    inMap: true
+  '911':
+    player: troll666
+    type: 92
+    loc: world,-12763.0,65.0,1887.0
+    inMap: true
+  '912':
+    player: troll666
+    type: 51
+    loc: world,-12756.0,83.0,1890.0
+    inMap: true
+  '913':
+    player: troll666
+    type: 51
+    loc: world,-12756.0,83.0,1885.0
+    inMap: true
+  '914':
+    player: xcuzimluca
+    type: 51
+    loc: world,-6712.0,21.0,10498.0
+    inMap: true
+  '915':
+    player: atsuky
+    type: 99
+    loc: world,-15105.0,18.0,8871.0
+    inMap: true
+  '916':
+    player: atsuky
+    type: 99
+    loc: world,-15105.0,20.0,8869.0
+    inMap: true
+  '917':
+    player: atsuky
+    type: 99
+    loc: world,-15105.0,18.0,8867.0
+    inMap: true
+  '918':
+    player: atsuky
+    type: 99
+    loc: world,-15114.0,18.0,8880.0
+    inMap: true
+  '919':
+    player: atsuky
+    type: 57
+    loc: world,-10357.0,49.0,4429.0
+    inMap: true
+  '920':
+    player: troll666
+    type: 99
+    loc: world,-12765.0,84.0,1891.0
+    inMap: true
+  '921':
+    player: troll666
+    type: 99
+    loc: world,-12765.0,85.0,1888.0
+    inMap: true
+  '922':
+    player: troll666
+    type: 57
+    loc: world,-12756.0,82.0,1885.0
+    inMap: true
+  '923':
+    player: troll666
+    type: 51
+    loc: world,-12756.0,81.0,1885.0
+    inMap: true
+  '924':
+    player: ewan08205
+    type: 57
+    loc: world,-14585.0,94.0,-7839.0
+    inMap: true
+  '925':
+    player: btche15
+    type: 57
+    loc: world,-2860.0,4.0,-14163.0
+    inMap: true
+  '926':
+    player: btche15
+    type: 51
+    loc: world,-2861.0,4.0,-14163.0
+    inMap: true
+  '927':
+    player: btche15
+    type: 51
+    loc: world,-2862.0,4.0,-14163.0
+    inMap: true
+  '928':
+    player: btche15
+    type: 51
+    loc: world,-2862.0,4.0,-14164.0
+    inMap: true
+  '929':
+    player: btche15
+    type: 51
+    loc: world,-2861.0,4.0,-14164.0
+    inMap: true
+  '930':
+    player: btche15
+    type: 51
+    loc: world,-2862.0,4.0,-14165.0
+    inMap: true
+  '931':
+    player: btche15
+    type: 51
+    loc: world,-2861.0,4.0,-14166.0
+    inMap: true
+  '932':
+    player: hayden_frost
+    type: 99
+    loc: world,-5931.0,15.0,-16331.0
+    inMap: true
+  '933':
+    player: hayden_frost
+    type: 57
+    loc: world,18452.0,41.0,14646.0
+    inMap: true
+  '934':
+    player: paul15440
+    type: 99
+    loc: world,12237.0,47.0,-10234.0
+    inMap: true
+  '935':
+    player: paul15440
+    type: 99
+    loc: world,12238.0,47.0,-10228.0
+    inMap: true
+  '936':
+    player: paul15440
+    type: 99
+    loc: world,12244.0,47.0,-10227.0
+    inMap: true
+  '937':
+    player: xlprovodka
+    type: 51
+    loc: world,14783.0,71.0,-6336.0
+    inMap: true
+  '938':
+    player: thegameurdu60
+    type: 92
+    loc: world,6286.0,4.0,-10188.0
+    inMap: true
+  '939':
+    player: courbegagnant024
+    type: 51
+    loc: world,-19984.0,73.0,5374.0
+    inMap: true
+  '940':
+    player: courbegagnant024
+    type: 51
+    loc: world,-19987.0,74.0,5374.0
+    inMap: true
+  '941':
+    player: courbegagnant024
+    type: 51
+    loc: world,-19982.0,74.0,5378.0
+    inMap: true
+  '942':
+    player: courbegagnant024
+    type: 51
+    loc: world,-19987.0,74.0,5383.0
+    inMap: true
+  '943':
+    player: courbegagnant024
+    type: 51
+    loc: world,-19990.0,75.0,5377.0
+    inMap: true
+  '944':
+    player: hayden_frost
+    type: 99
+    loc: world,-5926.0,15.0,-16331.0
+    inMap: true
+  '945':
+    player: leminecraftien80
+    type: 57
+    loc: world,-15852.0,70.0,19101.0
+    inMap: true
+  '946':
+    player: fanatiquepvp
+    type: 57
+    loc: world,-6081.0,19.0,-4215.0
+    inMap: true
+  '947':
+    player: fanatiquepvp
+    type: 57
+    loc: world,-6088.0,19.0,-4220.0
+    inMap: true
+  '948':
+    player: lukasleterrible
+    type: 51
+    loc: world,5173.0,23.0,-4278.0
+    inMap: true
+  '949':
+    player: lukasleterrible
+    type: 51
+    loc: world,5177.0,23.0,-4278.0
+    inMap: true
+  '950':
+    player: lukasleterrible
+    type: 51
+    loc: world,5177.0,23.0,-4284.0
+    inMap: true
+  '951':
+    player: lukasleterrible
+    type: 51
+    loc: world,5173.0,23.0,-4284.0
+    inMap: true
+  '952':
+    player: maxougaming
+    type: 57
+    loc: world,-8115.0,19.0,-19621.0
+    inMap: true
+  '953':
+    player: maxougaming
+    type: 57
+    loc: world,-8117.0,19.0,-19619.0
+    inMap: true
+  '954':
+    player: hkz_skillon
+    type: 92
+    loc: world,12752.0,4.0,-18431.0
+    inMap: true
+  '955':
+    player: lucas59261
+    type: 99
+    loc: world,-4550.0,234.0,-16147.0
+    inMap: true
+  '956':
+    player: lucas59261
+    type: 107
+    loc: world,-4552.0,234.0,-16149.0
+    inMap: true
+  '957':
+    player: lucas59261
+    type: 51
+    loc: world,-4552.0,234.0,-16145.0
+    inMap: true
+  '958':
+    player: lucas59261
+    type: 92
+    loc: world,-4552.0,229.0,-16147.0
+    inMap: true
+  '959':
+    player: pulsar
+    type: 51
+    loc: world,-12634.0,21.0,-15557.0
+    inMap: true
+  '960':
+    player: pulsar
+    type: 51
+    loc: world,-12638.0,21.0,-15557.0
+    inMap: true
+  '961':
+    player: paul15440
+    type: 51
+    loc: world,8238.0,28.0,-4754.0
+    inMap: true
+  '962':
+    player: paul15440
+    type: 51
+    loc: world,8241.0,29.0,-4754.0
+    inMap: true
+  '963':
+    player: paul15440
+    type: 51
+    loc: world,8241.0,29.0,-4751.0
+    inMap: true
+  '964':
+    player: paul15440
+    type: 51
+    loc: world,8238.0,29.0,-4751.0
+    inMap: true
+  '965':
+    player: paul15440
+    type: 51
+    loc: world,8234.0,28.0,-4755.0
+    inMap: true
+  '966':
+    player: paul15440
+    type: 51
+    loc: world,8234.0,29.0,-4755.0
+    inMap: true
+  '967':
+    player: paul15440
+    type: 51
+    loc: world,8238.0,28.0,-4758.0
+    inMap: true
+  '968':
+    player: paul15440
+    type: 107
+    loc: world,12251.0,49.0,-10231.0
+    inMap: true
+  '969':
+    player: sosfight
+    type: 51
+    loc: world,12738.0,16.0,-18442.0
+    inMap: true
+  '970':
+    player: sosfight
+    type: 51
+    loc: world,12738.0,15.0,-18442.0
+    inMap: true
+  '971':
+    player: sosfight
+    type: 51
+    loc: world,12739.0,15.0,-18440.0
+    inMap: true
+  '972':
+    player: sosfight
+    type: 51
+    loc: world,12740.0,13.0,-18439.0
+    inMap: true
+  '973':
+    player: khoruxia
+    type: 51
+    loc: world,14256.0,25.0,7742.0
+    inMap: true
+  '974':
+    player: dicob
+    type: 107
+    loc: world,-18010.0,4.0,-15227.0
+    inMap: true
+  '975':
+    player: flowtox
+    type: 99
+    loc: world,15186.0,65.0,12327.0
+    inMap: true
+  '976':
+    player: flowtox
+    type: 54
+    loc: world,15184.0,65.0,12326.0
+    inMap: true
+  '977':
+    player: bananna_yt
+    type: 51
+    loc: world,8307.0,15.0,15306.0
+    inMap: true
+  '978':
+    player: marops
+    type: 51
+    loc: world,18480.0,40.0,15803.0
+    inMap: true
+  '979':
+    player: kywazy
+    type: 51
+    loc: world,-14227.0,64.0,4652.0
+    inMap: true
+  '980':
+    player: khorio
+    type: 92
+    loc: world,14481.0,19.0,15654.0
+    inMap: true
+  '981':
+    player: khorio
+    type: 92
+    loc: world,14258.0,15.0,7739.0
+    inMap: true
+  '982':
+    player: khorio
+    type: 54
+    loc: world,14259.0,26.0,7749.0
+    inMap: true
+  '983':
+    player: khorio
+    type: 54
+    loc: world,14257.0,25.0,7749.0
+    inMap: true
+  '984':
+    player: khorio
+    type: 51
+    loc: world,14260.0,25.0,7742.0
+    inMap: true
+  '985':
+    player: khorio
+    type: 51
+    loc: world,14258.0,24.0,7742.0
+    inMap: true
+  '986':
+    player: khorio
+    type: 51
+    loc: world,14256.0,26.0,7742.0
+    inMap: true
+  '987':
+    player: khorio
+    type: 51
+    loc: world,14258.0,25.0,7742.0
+    inMap: true
+  '988':
+    player: pulsar
+    type: 92
+    loc: world,-12621.0,21.0,-15575.0
+    inMap: true
+  '989':
+    player: pulsar
+    type: 92
+    loc: world,-12619.0,21.0,-15572.0
+    inMap: true
+  '990':
+    player: pulsar
+    type: 51
+    loc: world,-12638.0,21.0,-15553.0
+    inMap: true
+  '991':
+    player: pulsar
+    type: 51
+    loc: world,-12634.0,21.0,-15553.0
+    inMap: true
+  '992':
+    player: pulsar
+    type: 92
+    loc: world,-12617.0,21.0,-15575.0
+    inMap: true
+  '993':
+    player: pulsar
+    type: 51
+    loc: world,-12634.0,23.0,-15553.0
+    inMap: true
+  '994':
+    player: foaks_s
+    type: 51
+    loc: world,2499.0,15.0,432.0
+    inMap: true
+  '995':
+    player: mokax
+    type: 92
+    loc: world,8246.0,40.0,-4746.0
+    inMap: true
+  '996':
+    player: sealox
+    type: 92
+    loc: world,-9055.0,69.0,8313.0
+    inMap: true
+  '997':
+    player: jfgo542
+    type: 107
+    loc: world,-19831.0,67.0,12428.0
+    inMap: true
+  '998':
+    player: aleksei
+    type: 51
+    loc: world,-16759.0,65.0,223.0
+    inMap: true
+  '999':
+    player: leminecraftien80
+    type: 57
+    loc: world,18711.0,75.0,19956.0
+    inMap: true
+  '1000':
+    player: soty_
+    type: 107
+    loc: 'null'
+  '1001':
+    player: icesword
+    type: 107
+    loc: world,14047.0,5.0,15670.0
+    inMap: true
+  '1002':
+    player: paul15440
+    type: 107
+    loc: world,12241.0,49.0,-10241.0
+    inMap: true
+  '1003':
+    player: paul15440
+    type: 107
+    loc: world,12243.0,47.0,-10233.0
+    inMap: true
+  '1004':
+    player: idreyzen
+    type: 92
+    loc: world,-14282.0,38.0,15185.0
+    inMap: true
+  '1005':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,26.0,-12986.0
+    inMap: true
+  '1006':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,27.0,-12986.0
+    inMap: true
+  '1007':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,26.0,-12989.0
+    inMap: true
+  '1008':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,27.0,-12989.0
+    inMap: true
+  '1009':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,26.0,-12992.0
+    inMap: true
+  '1010':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,27.0,-12992.0
+    inMap: true
+  '1011':
+    player: neoxgaming
+    type: 51
+    loc: world,-3013.0,26.0,-12995.0
+    inMap: true
+  '1012':
+    player: neoxgaming
+    type: 51
+    loc: world,-3016.0,26.0,-12995.0
+    inMap: true
+  '1013':
+    player: icesword
+    type: 92
+    loc: world,14038.0,5.0,15669.0
+    inMap: true
+  '1014':
+    player: haerox
+    type: 57
+    loc: world,-16764.0,65.0,225.0
+    inMap: true
+  '1015':
+    player: haerox
+    type: 57
+    loc: world,-16760.0,66.0,226.0
+    inMap: true
+  '1016':
+    player: haerox
+    type: 51
+    loc: world,-16762.0,65.0,226.0
+    inMap: true
+  '1017':
+    player: malouf
+    type: 57
+    loc: world,-14020.0,75.0,10300.0
+    inMap: true
+  '1018':
+    player: jfgo542
+    type: 107
+    loc: world,-19827.0,67.0,12432.0
+    inMap: true
+  '1019':
+    player: dicob
+    type: 57
+    loc: world,-18006.0,4.0,-15229.0
+    inMap: true
+  '1020':
+    player: dicob
+    type: 92
+    loc: world,-18006.0,20.0,-15243.0
+    inMap: true
+  '1021':
+    player: the_slash
+    type: 51
+    loc: world,-19916.0,18.0,-6136.0
+    inMap: true
+  '1022':
+    player: the_slash
+    type: 51
+    loc: world,-19916.0,18.0,-6134.0
+    inMap: true
+  '1023':
+    player: the_slash
+    type: 51
+    loc: world,-19916.0,18.0,-6132.0
+    inMap: true
+  '1024':
+    player: blunt_rasor
+    type: 51
+    loc: world,1998.0,20.0,-14025.0
+    inMap: true
+  '1025':
+    player: satan
+    type: 51
+    loc: world,-18800.0,62.0,-12947.0
+    inMap: true
+  '1026':
+    player: satan
+    type: 51
+    loc: world,-18800.0,62.0,-12948.0
+    inMap: true
+  '1027':
+    player: satan
+    type: 51
+    loc: world,-18799.0,62.0,-12948.0
+    inMap: true
+  '1028':
+    player: sosodidi
+    type: 57
+    loc: world,-16317.0,77.0,-11766.0
+    inMap: true
+  '1029':
+    player: sosodidi
+    type: 57
+    loc: world,-16317.0,78.0,-11766.0
+    inMap: true
+  '1030':
+    player: aleksei
+    type: 51
+    loc: world,-16757.0,65.0,223.0
+    inMap: true
+  '1031':
+    player: aleksei
+    type: 51
+    loc: world,-16757.0,65.0,225.0
+    inMap: true
+  '1032':
+    player: aleksei
+    type: 51
+    loc: world,-16758.0,65.0,227.0
+    inMap: true
+  '1033':
+    player: azer_nexo
+    type: 92
+    loc: world,-16556.0,69.0,-19874.0
+    inMap: true
+  '1034':
+    player: azer_nexo
+    type: 92
+    loc: world,-16555.0,69.0,-19873.0
+    inMap: true
+  '1035':
+    player: azer_nexo
+    type: 92
+    loc: world,-16555.0,69.0,-19874.0
+    inMap: true
+  '1036':
+    player: electriiz
+    type: 107
+    loc: world,-14138.0,23.0,11021.0
+    inMap: true
+  '1037':
+    player: hayden_frost
+    type: 51
+    loc: world,18477.0,41.0,14629.0
+    inMap: true
+  '1038':
+    player: hayden_frost
+    type: 51
+    loc: world,18477.0,40.0,14629.0
+    inMap: true
+  '1039':
+    player: hayden_frost
+    type: 51
+    loc: world,18477.0,41.0,14632.0
+    inMap: true
+  '1040':
+    player: hayden_frost
+    type: 51
+    loc: world,18474.0,41.0,14632.0
+    inMap: true
+  '1041':
+    player: faryu_
+    type: 99
+    loc: world,15177.0,30.0,1732.0
+    inMap: true
+  '1042':
+    player: razor
+    type: 51
+    loc: world,17482.0,67.0,19229.0
+    inMap: true
+  '1043':
+    player: remil
+    type: 51
+    loc: world,17477.0,66.0,19216.0
+    inMap: true
+  '1044':
+    player: remil
+    type: 92
+    loc: 'null'
+  '1045':
+    player: remil
+    type: 92
+    loc: world,17478.0,66.0,19216.0
+    inMap: true
+  '1046':
+    player: remil
+    type: 92
+    loc: world,17476.0,66.0,19216.0
+    inMap: true
+  '1047':
+    player: gashrod
+    type: 57
+    loc: world,2136.0,14.0,3574.0
+    inMap: true
+  '1048':
+    player: gashrod
+    type: 57
+    loc: world,2136.0,14.0,3571.0
+    inMap: true
+  '1049':
+    player: gashrod
+    type: 57
+    loc: world,2136.0,14.0,3567.0
+    inMap: true
+  '1050':
+    player: gashrod
+    type: 57
+    loc: world,2129.0,14.0,3575.0
+    inMap: true
+  '1051':
+    player: gashrod
+    type: 57
+    loc: world,2129.0,14.0,3571.0
+    inMap: true
+  '1052':
+    player: gashrod
+    type: 57
+    loc: world,2129.0,14.0,3567.0
+    inMap: true
+  '1053':
+    player: gashrod
+    type: 57
+    loc: world,2132.0,14.0,3571.0
+    inMap: true
+  '1054':
+    player: an0m4lly
+    type: 101
+    loc: world,-942.0,68.0,288.0
+    inMap: true
+  '1055':
+    player: death_punish
+    type: 57
+    loc: world,12737.0,13.0,-18439.0
+    inMap: true
+  '1056':
+    player: lololefou
+    type: 92
+    loc: world,66.0,13.0,-19525.0
+    inMap: true
+  '1057':
+    player: lololefou
+    type: 92
+    loc: world,65.0,13.0,-19531.0
+    inMap: true
+  '1058':
+    player: lololefou
+    type: 92
+    loc: world,76.0,13.0,-19533.0
+    inMap: true
+  '1059':
+    player: lakitaw
+    type: 99
+    loc: world,19453.0,13.0,-1609.0
+    inMap: true
+  '1060':
+    player: lakitaw
+    type: 99
+    loc: world,19453.0,13.0,-1612.0
+    inMap: true
+  '1061':
+    player: lakitaw
+    type: 99
+    loc: world,19447.0,15.0,-1607.0
+    inMap: true
+  '1062':
+    player: lakitaw
+    type: 99
+    loc: world,19447.0,14.0,-1607.0
+    inMap: true
+  '1063':
+    player: lakitaw
+    type: 99
+    loc: world,19447.0,13.0,-1607.0
+    inMap: true
+  '1064':
+    player: lakitaw
+    type: 99
+    loc: world,19444.0,13.0,-1608.0
+    inMap: true
+  '1065':
+    player: mod3ur62
+    type: 92
+    loc: world,18224.0,10.0,19987.0
+    inMap: true
+  '1066':
+    player: mod3ur62
+    type: 92
+    loc: world,18224.0,10.0,19989.0
+    inMap: true
+  '1067':
+    player: lakitaw
+    type: 99
+    loc: world,19444.0,13.0,-1611.0
+    inMap: true
+  '1068':
+    player: lakitaw
+    type: 99
+    loc: world,19448.0,13.0,-1612.0
+    inMap: true
+  '1069':
+    player: lakitaw
+    type: 99
+    loc: world,19449.0,13.0,-1609.0
+    inMap: true
+  '1070':
+    player: mysterix4k
+    type: 51
+    loc: world,-12038.0,16.0,-3857.0
+    inMap: true
+  '1071':
+    player: mysterix4k
+    type: 51
+    loc: world,-12038.0,14.0,-3857.0
+    inMap: true
+  '1072':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,42.0,15803.0
+    inMap: true
+  '1073':
+    player: oow_ll
+    type: 57
+    loc: world,-16580.0,46.0,-18969.0
+    inMap: true
+  '1074':
+    player: oow_ll
+    type: 57
+    loc: world,-16580.0,45.0,-18969.0
+    inMap: true
+  '1075':
+    player: oow_ll
+    type: 57
+    loc: world,-16578.0,45.0,-18969.0
+    inMap: true
+  '1076':
+    player: oow_ll
+    type: 57
+    loc: world,-16578.0,46.0,-18969.0
+    inMap: true
+  '1077':
+    player: oow_ll
+    type: 57
+    loc: world,-16578.0,47.0,-18969.0
+    inMap: true
+  '1078':
+    player: oow_ll
+    type: 57
+    loc: world,-16578.0,48.0,-18969.0
+    inMap: true
+  '1079':
+    player: moule_frite
+    type: 107
+    loc: world,14258.0,15.0,7737.0
+    inMap: true
+  '1080':
+    player: blunt_rasor
+    type: 92
+    loc: world,424.0,11.0,276.0
+    inMap: true
+  '1081':
+    player: zodru19
+    type: 51
+    loc: world,14039.0,18.0,15671.0
+    inMap: true
+  '1082':
+    player: pl4tiniumtm
+    type: 51
+    loc: world,4278.0,59.0,-3779.0
+    inMap: true
+  '1083':
+    player: pl4tiniumtm
+    type: 51
+    loc: world,4279.0,59.0,-3779.0
+    inMap: true
+  '1084':
+    player: pl4tiniumtm
+    type: 51
+    loc: world,4279.0,59.0,-3780.0
+    inMap: true
+  '1085':
+    player: jordane67800
+    type: 57
+    loc: world,-19995.0,15.0,11590.0
+    inMap: true
+  '1086':
+    player: jordane67800
+    type: 57
+    loc: world,-19991.0,15.0,11590.0
+    inMap: true
+  '1087':
+    player: jordane67800
+    type: 57
+    loc: world,-19999.0,15.0,11591.0
+    inMap: true
+  '1088':
+    player: narkos21
+    type: 51
+    loc: world,18459.0,30.0,14652.0
+    inMap: true
+  '1089':
+    player: narkos21
+    type: 51
+    loc: world,18457.0,32.0,14654.0
+    inMap: true
+  '1090':
+    player: boubou37
+    type: 57
+    loc: world,13366.0,22.0,4624.0
+    inMap: true
+  '1091':
+    player: boubou37
+    type: 57
+    loc: world,13366.0,22.0,4623.0
+    inMap: true
+  '1092':
+    player: boubou37
+    type: 57
+    loc: world,13370.0,22.0,4619.0
+    inMap: true
+  '1093':
+    player: kywazy
+    type: 51
+    loc: world,-14227.0,63.0,4652.0
+    inMap: true
+  '1094':
+    player: keezy
+    type: 51
+    loc: world,16637.0,25.0,19526.0
+    inMap: true
+  '1095':
+    player: keezy
+    type: 51
+    loc: world,18453.0,29.0,14646.0
+    inMap: true
+  '1096':
+    player: xlolol2
+    type: 51
+    loc: world,-8107.0,14.0,-18220.0
+    inMap: true
+  '1097':
+    player: tavars
+    type: 107
+    loc: world,12734.0,47.0,-18440.0
+    inMap: true
+  '1098':
+    player: tavars
+    type: 51
+    loc: world,-11958.0,21.0,-5110.0
+    inMap: true
+  '1099':
+    player: tavars
+    type: 51
+    loc: world,-11958.0,22.0,-5110.0
+    inMap: true
+  '1100':
+    player: tavars
+    type: 51
+    loc: world,-11956.0,21.0,-5112.0
+    inMap: true
+  '1101':
+    player: tavars
+    type: 51
+    loc: world,-11956.0,22.0,-5112.0
+    inMap: true
+  '1102':
+    player: kamikassss
+    type: 57
+    loc: world,-18009.0,4.0,-15230.0
+    inMap: true
+  '1103':
+    player: kamikassss
+    type: 57
+    loc: world,-18008.0,4.0,-15229.0
+    inMap: true
+  '1104':
+    player: kamikassss
+    type: 57
+    loc: world,-18011.0,4.0,-15230.0
+    inMap: true
+  '1105':
+    player: elfripeo
+    type: 51
+    loc: world,-16758.0,64.0,227.0
+    inMap: true
+  '1106':
+    player: eagledow_
+    type: 101
+    loc: world,-2511.0,20.0,-2507.0
+    inMap: true
+  '1107':
+    player: multifir42
+    type: 57
+    loc: world,-14322.0,14.0,13811.0
+    inMap: true
+  '1108':
+    player: multifir42
+    type: 57
+    loc: world,-14322.0,13.0,13811.0
+    inMap: true
+  '1109':
+    player: multifir42
+    type: 57
+    loc: world,-14319.0,14.0,13811.0
+    inMap: true
+  '1110':
+    player: goinfrex
+    type: 51
+    loc: world,-18009.0,4.0,-15228.0
+    inMap: true
+  '1111':
+    player: goinfrex
+    type: 51
+    loc: world,-18011.0,4.0,-15232.0
+    inMap: true
+  '1112':
+    player: goinfrex
+    type: 51
+    loc: world,-18010.0,4.0,-15229.0
+    inMap: true
+  '1113':
+    player: goinfrex
+    type: 51
+    loc: world,-18010.0,4.0,-15232.0
+    inMap: true
+  '1114':
+    player: gamix_yt
+    type: 51
+    loc: world,19998.0,12.0,503.0
+    inMap: true
+  '1115':
+    player: gamix_yt
+    type: 51
+    loc: world,19996.0,13.0,503.0
+    inMap: true
+  '1116':
+    player: gamix_yt
+    type: 51
+    loc: world,19993.0,13.0,503.0
+    inMap: true
+  '1117':
+    player: gamix_yt
+    type: 51
+    loc: world,19991.0,12.0,503.0
+    inMap: true
+  '1118':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,43.0,15806.0
+    inMap: true
+  '1119':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,42.0,15806.0
+    inMap: true
+  '1120':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,43.0,15809.0
+    inMap: true
+  '1121':
+    player: zayrox29
+    type: 51
+    loc: world,18480.0,42.0,15803.0
+    inMap: true
+  '1122':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,43.0,15800.0
+    inMap: true
+  '1123':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,42.0,15800.0
+    inMap: true
+  '1124':
+    player: zayrox29
+    type: 51
+    loc: world,18477.0,43.0,15803.0
+    inMap: true
+  '1125':
+    player: tigrediamant
+    type: 57
+    loc: world,-19925.0,9.0,-6132.0
+    inMap: true
+  '1126':
+    player: paul3344000
+    type: 107
+    loc: world,-12021.0,5.0,-3847.0
+    inMap: true
+  '1127':
+    player: zozo33
+    type: 92
+    loc: world,2765.0,37.0,12129.0
+    inMap: true
+  '1128':
+    player: manyl93
+    type: 92
+    loc: world,16338.0,4.0,19990.0
+    inMap: true
+  '1129':
+    player: xelock
+    type: 107
+    loc: world,14485.0,19.0,15636.0
+    inMap: true
+  '1130':
+    player: ayzziix
+    type: 51
+    loc: world,-10361.0,47.0,4433.0
+    inMap: true
+  '1131':
+    player: ayzziix
+    type: 51
+    loc: world,-10361.0,48.0,4433.0
+    inMap: true
+  '1132':
+    player: ayzziix
+    type: 51
+    loc: world,-10361.0,49.0,4433.0
+    inMap: true
+  '1133':
+    player: kamikassss
+    type: 57
+    loc: world,-18011.0,4.0,-15231.0
+    inMap: true
+  '1134':
+    player: kamikassss
+    type: 57
+    loc: world,-18009.0,4.0,-15231.0
+    inMap: true
+  '1135':
+    player: mat_ingam3
+    type: 107
+    loc: world,-5182.0,20.0,4953.0
+    inMap: true
+  '1136':
+    player: gzelok_yt
+    type: 92
+    loc: world,-2948.0,254.0,-4228.0
+    inMap: true
+  '1137':
+    player: mrbosse
+    type: 51
+    loc: world,14549.0,20.0,16532.0
+    inMap: true
+  '1138':
+    player: mrbosse
+    type: 51
+    loc: world,14553.0,21.0,16521.0
+    inMap: true
+  '1139':
+    player: mrbosse
+    type: 51
+    loc: world,14543.0,21.0,16532.0
+    inMap: true
+  '1140':
+    player: mrbosse
+    type: 51
+    loc: world,14552.0,21.0,16532.0
+    inMap: true
+  '1141':
+    player: mamadou33
+    type: 107
+    loc: world,-2855.0,4.0,-14171.0
+    inMap: true
+  '1142':
+    player: mamadou33
+    type: 51
+    loc: world,-3064.0,13.0,-13977.0
+    inMap: true
+  '1143':
+    player: mamadou33
+    type: 51
+    loc: world,-3064.0,13.0,-13976.0
+    inMap: true
+  '1144':
+    player: elie5626
+    type: 107
+    loc: world,-2856.0,4.0,-14172.0
+    inMap: true
+  '1145':
+    player: invictusat
+    type: 51
+    loc: world,8230.0,11.0,-6042.0
+    inMap: true
+  '1146':
+    player: invictusat
+    type: 51
+    loc: world,8230.0,11.0,-6039.0
+    inMap: true
+  '1147':
+    player: invictusat
+    type: 51
+    loc: world,8233.0,11.0,-6042.0
+    inMap: true
+  '1148':
+    player: invictusat
+    type: 51
+    loc: world,8233.0,11.0,-6039.0
+    inMap: true
+  '1149':
+    player: kimoli
+    type: 101
+    loc: world,14189.0,5.0,-19112.0
+    inMap: true
+  '1150':
+    player: elfripeo
+    type: 51
+    loc: world,-16757.0,64.0,223.0
+    inMap: true
+  '1151':
+    player: jordan_salama
+    type: 92
+    loc: world,10590.0,20.0,-430.0
+    inMap: true
+  '1152':
+    player: sebasti_1
+    type: 57
+    loc: world,14550.0,21.0,16524.0
+    inMap: true
+  '1153':
+    player: sebasti_1
+    type: 57
+    loc: world,14550.0,20.0,16524.0
+    inMap: true
+  '1154':
+    player: sebasti_1
+    type: 57
+    loc: world,14550.0,21.0,16521.0
+    inMap: true
+  '1155':
+    player: harst_
+    type: 92
+    loc: world,-2184.0,38.0,-8952.0
+    inMap: true
+  '1156':
+    player: killianpetit
+    type: 57
+    loc: world,-592.0,63.0,-6733.0
+    inMap: true
+  '1157':
+    player: killianpetit
+    type: 57
+    loc: world,-593.0,63.0,-6733.0
+    inMap: true
+  '1158':
+    player: zraiks
+    type: 51
+    loc: world,5471.0,30.0,-4180.0
+    inMap: true
+  '1159':
+    player: zraiks
+    type: 57
+    loc: world,5466.0,30.0,-4185.0
+    inMap: true
+  '1160':
+    player: pochtard2chit
+    type: 92
+    loc: world,-3350.0,62.0,-3099.0
+    inMap: true
+  '1161':
+    player: advity_
+    type: 107
+    loc: world,3959.0,91.0,7764.0
+    inMap: true
+  '1162':
+    player: clem010
+    type: 51
+    loc: world,-6165.0,69.0,-14052.0
+    inMap: true
+  '1163':
+    player: skilzz_
+    type: 57
+    loc: world,-18008.0,9.0,-15230.0
+    inMap: true
+  '1164':
+    player: kamikassss
+    type: 51
+    loc: world,-18010.0,4.0,-15231.0
+    inMap: true
+  '1165':
+    player: volmog_yt
+    type: 51
+    loc: world,12734.0,13.0,-18439.0
+    inMap: true
+  '1166':
+    player: _zwiiko_
+    type: 57
+    loc: world,-15163.0,61.0,799.0
+    inMap: true
+  '1167':
+    player: _zwiiko_
+    type: 57
+    loc: world,-15163.0,62.0,799.0
+    inMap: true
+  '1168':
+    player: _zwiiko_
+    type: 57
+    loc: world,-15163.0,63.0,799.0
+    inMap: true
+  '1169':
+    player: _zwiiko_
+    type: 57
+    loc: world,-15163.0,64.0,799.0
+    inMap: true
+  '1170':
+    player: bysneak_
+    type: 99
+    loc: world,-13081.0,19.0,-4409.0
+    inMap: true
+  '1171':
+    player: bysneak_
+    type: 92
+    loc: world,-18073.0,8.0,16679.0
+    inMap: true
+  '1172':
+    player: litleboy
+    type: 92
+    loc: 'null'
+  '1173':
+    player: kevincharo
+    type: 51
+    loc: world,-6438.0,9.0,-8985.0
+    inMap: true
+  '1174':
+    player: mega_fuzion
+    type: 107
+    loc: world,-12628.0,50.0,15446.0
+    inMap: true
+  '1175':
+    player: mega_fuzion
+    type: 107
+    loc: world,-12631.0,49.0,15443.0
+    inMap: true
+  '1176':
+    player: mega_fuzion
+    type: 107
+    loc: world,-12631.0,49.0,15446.0
+    inMap: true
+  '1177':
+    player: tkm22
+    type: 57
+    loc: world,5221.0,15.0,16212.0
+    inMap: true
+  '1178':
+    player: tkm22
+    type: 57
+    loc: world,5218.0,15.0,16208.0
+    inMap: true
+  '1179':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12465.0,42.0,-5889.0
+    inMap: true
+  '1180':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12465.0,41.0,-5889.0
+    inMap: true
+  '1181':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12467.0,42.0,-5890.0
+    inMap: true
+  '1182':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12467.0,41.0,-5890.0
+    inMap: true
+  '1183':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12468.0,42.0,-5887.0
+    inMap: true
+  '1184':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12468.0,41.0,-5887.0
+    inMap: true
+  '1185':
+    player: mgk_tozzzz
+    type: 57
+    loc: world,12462.0,41.0,-5888.0
+    inMap: true
+  '1186':
+    player: diablo32xd
+    type: 101
+    loc: world,-11686.0,24.0,8410.0
+    inMap: true
+  '1187':
+    player: lololefou
+    type: 51
+    loc: world,12738.0,13.0,-18436.0
+    inMap: true
+  '1188':
+    player: lololefou
+    type: 51
+    loc: world,12744.0,15.0,-18433.0
+    inMap: true
+  '1189':
+    player: pioupiou2003
+    type: 51
+    loc: world,-10247.0,62.0,-15945.0
+    inMap: true
+  '1190':
+    player: misteerfreezie
+    type: 51
+    loc: world,10593.0,29.0,-431.0
+    inMap: true
+  '1191':
+    player: misteerfreezie
+    type: 51
+    loc: world,10593.0,29.0,-432.0
+    inMap: true
+  '1192':
+    player: jeremygameur
+    type: 51
+    loc: world,-19921.0,17.0,-6132.0
+    inMap: true
+  '1193':
+    player: jeremygameur
+    type: 51
+    loc: world,-19924.0,17.0,-6132.0
+    inMap: true
+  '1194':
+    player: davlow_
+    type: 92
+    loc: world,-19998.0,5.0,-19729.0
+    inMap: true
+  '1195':
+    player: davlow_
+    type: 99
+    loc: world,-19974.0,13.0,-19729.0
+    inMap: true
+  '1196':
+    player: davlow_
+    type: 51
+    loc: world,-19920.0,17.0,-6134.0
+    inMap: true
+  '1197':
+    player: thepopspvp
+    type: 99
+    loc: world,-7994.0,37.0,18973.0
+    inMap: true
+  '1198':
+    player: thepopspvp
+    type: 99
+    loc: world,-7994.0,37.0,18968.0
+    inMap: true
+  '1199':
+    player: pioupiou2003
+    type: 51
+    loc: world,-10247.0,63.0,-15945.0
+    inMap: true
+  '1200':
+    player: pioupiou2003
+    type: 51
+    loc: world,-10247.0,64.0,-15945.0
+    inMap: true
+  '1201':
+    player: pioupiou2003
+    type: 51
+    loc: world,-10249.0,62.0,-15945.0
+    inMap: true
+  '1202':
+    player: pioupiou2003
+    type: 51
+    loc: world,-10249.0,63.0,-15945.0
+    inMap: true
+  '1203':
+    player: florian2408
+    type: 92
+    loc: world,-19997.0,19.0,-8532.0
+    inMap: true
+  '1204':
+    player: iquidred
+    type: 107
+    loc: world,-51.0,55.0,-4513.0
+    inMap: true
+  '1205':
+    player: iquidred
+    type: 107
+    loc: world,-49.0,55.0,-4513.0
+    inMap: true
+  '1206':
+    player: iquidred
+    type: 107
+    loc: world,-51.0,55.0,-4515.0
+    inMap: true
+  '1207':
+    player: tkm22
+    type: 107
+    loc: world,5217.0,15.0,16214.0
+    inMap: true
+  '1208':
+    player: tkm22
+    type: 92
+    loc: world,8939.0,40.0,19416.0
+    inMap: true
+  '1209':
+    player: tkm22
+    type: 92
+    loc: world,8937.0,40.0,19417.0
+    inMap: true
+  '1210':
+    player: wairyjo
+    type: 51
+    loc: world,9690.0,76.0,-7.0
+    inMap: true
+  '1211':
+    player: okine
+    type: 57
+    loc: 'null'
+  '1212':
+    player: okine
+    type: 57
+    loc: 'null'
+  '1213':
+    player: okine
+    type: 57
+    loc: 'null'
+  '1214':
+    player: okine
+    type: 57
+    loc: 'null'
+  '1215':
+    player: okine
+    type: 57
+    loc: 'null'
+  '1216':
+    player: okine
+    type: 57
+    loc: 'null'
+  '1217':
+    player: tintindu51
+    type: 101
+    loc: world,18480.0,43.0,15803.0
+    inMap: true
+  '1218':
+    player: tintindu51
+    type: 101
+    loc: world,18480.0,42.0,15803.0
+    inMap: true
+  '1219':
+    player: ineknew
+    type: 51
+    loc: world,-10809.0,77.0,-15204.0
+    inMap: true
+  '1220':
+    player: ineknew
+    type: 51
+    loc: world,-10809.0,76.0,-15204.0
+    inMap: true
+  '1221':
+    player: ineknew
+    type: 51
+    loc: world,-10809.0,75.0,-15204.0
+    inMap: true
+  '1222':
+    player: ineknew
+    type: 51
+    loc: world,-10813.0,77.0,-15205.0
+    inMap: true
+  '1223':
+    player: ineknew
+    type: 51
+    loc: world,-10813.0,76.0,-15205.0
+    inMap: true
+  '1224':
+    player: ineknew
+    type: 51
+    loc: world,-10812.0,77.0,-15208.0
+    inMap: true
+  '1225':
+    player: ktm125sx
+    type: 101
+    loc: world,-12634.0,26.0,15443.0
+    inMap: true
+  '1226':
+    player: ktm125sx
+    type: 101
+    loc: world,-12631.0,26.0,15443.0
+    inMap: true
+  '1227':
+    player: ktm125sx
+    type: 101
+    loc: world,-12628.0,26.0,15443.0
+    inMap: true
+  '1228':
+    player: ktm125sx
+    type: 101
+    loc: world,-12631.0,26.0,15452.0
+    inMap: true
+  '1229':
+    player: ktm125sx
+    type: 101
+    loc: world,-12628.0,26.0,15452.0
+    inMap: true
+  '1230':
+    player: firexpower666_
+    type: 57
+    loc: world,11133.0,43.0,-11713.0
+    inMap: true
+  '1231':
+    player: firexpower666_
+    type: 57
+    loc: world,11128.0,43.0,-11719.0
+    inMap: true
+  '1232':
+    player: firexpower666_
+    type: 57
+    loc: world,11125.0,43.0,-11716.0
+    inMap: true
+  '1233':
+    player: firexpower666_
+    type: 57
+    loc: world,11132.0,43.0,-11717.0
+    inMap: true
+  '1234':
+    player: firexpower666_
+    type: 57
+    loc: world,11125.0,43.0,-11711.0
+    inMap: true
+  '1235':
+    player: firexpower666_
+    type: 57
+    loc: world,11129.0,43.0,-11711.0
+    inMap: true
+  '1236':
+    player: firexpower666_
+    type: 51
+    loc: world,11133.0,42.0,-11713.0
+    inMap: true
+  '1237':
+    player: beatsaudio
+    type: 51
+    loc: world,10004.0,50.0,3566.0
+    inMap: true
+  '1238':
+    player: fngod
+    type: 51
+    loc: world,-12777.0,82.0,-2621.0
+    inMap: true
+  '1239':
+    player: skilzz_
+    type: 51
+    loc: world,-18008.0,8.0,-15228.0
+    inMap: true
+  '1240':
+    player: electrocraft
+    type: 51
+    loc: world,14314.0,4.0,18456.0
+    inMap: true
+  '1241':
+    player: electrocraft
+    type: 51
+    loc: world,14313.0,4.0,18454.0
+    inMap: true
+  '1242':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5220.0,22.0,-5087.0
+    inMap: true
+  '1243':
+    player: electrocraft
+    type: 51
+    loc: world,14315.0,4.0,18458.0
+    inMap: true
+  '1244':
+    player: electrocraft
+    type: 51
+    loc: world,14315.0,4.0,18454.0
+    inMap: true
+  '1245':
+    player: gameurdumsk
+    type: 51
+    loc: world,-16169.0,20.0,-19805.0
+    inMap: true
+  '1246':
+    player: gameurdumsk
+    type: 51
+    loc: world,-16169.0,20.0,-19809.0
+    inMap: true
+  '1247':
+    player: gameurdumsk
+    type: 51
+    loc: world,-16169.0,19.0,-19805.0
+    inMap: true
+  '1248':
+    player: gameurdumsk
+    type: 51
+    loc: world,-16169.0,18.0,-19805.0
+    inMap: true
+  '1249':
+    player: maxougaming
+    type: 51
+    loc: world,-8115.0,19.0,-19627.0
+    inMap: true
+  '1250':
+    player: maxougaming
+    type: 51
+    loc: world,-8115.0,19.0,-19625.0
+    inMap: true
+  '1251':
+    player: maxougaming
+    type: 51
+    loc: world,-8115.0,19.0,-19623.0
+    inMap: true
+  '1252':
+    player: maxougaming
+    type: 51
+    loc: world,-8117.0,19.0,-19623.0
+    inMap: true
+  '1253':
+    player: maxougaming
+    type: 51
+    loc: world,-8117.0,19.0,-19621.0
+    inMap: true
+  '1254':
+    player: maxougaming
+    type: 51
+    loc: world,-8119.0,19.0,-19621.0
+    inMap: true
+  '1255':
+    player: maxougaming
+    type: 51
+    loc: world,-8121.0,19.0,-19621.0
+    inMap: true
+  '1256':
+    player: maxougaming
+    type: 51
+    loc: world,-8123.0,19.0,-19619.0
+    inMap: true
+  '1257':
+    player: maxougaming
+    type: 51
+    loc: world,-8121.0,19.0,-19619.0
+    inMap: true
+  '1258':
+    player: killi49
+    type: 51
+    loc: world,-16887.0,63.0,8383.0
+    inMap: true
+  '1259':
+    player: killi49
+    type: 51
+    loc: world,-16887.0,62.0,8383.0
+    inMap: true
+  '1260':
+    player: elfripeo
+    type: 51
+    loc: world,-16757.0,64.0,225.0
+    inMap: true
+  '1261':
+    player: icesword
+    type: 99
+    loc: world,14040.0,5.0,15671.0
+    inMap: true
+  '1262':
+    player: bebe02
+    type: 92
+    loc: world,19676.0,35.0,13188.0
+    inMap: true
+  '1263':
+    player: beatsaudio
+    type: 51
+    loc: world,10004.0,52.0,3568.0
+    inMap: true
+  '1264':
+    player: bebe02
+    type: 92
+    loc: world,19682.0,35.0,13185.0
+    inMap: true
+  '1265':
+    player: bebe02
+    type: 92
+    loc: world,19682.0,35.0,13188.0
+    inMap: true
+  '1266':
+    player: electriiz
+    type: 107
+    loc: world,-14138.0,23.0,11025.0
+    inMap: true
+  '1267':
+    player: electriiz
+    type: 107
+    loc: world,-15352.0,75.0,8153.0
+    inMap: true
+  '1268':
+    player: jeremygameur
+    type: 51
+    loc: world,-19924.0,17.0,-6135.0
+    inMap: true
+  '1269':
+    player: jeremygameur
+    type: 51
+    loc: world,-19921.0,17.0,-6135.0
+    inMap: true
+  '1270':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5220.0,23.0,-5087.0
+    inMap: true
+  '1271':
+    player: zayfox
+    type: 51
+    loc: world,19677.0,56.0,13186.0
+    inMap: true
+  '1272':
+    player: zayfox
+    type: 51
+    loc: world,19677.0,56.0,13184.0
+    inMap: true
+  '1273':
+    player: darkknight8910
+    type: 51
+    loc: world,-15165.0,64.0,801.0
+    inMap: true
+  '1274':
+    player: darkknight8910
+    type: 51
+    loc: world,-15165.0,65.0,794.0
+    inMap: true
+  '1275':
+    player: 03theo
+    type: 107
+    loc: world,13627.0,12.0,-15857.0
+    inMap: true
+  '1276':
+    player: anthony77
+    type: 57
+    loc: world,-16691.0,62.0,-6791.0
+    inMap: true
+  '1277':
+    player: lucasdecaen
+    type: 54
+    loc: world,17142.0,12.0,11802.0
+    inMap: true
+  '1278':
+    player: softspringer
+    type: 51
+    loc: world,-12640.0,25.0,15449.0
+    inMap: true
+  '1279':
+    player: destructor_baba
+    type: 107
+    loc: world,-7693.0,65.0,9727.0
+    inMap: true
+  '1280':
+    player: destructor_baba
+    type: 107
+    loc: world,-7693.0,65.0,9724.0
+    inMap: true
+  '1281':
+    player: sablolo00
+    type: 57
+    loc: world,11189.0,26.0,3505.0
+    inMap: true
+  '1282':
+    player: sablolo00
+    type: 57
+    loc: world,11178.0,26.0,3505.0
+    inMap: true
+  '1283':
+    player: newvenix
+    type: 51
+    loc: world,-19976.0,23.0,-19726.0
+    inMap: true
+  '1284':
+    player: newvenix
+    type: 51
+    loc: world,-19976.0,23.0,-19730.0
+    inMap: true
+  '1285':
+    player: newvenix
+    type: 51
+    loc: world,-19966.0,23.0,-19727.0
+    inMap: true
+  '1286':
+    player: thecrane
+    type: 57
+    loc: world,-8119.0,19.0,-19625.0
+    inMap: true
+  '1287':
+    player: racid
+    type: 57
+    loc: world,122.0,28.0,678.0
+    inMap: true
+  '1288':
+    player: hkz_skillon
+    type: 101
+    loc: world,12739.0,14.0,-18441.0
+    inMap: true
+  '1289':
+    player: itzstarkii_
+    type: 51
+    loc: world,-11406.0,27.0,-18667.0
+    inMap: true
+  '1290':
+    player: itzstarkii_
+    type: 51
+    loc: world,-11401.0,27.0,-18667.0
+    inMap: true
+  '1291':
+    player: itzstarkii_
+    type: 51
+    loc: world,-11401.0,27.0,-18662.0
+    inMap: true
+  '1292':
+    player: itzstarkii_
+    type: 51
+    loc: world,-11406.0,27.0,-18662.0
+    inMap: true
+  '1293':
+    player: paul3344000
+    type: 92
+    loc: world,-12020.0,5.0,-3842.0
+    inMap: true
+  '1294':
+    player: paul3344000
+    type: 51
+    loc: world,-12038.0,15.0,-3857.0
+    inMap: true
+  '1295':
+    player: sosfight
+    type: 51
+    loc: world,12740.0,14.0,-18439.0
+    inMap: true
+  '1296':
+    player: zobelsuryoutube
+    type: 51
+    loc: world,-16580.0,45.0,-18973.0
+    inMap: true
+  '1297':
+    player: zobelsuryoutube
+    type: 51
+    loc: world,-16578.0,45.0,-18973.0
+    inMap: true
+  '1298':
+    player: racid
+    type: 57
+    loc: world,120.0,28.0,679.0
+    inMap: true
+  '1299':
+    player: racid
+    type: 57
+    loc: world,121.0,28.0,680.0
+    inMap: true
+  '1300':
+    player: racid
+    type: 51
+    loc: world,121.0,28.0,678.0
+    inMap: true
+  '1301':
+    player: racid
+    type: 51
+    loc: world,122.0,28.0,679.0
+    inMap: true
+  '1302':
+    player: racid
+    type: 51
+    loc: world,122.0,28.0,680.0
+    inMap: true
+  '1303':
+    player: racid
+    type: 51
+    loc: world,120.0,28.0,678.0
+    inMap: true
+  '1304':
+    player: racid
+    type: 101
+    loc: world,121.0,28.0,679.0
+    inMap: true
+  '1305':
+    player: ozyti
+    type: 51
+    loc: world,-14317.0,4.0,13800.0
+    inMap: true
+  '1306':
+    player: thenexxion
+    type: 51
+    loc: world,-2581.0,24.0,-5148.0
+    inMap: true
+  '1307':
+    player: thecrane
+    type: 57
+    loc: world,-8119.0,19.0,-19627.0
+    inMap: true
+  '1308':
+    player: thecrane
+    type: 57
+    loc: world,-8121.0,19.0,-19627.0
+    inMap: true
+  '1309':
+    player: catwater
+    type: 101
+    loc: world,-8805.0,7.0,236.0
+    inMap: true
+  '1310':
+    player: gangstardu59
+    type: 99
+    loc: world,-6950.0,62.0,-2694.0
+    inMap: true
+  '1311':
+    player: gangstardu59
+    type: 51
+    loc: world,-6951.0,62.0,-2694.0
+    inMap: true
+  '1312':
+    player: gangstardu59
+    type: 51
+    loc: world,-6950.0,62.0,-2693.0
+    inMap: true
+  '1313':
+    player: gangstardu59
+    type: 51
+    loc: world,-6951.0,62.0,-2693.0
+    inMap: true
+  '1314':
+    player: gangstardu59
+    type: 51
+    loc: world,-6951.0,62.0,-2692.0
+    inMap: true
+  '1315':
+    player: durimax
+    type: 54
+    loc: world,-6800.0,39.0,-4389.0
+    inMap: true
+  '1316':
+    player: durimax
+    type: 54
+    loc: world,-6798.0,39.0,-4385.0
+    inMap: true
+  '1317':
+    player: matcraft45
+    type: 107
+    loc: world,-15163.0,64.0,797.0
+    inMap: true
+  '1318':
+    player: matcraft45
+    type: 107
+    loc: world,-15163.0,63.0,797.0
+    inMap: true
+  '1319':
+    player: zeus_monkey
+    type: 107
+    loc: world,8309.0,5.0,15303.0
+    inMap: true
+  '1320':
+    player: durimax
+    type: 54
+    loc: world,-6801.0,39.0,-4385.0
+    inMap: true
+  '1321':
+    player: haerox
+    type: 51
+    loc: world,-16760.0,65.0,226.0
+    inMap: true
+  '1322':
+    player: tackteek
+    type: 51
+    loc: world,17299.0,17.0,2129.0
+    inMap: true
+  '1323':
+    player: aleksei
+    type: 51
+    loc: world,-16761.0,65.0,228.0
+    inMap: true
+  '1324':
+    player: aleksei
+    type: 51
+    loc: world,-16761.0,65.0,223.0
+    inMap: true
+  '1325':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5219.0,23.0,-5089.0
+    inMap: true
+  '1326':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5219.0,22.0,-5089.0
+    inMap: true
+  '1327':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5217.0,22.0,-5089.0
+    inMap: true
+  '1328':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5217.0,23.0,-5089.0
+    inMap: true
+  '1329':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5217.0,23.0,-5087.0
+    inMap: true
+  '1330':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5217.0,22.0,-5087.0
+    inMap: true
+  '1331':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5220.0,23.0,-5084.0
+    inMap: true
+  '1332':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5223.0,22.0,-5084.0
+    inMap: true
+  '1333':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5223.0,23.0,-5087.0
+    inMap: true
+  '1334':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5223.0,22.0,-5087.0
+    inMap: true
+  '1335':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5223.0,22.0,-5089.0
+    inMap: true
+  '1336':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5223.0,23.0,-5084.0
+    inMap: true
+  '1337':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5217.0,22.0,-5084.0
+    inMap: true
+  '1338':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5217.0,23.0,-5084.0
+    inMap: true
+  '1339':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5223.0,23.0,-5089.0
+    inMap: true
+  '1340':
+    player: exodiusgamer
+    type: 51
+    loc: world,-5220.0,22.0,-5084.0
+    inMap: true
+  '1341':
+    player: azmak
+    type: 107
+    loc: world,-15268.0,21.0,13074.0
+    inMap: true
+  '1342':
+    player: azmak
+    type: 107
+    loc: world,-15274.0,21.0,13074.0
+    inMap: true
+  '1343':
+    player: azmak
+    type: 107
+    loc: world,-15271.0,21.0,13077.0
+    inMap: true
+  '1344':
+    player: azmak
+    type: 107
+    loc: world,-15274.0,21.0,13080.0
+    inMap: true
+  '1345':
+    player: azmak
+    type: 107
+    loc: world,-15268.0,21.0,13080.0
+    inMap: true
+  '1346':
+    player: sosfight
+    type: 51
+    loc: world,12740.0,15.0,-18442.0
+    inMap: true
+  '1347':
+    player: sosfight
+    type: 51
+    loc: world,12740.0,14.0,-18442.0
+    inMap: true
+  '1348':
+    player: sosfight
+    type: 51
+    loc: world,12740.0,13.0,-18442.0
+    inMap: true
+  '1349':
+    player: gamix_yt
+    type: 99
+    loc: world,18811.0,22.0,9271.0
+    inMap: true
+  '1350':
+    player: gekomercure
+    type: 101
+    loc: world,13542.0,66.0,-6325.0
+    inMap: true
+  '1351':
+    player: gekomercure
+    type: 101
+    loc: world,13544.0,66.0,-6325.0
+    inMap: true
+  '1352':
+    player: lololefou
+    type: 107
+    loc: world,12736.0,46.0,-18439.0
+    inMap: true
+  '1353':
+    player: lololefou
+    type: 107
+    loc: world,12738.0,46.0,-18439.0
+    inMap: true
+  '1354':
+    player: mkdarkos
+    type: 92
+    loc: world,9581.0,67.0,-18924.0
+    inMap: true
+  '1355':
+    player: mkdarkos
+    type: 92
+    loc: world,9584.0,67.0,-18926.0
+    inMap: true
+  '1356':
+    player: mkdarkos
+    type: 92
+    loc: world,9581.0,67.0,-18926.0
+    inMap: true
+  '1357':
+    player: mkdarkos
+    type: 92
+    loc: world,9581.0,67.0,-18928.0
+    inMap: true
+  '1358':
+    player: mkdarkos
+    type: 92
+    loc: world,9584.0,67.0,-18928.0
+    inMap: true
+  '1359':
+    player: stan94
+    type: 92
+    loc: world,-14155.0,7.0,-12513.0
+    inMap: true
+  '1360':
+    player: blunt_rasor
+    type: 57
+    loc: world,1995.0,22.0,-14026.0
+    inMap: true
+  '1361':
+    player: blunt_rasor
+    type: 57
+    loc: world,1998.0,21.0,-14025.0
+    inMap: true
+  '1362':
+    player: blunt_rasor
+    type: 57
+    loc: world,1993.0,22.0,-14025.0
+    inMap: true
+  '1363':
+    player: blunt_rasor
+    type: 57
+    loc: world,1995.0,22.0,-14024.0
+    inMap: true
+  '1364':
+    player: thematrixgameur
+    type: 57
+    loc: world,-19993.0,30.0,19993.0
+    inMap: true
+  '1365':
+    player: romainskill_pvp
+    type: 57
+    loc: world,8305.0,15.0,15309.0
+    inMap: true
+  '1366':
+    player: thenexxion
+    type: 54
+    loc: world,-2580.0,24.0,-5149.0
+    inMap: true
+  '1367':
+    player: d4rk_d3mon
+    type: 107
+    loc: world,-19993.0,23.0,19989.0
+    inMap: true
+  '1368':
+    player: d4rk_d3mon
+    type: 107
+    loc: world,-19993.0,23.0,19990.0
+    inMap: true
+  '1369':
+    player: d4rk_d3mon
+    type: 101
+    loc: world,-19993.0,23.0,19991.0
+    inMap: true
+  '1370':
+    player: d4rk_d3mon
+    type: 101
+    loc: world,-19993.0,23.0,19992.0
+    inMap: true
+  '1371':
+    player: d4rk_d3mon
+    type: 57
+    loc: world,-10357.0,47.0,4429.0
+    inMap: true
+  '1372':
+    player: d4rk_d3mon
+    type: 57
+    loc: world,-10357.0,48.0,4429.0
+    inMap: true
+  '1373':
+    player: d4rk_d3mon
+    type: 57
+    loc: world,-10353.0,48.0,4429.0
+    inMap: true
+  '1374':
+    player: d4rk_d3mon
+    type: 57
+    loc: world,-10353.0,47.0,4429.0
+    inMap: true
+  '1375':
+    player: stan94
+    type: 54
+    loc: world,-18815.0,64.0,-12942.0
+    inMap: true
+  '1376':
+    player: maxipepse88
+    type: 101
+    loc: world,12884.0,75.0,2316.0
+    inMap: true
+  '1377':
+    player: maxipepse88
+    type: 107
+    loc: world,-12880.0,73.0,18784.0
+    inMap: true
+  '1378':
+    player: aleksei
+    type: 57
+    loc: world,-16764.0,64.0,228.0
+    inMap: true
+  '1379':
+    player: aleksei
+    type: 51
+    loc: world,-16764.0,64.0,223.0
+    inMap: true
+  '1380':
+    player: haerox
+    type: 57
+    loc: world,-16761.0,66.0,223.0
+    inMap: true
+  '1381':
+    player: ytb_xxkarnagexx
+    type: 99
+    loc: world,10391.0,48.0,11773.0
+    inMap: true
+  '1382':
+    player: ytb_xxkarnagexx
+    type: 99
+    loc: world,10391.0,47.0,11773.0
+    inMap: true
+  '1383':
+    player: inoxe2000
+    type: 51
+    loc: world,-18007.0,8.0,-15227.0
+    inMap: true
+  '1384':
+    player: jordan_salama
+    type: 101
+    loc: world,10594.0,29.0,-431.0
+    inMap: true
+  '1385':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1961.0,13.0,-1441.0
+    inMap: true
+  '1386':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1961.0,13.0,-1445.0
+    inMap: true
+  '1387':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1961.0,12.0,-1445.0
+    inMap: true
+  '1388':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1965.0,13.0,-1441.0
+    inMap: true
+  '1389':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1965.0,12.0,-1445.0
+    inMap: true
+  '1390':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1965.0,13.0,-1445.0
+    inMap: true
+  '1391':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1965.0,13.0,-1449.0
+    inMap: true
+  '1392':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1961.0,13.0,-1449.0
+    inMap: true
+  '1393':
+    player: inoxe2000
+    type: 51
+    loc: world,-18007.0,8.0,-15229.0
+    inMap: true
+  '1394':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1969.0,13.0,-1441.0
+    inMap: true
+  '1395':
+    player: inoxe2000
+    type: 51
+    loc: world,-18009.0,8.0,-15229.0
+    inMap: true
+  '1396':
+    player: inoxe2000
+    type: 51
+    loc: world,-18009.0,8.0,-15227.0
+    inMap: true
+  '1397':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1969.0,13.0,-1449.0
+    inMap: true
+  '1398':
+    player: xx_volrod_xx
+    type: 51
+    loc: world,1969.0,13.0,-1445.0
+    inMap: true
+  '1399':
+    player: xx_volrod_xx
+    type: 92
+    loc: world,1966.0,6.0,-1448.0
+    inMap: true
+  '1400':
+    player: thecrane
+    type: 92
+    loc: world,-5064.0,11.0,-16051.0
+    inMap: true
+  '1401':
+    player: tereure
+    type: 54
+    loc: world,10444.0,70.0,-9070.0
+    inMap: true
+  '1402':
+    player: tereure
+    type: 54
+    loc: world,10444.0,70.0,-9073.0
+    inMap: true
+  '1403':
+    player: tereure
+    type: 54
+    loc: world,10441.0,70.0,-9070.0
+    inMap: true
+  '1404':
+    player: tereure
+    type: 54
+    loc: world,10438.0,70.0,-9070.0
+    inMap: true
+  '1405':
+    player: tereure
+    type: 54
+    loc: world,10441.0,70.0,-9073.0
+    inMap: true
+  '1406':
+    player: tereure
+    type: 54
+    loc: world,10438.0,70.0,-9073.0
+    inMap: true
+  '1407':
+    player: narkos21
+    type: 51
+    loc: world,18457.0,31.0,14654.0
+    inMap: true
+  '1408':
+    player: narkos21
+    type: 51
+    loc: world,18457.0,30.0,14654.0
+    inMap: true
+  '1409':
+    player: karlwill
+    type: 57
+    loc: world,9367.0,22.0,17699.0
+    inMap: true
+  '1410':
+    player: karlwill
+    type: 57
+    loc: world,9367.0,22.0,17701.0
+    inMap: true
+  '1411':
+    player: karlwill
+    type: 57
+    loc: world,9367.0,21.0,17699.0
+    inMap: true
+  '1412':
+    player: racaille76
+    type: 99
+    loc: world,19453.0,15.0,-1612.0
+    inMap: true
+  '1413':
+    player: _zwiiko_
+    type: 99
+    loc: world,13915.0,14.0,18871.0
+    inMap: true
+  '1414':
+    player: _zwiiko_
+    type: 101
+    loc: world,-12038.0,20.0,-3857.0
+    inMap: true
+  '1415':
+    player: swokune
+    type: 107
+    loc: world,3346.0,9.0,-4922.0
+    inMap: true
+  '1416':
+    player: swokune
+    type: 54
+    loc: world,3346.0,10.0,-4922.0
+    inMap: true
+  '1417':
+    player: chasseurdu57400
+    type: 92
+    loc: world,5875.0,67.0,10677.0
+    inMap: true
+  '1418':
+    player: chasseurdu57400
+    type: 92
+    loc: world,5871.0,67.0,10677.0
+    inMap: true
+  '1419':
+    player: chasseurdu57400
+    type: 92
+    loc: world,5871.0,67.0,10681.0
+    inMap: true
+  '1420':
+    player: chasseurdu57400
+    type: 92
+    loc: world,5872.0,67.0,10679.0
+    inMap: true
+  '1421':
+    player: chasseurdu57400
+    type: 92
+    loc: world,5874.0,67.0,10679.0
+    inMap: true
+  '1422':
+    player: chasseurdu57400
+    type: 51
+    loc: world,5882.0,78.0,10676.0
+    inMap: true
+  '1423':
+    player: chasseurdu57400
+    type: 51
+    loc: world,5882.0,78.0,10680.0
+    inMap: true
+  '1424':
+    player: chasseurdu57400
+    type: 51
+    loc: world,5882.0,78.0,10684.0
+    inMap: true
+  '1425':
+    player: chasseurdu57400
+    type: 51
+    loc: world,5879.0,78.0,10684.0
+    inMap: true
+  '1426':
+    player: chasseurdu57400
+    type: 51
+    loc: world,5876.0,78.0,10684.0
+    inMap: true
+  '1427':
+    player: maxoupvp
+    type: 51
+    loc: world,8527.0,13.0,-5878.0
+    inMap: true
+  '1428':
+    player: maxoupvp
+    type: 51
+    loc: world,8527.0,14.0,-5878.0
+    inMap: true
+  '1429':
+    player: furiomaniak
+    type: 57
+    loc: world,-10356.0,50.0,4433.0
+    inMap: true
+  '1430':
+    player: furiomaniak
+    type: 57
+    loc: world,-10356.0,49.0,4433.0
+    inMap: true
+  '1431':
+    player: furiomaniak
+    type: 57
+    loc: world,-10356.0,48.0,4433.0
+    inMap: true
+  '1432':
+    player: furiomaniak
+    type: 57
+    loc: world,-10356.0,47.0,4433.0
+    inMap: true
+  '1433':
+    player: ytbibossyt
+    type: 57
+    loc: world,12740.0,14.0,-18444.0
+    inMap: true
+  '1434':
+    player: ytbibossyt
+    type: 57
+    loc: world,12740.0,15.0,-18444.0
+    inMap: true
+  '1435':
+    player: ytbibossyt
+    type: 57
+    loc: world,12738.0,13.0,-18444.0
+    inMap: true
+  '1436':
+    player: ytbibossyt
+    type: 101
+    loc: world,12740.0,16.0,-18444.0
+    inMap: true
+  '1437':
+    player: ytbibossyt
+    type: 57
+    loc: world,12738.0,14.0,-18444.0
+    inMap: true
+  '1438':
+    player: ytbibossyt
+    type: 57
+    loc: world,12738.0,15.0,-18444.0
+    inMap: true
+  '1439':
+    player: ytbibossyt
+    type: 99
+    loc: world,16985.0,32.0,-14808.0
+    inMap: true
+  '1440':
+    player: ytbibossyt
+    type: 99
+    loc: world,16985.0,31.0,-14806.0
+    inMap: true
+  '1441':
+    player: ytbibossyt
+    type: 99
+    loc: world,16985.0,31.0,-14808.0
+    inMap: true
+  '1442':
+    player: ytbibossyt
+    type: 99
+    loc: world,16985.0,31.0,-14811.0
+    inMap: true
+  '1443':
+    player: ytbibossyt
+    type: 99
+    loc: world,16985.0,31.0,-14814.0
+    inMap: true
+  '1444':
+    player: zaiko_31
+    type: 107
+    loc: world,-3310.0,64.0,3930.0
+    inMap: true
+  '1445':
+    player: destructor_baba
+    type: 101
+    loc: world,-7691.0,65.0,9724.0
+    inMap: true
+  '1446':
+    player: destructor_baba
+    type: 57
+    loc: world,-7691.0,65.0,9727.0
+    inMap: true
+  '1447':
+    player: destructor_baba
+    type: 51
+    loc: world,-7689.0,65.0,9727.0
+    inMap: true
+  '1448':
+    player: x_refser_x
+    type: 107
+    loc: world,19997.0,27.0,4944.0
+    inMap: true
+  '1449':
+    player: easy
+    type: 99
+    loc: world,-5064.0,33.0,-16089.0
+    inMap: true
+  '1450':
+    player: easy
+    type: 99
+    loc: world,-5064.0,31.0,-16089.0
+    inMap: true
+  '1451':
+    player: easy
+    type: 99
+    loc: world,-5064.0,31.0,-16086.0
+    inMap: true
+  '1452':
+    player: easy
+    type: 99
+    loc: world,-5064.0,31.0,-16093.0
+    inMap: true
+  '1453':
+    player: easy
+    type: 99
+    loc: world,-5064.0,33.0,-16093.0
+    inMap: true
+  '1454':
+    player: easy
+    type: 99
+    loc: world,-5059.0,31.0,-16093.0
+    inMap: true
+  '1455':
+    player: hkz_skillon
+    type: 57
+    loc: world,12739.0,15.0,-18441.0
+    inMap: true
+  '1456':
+    player: hkz_skillon
+    type: 57
+    loc: world,12737.0,15.0,-18442.0
+    inMap: true
+  '1457':
+    player: hkz_skillon
+    type: 57
+    loc: world,12736.0,16.0,-18444.0
+    inMap: true
+  '1458':
+    player: jeremygameur
+    type: 101
+    loc: world,-19918.0,17.0,-6135.0
+    inMap: true
+  '1459':
+    player: jeremygameur
+    type: 51
+    loc: world,-19918.0,17.0,-6132.0
+    inMap: true
+  '1460':
+    player: swaky_
+    type: 54
+    loc: world,11142.0,31.0,-11735.0
+    inMap: true
+  '1461':
+    player: ytbibossyt
+    type: 99
+    loc: world,16985.0,32.0,-14811.0
+    inMap: true
+  '1462':
+    player: ytbibossyt
+    type: 99
+    loc: world,16988.0,32.0,-14810.0
+    inMap: true
+  '1463':
+    player: ytbibossyt
+    type: 57
+    loc: world,12738.0,16.0,-18444.0
+    inMap: true
+  '1464':
+    player: thecrane
+    type: 92
+    loc: world,-5063.0,11.0,-16051.0
+    inMap: true
+  '1465':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14521.0,76.0,-11891.0
+    inMap: true
+  '1466':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14520.0,76.0,-11891.0
+    inMap: true
+  '1467':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14520.0,76.0,-11890.0
+    inMap: true
+  '1468':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14521.0,76.0,-11890.0
+    inMap: true
+  '1469':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14522.0,76.0,-11890.0
+    inMap: true
+  '1470':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14522.0,76.0,-11889.0
+    inMap: true
+  '1471':
+    player: wilson84
+    type: 51
+    loc: world,-2874.0,16.0,15077.0
+    inMap: true
+  '1472':
+    player: wilson84
+    type: 51
+    loc: world,-2873.0,15.0,15079.0
+    inMap: true
+  '1473':
+    player: wilson84
+    type: 51
+    loc: world,-2873.0,16.0,15079.0
+    inMap: true
+  '1474':
+    player: wilson84
+    type: 51
+    loc: world,-2873.0,17.0,15079.0
+    inMap: true
+  '1475':
+    player: wilson84
+    type: 51
+    loc: world,-2870.0,15.0,15083.0
+    inMap: true
+  '1476':
+    player: wilson84
+    type: 51
+    loc: world,-2870.0,16.0,15083.0
+    inMap: true
+  '1477':
+    player: wilson84
+    type: 51
+    loc: world,-2870.0,17.0,15083.0
+    inMap: true
+  '1478':
+    player: wilson84
+    type: 51
+    loc: world,-2869.0,16.0,15080.0
+    inMap: true
+  '1479':
+    player: wilson84
+    type: 51
+    loc: world,-2869.0,17.0,15080.0
+    inMap: true
+  '1480':
+    player: wilson84
+    type: 51
+    loc: world,-2874.0,15.0,15077.0
+    inMap: true
+  '1481':
+    player: wilson84
+    type: 51
+    loc: world,-2868.0,17.0,15077.0
+    inMap: true
+  '1482':
+    player: wilson84
+    type: 51
+    loc: world,-2868.0,16.0,15077.0
+    inMap: true
+  '1483':
+    player: wilson84
+    type: 51
+    loc: world,-2869.0,15.0,15080.0
+    inMap: true
+  '1484':
+    player: wilson84
+    type: 51
+    loc: world,-2868.0,15.0,15077.0
+    inMap: true
+  '1485':
+    player: wilson84
+    type: 51
+    loc: world,-2872.0,17.0,15084.0
+    inMap: true
+  '1486':
+    player: wilson84
+    type: 51
+    loc: world,-2876.0,17.0,15079.0
+    inMap: true
+  '1487':
+    player: marops
+    type: 92
+    loc: world,4490.0,8.0,8849.0
+    inMap: true
+  '1488':
+    player: wasakill
+    type: 51
+    loc: world,-11357.0,18.0,-11203.0
+    inMap: true
+  '1489':
+    player: trapeurdu52
+    type: 57
+    loc: world,-12512.0,14.0,-18317.0
+    inMap: true
+  '1490':
+    player: trapeurdu52
+    type: 57
+    loc: world,-12518.0,14.0,-18317.0
+    inMap: true
+  '1491':
+    player: trapeurdu52
+    type: 107
+    loc: world,-12518.0,13.0,-18317.0
+    inMap: true
+  '1492':
+    player: mayz_
+    type: 92
+    loc: world,9839.0,63.0,-19523.0
+    inMap: true
+  '1493':
+    player: mayz_
+    type: 92
+    loc: world,9845.0,63.0,-19523.0
+    inMap: true
+  '1494':
+    player: silax_
+    type: 92
+    loc: world,12638.0,44.0,10509.0
+    inMap: true
+  '1495':
+    player: silax_
+    type: 92
+    loc: world,12637.0,44.0,10507.0
+    inMap: true
+  '1496':
+    player: silax_
+    type: 92
+    loc: world,12636.0,44.0,10509.0
+    inMap: true
+  '1497':
+    player: piizdragiibus33
+    type: 51
+    loc: world,-4714.0,20.0,-14299.0
+    inMap: true
+  '1498':
+    player: piizdragiibus33
+    type: 51
+    loc: world,-4714.0,21.0,-14299.0
+    inMap: true
+  '1499':
+    player: aleksei
+    type: 51
+    loc: world,-16764.0,65.0,223.0
+    inMap: true
+  '1500':
+    player: an0m4lly
+    type: 57
+    loc: 'null'
+  '1501':
+    player: furiomaniak
+    type: 57
+    loc: world,-10353.0,50.0,4433.0
+    inMap: true
+  '1502':
+    player: furiomaniak
+    type: 57
+    loc: world,-10353.0,49.0,4433.0
+    inMap: true
+  '1503':
+    player: furiomaniak
+    type: 57
+    loc: world,-10353.0,48.0,4433.0
+    inMap: true
+  '1504':
+    player: furiomaniak
+    type: 57
+    loc: world,-10353.0,47.0,4433.0
+    inMap: true
+  '1505':
+    player: death_punish
+    type: 51
+    loc: world,12737.0,13.0,-18442.0
+    inMap: true
+  '1506':
+    player: death_punish
+    type: 51
+    loc: world,12739.0,13.0,-18441.0
+    inMap: true
+  '1507':
+    player: ineknew
+    type: 92
+    loc: world,-14153.0,7.0,-12511.0
+    inMap: true
+  '1508':
+    player: parfor
+    type: 51
+    loc: world,2758.0,26.0,12123.0
+    inMap: true
+  '1509':
+    player: parfor
+    type: 51
+    loc: world,2759.0,26.0,12120.0
+    inMap: true
+  '1510':
+    player: parfor
+    type: 51
+    loc: world,2759.0,26.0,12124.0
+    inMap: true
+  '1511':
+    player: parfor
+    type: 51
+    loc: world,2759.0,26.0,12122.0
+    inMap: true
+  '1512':
+    player: darkfr45
+    type: 107
+    loc: world,11141.0,31.0,-11731.0
+    inMap: true
+  '1513':
+    player: bytsuyo_
+    type: 107
+    loc: world,-5063.0,20.0,-16070.0
+    inMap: true
+  '1514':
+    player: bytsuyo_
+    type: 107
+    loc: world,-5060.0,20.0,-16071.0
+    inMap: true
+  '1515':
+    player: bytsuyo_
+    type: 107
+    loc: world,-5056.0,19.0,-16066.0
+    inMap: true
+  '1516':
+    player: bytsuyo_
+    type: 107
+    loc: world,-5064.0,20.0,-16067.0
+    inMap: true
+  '1517':
+    player: bytsuyo_
+    type: 107
+    loc: world,-5059.0,20.0,-16074.0
+    inMap: true
+  '1518':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8121.0,19.0,-19623.0
+    inMap: true
+  '1519':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8123.0,19.0,-19623.0
+    inMap: true
+  '1520':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8123.0,19.0,-19627.0
+    inMap: true
+  '1521':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8121.0,19.0,-19625.0
+    inMap: true
+  '1522':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8119.0,19.0,-19623.0
+    inMap: true
+  '1523':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8117.0,19.0,-19625.0
+    inMap: true
+  '1524':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8117.0,19.0,-19629.0
+    inMap: true
+  '1525':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8117.0,19.0,-19627.0
+    inMap: true
+  '1526':
+    player: bytsuyo_
+    type: 51
+    loc: world,-8123.0,19.0,-19625.0
+    inMap: true
+  '1527':
+    player: ty4two
+    type: 99
+    loc: world,-826.0,70.0,336.0
+    inMap: true
+  '1528':
+    player: imperator122
+    type: 51
+    loc: world,-10812.0,75.0,-15212.0
+    inMap: true
+  '1529':
+    player: timlamalice
+    type: 57
+    loc: world,-8859.0,13.0,7333.0
+    inMap: true
+  '1530':
+    player: timlamalice
+    type: 57
+    loc: world,-8854.0,13.0,7333.0
+    inMap: true
+  '1531':
+    player: timlamalice
+    type: 57
+    loc: world,-8859.0,13.0,7338.0
+    inMap: true
+  '1532':
+    player: timlamalice
+    type: 57
+    loc: world,-8854.0,13.0,7338.0
+    inMap: true
+  '1533':
+    player: cheko
+    type: 54
+    loc: world,-19440.0,76.0,-16573.0
+    inMap: true
+  '1534':
+    player: cheko
+    type: 54
+    loc: world,-19448.0,77.0,-16581.0
+    inMap: true
+  '1535':
+    player: cheko
+    type: 54
+    loc: world,-19440.0,76.0,-16589.0
+    inMap: true
+  '1536':
+    player: cheko
+    type: 54
+    loc: world,-19456.0,76.0,-16589.0
+    inMap: true
+  '1537':
+    player: cheko
+    type: 54
+    loc: world,-19456.0,76.0,-16573.0
+    inMap: true
+  '1538':
+    player: rubyyy123
+    type: 107
+    loc: world,-5886.0,62.0,-9045.0
+    inMap: true
+  '1539':
+    player: rubyyy123
+    type: 107
+    loc: world,-5884.0,62.0,-9046.0
+    inMap: true
+  '1540':
+    player: rubyyy123
+    type: 107
+    loc: world,-5885.0,62.0,-9048.0
+    inMap: true
+  '1541':
+    player: furrix_
+    type: 51
+    loc: world,11133.0,44.0,-11713.0
+    inMap: true
+  '1542':
+    player: furrix_
+    type: 51
+    loc: world,11132.0,44.0,-11717.0
+    inMap: true
+  '1543':
+    player: bucky57
+    type: 51
+    loc: world,11132.0,42.0,-11717.0
+    inMap: true
+  '1544':
+    player: bucky57
+    type: 51
+    loc: world,11125.0,41.0,-11711.0
+    inMap: true
+  '1545':
+    player: fngod
+    type: 99
+    loc: world,16638.0,30.0,19519.0
+    inMap: true
+  '1546':
+    player: fngod
+    type: 99
+    loc: world,16637.0,30.0,19522.0
+    inMap: true
+  '1547':
+    player: fngod
+    type: 99
+    loc: world,16637.0,29.0,19522.0
+    inMap: true
+  '1548':
+    player: eggsplosion
+    type: 99
+    loc: world,-14820.0,46.0,8087.0
+    inMap: true
+  '1549':
+    player: roi_du_rush
+    type: 57
+    loc: world,19997.0,27.0,4939.0
+    inMap: true
+  '1550':
+    player: roi_du_rush
+    type: 57
+    loc: world,19998.0,27.0,4938.0
+    inMap: true
+  '1551':
+    player: roi_du_rush
+    type: 57
+    loc: world,19996.0,27.0,4938.0
+    inMap: true
+  '1552':
+    player: roi_du_rush
+    type: 57
+    loc: world,19996.0,27.0,4939.0
+    inMap: true
+  '1553':
+    player: roi_du_rush
+    type: 107
+    loc: world,19992.0,27.0,4940.0
+    inMap: true
+  '1554':
+    player: roi_du_rush
+    type: 57
+    loc: world,19997.0,27.0,4937.0
+    inMap: true
+  '1555':
+    player: matcraft45
+    type: 51
+    loc: world,-15163.0,62.0,797.0
+    inMap: true
+  '1556':
+    player: ptirem
+    type: 57
+    loc: world,19677.0,75.0,-12162.0
+    inMap: true
+  '1557':
+    player: ptirem
+    type: 57
+    loc: world,19675.0,75.0,-12162.0
+    inMap: true
+  '1558':
+    player: easy
+    type: 99
+    loc: world,-5059.0,33.0,-16093.0
+    inMap: true
+  '1559':
+    player: easy
+    type: 99
+    loc: world,-5059.0,31.0,-16089.0
+    inMap: true
+  '1560':
+    player: easy
+    type: 99
+    loc: world,-5059.0,33.0,-16089.0
+    inMap: true
+  '1561':
+    player: easy
+    type: 99
+    loc: world,-5070.0,31.0,-16093.0
+    inMap: true
+  '1562':
+    player: easy
+    type: 99
+    loc: world,-5070.0,33.0,-16093.0
+    inMap: true
+  '1563':
+    player: easy
+    type: 99
+    loc: world,-5070.0,31.0,-16089.0
+    inMap: true
+  '1564':
+    player: dilili
+    type: 99
+    loc: world,6654.0,54.0,7511.0
+    inMap: true
+  '1565':
+    player: dilili
+    type: 99
+    loc: world,6654.0,55.0,7511.0
+    inMap: true
+  '1566':
+    player: dilili
+    type: 99
+    loc: world,6654.0,56.0,7511.0
+    inMap: true
+  '1567':
+    player: hkz_skillon
+    type: 57
+    loc: world,12739.0,16.0,-18441.0
+    inMap: true
+  '1568':
+    player: hkz_skillon
+    type: 57
+    loc: world,12737.0,14.0,-18439.0
+    inMap: true
+  '1569':
+    player: hkz_skillon
+    type: 57
+    loc: world,12736.0,14.0,-18437.0
+    inMap: true
+  '1570':
+    player: hkz_skillon
+    type: 57
+    loc: world,12737.0,15.0,-18439.0
+    inMap: true
+  '1571':
+    player: hkz_skillon
+    type: 57
+    loc: world,12737.0,16.0,-18439.0
+    inMap: true
+  '1572':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14521.0,76.0,-11889.0
+    inMap: true
+  '1573':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14520.0,76.0,-11889.0
+    inMap: true
+  '1574':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14519.0,76.0,-11891.0
+    inMap: true
+  '1575':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14519.0,76.0,-11890.0
+    inMap: true
+  '1576':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14519.0,76.0,-11889.0
+    inMap: true
+  '1577':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14519.0,76.0,-11888.0
+    inMap: true
+  '1578':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14520.0,76.0,-11888.0
+    inMap: true
+  '1579':
+    player: bueno_pvp
+    type: 51
+    loc: world,-14521.0,76.0,-11888.0
+    inMap: true
+  '1580':
+    player: its_pixur
+    type: 51
+    loc: world,9367.0,19.0,17692.0
+    inMap: true
+  '1581':
+    player: its_pixur
+    type: 51
+    loc: world,9367.0,19.0,17688.0
+    inMap: true
+  '1582':
+    player: clem010
+    type: 51
+    loc: world,-6163.0,69.0,-14052.0
+    inMap: true
+  '1583':
+    player: clem010
+    type: 51
+    loc: world,-6161.0,69.0,-14052.0
+    inMap: true
+  '1584':
+    player: clem010
+    type: 51
+    loc: world,-6161.0,69.0,-14049.0
+    inMap: true
+  '1585':
+    player: clem010
+    type: 51
+    loc: world,-6163.0,69.0,-14049.0
+    inMap: true
+  '1586':
+    player: diraypvp
+    type: 51
+    loc: world,-12033.0,16.0,-3859.0
+    inMap: true
+  '1587':
+    player: diraypvp
+    type: 51
+    loc: world,-12033.0,15.0,-3859.0
+    inMap: true
+  '1588':
+    player: diraypvp
+    type: 51
+    loc: world,-12033.0,14.0,-3859.0
+    inMap: true
+  '1589':
+    player: chut3000
+    type: 57
+    loc: world,12737.0,10.0,-18450.0
+    inMap: true
+  '1590':
+    player: chut3000
+    type: 51
+    loc: world,-6161.0,69.0,-14052.0
+    inMap: true
+  '1591':
+    player: mayz_
+    type: 99
+    loc: world,9853.0,63.0,-19523.0
+    inMap: true
+  '1592':
+    player: ijonas_
+    type: 51
+    loc: world,-11956.0,22.0,-5108.0
+    inMap: true
+  '1593':
+    player: ijonas_
+    type: 51
+    loc: world,-11956.0,21.0,-5108.0
+    inMap: true
+  '1594':
+    player: ijonas_
+    type: 51
+    loc: world,-11954.0,21.0,-5111.0
+    inMap: true
+  '1595':
+    player: ijonas_
+    type: 51
+    loc: world,-11954.0,22.0,-5111.0
+    inMap: true
+  '1596':
+    player: hugiix
+    type: 51
+    loc: world,-4714.0,22.0,-14297.0
+    inMap: true
+  '1597':
+    player: hugiix
+    type: 51
+    loc: world,-4716.0,22.0,-14299.0
+    inMap: true
+  '1598':
+    player: hugiix
+    type: 51
+    loc: world,-4714.0,22.0,-14301.0
+    inMap: true
+  '1599':
+    player: hugiix
+    type: 51
+    loc: world,-4712.0,22.0,-14299.0
+    inMap: true
+  '1600':
+    player: tinmar
+    type: 92
+    loc: world,18449.0,29.0,14648.0
+    inMap: true
+  '1601':
+    player: tinmar
+    type: 92
+    loc: world,18451.0,29.0,14645.0
+    inMap: true
+  '1602':
+    player: tinmar
+    type: 92
+    loc: world,18456.0,29.0,14644.0
+    inMap: true
+  '1603':
+    player: tinmar
+    type: 92
+    loc: world,18458.0,29.0,14648.0
+    inMap: true
+  '1604':
+    player: tinmar
+    type: 92
+    loc: world,18457.0,29.0,14650.0
+    inMap: true
+  '1605':
+    player: sacha33340
+    type: 57
+    loc: world,14242.0,110.0,15124.0
+    inMap: true
+  '1606':
+    player: sacha33340
+    type: 57
+    loc: world,14242.0,109.0,15124.0
+    inMap: true
+  '1607':
+    player: sacha33340
+    type: 57
+    loc: world,14242.0,110.0,15128.0
+    inMap: true
+  '1608':
+    player: sacha33340
+    type: 57
+    loc: world,14248.0,110.0,15128.0
+    inMap: true
+  '1609':
+    player: sacha33340
+    type: 57
+    loc: world,14248.0,110.0,15124.0
+    inMap: true
+  '1610':
+    player: sacha33340
+    type: 57
+    loc: world,14254.0,110.0,15128.0
+    inMap: true
+  '1611':
+    player: sacha33340
+    type: 57
+    loc: world,14254.0,110.0,15126.0
+    inMap: true
+  '1612':
+    player: sacha33340
+    type: 57
+    loc: world,14254.0,110.0,15124.0
+    inMap: true
+  '1613':
+    player: sacha33340
+    type: 57
+    loc: world,14254.0,109.0,15124.0
+    inMap: true
+  '1614':
+    player: sacha33340
+    type: 57
+    loc: world,14242.0,110.0,15126.0
+    inMap: true
+  '1615':
+    player: sacha33340
+    type: 57
+    loc: world,14242.0,109.0,15126.0
+    inMap: true
+  '1616':
+    player: sacha33340
+    type: 57
+    loc: world,14242.0,109.0,15128.0
+    inMap: true
+  '1617':
+    player: sacha33340
+    type: 57
+    loc: world,14248.0,109.0,15128.0
+    inMap: true
+  '1618':
+    player: sacha33340
+    type: 57
+    loc: world,14248.0,109.0,15124.0
+    inMap: true
+  '1619':
+    player: sacha33340
+    type: 57
+    loc: world,14254.0,109.0,15128.0
+    inMap: true
+  '1620':
+    player: sacha33340
+    type: 57
+    loc: world,14254.0,109.0,15126.0
+    inMap: true
+  '1621':
+    player: kixaro
+    type: 51
+    loc: world,12465.0,38.0,-5888.0
+    inMap: true
+  '1622':
+    player: kixaro
+    type: 51
+    loc: world,12466.0,38.0,-5886.0
+    inMap: true
+  '1623':
+    player: kixaro
+    type: 51
+    loc: world,12464.0,38.0,-5886.0
+    inMap: true
+  '1624':
+    player: samjj68
+    type: 107
+    loc: world,-8843.0,14.0,7332.0
+    inMap: true
+  '1625':
+    player: samjj68
+    type: 107
+    loc: world,-8837.0,14.0,7339.0
+    inMap: true
+  '1626':
+    player: matkiller_
+    type: 51
+    loc: world,11129.0,41.0,-11716.0
+    inMap: true
+  '1627':
+    player: matkiller_
+    type: 51
+    loc: world,11129.0,43.0,-11716.0
+    inMap: true
+  '1628':
+    player: greenadvaaance
+    type: 51
+    loc: world,9367.0,20.0,17688.0
+    inMap: true
+  '1629':
+    player: greenadvaaance
+    type: 51
+    loc: world,9358.0,20.0,17692.0
+    inMap: true
+  '1630':
+    player: greenadvaaance
+    type: 51
+    loc: world,9361.0,20.0,17692.0
+    inMap: true
+  '1631':
+    player: greenadvaaance
+    type: 51
+    loc: world,9361.0,20.0,17688.0
+    inMap: true
+  '1632':
+    player: greenadvaaance
+    type: 51
+    loc: world,9358.0,20.0,17688.0
+    inMap: true
+  '1633':
+    player: greenadvaaance
+    type: 51
+    loc: world,9354.0,21.0,17688.0
+    inMap: true
+  '1634':
+    player: greenadvaaance
+    type: 51
+    loc: world,9354.0,20.0,17688.0
+    inMap: true
+  '1635':
+    player: greenadvaaance
+    type: 51
+    loc: world,9354.0,20.0,17691.0
+    inMap: true
+  '1636':
+    player: greenadvaaance
+    type: 51
+    loc: world,9364.0,20.0,17688.0
+    inMap: true
+  '1637':
+    player: greenadvaaance
+    type: 51
+    loc: world,9367.0,21.0,17692.0
+    inMap: true
+  '1638':
+    player: faryu_
+    type: 57
+    loc: world,15175.0,28.0,1735.0
+    inMap: true
+  '1639':
+    player: faryu_
+    type: 57
+    loc: world,15175.0,28.0,1732.0
+    inMap: true
+  '1640':
+    player: faryu_
+    type: 57
+    loc: world,15175.0,28.0,1729.0
+    inMap: true
+  '1641':
+    player: _pandafurieux
+    type: 92
+    loc: world,18359.0,36.0,5055.0
+    inMap: true
+  '1642':
+    player: ytbibossyt
+    type: 99
+    loc: world,16988.0,31.0,-14814.0
+    inMap: true
+  '1643':
+    player: ytbibossyt
+    type: 99
+    loc: world,16988.0,32.0,-14807.0
+    inMap: true
+  '1644':
+    player: ytbibossyt
+    type: 99
+    loc: world,16988.0,31.0,-14807.0
+    inMap: true
+  '1645':
+    player: ytbibossyt
+    type: 99
+    loc: world,16988.0,31.0,-14810.0
+    inMap: true
+  '1646':
+    player: ytbibossyt
+    type: 99
+    loc: world,-18319.0,68.0,9402.0
+    inMap: true
+  '1647':
+    player: zeusaupvp
+    type: 51
+    loc: world,975.0,22.0,-7875.0
+    inMap: true
+  '1648':
+    player: zeusaupvp
+    type: 51
+    loc: world,976.0,22.0,-7875.0
+    inMap: true
+  '1649':
+    player: zeusaupvp
+    type: 51
+    loc: world,976.0,22.0,-7876.0
+    inMap: true
+  '1650':
+    player: zeusaupvp
+    type: 51
+    loc: world,975.0,21.0,-7876.0
+    inMap: true
+  '1651':
+    player: zeusaupvp
+    type: 51
+    loc: world,974.0,22.0,-7876.0
+    inMap: true
+  '1652':
+    player: zeusaupvp
+    type: 51
+    loc: world,974.0,21.0,-7875.0
+    inMap: true
+  '1653':
+    player: zeusaupvp
+    type: 51
+    loc: world,5573.0,20.0,-11273.0
+    inMap: true
+  '1654':
+    player: zeusaupvp
+    type: 51
+    loc: world,5573.0,20.0,-11271.0
+    inMap: true
+  '1655':
+    player: zeusaupvp
+    type: 51
+    loc: world,5576.0,20.0,-11272.0
+    inMap: true
+  '1656':
+    player: xkilleur54
+    type: 51
+    loc: world,5879.0,79.0,10676.0
+    inMap: true
+  '1657':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,27.0,19513.0
+    inMap: true
+  '1658':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,28.0,19513.0
+    inMap: true
+  '1659':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,29.0,19513.0
+    inMap: true
+  '1660':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,30.0,19513.0
+    inMap: true
+  '1661':
+    player: geantfusee
+    type: 92
+    loc: world,-6871.0,25.0,-15854.0
+    inMap: true
+  '1662':
+    player: ze_biguy
+    type: 101
+    loc: world,7347.0,7.0,7112.0
+    inMap: true
+  '1663':
+    player: ze_biguy
+    type: 57
+    loc: world,7347.0,6.0,7112.0
+    inMap: true
+  '1664':
+    player: furiomaniak
+    type: 99
+    loc: world,-17127.0,74.0,-1574.0
+    inMap: true
+  '1665':
+    player: bueno_pvp
+    type: 92
+    loc: world,-14522.0,76.0,-11888.0
+    inMap: true
+  '1666':
+    player: bueno_pvp
+    type: 92
+    loc: world,-14519.0,76.0,-11892.0
+    inMap: true
+  '1667':
+    player: bueno_pvp
+    type: 92
+    loc: world,-14522.0,76.0,-11892.0
+    inMap: true
+  '1668':
+    player: bueno_pvp
+    type: 92
+    loc: world,-14521.0,76.0,-11892.0
+    inMap: true
+  '1669':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,29.0,19515.0
+    inMap: true
+  '1670':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,30.0,19515.0
+    inMap: true
+  '1671':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,30.0,19515.0
+    inMap: true
+  '1672':
+    player: zozodu14
+    type: 99
+    loc: world,16638.0,28.0,19517.0
+    inMap: true
+  '1673':
+    player: zozodu14
+    type: 99
+    loc: world,16636.0,31.0,19515.0
+    inMap: true
+  '1674':
+    player: zozodu14
+    type: 99
+    loc: world,16638.0,28.0,19512.0
+    inMap: true
+  '1675':
+    player: matkiller_
+    type: 51
+    loc: world,11129.0,42.0,-11716.0
+    inMap: true
+  '1676':
+    player: matkiller_
+    type: 51
+    loc: world,11133.0,41.0,-11713.0
+    inMap: true
+  '1677':
+    player: newars13
+    type: 107
+    loc: world,-9421.0,37.0,-4089.0
+    inMap: true
+  '1678':
+    player: newars13
+    type: 101
+    loc: world,-9429.0,37.0,-4089.0
+    inMap: true
+  '1679':
+    player: newars13
+    type: 107
+    loc: world,-9420.0,37.0,-4088.0
+    inMap: true
+  '1680':
+    player: biiper_
+    type: 51
+    loc: world,3343.0,31.0,-3268.0
+    inMap: true
+  '1681':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,31.0,-3268.0
+    inMap: true
+  '1682':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,30.0,-3268.0
+    inMap: true
+  '1683':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,31.0,-3270.0
+    inMap: true
+  '1684':
+    player: bygurz
+    type: 51
+    loc: world,14133.0,24.0,-13195.0
+    inMap: true
+  '1685':
+    player: valmoy
+    type: 51
+    loc: world,12732.0,13.0,-18440.0
+    inMap: true
+  '1686':
+    player: valmoy
+    type: 51
+    loc: world,12734.0,15.0,-18439.0
+    inMap: true
+  '1687':
+    player: valmoy
+    type: 51
+    loc: world,12734.0,15.0,-18442.0
+    inMap: true
+  '1688':
+    player: valmoy
+    type: 51
+    loc: world,12734.0,14.0,-18439.0
+    inMap: true
+  '1689':
+    player: valmoy
+    type: 51
+    loc: world,12732.0,15.0,-18437.0
+    inMap: true
+  '1690':
+    player: valmoy
+    type: 51
+    loc: world,12734.0,14.0,-18437.0
+    inMap: true
+  '1691':
+    player: valmoy
+    type: 51
+    loc: world,12734.0,15.0,-18437.0
+    inMap: true
+  '1692':
+    player: xkilleur54
+    type: 51
+    loc: world,5876.0,79.0,10676.0
+    inMap: true
+  '1693':
+    player: xkilleur54
+    type: 51
+    loc: world,5876.0,78.0,10676.0
+    inMap: true
+  '1694':
+    player: xkilleur54
+    type: 92
+    loc: world,5870.0,67.0,10679.0
+    inMap: true
+  '1695':
+    player: infinity_du59
+    type: 92
+    loc: world,9961.0,62.0,5906.0
+    inMap: true
+  '1696':
+    player: infinity_du59
+    type: 92
+    loc: world,9962.0,62.0,5903.0
+    inMap: true
+  '1697':
+    player: dydy89
+    type: 57
+    loc: world,2756.0,37.0,12128.0
+    inMap: true
+  '1698':
+    player: dydy89
+    type: 57
+    loc: world,2761.0,37.0,12127.0
+    inMap: true
+  '1699':
+    player: dydy89
+    type: 99
+    loc: world,2754.0,34.0,12149.0
+    inMap: true
+  '1700':
+    player: dydy89
+    type: 101
+    loc: world,2765.0,37.0,12129.0
+    inMap: true
+  '1701':
+    player: dydy89
+    type: 101
+    loc: world,2759.0,37.0,12131.0
+    inMap: true
+  '1702':
+    player: dydy89
+    type: 57
+    loc: world,2764.0,37.0,12126.0
+    inMap: true
+  '1703':
+    player: yongmen
+    type: 99
+    loc: 'null'
+  '1704':
+    player: mr_darkra
+    type: 101
+    loc: world,-2278.0,239.0,535.0
+    inMap: true
+  '1705':
+    player: mr_darkra
+    type: 101
+    loc: world,-2281.0,239.0,534.0
+    inMap: true
+  '1706':
+    player: mr_darkra
+    type: 101
+    loc: world,-2279.0,239.0,531.0
+    inMap: true
+  '1707':
+    player: ayzziix
+    type: 51
+    loc: world,-10364.0,47.0,4433.0
+    inMap: true
+  '1708':
+    player: agnimos25youtube
+    type: 99
+    loc: world,-10825.0,77.0,-15204.0
+    inMap: true
+  '1709':
+    player: agnimos25youtube
+    type: 99
+    loc: world,-10828.0,77.0,-15204.0
+    inMap: true
+  '1710':
+    player: agnimos25youtube
+    type: 99
+    loc: world,-10831.0,77.0,-15204.0
+    inMap: true
+  '1711':
+    player: agnimos25youtube
+    type: 99
+    loc: world,-10831.0,77.0,-15207.0
+    inMap: true
+  '1712':
+    player: agnimos25youtube
+    type: 99
+    loc: world,-10828.0,77.0,-15207.0
+    inMap: true
+  '1713':
+    player: agnimos25youtube
+    type: 99
+    loc: world,-10825.0,77.0,-15207.0
+    inMap: true
+  '1714':
+    player: agnimos25youtube
+    type: 51
+    loc: world,-10812.0,76.0,-15208.0
+    inMap: true
+  '1715':
+    player: agnimos25youtube
+    type: 51
+    loc: world,-10812.0,75.0,-15208.0
+    inMap: true
+  '1716':
+    player: agnimos25youtube
+    type: 51
+    loc: world,-10805.0,77.0,-15204.0
+    inMap: true
+  '1717':
+    player: agnimos25youtube
+    type: 51
+    loc: world,-10805.0,76.0,-15204.0
+    inMap: true
+  '1718':
+    player: agnimos25youtube
+    type: 51
+    loc: world,-10805.0,75.0,-15204.0
+    inMap: true
+  '1719':
+    player: antlenoob
+    type: 107
+    loc: world,-5233.0,21.0,-5114.0
+    inMap: true
+  '1720':
+    player: trystanausaure
+    type: 92
+    loc: world,-11693.0,21.0,8404.0
+    inMap: true
+  '1721':
+    player: silax_
+    type: 99
+    loc: world,-15105.0,19.0,8875.0
+    inMap: true
+  '1722':
+    player: silax_
+    type: 99
+    loc: world,-15105.0,19.0,8880.0
+    inMap: true
+  '1723':
+    player: trystanausaure
+    type: 92
+    loc: world,-11693.0,21.0,8403.0
+    inMap: true
+  '1724':
+    player: trystanausaure
+    type: 92
+    loc: world,-11692.0,21.0,8403.0
+    inMap: true
+  '1725':
+    player: silax_
+    type: 51
+    loc: world,15939.0,17.0,5839.0
+    inMap: true
+  '1726':
+    player: mayz_
+    type: 51
+    loc: world,-1205.0,64.0,-10388.0
+    inMap: true
+  '1727':
+    player: comon_hd
+    type: 99
+    loc: world,8068.0,79.0,1909.0
+    inMap: true
+  '1728':
+    player: comon_hd
+    type: 99
+    loc: world,8070.0,79.0,1909.0
+    inMap: true
+  '1729':
+    player: comon_hd
+    type: 99
+    loc: world,8069.0,79.0,1910.0
+    inMap: true
+  '1730':
+    player: comon_hd
+    type: 99
+    loc: world,17336.0,251.0,-14301.0
+    inMap: true
+  '1731':
+    player: comon_hd
+    type: 99
+    loc: world,17336.0,251.0,-14303.0
+    inMap: true
+  '1732':
+    player: darillemineur
+    type: 51
+    loc: world,-3707.0,23.0,-4836.0
+    inMap: true
+  '1733':
+    player: darillemineur
+    type: 51
+    loc: world,-3711.0,23.0,-4836.0
+    inMap: true
+  '1734':
+    player: darillemineur
+    type: 51
+    loc: world,-3711.0,23.0,-4840.0
+    inMap: true
+  '1735':
+    player: zaiko_31
+    type: 51
+    loc: world,-3312.0,62.0,3912.0
+    inMap: true
+  '1736':
+    player: zaiko_31
+    type: 51
+    loc: world,-3313.0,62.0,3913.0
+    inMap: true
+  '1737':
+    player: zaiko_31
+    type: 51
+    loc: world,-3312.0,62.0,3913.0
+    inMap: true
+  '1738':
+    player: zaiko_31
+    type: 51
+    loc: world,-3311.0,62.0,3912.0
+    inMap: true
+  '1739':
+    player: zaiko_31
+    type: 51
+    loc: world,-3312.0,62.0,3912.0
+    inMap: true
+  '1740':
+    player: easytv
+    type: 54
+    loc: world,14226.0,33.0,14913.0
+    inMap: true
+  '1741':
+    player: easytv
+    type: 54
+    loc: world,14226.0,33.0,14917.0
+    inMap: true
+  '1742':
+    player: streem22
+    type: 57
+    loc: world,-13381.0,14.0,3274.0
+    inMap: true
+  '1743':
+    player: dinotronik23
+    type: 51
+    loc: world,-12033.0,14.0,-3857.0
+    inMap: true
+  '1744':
+    player: dinotronik23
+    type: 51
+    loc: world,-12033.0,16.0,-3857.0
+    inMap: true
+  '1745':
+    player: dinotronik23
+    type: 51
+    loc: world,-12033.0,15.0,-3857.0
+    inMap: true
+  '1746':
+    player: crepper_pvp_1
+    type: 107
+    loc: world,-11268.0,96.0,-7272.0
+    inMap: true
+  '1747':
+    player: ibqwze_
+    type: 57
+    loc: world,-16057.0,38.0,9511.0
+    inMap: true
+  '1748':
+    player: crepper_pvp_1
+    type: 57
+    loc: world,-11274.0,86.0,-7274.0
+    inMap: true
+  '1749':
+    player: crepper_pvp_1
+    type: 51
+    loc: world,-11271.0,87.0,-7273.0
+    inMap: true
+  '1750':
+    player: crepper_pvp_1
+    type: 51
+    loc: world,-11271.0,86.0,-7273.0
+    inMap: true
+  '1751':
+    player: crepper_pvp_1
+    type: 51
+    loc: world,-11271.0,85.0,-7273.0
+    inMap: true
+  '1752':
+    player: crepper_pvp_1
+    type: 51
+    loc: world,-11274.0,87.0,-7274.0
+    inMap: true
+  '1753':
+    player: zhekiller
+    type: 57
+    loc: world,12734.0,16.0,-18447.0
+    inMap: true
+  '1754':
+    player: zhekiller
+    type: 57
+    loc: world,12734.0,15.0,-18447.0
+    inMap: true
+  '1755':
+    player: zhekiller
+    type: 51
+    loc: world,12734.0,14.0,-18447.0
+    inMap: true
+  '1756':
+    player: zhekiller
+    type: 51
+    loc: world,12727.0,16.0,-18448.0
+    inMap: true
+  '1757':
+    player: zhekiller
+    type: 51
+    loc: world,12727.0,15.0,-18448.0
+    inMap: true
+  '1758':
+    player: zhekiller
+    type: 51
+    loc: world,12727.0,17.0,-18448.0
+    inMap: true
+  '1759':
+    player: lebg285
+    type: 51
+    loc: world,-3707.0,23.0,-4840.0
+    inMap: true
+  '1760':
+    player: trilowyt
+    type: 51
+    loc: world,-12033.0,17.0,-3857.0
+    inMap: true
+  '1761':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,30.0,-3270.0
+    inMap: true
+  '1762':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,30.0,-3274.0
+    inMap: true
+  '1763':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,31.0,-3274.0
+    inMap: true
+  '1764':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,30.0,-3272.0
+    inMap: true
+  '1765':
+    player: biiper_
+    type: 51
+    loc: world,3341.0,31.0,-3272.0
+    inMap: true
+  '1766':
+    player: zobelsuryoutube
+    type: 57
+    loc: world,-16578.0,46.0,-18973.0
+    inMap: true
+  '1767':
+    player: zobelsuryoutube
+    type: 57
+    loc: world,-16580.0,46.0,-18973.0
+    inMap: true
+  '1768':
+    player: zobelsuryoutube
+    type: 57
+    loc: world,-16578.0,47.0,-18973.0
+    inMap: true
+  '1769':
+    player: zobelsuryoutube
+    type: 57
+    loc: world,-16580.0,47.0,-18973.0
+    inMap: true
+  '1770':
+    player: _carlo_
+    type: 99
+    loc: world,13914.0,14.0,18874.0
+    inMap: true
+  '1771':
+    player: _carlo_
+    type: 99
+    loc: world,13911.0,14.0,18875.0
+    inMap: true
+  '1772':
+    player: _carlo_
+    type: 99
+    loc: world,13908.0,14.0,18871.0
+    inMap: true
+  '1773':
+    player: _carlo_
+    type: 99
+    loc: world,13911.0,14.0,18867.0
+    inMap: true
+  '1774':
+    player: _carlo_
+    type: 99
+    loc: world,13914.0,14.0,18868.0
+    inMap: true
+  '1775':
+    player: blockmaster79100
+    type: 92
+    loc: world,10589.0,20.0,-429.0
+    inMap: true
+  '1776':
+    player: mega_fuzion
+    type: 99
+    loc: world,19448.0,14.0,-1612.0
+    inMap: true
+  '1777':
+    player: mega_fuzion
+    type: 99
+    loc: world,19444.0,14.0,-1611.0
+    inMap: true
+  '1778':
+    player: mega_fuzion
+    type: 99
+    loc: world,19453.0,14.0,-1612.0
+    inMap: true
+  '1779':
+    player: mega_fuzion
+    type: 99
+    loc: world,19453.0,14.0,-1609.0
+    inMap: true
+  '1780':
+    player: mega_fuzion
+    type: 51
+    loc: world,-12637.0,26.0,15446.0
+    inMap: true
+  '1781':
+    player: mega_fuzion
+    type: 51
+    loc: world,-12637.0,26.0,15443.0
+    inMap: true
+  '1782':
+    player: mega_fuzion
+    type: 99
+    loc: world,19449.0,14.0,-1609.0
+    inMap: true
+  '1783':
+    player: xppvp
+    type: 51
+    loc: world,-6814.0,13.0,-13274.0
+    inMap: true
+  '1784':
+    player: zabilotero
+    type: 51
+    loc: world,6662.0,30.0,8671.0
+    inMap: true
+  '1785':
+    player: zabilotero
+    type: 51
+    loc: world,6665.0,30.0,8671.0
+    inMap: true
+  '1786':
+    player: zabilotero
+    type: 51
+    loc: world,6666.0,30.0,8667.0
+    inMap: true
+  '1787':
+    player: zabilotero
+    type: 51
+    loc: world,6662.0,30.0,8667.0
+    inMap: true
+  '1788':
+    player: zabilotero
+    type: 51
+    loc: world,6666.0,30.0,8669.0
+    inMap: true
+  '1789':
+    player: zabilotero
+    type: 51
+    loc: world,6664.0,30.0,8672.0
+    inMap: true
+  '1790':
+    player: zabilotero
+    type: 101
+    loc: world,6661.0,30.0,8669.0
+    inMap: true
+  '1791':
+    player: cyriaque76
+    type: 51
+    loc: world,-16057.0,38.0,9510.0
+    inMap: true
+  '1792':
+    player: baka_le_fou
+    type: 101
+    loc: world,-19993.0,15.0,11592.0
+    inMap: true
+  '1793':
+    player: baka_le_fou
+    type: 101
+    loc: world,-19991.0,15.0,11592.0
+    inMap: true
+  '1794':
+    player: agnimos25youtube
+    type: 107
+    loc: world,-17217.0,66.0,-15652.0
+    inMap: true
+  '1795':
+    player: agnimos25youtube
+    type: 107
+    loc: world,-17217.0,66.0,-15647.0
+    inMap: true
+  '1796':
+    player: leminecraftien80
+    type: 99
+    loc: world,19453.0,15.0,-1609.0
+    inMap: true
+  '1797':
+    player: leminecraftien80
+    type: 99
+    loc: world,19444.0,14.0,-1608.0
+    inMap: true
+  '1798':
+    player: leminecraftien80
+    type: 99
+    loc: world,19444.0,15.0,-1608.0
+    inMap: true
+  '1799':
+    player: leminecraftien80
+    type: 99
+    loc: world,19448.0,15.0,-1612.0
+    inMap: true
+  '1800':
+    player: ayzziix
+    type: 92
+    loc: world,-10371.0,41.0,4441.0
+    inMap: true
+  '1801':
+    player: ayzziix
+    type: 92
+    loc: world,-10368.0,41.0,4443.0
+    inMap: true
+  '1802':
+    player: ayzziix
+    type: 92
+    loc: world,-10368.0,41.0,4441.0
+    inMap: true
+  '1803':
+    player: ayzziix
+    type: 92
+    loc: world,-10368.0,40.0,4439.0
+    inMap: true
+  '1804':
+    player: ayzziix
+    type: 92
+    loc: world,-10371.0,40.0,4439.0
+    inMap: true
+  '1805':
+    player: ayzziix
+    type: 92
+    loc: world,-10368.0,40.0,4441.0
+    inMap: true
+  '1806':
+    player: ayzziix
+    type: 92
+    loc: world,-10371.0,41.0,4443.0
+    inMap: true
+  '1807':
+    player: ayzziix
+    type: 92
+    loc: world,-10371.0,41.0,4445.0
+    inMap: true
+  '1808':
+    player: ayzziix
+    type: 92
+    loc: world,-10368.0,41.0,4445.0
+    inMap: true
+  '1809':
+    player: osakusquad
+    type: 101
+    loc: world,66.0,25.0,-19526.0
+    inMap: true
+  '1810':
+    player: kidge
+    type: 51
+    loc: world,-6477.0,11.0,12237.0
+    inMap: true
+  '1811':
+    player: kidge
+    type: 51
+    loc: world,-6470.0,11.0,12237.0
+    inMap: true
+  '1812':
+    player: kidge
+    type: 51
+    loc: world,-6468.0,11.0,12236.0
+    inMap: true
+  '1813':
+    player: kidge
+    type: 51
+    loc: world,-6472.0,11.0,12226.0
+    inMap: true
+  '1814':
+    player: kidge
+    type: 51
+    loc: world,-6478.0,11.0,12226.0
+    inMap: true
+  '1815':
+    player: kidge
+    type: 51
+    loc: world,-6478.0,11.0,12233.0
+    inMap: true
+  '1816':
+    player: kidge
+    type: 51
+    loc: world,-6468.0,11.0,12228.0
+    inMap: true
+  '1817':
+    player: kidge
+    type: 51
+    loc: world,-6468.0,11.0,12233.0
+    inMap: true
+  '1818':
+    player: kidge
+    type: 51
+    loc: world,-6475.0,11.0,12227.0
+    inMap: true
+  '1819':
+    player: kidge
+    type: 51
+    loc: world,-6473.0,11.0,12236.0
+    inMap: true
+  '1820':
+    player: kidge
+    type: 101
+    loc: world,-6474.0,11.0,12230.0
+    inMap: true
+  '1821':
+    player: kidge
+    type: 101
+    loc: world,-6473.0,11.0,12233.0
+    inMap: true
+  '1822':
+    player: kidge
+    type: 54
+    loc: world,-6476.0,11.0,12234.0
+    inMap: true
+  '1823':
+    player: kidge
+    type: 54
+    loc: world,-6471.0,11.0,12228.0
+    inMap: true
+  '1824':
+    player: kidge
+    type: 57
+    loc: world,-6471.0,11.0,12231.0
+    inMap: true
+  '1825':
+    player: kidge
+    type: 92
+    loc: 'null'
+  '1826':
+    player: alexou2468
+    type: 51
+    loc: world,9257.0,27.0,-8180.0
+    inMap: true
+  '1827':
+    player: wazhrod
+    type: 99
+    loc: world,-5557.0,19.0,-19715.0
+    inMap: true
+  '1828':
+    player: thisisgab
+    type: 51
+    loc: world,3887.0,15.0,-4086.0
+    inMap: true
+  '1829':
+    player: ikora
+    type: 51
+    loc: world,14042.0,16.0,16786.0
+    inMap: true
+  '1830':
+    player: ikora
+    type: 51
+    loc: world,14044.0,16.0,16786.0
+    inMap: true
+  '1831':
+    player: ikora
+    type: 57
+    loc: world,14046.0,16.0,16781.0
+    inMap: true
+  '1832':
+    player: thefunpvp
+    type: 51
+    loc: world,-4712.0,22.0,-14301.0
+    inMap: true
+  '1833':
+    player: legamerpro02
+    type: 51
+    loc: world,-3411.0,75.0,4400.0
+    inMap: true
+  '1834':
+    player: legamerpro02
+    type: 51
+    loc: world,-3411.0,75.0,4402.0
+    inMap: true
+  '1835':
+    player: dydy89
+    type: 107
+    loc: world,2770.0,35.0,12119.0
+    inMap: true
+  '1836':
+    player: dydy89
+    type: 107
+    loc: world,2751.0,35.0,12119.0
+    inMap: true
+  '1837':
+    player: dydy89
+    type: 99
+    loc: world,2753.0,34.0,12145.0
+    inMap: true
+  '1838':
+    player: iweerakz
+    type: 101
+    loc: world,-18814.0,64.0,-12931.0
+    inMap: true
+  '1839':
+    player: meuttre
+    type: 51
+    loc: world,9286.0,60.0,-5875.0
+    inMap: true
+  '1840':
+    player: easytv
+    type: 51
+    loc: world,14224.0,33.0,14915.0
+    inMap: true
+  '1841':
+    player: atsuky
+    type: 99
+    loc: world,-15114.0,18.0,8875.0
+    inMap: true
+  '1842':
+    player: atsuky
+    type: 99
+    loc: world,-15114.0,18.0,8871.0
+    inMap: true
+  '1843':
+    player: atsuky
+    type: 99
+    loc: world,-15114.0,18.0,8867.0
+    inMap: true
+  '1844':
+    player: pouiterre
+    type: 92
+    loc: 'null'
+  '1845':
+    player: althimax_
+    type: 51
+    loc: world,7768.0,20.0,6988.0
+    inMap: true
+  '1846':
+    player: oznes
+    type: 92
+    loc: world,7757.0,11.0,6983.0
+    inMap: true
+  '1847':
+    player: thefunpvp
+    type: 57
+    loc: world,-4711.0,22.0,-14297.0
+    inMap: true
+  '1848':
+    player: thefunpvp
+    type: 57
+    loc: world,-4716.0,22.0,-14296.0
+    inMap: true
+  '1849':
+    player: sbye
+    type: 92
+    loc: world,-4182.0,32.0,-5690.0
+    inMap: true
+  '1850':
+    player: sbye
+    type: 92
+    loc: world,-4183.0,32.0,-5687.0
+    inMap: true
+  '1851':
+    player: sbye
+    type: 101
+    loc: world,-4199.0,38.0,-5689.0
+    inMap: true
+  '1852':
+    player: sbye
+    type: 92
+    loc: world,-4185.0,32.0,-5688.0
+    inMap: true
+  '1853':
+    player: matcraft45
+    type: 51
+    loc: world,-15163.0,61.0,797.0
+    inMap: true
+  '1854':
+    player: ytbibossyt
+    type: 92
+    loc: world,17015.0,28.0,-14792.0
+    inMap: true
+  '1855':
+    player: ytbibossyt
+    type: 92
+    loc: world,17019.0,28.0,-14792.0
+    inMap: true
+  '1856':
+    player: ytbibossyt
+    type: 92
+    loc: world,17017.0,28.0,-14794.0
+    inMap: true
+  '1857':
+    player: ztroze
+    type: 57
+    loc: world,10115.0,38.0,-4368.0
+    inMap: true
+  '1858':
+    player: ztroze
+    type: 57
+    loc: world,10119.0,38.0,-4368.0
+    inMap: true
+  '1859':
+    player: ztroze
+    type: 101
+    loc: world,10134.0,23.0,-4367.0
+    inMap: true
+  '1860':
+    player: ztroze
+    type: 107
+    loc: world,10129.0,23.0,-4366.0
+    inMap: true
+  '1861':
+    player: hypnoss
+    type: 51
+    loc: world,-11273.0,86.0,-7273.0
+    inMap: true
+  '1862':
+    player: hypnoss
+    type: 51
+    loc: world,-11273.0,85.0,-7273.0
+    inMap: true
+  '1863':
+    player: hypnoss
+    type: 51
+    loc: world,-11273.0,87.0,-7273.0
+    inMap: true
+  '1864':
+    player: hypnoss
+    type: 51
+    loc: world,-11272.0,85.0,-7274.0
+    inMap: true
+  '1865':
+    player: hypnoss
+    type: 51
+    loc: world,-11272.0,86.0,-7274.0
+    inMap: true
+  '1866':
+    player: hypnoss
+    type: 99
+    loc: world,-11267.0,96.0,-7272.0
+    inMap: true
+  '1867':
+    player: hypnoss
+    type: 99
+    loc: world,-11267.0,96.0,-7273.0
+    inMap: true
+  '1868':
+    player: 321cinimod
+    type: 57
+    loc: world,10592.0,29.0,-432.0
+    inMap: true
+  '1869':
+    player: razor
+    type: 52
+    loc: 'null'
+  '1870':
+    player: razor
+    type: 52
+    loc: 'null'
+  '1871':
+    player: sytranix
+    type: 57
+    loc: world,-12390.0,50.0,-5607.0
+    inMap: true
+  '1872':
+    player: sytranix
+    type: 57
+    loc: world,-12389.0,50.0,-5606.0
+    inMap: true
+  '1873':
+    player: crepper_pvp_1
+    type: 99
+    loc: world,-11268.0,96.0,-7273.0
+    inMap: true
+  '1874':
+    player: crepper_pvp_1
+    type: 99
+    loc: world,-11268.0,96.0,-7272.0
+    inMap: true
+  '1875':
+    player: meuttre
+    type: 51
+    loc: world,9289.0,60.0,-5875.0
+    inMap: true
+  '1876':
+    player: meuttre
+    type: 51
+    loc: world,9286.0,60.0,-5872.0
+    inMap: true
+  '1877':
+    player: meuttre
+    type: 51
+    loc: world,9289.0,60.0,-5872.0
+    inMap: true
+  '1878':
+    player: taygrax07
+    type: 51
+    loc: world,-8842.0,19.0,7305.0
+    inMap: true
+  '1879':
+    player: playchinoisefr
+    type: 57
+    loc: world,-8580.0,31.0,-2791.0
+    inMap: true

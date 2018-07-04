@@ -1,0 +1,81 @@
+socialspy: false
+timestamps:
+  login: 1456581788865
+  logout: 1456584009575
+  kits:
+    heros: 1456583617224
+    bouffe: 1456583640300
+    octonien: 1456583649149
+    chevalier: 1456583626114
+    xp: 1456582719373
+    decouverte: 1456579049858
+    legendaire: 1456578944370
+  lastteleport: 1456583960309
+  lastheal: 1456582926299
+  mute: 0
+  jail: 0
+ipAddress: 88.141.68.57
+lastlocation:
+  world: world
+  x: -1778.5165720638313
+  y: 52.0
+  z: -1948.6166944223096
+  yaw: -49.798523
+  pitch: -1.5000148
+logoutlocation:
+  world: world
+  x: -1776.375270695592
+  y: 55.0
+  z: -1940.4398493859376
+  yaw: 128.25201
+  pitch: -2.550011
+homes:
+  pillage:
+    world: world
+    x: -8835.643678890754
+    y: 9.0
+    z: 4604.385533987322
+    yaw: 286.96484
+    pitch: 20.472975
+  unclaim:
+    world: world
+    x: -9497.544050841243
+    y: 66.0
+    z: 3060.2559761085113
+    yaw: 199.50957
+    pitch: -11.055135
+  rtp:
+    world: world
+    x: -7462.627111281768
+    y: 5.0
+    z: 1995.5313821081243
+    yaw: 7.6501465
+    pitch: 27.000021
+  ap:
+    world: world
+    x: -9477.909505619258
+    y: 5.0
+    z: 3072.407552476298
+    yaw: 120.80056
+    pitch: 7.9499598
+  home:
+    world: world
+    x: 265.62971853383345
+    y: 74.0
+    z: -1446.6760697762154
+    yaw: -100.88043
+    pitch: -35.11137
+  bp:
+    world: world
+    x: -1769.9598533173378
+    y: 55.0
+    z: -1938.710689074428
+    yaw: 71.55203
+    pitch: 43.650005
+money: '2382.65'
+muted: false
+uuid: 1c6d677f-5ed6-3101-848a-a1d14b2cf71d
+ignore:
+- stzko2
+- saint_valentin
+jailed: false

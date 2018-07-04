@@ -1,0 +1,32 @@
+socialspy: false
+timestamps:
+  login: 1457016140444
+  kits:
+    bouffe: 1456915073820
+    octonien: 1456915071119
+  logout: 1457016545454
+  lastteleport: 1457016521350
+ipAddress: 109.210.253.21
+lastlocation:
+  world: world
+  x: 29.60293978734522
+  y: 22.0
+  z: 91.79278014265506
+  yaw: -353.05292
+  pitch: -12.299997
+homes:
+  home:
+    world: world
+    x: 52.5
+    y: 249.875
+    z: -4077.5
+    yaw: -29.542477
+    pitch: 51.89396
+logoutlocation:
+  world: world
+  x: 53.5
+  y: 249.875
+  z: -4076.5
+  yaw: -84.14248
+  pitch: 33.143948
+uuid: faca0301-5958-3174-af91-640b59c15e30

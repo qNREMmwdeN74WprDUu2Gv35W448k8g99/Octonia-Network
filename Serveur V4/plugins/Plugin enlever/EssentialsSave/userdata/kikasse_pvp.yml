@@ -1,0 +1,39 @@
+uuid: 9abfc1f5-042a-3f57-8ad3-a6d65f0a3d5d
+timestamps:
+  login: 1457114565704
+  kits:
+    bouffe: 1456920592903
+    octonien: 1456927979476
+  lastteleport: 1457118680136
+  logout: 1457119041410
+  lastheal: 1457117944345
+  mute: 0
+ipAddress: 2.9.199.161
+lastlocation:
+  world: world
+  x: -26.06174542279137
+  y: 203.0
+  z: -40.506774806804884
+  yaw: -131.10742
+  pitch: 67.05095
+homes:
+  home:
+    world: world
+    x: -4903.564359530117
+    y: 253.875
+    z: 8343.600751421058
+    yaw: -243.71432
+    pitch: 27.735872
+logoutlocation:
+  world: world
+  x: -4901.128575185991
+  y: 253.875
+  z: 8347.372879010023
+  yaw: -250.80652
+  pitch: 5.076111
+ignore:
+- diablix203
+- diepix
+- blacktv
+money: '5500.0'
+muted: false

@@ -1,0 +1,34 @@
+timestamps:
+  login: 1457305686263
+  lastteleport: 1456772937900
+  logout: 1457305943020
+  kits:
+    bouffe: 1456325509507
+    octonien: 1457305700379
+  lastheal: 1456761451520
+ipAddress: 69.17.240.249
+lastlocation:
+  world: world
+  x: 2.194325771275193
+  y: 190.5
+  z: -0.11383161737576923
+  yaw: -195.7013
+  pitch: 32.09782
+logoutlocation:
+  world: world
+  x: 36.71787397808561
+  y: 188.0
+  z: -5.467291159723091
+  yaw: -94.69442
+  pitch: 31.650007
+homes:
+  home:
+    world: world
+    x: 866.6870392789788
+    y: 64.0
+    z: 795.8674360734301
+    yaw: -183.2995
+    pitch: 29.09994
+ignore:
+- momo321
+uuid: c4169a51-a8cc-399f-9456-20a2891af0d3

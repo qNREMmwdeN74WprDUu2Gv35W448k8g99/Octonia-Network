@@ -1,0 +1,71 @@
+socialspy: false
+timestamps:
+  login: 1456491936570
+  kits:
+    bouffe: 1456492603330
+    heros: 1456492314356
+    octonien: 1456492568380
+    chevalier: 1456492267660
+    decouverte: 1456167760943
+    legendaire: 1456491944595
+  lastteleport: 1456493324947
+  logout: 1456493333156
+  lastheal: 1456492506962
+ipAddress: 92.95.242.79
+lastlocation:
+  world: world
+  x: 5974.899605435298
+  y: 254.875
+  z: 2132.3441206466227
+  yaw: 57.16827
+  pitch: 33.83516
+logoutlocation:
+  world: world
+  x: -2569.5881158015964
+  y: 251.0
+  z: -9310.591658901007
+  yaw: -15.472931
+  pitch: 48.538742
+homes:
+  rezed:
+    world: world
+    x: 2556.270229440634
+    y: 69.0
+    z: -6461.826688119845
+    yaw: 170.8782
+    pitch: -1.4999853
+  claim:
+    world: world
+    x: -275.6268792386175
+    y: 64.0
+    z: 278.81961994611424
+    yaw: 231.40326
+    pitch: 35.906654
+  b:
+    world: world
+    x: 3204.699999988079
+    y: 47.0
+    z: 4424.300000011921
+    yaw: -264.9419
+    pitch: 19.931627
+  skyjes2:
+    world: world
+    x: -2568.135903096892
+    y: 252.875
+    z: -9309.300000011921
+    yaw: -169.2514
+    pitch: 39.461567
+  sky:
+    world: world
+    x: 5974.175683256454
+    y: 254.0
+    z: 2132.4116960918886
+    yaw: -88.917114
+    pitch: 43.717766
+ignore:
+- ov3real
+- yanckbee
+- nathan38
+- zombie7795
+money: '422.0'
+uuid: a88d72ed-6436-37e4-8f05-ced86e626721

@@ -1,0 +1,35 @@
+uuid: 75939010-f21f-3345-8576-cd35cc53bc8e
+timestamps:
+  login: 1457289895839
+  kits:
+    bouffe: 1456950134542
+    octonien: 1457294823298
+  lastteleport: 1457294021292
+  logout: 1457294893234
+  lastheal: 1457294372541
+ipAddress: 88.175.232.28
+lastlocation:
+  world: world
+  x: 6968.699999988079
+  y: 6.0
+  z: 4220.574999988079
+  yaw: -244.70334
+  pitch: 47.249977
+homes:
+  home:
+    world: world
+    x: 8628.527050697587
+    y: 6.0
+    z: 1708.3057885891567
+    yaw: 271.54688
+    pitch: 6.7475386
+logoutlocation:
+  world: world
+  x: 6967.433675540457
+  y: 25.0
+  z: 4218.895440306301
+  yaw: -15.652893
+  pitch: 28.199928
+money: '1929.95'
+ignore:
+- agoniel

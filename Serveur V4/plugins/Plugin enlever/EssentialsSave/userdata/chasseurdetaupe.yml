@@ -1,0 +1,35 @@
+socialspy: false
+timestamps:
+  login: 1456055224902
+  kits:
+    bouffe: 1455228340631
+    octonien: 1456025749103
+  lastteleport: 1456055235514
+  logout: 1456055318838
+ipAddress: 84.99.17.120
+lastlocation:
+  world: world
+  x: -0.11083331287612791
+  y: 190.0
+  z: -2.1231433919402485
+  yaw: -342.71643
+  pitch: 11.847462
+homes:
+  home:
+    world: world
+    x: -72.30000001192096
+    y: 58.0
+    z: -278.29124172024234
+    yaw: -194.3851
+    pitch: 21.825436
+money: '1452.5'
+logoutlocation:
+  world: world
+  x: -72.73525430915761
+  y: 64.0
+  z: -280.1139963829223
+  yaw: 336.6432
+  pitch: 32.76891
+ignore:
+- walssou
+uuid: 7b3067f5-001f-31a4-8a14-c5d6d036c680

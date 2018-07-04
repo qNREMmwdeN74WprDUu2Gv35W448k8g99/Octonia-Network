@@ -1,0 +1,44 @@
+timestamps:
+  login: 1457177515189
+  kits:
+    bouffe: 1457176165225
+    octonien: 1457171494210
+    druide: 1456921335384
+    decouverte: 1457176754491
+    xp: 1456921284395
+  logout: 1457173393937
+  lastteleport: 1457177271514
+  lastheal: 1457176162119
+  mute: 0
+  jail: 0
+ipAddress: 188.7.149.183
+lastlocation:
+  world: world
+  x: 210.30000001192093
+  y: 5.0
+  z: 273.43522414370835
+  yaw: -78.27243
+  pitch: -29.288406
+logoutlocation:
+  world: world
+  x: -2574.300000011921
+  y: 52.0
+  z: -1021.3000000119209
+  yaw: 0.012691903
+  pitch: -0.74995345
+homes:
+  home:
+    world: world
+    x: 1875.667428334328
+    y: 5.0
+    z: -5733.100396188443
+    yaw: -227.06671
+    pitch: 2.2255235
+money: '52.65'
+muted: false
+ignore:
+- ytbfryolo
+- mystified
+- opti2002
+uuid: 2191b9f2-1297-38c5-a22c-32007d2a9ab0
+jailed: false

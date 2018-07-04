@@ -1,0 +1,48 @@
+timestamps:
+  login: 1456341028364
+  logout: 1456341907179
+  kits:
+    bouffe: 1456056260686
+    octonien: 1454950111906
+    druide: 1454952052151
+    chevalier: 1456056325827
+    decouverte: 1456057356778
+    construction: 1454951974672
+    golden: 1456058001103
+    alchimiste: 1456056907979
+  lastteleport: 1456341098257
+  lastheal: 1456057825588
+ipAddress: 90.4.163.140
+lastlocation:
+  world: world
+  x: 2499.5
+  y: 68.0
+  z: 2569.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -1.7624999880790757
+  y: 190.0
+  z: -1.4203260736591765
+  yaw: -185.29724
+  pitch: -1.349961
+socialspy: false
+homes:
+  farm:
+    world: world
+    x: 279.8853769594799
+    y: 5.0
+    z: 239.0343354553943
+    yaw: -44.857544
+    pitch: -14.850169
+  ap:
+    world: world
+    x: 266.95994382973566
+    y: 64.0
+    z: 234.34464985986557
+    yaw: -332.1098
+    pitch: 18.896456
+ignore:
+- dolemus
+uuid: d7d77ab3-fcaf-356c-b59e-28b4b268720a

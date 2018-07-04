@@ -1,0 +1,25 @@
+uuid: fa0c0ea6-3bcd-3f28-be8a-b5ac7fc50f58
+timestamps:
+  login: 1456715923652
+  kits:
+    octonien: 1456715963257
+  lastteleport: 1456717401183
+  logout: 1456717665987
+ipAddress: 176.156.45.209
+lastlocation:
+  world: world
+  x: 0.6059496391866752
+  y: 188.0
+  z: 26.928418684365717
+  yaw: -234.85089
+  pitch: 20.547821
+ignore:
+- conswela
+- jojokiller1
+logoutlocation:
+  world: world
+  x: 2.7828225217336913
+  y: 40.5
+  z: 50.01170230546368
+  yaw: -100.300934
+  pitch: 1.7978256

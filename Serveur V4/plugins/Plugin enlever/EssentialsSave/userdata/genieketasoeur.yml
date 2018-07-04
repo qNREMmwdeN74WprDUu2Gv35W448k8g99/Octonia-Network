@@ -1,0 +1,35 @@
+uuid: 765eeec9-376d-33fd-a913-24810b97f2dd
+timestamps:
+  login: 1457301836765
+  kits:
+    octonien: 1457296808321
+  lastteleport: 1457302990101
+  logout: 1457303085073
+  lastheal: 1457302922710
+ipAddress: 109.209.159.71
+lastlocation:
+  world: world
+  x: 2850.5
+  y: 6.0
+  z: 3553.5
+  yaw: -95.56948
+  pitch: 9.300094
+homes:
+  home:
+    world: world
+    x: 2850.300000011921
+    y: 6.0
+    z: 3553.699999988079
+    yaw: -132.91943
+    pitch: 24.000092
+money: '151.0'
+logoutlocation:
+  world: world
+  x: -1.9622022022133705
+  y: 190.875
+  z: 2.3315054303457226
+  yaw: -145.90271
+  pitch: 13.047825
+ban:
+  reason: Banni temporairement du serveur pour 10 secondes.
+  timeout: 0

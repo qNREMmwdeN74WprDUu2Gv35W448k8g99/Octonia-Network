@@ -1,0 +1,51 @@
+timestamps:
+  login: 1457299848121
+  kits:
+    bouffe: 1457176330154
+    octonien: 1457176018070
+    druide: 1457176161356
+    chevalier: 1457176030708
+    decouverte: 1457176051479
+    construction: 1457176089250
+    alchimiste: 1457195441010
+    golden: 1457176071211
+  lastteleport: 1457301618058
+  logout: 1457301807415
+  lastheal: 1457301735225
+  mute: 0
+ipAddress: 90.28.239.128
+lastlocation:
+  world: world
+  x: -7906.526976769204
+  y: 76.0
+  z: 4262.880935575459
+  yaw: 135.6479
+  pitch: 13.1609125
+homes:
+  xp:
+    world: world
+    x: 7560.17961193207
+    y: 27.0
+    z: -1674.3398660606954
+    yaw: -351.9865
+    pitch: 3.4500082
+  bp:
+    world: world
+    x: -7913.0189532436825
+    y: 76.0
+    z: 4253.967835488922
+    yaw: -1.6020508
+    pitch: 4.010915
+logoutlocation:
+  world: world
+  x: -7912.691596580038
+  y: 5.0
+  z: 4267.699509615805
+  yaw: -213.6451
+  pitch: -11.250008
+money: '8844.880'
+uuid: e81365df-42e4-3020-acdc-ecde77a92faf
+muted: false
+ban:
+  reason: 'Banni : Si tu souhaite etre déban viens ts.#Beta'
+  timeout: 0

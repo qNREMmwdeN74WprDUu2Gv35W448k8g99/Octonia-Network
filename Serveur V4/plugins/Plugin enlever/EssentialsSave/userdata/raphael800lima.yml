@@ -1,0 +1,34 @@
+uuid: fac17dea-d013-3d1a-a0ec-d7af9efadb4d
+timestamps:
+  login: 1457267013317
+  kits:
+    bouffe: 1457130456804
+    octonien: 1457118849637
+    decouverte: 1457267741326
+  lastteleport: 1457267700594
+  logout: 1457267844394
+  lastheal: 1457176939043
+ipAddress: 109.209.69.121
+lastlocation:
+  world: world
+  x: -3.8955108279471906
+  y: 189.5
+  z: -0.37986533457654653
+  yaw: 241.91525
+  pitch: 5.960353
+money: '3962.25'
+homes:
+  home:
+    world: world
+    x: 7381.5
+    y: 63.5
+    z: 3882.5
+    yaw: 9.271698
+    pitch: 21.449938
+logoutlocation:
+  world: world
+  x: 7379.0284930969965
+  y: 63.5
+  z: 3881.467857917806
+  yaw: -231.71509
+  pitch: 33.98374

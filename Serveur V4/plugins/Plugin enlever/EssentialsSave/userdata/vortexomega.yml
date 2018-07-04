@@ -1,0 +1,42 @@
+socialspy: false
+timestamps:
+  login: 1456940045295
+  kits:
+    bouffe: 1455239385430
+    octonien: 1456940111025
+    decouverte: 1456940100870
+  lastteleport: 1456940404431
+  logout: 1456941729438
+  lastheal: 1455239362135
+  mute: 0
+  jail: 1456959664430
+ipAddress: 81.66.38.194
+lastlocation:
+  world: world
+  x: 690.6999999880791
+  y: 67.0
+  z: 1298.3427485718546
+  yaw: -87.70099
+  pitch: -14.40001
+homes:
+  home:
+    world: world
+    x: -6.668776738838331
+    y: 214.0
+    z: 50.41102826890158
+    yaw: -54.76272
+    pitch: -11.850002
+logoutlocation:
+  world: world
+  x: 16.137499988079067
+  y: 190.0
+  z: 7.715039080682347
+  yaw: 139.52377
+  pitch: 40.2
+money: '4.75'
+muted: false
+ignore:
+- walssou
+uuid: deb0139d-2c5e-3b69-ac11-3fe1ea3f2720
+jailed: true
+jail: prison1

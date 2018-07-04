@@ -1,0 +1,43 @@
+socialspy: false
+timestamps:
+  login: 1457338117793
+  logout: 1457342932012
+  kits:
+    bouffe: 1455167809954
+    octonien: 1457339624876
+    chevalier: 1457338375914
+    decouverte: 1457211264549
+  lastteleport: 1457342032849
+  lastheal: 1457343215845
+  mute: 0
+ipAddress: 175.158.153.169
+lastlocation:
+  world: world
+  x: -2.8345150324287527
+  y: 188.0
+  z: 32.996867394026246
+  yaw: 357.41553
+  pitch: 85.49999
+logoutlocation:
+  world: world
+  x: 4.592819451207777
+  y: 189.0
+  z: -15.191315413450539
+  yaw: 195.72034
+  pitch: 19.51051
+homes:
+  home:
+    world: world
+    x: 908.437090688321
+    y: 69.0
+    z: 1546.490991182266
+    yaw: -109.50016
+    pitch: 10.349959
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+ignore:
+- alex6b
+- blockfight_
+uuid: 9d3cdb77-7d7c-3d23-9da7-b6f6a7b7a4c3
+muted: false

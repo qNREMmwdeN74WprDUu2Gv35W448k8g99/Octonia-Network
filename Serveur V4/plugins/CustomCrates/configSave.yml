@@ -1,0 +1,245 @@
+Crates:
+  OctoSoft:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: false
+      particle: spell
+    Key:
+      material: TRIPWIRE_HOOK
+      name: '&3&l[&bClef de caisse OctoSoft&3&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses OctoSoft !'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enabled: true
+      enablechancelore: true
+      lore:
+      - '&7OctoSoft: &a&lCaisse OctoSoft'
+      name: '&c%crate%'
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super grade !
+    BlockType: CHEST
+    Items:
+      '2':
+        enchanted: true
+        material: 470
+        name: '&6Epee en cobalt'
+        chance: 8
+        commands:
+        - give %player% 0470 1 0 {ench:[{id:16,lvl:4}]}
+        - ebroadcast &b%player% &avient de gagner &6&lX1 EPEE EN COBALT T4 &adans la caisse &bSOFT
+        amount: 1
+      '3':
+        enchanted: true
+        material: 450
+        name: '&6Casque en Cobalt'
+        chance: 8
+        commands:
+        - give %player% 0450 1 0 {ench:[{id:0,lvl:4}]}
+        - ebroadcast &b%player% &avient de gagner &6&lX1 CASQUE EN COBALT P4 &adans la caisse &bSOFT
+        amount: 1
+      '4':
+        enchanted: true
+        material: 451
+        name: '&6 Plastron en Cobalt'
+        chance: 8
+        commands:
+        - give %player% 531 1 0 {ench:[{id:0,lvl:4}]}
+        - ebroadcast &b%player% &avient de gagner &6&lX1 PLASTRON EN COBALT P4 &adans la caisse &bSOFT
+        amount: 1
+      '5':
+        enchanted: true
+        material: 452
+        chance: 8
+        name: '&6 Pantalon en Cobalt'
+        commands:
+        - give %player% 452 1 0 {ench:[{id:0,lvl:4}]}
+        - ebroadcast &b%player% &avient de gagner &6&lX1 PANTALON EN COBALT P4 &adans la caisse &bSOFT
+        amount: 1
+      '6':
+        enchanted: true
+        material: 453
+        name: '&6 Bottes en Cobalt'
+        chance: 8
+        commands:
+        - give %player% 453 1 0 {ench:[{id:0,lvl:4}]}
+        - ebroadcast &b%player% &avient de gagner &6&lX1 BOTTES EN COBALT P4 &adans la caisse &bSOFT
+        amount: 1
+      '7':
+        enchanted: false
+        material: DYNAMITE_BALL
+        name: '&6 Dynamite'
+        chance: 3
+        commands:
+        - give %player% DYNAMITE_BALL 1
+        - msg %player% &cBravo a toi tu as gagner un ITEM RARE.
+        - ebroadcast &3&l&k!!! &b%player% &avient de gagner &6&lX1 DYNAMITE &adans la caisse &bSOFT &3&l&k!!!
+        amount: 1
+      '8':
+        enchanted: false
+        material: APPLEHAST
+        name: '&6 Pomme de haste'
+        chance: 8
+        commands:
+        - give %player% 611:1 3
+        - ebroadcast &b%player% &avient de gagner &6&lX3 POMMES DE HASTES &adans la caisse &bSOFT
+        amount: 1
+      '9':
+        enchanted: false
+        material: OCTORITE
+        name: '&6 Octorite'
+        chance: 4
+        commands:
+        - give %player% 499 3
+        - ebroadcast &b%player% &avient de gagner &6&lX3 OCTORITE &adans la caisse &bSOFT
+        amount: 1
+      '10':
+        enchanted: false
+        material: ENDERPEARL
+        name: '&6 Enderpearl'
+        chance: 15
+        commands:
+        - give %player% 368 12
+        - ebroadcast &b%player% &avient de gagner &6&lX12 ENDERPEARLS &adans la caisse &bSOFT
+        amount: 1
+      '11':
+        enchanted: false
+        material: OBSIDIAN
+        name: '&6 Obsidian'
+        chance: 10
+        commands:
+        - give %player% 49 64
+        - ebroadcast &b%player% &avient de gagner &6&lX64 OBSIDIANS &adans la caisse &bSOFT
+        amount: 1
+      '12':
+        enchanted: true
+        material: TRIPWIRE_HOOK
+        name: '&91 Clefs de la caisse Soft'
+        chance: 3
+        commands:
+        - crate gk %player% OctoSoft 1
+        - ebroadcast &b%player% &avient de gagner &6&lX1 CLEF OCTOSOFT &adans la caisse &bSOFT
+        amount: 1
+  OctoMedium:
+    ParticleEffect:
+      enabled: true
+      onlywhenopening: false
+      particle: flame
+    Key:
+      material: TRIPWIRE_HOOK
+      name: '&4&l[&3Clef de caisse OctoMedium&4&l]'
+      enchanted: true
+      lore:
+      - '&7&aCette clef est utilisee pour ouvrir les caisses medium !'
+    Sound:
+      movingSound: WOOD_CLICK
+      prizeSound: BAT_TAKEOFF
+      closeInventorySound: CHEST_CLOSE
+    LeftClickInv:
+      enablechancelore: true
+      lore:
+      - '&7Chance: &a&l%chance%%'
+      name: '&cOctoMedium'
+      enabled: true
+    OpenInv:
+      name: '&b&k! &aBonne chance ! &b&k!'
+    PrizeItem:
+      material: LEVER
+      name: '&aPrix'
+      enchanted: false
+    PreCommands:
+    - msg:%prefix% Bonne chance a toi pour avoir un super objet !
+    BlockType: CHEST
+    Items:
+      '1':
+        enchanted: false
+        material: DYNAMITE_BALL
+        name: '&6 Dynamite'
+        chance: 3
+        commands:
+        - give %player% 801 1
+        - msg %player% &cBravo a toi tu as gagné un item RARE !
+        - ebroadcast &3&l&k!!! &b%player% &avient de gagner &6&lX1 DYNAMITE &adans la caisse &bMEDIUM &3&l&k!!!
+        amount: 1
+      '2':
+        enchanted: true
+        material: 554
+        name: "&9Epée en Octorite Sharp IV"
+        chance: 6
+        commands:
+        - give %player% 554 1 0 {ench:[{id:16,lvl:4}]}
+        - broadcast &b%player% &avient de gagner &6&lX1 EPEE EN OCTORIE T4 &adans la caisse &bMEDIUM
+        amount: 1
+      '3':
+        enchanted: false
+        material: OBSIDIAN
+        name: '&996 Obisian'
+        chance: 10
+        commands:
+        - give %player% 49 128
+        - broadcast &b%player% &avient de gagner &6&lX2 STACKS D'OBSIDIAN &adans la caisse &bMEDIUM
+        amount: 1
+      '4':
+        enchanted: false
+        material: 493
+        name: '&9ARC POWER 5 REDORITE'
+        chance: 3
+        commands:
+        - give %player% 493 1 {ench:[{id:48,lvl:5}]}
+        - broadcast &b%player% &avient de gagner &6&lX1 ARC POWER POWER5 &adans la caisse &bMEDIUM
+        amount: 1
+      '5':
+        enchanted: true
+        material: 487
+        name: '&9Pioche en Redorite E5 U3'
+        chance: 5
+        commands:
+        - give %player% 487 1 0 {ench:[{id:32,lvl:5}, {id:34,lvl:3}]}
+        - broadcast &b%player% &avient de gagner &6&lX1 PIOCHE EN REDORITE E5+U3 &adans la caisse &bMEDIUM
+        amount: 1
+      '6':
+        enchanted: false
+        material: 499
+        name: '&95 Minerais de Octorite'
+        chance: 4
+        commands:
+        - give %player% 499 5
+        - broadcast &b%player% &avient de gagner &6&lX5 MINERAIS D'OCTORITE &adans la caisse &bMEDIUM
+        amount: 1
+      '7':
+        enchanted: false
+        material: 498
+        name: '&910 Minerais de REDORITE'
+        chance: 9
+        commands:
+        - give %player% 498 10
+        - broadcast &b%player% &avient de gagner &6&lX10 MINERAIS DE REDORITE &adans la caisse &bMEDIUM
+        amount: 1
+      '8':
+        enchanted: true
+        material: GOLDEN_APPLE:1
+        name: '&92 Pomme Cheat'
+        chance: 6
+        commands:
+        - give %player% 322:1 2
+        - broadcast &b%player% &avient de gagner &6&lX2GOLDEN APPLES &adans la caisse &bMEDIUM
+        amount: 1
+      '9':
+        enchanted: true
+        material: TRIPWIRE_HOOK
+        name: '&91 Clef de la caisse OctoMedium'
+        chance: 10
+        commands:
+        - crate gk %player% OctoMedium 1
+        - broadcast &b%player% &avient de gagner &6&lX1 CLEF MEDIUM &adans la caisse &bMEDIUM
+        amount: 1

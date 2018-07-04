@@ -1,0 +1,47 @@
+timestamps:
+  login: 1457289822319
+  kits:
+    bouffe: 1457288939276
+    octonien: 1457278082029
+    chevalier: 1457276617109
+    decouverte: 1457277916534
+    golden: 1457277903226
+  logout: 1457290813501
+  lastteleport: 1457290745894
+  lastheal: 1457289602202
+  mute: 0
+ipAddress: 31.32.72.24
+lastlocation:
+  world: world
+  x: 42.61926141148125
+  y: 188.0
+  z: -3.40987994629871
+  yaw: -108.85327
+  pitch: 45.597816
+logoutlocation:
+  world: world
+  x: -125.32647012615803
+  y: 71.0
+  z: 272.79060107774495
+  yaw: -48.833275
+  pitch: 23.85
+homes:
+  home:
+    world: world
+    x: 4453.447509934101
+    y: 3.0
+    z: -3959.4946707346885
+    yaw: 358.6719
+    pitch: 39.44999
+money: '2406.55'
+uuid: afdc3894-9272-368f-a977-2cd79ca90e1a
+ignore:
+- dragon_pvp
+- funmat74
+- bracos80
+- harrythecrafty
+- crazyofpvp
+- skylax
+- skyskil
+- beuster403
+muted: false

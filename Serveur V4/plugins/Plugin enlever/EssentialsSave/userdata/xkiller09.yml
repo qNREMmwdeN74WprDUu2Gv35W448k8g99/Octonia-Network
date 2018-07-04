@@ -1,0 +1,42 @@
+uuid: e4dbe167-8648-308f-8683-7357cdc4ccc6
+timestamps:
+  login: 1456522278214
+  kits:
+    bouffe: 1456521697551
+    octonien: 1456521688473
+    druide: 1456422661977
+    xp: 1456520915303
+    decouverte: 1456262224653
+  lastteleport: 1456526457052
+  logout: 1456526689311
+  lastheal: 1456526323826
+ipAddress: 207.134.177.106
+lastlocation:
+  world: world
+  x: -5126.699999988079
+  y: 2.875
+  z: -747.6235366422808
+  yaw: 91.91233
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: -5113.685772084557
+  y: 10.0
+  z: -748.6595793462484
+  yaw: 38.754944
+  pitch: 27.418442
+homes:
+  home:
+    world: world
+    x: -5115.237500011921
+    y: 10.0
+    z: -745.9384783958595
+    yaw: 237.10147
+    pitch: 6.7631598
+ignore:
+- panda_darklein
+- linklecoockie
+money: '17408.0'
+ban:
+  reason: 'Banni : Le marteau du bannissement a frappé !'
+  timeout: 0

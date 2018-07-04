@@ -1,0 +1,45 @@
+socialspy: false
+timestamps:
+  login: 1457209358586
+  kits:
+    bouffe: 1455891514656
+    octonien: 1455891085620
+    chevalier: 1455890975256
+    alchimiste: 1455811979269
+  lastteleport: 1455901374329
+  logout: 1457209440535
+  lastheal: 1455900949203
+ipAddress: 89.156.82.213
+lastlocation:
+  world: world
+  x: 5501.6268125984925
+  y: 5.0
+  z: 3715.595961096993
+  yaw: -89.535645
+  pitch: 22.499996
+logoutlocation:
+  world: world
+  x: -5236.699999988079
+  y: 38.0
+  z: 7890.93632178289
+  yaw: 359.1867
+  pitch: -4.949998
+money: '63.0'
+homes:
+  bp:
+    world: world
+    x: -5245.230532411989
+    y: 20.0
+    z: 7897.699999988079
+    yaw: 193.2866
+    pitch: 25.200005
+  farm:
+    world: world
+    x: 5817.78274032295
+    y: 10.0
+    z: 3001.8105734270325
+    yaw: -256.0418
+    pitch: 11.400003
+ignore:
+- khadgar
+uuid: 97980694-2fb2-39f7-aba9-114c4e3aba9c

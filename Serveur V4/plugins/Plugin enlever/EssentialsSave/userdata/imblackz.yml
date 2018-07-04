@@ -1,0 +1,65 @@
+socialspy: false
+timestamps:
+  login: 1457295195051
+  kits:
+    bouffe: 1457295589781
+    octonien: 1457283077319
+    druide: 1457295621920
+    chevalier: 1457295391299
+    decouverte: 1457295607220
+    construction: 1457295506701
+    golden: 1457295598713
+    alchimiste: 1457295412961
+  lastteleport: 1457297698527
+  logout: 1457297844628
+  lastheal: 1457297658340
+  mute: 0
+ipAddress: 149.154.238.252
+lastlocation:
+  world: world
+  x: 6768.153364766668
+  y: 13.0
+  z: -1774.5273645829243
+  yaw: 59.95575
+  pitch: 4.2421937
+ignore:
+- lobbygameur56
+homes:
+  new:
+    world: world
+    x: -6176.357208367441
+    y: 72.0
+    z: -5788.216870761089
+    yaw: -59.086914
+    pitch: 21.218985
+  lezon:
+    world: world
+    x: -6302.300000011921
+    y: 57.0
+    z: -5121.699999988079
+    yaw: 24.594727
+    pitch: 67.92414
+  bp:
+    world: world
+    x: -6311.929483333449
+    y: 58.0
+    z: -5112.49701402363
+    yaw: -269.91742
+    pitch: 37.76355
+  farm:
+    world: world
+    x: 6766.3326456414425
+    y: 13.0
+    z: -1771.5379620269068
+    yaw: -198.15645
+    pitch: 18.502842
+logoutlocation:
+  world: world
+  x: -6311.904961120919
+  y: 58.5
+  z: -5111.13420810452
+  yaw: -229.56885
+  pitch: 32.330933
+uuid: 61d52626-57a3-3319-855b-84fd15544d2a
+money: '12108.0'
+muted: false

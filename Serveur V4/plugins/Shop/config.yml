@@ -1,0 +1,66 @@
+
+# =================================================================== #
+#                      ECONOMY AND CURRENCY                           #
+# =================================================================== #
+
+# If you want to use virtual money, install the plugin Vault and set this to true #
+# Otherwise, shops will use physical items as the economy on the server #
+useVault: true
+
+# If useVault is set to true, this is the currency symbol that is displayed #
+vaultCurrencyName: "$"
+# If useVault is set to false, this is the name name that is displayed #
+# TO CHANGE THE ACTUAL ITEM THAT IS USED, RUN THE COMMAND '/SHOP CURRENCY' IN-GAME #
+itemCurrencyName: "Emerald(s)"
+
+# This is the format that the currency will be displayed as on signs and in chat #
+currencyFormat: "[price] [name]"
+
+# These allow you to charge money to players for creating/destroying their shops #
+creationCost: 0
+destructionCost: 0
+
+
+# =================================================================== #
+#                         GENERAL SETTINGS                            #
+# =================================================================== #
+
+# If you want to use permissions with Shop, you must set this to true #
+usePermissions: false
+
+# If you do not basic anonymous server information to be logged, set this to false #
+enableMetrics: true
+
+# THE CURRENT GUI IS EXPERIMENTAL. IF ENOUGH PEOPLE LIKE IT, I WILL EXPAND THE FEATURES #
+# This enables a graphical user interface to use all shop features without typing commands #
+enableGUI: false
+
+# Setting this to true will force all Shops to be created in WorldGuard regions with a shop flag #
+# WorldGuard plugin must be installed for this feature to work #
+hookWorldGuard: false
+
+# This is the command alias that will be used as the base for all shop commands #
+commandAlias: shop
+
+# This will change the types of displays that shops will use above their chests #
+# The options are: NONE, ITEM, GLASS_CASE, LARGE_ITEM #
+displayType: ITEM
+
+# This will make it so shops will only complete transactions if the item durabilities are the same #
+checkItemDurability: true
+
+# This will allow players to use the limited creative selection tool to choose shop items #
+allowCreativeSelection: true
+
+# These will play sounds and particle effects when creating and using shops #
+# These will need to be set to false if your server is running anything less than Minecraft 1.9 #
+playSounds: true
+playEffects: true
+
+# This controls whether or not ender chests are able to be used as shops on the server #
+enableEnderChests: false
+
+# Add the names of worlds that you do not want shops to be able to be created in here #
+worldBlacklist:
+   example_world: true
+   example2_world: true

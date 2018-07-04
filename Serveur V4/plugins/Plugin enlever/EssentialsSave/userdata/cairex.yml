@@ -1,0 +1,41 @@
+timestamps:
+  login: 1457263908665
+  kits:
+    bouffe: 1456138090290
+    octonien: 1456644353495
+  logout: 1457264431807
+  lastteleport: 1457264203255
+  lastheal: 1457264246778
+  mute: 0
+ipAddress: 88.178.122.86
+lastlocation:
+  world: world
+  x: 1617.699999988079
+  y: 4.0
+  z: -9681.699999988079
+  yaw: -306.87357
+  pitch: -42.899994
+logoutlocation:
+  world: world
+  x: -1.644651824210113
+  y: 190.5
+  z: -0.7159773441128269
+  yaw: -97.90106
+  pitch: -24.45001
+money: '2908.25'
+homes:
+  home:
+    world: world
+    x: 1624.9563731437665
+    y: 49.0
+    z: -9686.300000011921
+    yaw: 156.7765
+    pitch: 14.249938
+ignore:
+- greezlzy
+- greg22
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
+muted: false
+uuid: bf8271a3-31be-3d4c-95cb-c9dd2e79c632

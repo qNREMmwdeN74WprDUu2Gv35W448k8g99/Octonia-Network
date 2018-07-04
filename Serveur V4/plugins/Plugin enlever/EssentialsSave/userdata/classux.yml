@@ -1,0 +1,38 @@
+uuid: 6bb81d8d-0bad-327a-a9ba-ec8efe56f4d9
+timestamps:
+  login: 1457172271278
+  kits:
+    bouffe: 1457172804981
+    octonien: 1457172802674
+    decouverte: 1457172542941
+  lastteleport: 1457173871663
+  logout: 1457173876488
+  mute: 0
+ipAddress: 90.54.58.137
+lastlocation:
+  world: world
+  x: -2951.5
+  y: 6.0
+  z: 326.5
+  yaw: 42.421722
+  pitch: 37.396645
+homes:
+  home:
+    world: world
+    x: -2951.6366558451627
+    y: 5.0
+    z: 326.5699010263303
+    yaw: 90.36275
+    pitch: 12.389857
+logoutlocation:
+  world: world
+  x: -5.52923504176633
+  y: 139.15736645480595
+  z: 1.7439438688092705
+  yaw: -336.1503
+  pitch: 78.15867
+muted: false
+money: '1013.40'
+ban:
+  reason: 'Banni : Insulte'
+  timeout: 0

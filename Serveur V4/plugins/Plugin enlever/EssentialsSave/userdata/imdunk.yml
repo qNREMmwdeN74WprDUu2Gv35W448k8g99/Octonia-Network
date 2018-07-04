@@ -1,0 +1,51 @@
+uuid: 13b29007-7cbe-3e24-9703-dbabadaf3ad9
+timestamps:
+  login: 1457282634119
+  kits:
+    bouffe: 1457126151774
+    heros: 1457197679648
+    octonien: 1456511691047
+    chevalier: 1456511010676
+  lastteleport: 1457280741476
+  logout: 1457283664412
+  lastheal: 1457283309033
+ipAddress: 78.194.114.94
+lastlocation:
+  world: world
+  x: -4699.674808606004
+  y: 63.0
+  z: 1920.552458791148
+  yaw: -351.98218
+  pitch: 0.85646117
+logoutlocation:
+  world: world
+  x: -4675.511298146159
+  y: 64.0
+  z: 1969.3158175221095
+  yaw: 12.513031
+  pitch: 42.282463
+homes:
+  sky:
+    world: world
+    x: -2111.6296671427367
+    y: 254.875
+    z: 3678.4677666107204
+    yaw: -0.7834703
+    pitch: 42.791885
+  concour:
+    world: world
+    x: -4670.761449916702
+    y: 67.0
+    z: 1968.2808858057533
+    yaw: 29.572878
+    pitch: 20.237816
+  concours:
+    world: world
+    x: -4684.792060400947
+    y: 64.0
+    z: 1963.6472700735117
+    yaw: -15.035845
+    pitch: 17.173643
+money: '91.0'
+ignore:
+- natsu51

@@ -1,0 +1,73 @@
+uuid: f3df3b3a-9e43-32de-aeac-da6e4a9b5996
+timestamps:
+  login: 1457091909623
+  kits:
+    bouffe: 1457092377297
+    heros: 1456702210623
+    octonien: 1456683083066
+    chevalier: 1456683108809
+    decouverte: 1456763745101
+    legendaire: 1457092328350
+  lastteleport: 1457092030016
+  logout: 1457092670298
+  lastheal: 1456659615832
+  jail: 0
+ipAddress: 92.145.31.49
+lastlocation:
+  world: world
+  x: 2743.699999988079
+  y: 94.0
+  z: 3133.699999988079
+  yaw: 135.43852
+  pitch: 52.349968
+logoutlocation:
+  world: world
+  x: -344.17126178773145
+  y: 6.0
+  z: 5948.820101776484
+  yaw: 310.67676
+  pitch: 29.249998
+homes:
+  home:
+    world: world
+    x: -3019.691671453768
+    y: 232.0
+    z: 8859.412101322752
+    yaw: -345.39532
+    pitch: 90.0
+  sky:
+    world: world
+    x: 4166.243949959109
+    y: 240.0
+    z: 4500.774776124745
+    yaw: -166.23653
+    pitch: 52.649986
+  black:
+    world: world
+    x: -3031.615120879185
+    y: 23.0
+    z: 8871.461264237503
+    yaw: -296.44675
+    pitch: 86.85
+  raid:
+    world: world
+    x: 3505.279321608372
+    y: 64.0
+    z: 4332.6285078478895
+    yaw: 141.1992
+    pitch: -27.634815
+  xd:
+    world: world
+    x: -351.69999998807907
+    y: 6.0
+    z: 5936.300000011921
+    yaw: 91.35712
+    pitch: -14.999983
+money: '2118.0'
+ignore:
+- popodu59790
+- kill132
+- megapatate
+- skiiwy
+- skiams
+jailed: false

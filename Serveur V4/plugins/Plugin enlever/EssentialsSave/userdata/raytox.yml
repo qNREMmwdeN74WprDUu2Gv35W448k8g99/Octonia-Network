@@ -1,0 +1,72 @@
+timestamps:
+  login: 1457033789991
+  kits:
+    heros: 1457035272050
+    bouffe: 1456256558160
+    octonien: 1456169794652
+    druide: 1456173095863
+    chevalier: 1456258705718
+    decouverte: 1456256579075
+    xp: 1456179443478
+    legendaire: 1457034372209
+  lastteleport: 1457035339175
+  logout: 1456336778610
+  lastheal: 1457034774145
+  mute: 0
+ipAddress: 88.174.201.210
+lastlocation:
+  world: world
+  x: 8497.381573799881
+  y: 63.0
+  z: 3454.9986155768856
+  yaw: 21.915672
+  pitch: 0.33637774
+homes:
+  home:
+    world: world
+    x: -1718.3925898077316
+    y: 253.875
+    z: 3820.546359532676
+    yaw: 265.3772
+    pitch: 46.207325
+  bludream:
+    world: world
+    x: -275.8815866452736
+    y: 6.0
+    z: 7.942043581606262
+    yaw: -29.163536
+    pitch: 19.61541
+  farm:
+    world: world
+    x: 5203.122436331979
+    y: 14.0
+    z: 2001.2329655723377
+    yaw: 89.00916
+    pitch: 23.834806
+  danao:
+    world: world
+    x: -974.0358932296431
+    y: 73.0
+    z: -8185.708415400302
+    yaw: -175.42401
+    pitch: 13.867795
+  pillage:
+    world: world
+    x: 1891.0500061998302
+    y: 46.0
+    z: -3547.7065965903457
+    yaw: 71.91263
+    pitch: 10.895106
+logoutlocation:
+  world: world
+  x: 0.7221834688525435
+  y: 189.0
+  z: -5.673800973060502
+  yaw: 15.080728
+  pitch: 31.63537
+money: '14770.0'
+uuid: f9d3359d-b39c-38ed-af67-e4dc1dba7eeb
+muted: false
+ban:
+  reason: Banni temporairement du serveur pour 1 seconde.
+  timeout: 0
